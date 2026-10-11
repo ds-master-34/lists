@@ -1685,27 +1685,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "216681",
-    "tmdbId": 216681,
-    "imdbId": "tt10366552",
-    "type": "tv",
-    "title": "Boom! Boom! The World vs Boris Becker",
-    "overview": "An inside look at the controversial life and career of tennis great Boris Becker—featuring interviews with John McEnroe, Novak Djokovic, Björn Borg, and other icons.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kCqGNFllZakJsdepvHMqxbD3LkW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rWsaP6gaMfsI7kVfkMjtDmEHPp4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yC80imON7px4FLa5oNm3bxlwlj6.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 113,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "194704",
     "tmdbId": 194704,
     "imdbId": "tt14761860",
