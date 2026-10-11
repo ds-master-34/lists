@@ -571,6 +571,28 @@
     "originalLanguage": "de"
   },
   {
+    "id": "330302",
+    "tmdbId": 330302,
+    "imdbId": "tt44600168",
+    "type": "tv",
+    "title": "Cathedrals",
+    "overview": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
+    "year": "2026",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z2OduIBEkvKi0KjeA277dkqe3Dp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "MX",
+      "US"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "318312",
     "tmdbId": 318312,
     "imdbId": "tt37332908",
@@ -1722,6 +1744,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 45,
     "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "313808",
+    "tmdbId": 313808,
+    "imdbId": "tt39399104",
+    "type": "tv",
+    "title": "The Real Wolf of Wall Street",
+    "overview": "A three-part docuseries, revealing the true story of Jordan Belfort and his boiler room brokers at Stratton Oakmont, which is even darker and more debauched than previously known.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9xuzQwRAqIpMGi4404BjYjjhxAn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oQdkBoIjjHAtBF2YU1u4FlNcUnK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kRFbMMMFnK5vfdFfAhCKL5ZkeXg.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
     "originCountries": [
       "US"
@@ -4163,48 +4206,6 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "289424",
-    "tmdbId": 289424,
-    "imdbId": "tt36732944",
-    "type": "tv",
-    "title": "We Are All Trying Here",
-    "overview": "An aspiring director hits rock bottom after 20 years chasing his debut — until he meets an overwhelmed producer who helps him rediscover his self-worth.",
-    "year": "2026",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nfCOKDJHo3yOtiPP37LBcelrYs2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8ivvIzb7zE8DSCV8bAORR7nmazR.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "314784",
-    "tmdbId": 314784,
-    "imdbId": "tt41090249",
-    "type": "tv",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "year": "2026",
-    "rating": 8.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jHWTQk7okdJ2hIhqlKItPwPxxv4.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
