@@ -8376,5 +8376,26 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "18618",
+    "tmdbId": 18618,
+    "imdbId": "tt3444304",
+    "type": "tv",
+    "title": "Family Outing",
+    "overview": "Family Outing Season 1 was a South Korean variety show; a part of SBS's Good Sunday lineup, along with Gold Miss is Coming. It was first aired on June 15, 2008, and was one of the top rated programs on Sunday Korean television. In each episode, the \"Family\" travels to different parts of South Korea and takes care of the house of an elderly family while that family goes on a vacation. The \"Family\" then accomplishes the tasks left for them by the house's owners. The first season ended on February 14, 2010, and a second season featuring a brand new cast, production team, and concept, aired until July 11, 2010.",
+    "year": "2008",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xeRfAINpyyFp4A0NbKInfcbrrBe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dd4hzWB9uhxa3fgsznIIzQ54Wsj.jpg",
+    "logoUrl": null,
+    "certificate": "12",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Reality",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   }
 ]
