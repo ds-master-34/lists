@@ -5733,5 +5733,257 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "200707",
+    "tmdbId": 200707,
+    "imdbId": "tt29198828",
+    "type": "tv",
+    "title": "The Escape of the Seven",
+    "overview": "The mysterious disappearance of a girl brings together seven people from all different walks of life. They all have an intertwined connection to her disappearance in the most horrific, unfathomable, and despicable way. As money drives them to their greed, lies, and delirium, they face divine retribution as they struggle for their lives in a picturesque revenge. How far will they go to claim their innocence, and will anyone make it out alive?",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gVx3QEJ7ShVXdJJdWIYmTgwplXi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6ohqTb4r9AdW5hRD6r5Aa7W3Ddq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uDJ0pFnszBo1DMSxCGN8H52QBkl.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "216292",
+    "tmdbId": 216292,
+    "imdbId": "tt30485422",
+    "type": "tv",
+    "title": "Chief Detective 1958",
+    "overview": "In an era of violence and corruption, Park Yeong-han, a humble detective, joins forces with Sang-sun, Gyeong-hwan and Ho-jeong to uphold justice.",
+    "year": "2024",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3iJPQbGF9MzZQXb5HiUZP43LPz8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/teJVPef30lrI3zzC96BPoTYkwMo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/isTgGn1Wv4Bdqzm0fGIJyjLpx9N.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "156484",
+    "tmdbId": 156484,
+    "imdbId": "tt30423279",
+    "type": "tv",
+    "title": "The 8 Show",
+    "overview": "Eight individuals trapped in a mysterious 8-story building participate in a tempting but dangerous show where they earn money as time passes.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/umBNBnKThMmF1QQZixZ7rsYOowq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cjWtOw2fQvL0g8oiAhdfPvdsG6a.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "251779",
+    "tmdbId": 251779,
+    "imdbId": "tt32274191",
+    "type": "tv",
+    "title": "BEGINS ≠ YOUTH",
+    "overview": "The drama follows the lives of seven boys navigating their school years and personal growth, each grappling with family obligations, loss, poverty, abandonment, violence, and rejection.",
+    "year": "2024",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nM1Yvd9UEZjLOaES1iI542JhUjM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yZKLF6rcCtIKY3CwACMruG5GLAB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1FYD3Mo2L23G6I3bvhIHCKpoDia.svg",
+    "certificate": "15",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "209750",
+    "tmdbId": 209750,
+    "imdbId": "tt27789542",
+    "type": "tv",
+    "title": "Blood Free",
+    "overview": "After diving down a rabbit hole of tangled leads, a former bodyguard finds himself recruited to protect the CEO of a controversial lab-grown meat company who is also a survivor of the fateful attack that changed his life.",
+    "year": "2024",
+    "rating": 6.662,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gxd86XTik9QfPLXxbMiMdsg407V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nDphlckJoHxkEoxFPillTrdNC3M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j46rUV1e1DWYdXj5BkhDaZJCEAL.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "231268",
+    "tmdbId": 231268,
+    "imdbId": "tt29845974",
+    "type": "tv",
+    "title": "Nothing Uncovered",
+    "overview": "A melodramatic chase thriller that tells the story of special reporter Seo Jeong-won and detective Kim Tae-heon tracking down a murder case.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aW9FeOvTmmg0y53El7nxZojZlWy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zvkf8VbpwgutIzoaAFFoJhvzD8d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aMVqcg7Muo956duPjxgSfyGKr36.png",
+    "certificate": "15",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "223890",
+    "tmdbId": 223890,
+    "imdbId": "tt31261522",
+    "type": "tv",
+    "title": "The Midnight Studio",
+    "overview": "Seo Gi-joo, a lonely photographer who is bound by a contract to take pictures of the dead for generations in his family, meets Han Bom, a woman who protects him from death, and realizes the preciousness of life as he faces life and death together.",
+    "year": "2024",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/85HMEgPh6pkmoXXsAIaCBDj2Ybu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mnfr4Kdr96kaWPkHRI3cZPZE51T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ryapbmwVS4ctwcnt3XRl1Sq7Jbk.png",
+    "certificate": "15",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "233090",
+    "tmdbId": 233090,
+    "imdbId": "tt26491632",
+    "type": "tv",
+    "title": "The Third Marriage",
+    "overview": "Love and marriage bloom in a game of truth with a woman who lives a fake life and a woman who tries to reveal it.",
+    "year": "2023",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mRP8Ehrfe1X2eoOBxK24ZGQv4gn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vqlsnDsDb2izWcMNLXRyuU81CEm.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "262440",
+    "tmdbId": 262440,
+    "imdbId": "tt33255209",
+    "type": "tv",
+    "title": "I Hate School, But I Want to Go on a School Trip",
+    "overview": "The complicated and subtle emotions that adolescent girls experience. Bom and Dime have been best friends since middle school, but Dime drops out, and Bom, who is left alone, is bullied at school. On the day of Bom's high school field trip, Dime secretly wears her school uniform and goes to the field trip location for Bom... What on earth happened to you while I was away..?",
+    "year": "2024",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/s6UTmruHUiQN6I29nMyjvtHoHJp.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "215720",
+    "tmdbId": 215720,
+    "imdbId": "tt27668559",
+    "type": "tv",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "year": "2024",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rtYUutWaNOO0IfWQWhegTUw0ERo.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "214993",
+    "tmdbId": 214993,
+    "imdbId": "tt31188691",
+    "type": "tv",
+    "title": "HIDE",
+    "overview": "The story of a woman who, after her husband disappears one day, tracks down the secret behind his disappearance and encounters a large truth that is too much to handle.",
+    "year": "2024",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fS8J5HuAl3klHIZ02zan6i04pWv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jcyPbceiI59LX7JHKR7NnR6EYw1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qcuWS6YrD0QFNjtv5seyep0ZrKo.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "139547",
+    "tmdbId": 139547,
+    "imdbId": "tt17492848",
+    "type": "tv",
+    "title": "Goodbye Earth",
+    "overview": "As an asteroid hurtles towards Earth with nothing to stop it, one determined teacher fights to keep her former students safe — no matter the cost.",
+    "year": "2024",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/i1LvLQSKRoGlU5egMHagDtsZ4K1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uXlxoe3ef5h2SlDlnLCOkizXq0B.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5QXrbKNUM11IQClFiSQhN0IjbRe.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   }
 ]
