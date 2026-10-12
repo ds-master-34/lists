@@ -1,5 +1,26 @@
 [
   {
+    "id": "284833",
+    "tmdbId": 284833,
+    "imdbId": "tt35854736",
+    "type": "tv",
+    "title": "Avatar: Seven Havens",
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "year": "2026",
+    "rating": 8.911,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "285322",
     "tmdbId": 285322,
     "imdbId": "tt35934755",
@@ -18,6 +39,27 @@
     "originCountries": [
       "CA",
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "303630",
+    "tmdbId": 303630,
+    "imdbId": "tt33270224",
+    "type": "tv",
+    "title": "Cupertino",
+    "overview": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
+    "year": "2026",
+    "rating": 5.833,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/70AhJpOqU2oKyQF2paJA764CSje.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -608,6 +650,27 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Mystery",
     "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "334268",
+    "tmdbId": 334268,
+    "imdbId": "tt39319550",
+    "type": "tv",
+    "title": "Forever Home",
+    "overview": "Carol Crottie grows suspicious when her husband Robert, suffering from dementia, refuses to leave their home. She begins to question what really happened to his first wife Joan, who vanished with his brother two decades earlier.",
+    "year": "2026",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xWzyUs5Jh6BkUStQznWQTLMwaiq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ypYsKfZa5AsvDZrdh6v6Jxe5i4G.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "GB"
     ],
@@ -4147,68 +4210,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "247032",
-    "tmdbId": 247032,
-    "imdbId": "tt36363511",
-    "type": "tv",
-    "title": "Mint",
-    "overview": "Shannon is the only daughter of an infamous crime family that rules the region, a real-life princess who has never wanted for anything. But when she meets Arran, a member of a rival gang, their whirlwind romance begins to unravel the world she’s always known.",
-    "year": "2026",
-    "rating": 3.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4hTvAymL8MBcUXnmydtxNNKMbdm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/akiUJurPBg7Ff6bM1drFrC86qLG.png",
-    "certificate": "",
-    "runTimeMinutes": 28,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "255760",
-    "tmdbId": 255760,
-    "imdbId": "tt32499838",
-    "type": "tv",
-    "title": "Kevin",
-    "overview": "A life-long housecat decides that he doesn’t want to live with people anymore. Loosely inspired by a real break-up and the cat caught in the middle, Kevin dares to ask himself, \"Is there a world where I don’t do the owner thing and am just… single for the rest of my life?\"",
-    "year": "2026",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ryvkioE754XooFO16s9SZyHZulu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uTjjlqLdhRppddN4eCjMZlp387z.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6C3FgDUaoUTwQNCUxZ5wn42Um5a.png",
-    "certificate": "M18",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
-    "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]
