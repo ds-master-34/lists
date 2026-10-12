@@ -2651,6 +2651,27 @@
     "originalLanguage": "tl"
   },
   {
+    "id": "1536232",
+    "tmdbId": 1536232,
+    "imdbId": "tt38779530",
+    "type": "movie",
+    "title": "Manila's Finest",
+    "overview": "Set during the first quarter storm in the 1970s, policemen Homer, Conrad, and Billy are consumed by the murder case of troublemaking teenagers in the slums.",
+    "year": "2025",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/osc21A1GwgrBm6aXomvSdgkPFsg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/12zO6K0EAQfpLPyb9K9M1d1vFJ3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/krL9VwTffrqiT3kXv5tZ8lzA2RH.png",
+    "certificate": "PG",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": "tl"
+  },
+  {
     "id": "1560148",
     "tmdbId": 1560148,
     "imdbId": "tt38779509",
@@ -4188,27 +4209,6 @@
     "secondaryGenre": "Thriller",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1325958",
-    "tmdbId": 1325958,
-    "imdbId": "tt33068674",
-    "type": "movie",
-    "title": "The Travellers",
-    "overview": "Stephen Seary, a stage designer, returns to Australia to visit his dying mother, but a quick trip descends into family tensions, past conflicts, and romantic complications, jeopardizing his return to Europe and the opera that awaits.",
-    "year": "2025",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4MFC7rOo9iBfLjjhDN6atNvorKm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3eztaNu9p3QvOvI7e5Dw8cQXqf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6dAN0TOFYxeIs2hbxBnjMBr6yCr.png",
-    "certificate": "15",
-    "runTimeMinutes": 97,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AU"
     ],
     "originalLanguage": "en"
   }
