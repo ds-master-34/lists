@@ -4003,27 +4003,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "12502",
-    "tmdbId": 12502,
-    "imdbId": "tt0352085",
-    "type": "tv",
-    "title": "Oobi",
-    "overview": "Oobi is a Parents' Choice Gold Award-winning television series on the Noggin channel. Oobi, a bare-hand puppet (with eyes and accessories) focuses on the stage in a young child’s life when everything in his or her world is new and incredible.\n\nOobi is a show about wonder. It speaks to the stage in a young child's life when everything is new and incredible: building a block tower, making cookies. Oobi is a show about children's first awkward attempts at mastery and meaning. It's a show about the everyday revelations.",
-    "year": "2000",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4oxnunT1lv62abqsbwOihK3Afv7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5RWxXz59AVXgZQ3uvK6pBtmOhgP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bU15okFXICBxGG7CEDAv0BHTw9H.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 9,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "2382",
     "tmdbId": 2382,
     "imdbId": "tt0193676",
@@ -4205,6 +4184,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/lrpVfzXjg46o9iS1AV0W316SAPC.png",
     "certificate": "TV-Y7",
     "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3579",
+    "tmdbId": 3579,
+    "imdbId": "tt0131664",
+    "type": "tv",
+    "title": "The Angry Beavers",
+    "overview": "Daggett and Norbert Beaver are two young beaver brothers who have left their home to become bachelors in the forest near Wayouttatown, Oregon.",
+    "year": "1997",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9KYUA9tZrVNVXk2LTaYNMqGpHUj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ta4Py9F1nHmttpAYEg4vB8wN08z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zC4STDgPji4xkQeYdm88NhN6Esg.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 10,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
     "originCountries": [
