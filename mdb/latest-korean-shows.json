@@ -1,5 +1,26 @@
 [
   {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "316197",
     "tmdbId": 316197,
     "imdbId": "tt43088191",
@@ -105,48 +126,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "289423",
-    "tmdbId": 289423,
-    "imdbId": "tt37737331",
-    "type": "tv",
-    "title": "Take Charge of My Heart",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "year": "2026",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
-    "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
-    "year": "2026",
-    "rating": 10,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "326991",
     "tmdbId": 326991,
     "imdbId": "tt44093541",
@@ -162,6 +141,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "289423",
+    "tmdbId": 289423,
+    "imdbId": "tt37737331",
+    "type": "tv",
+    "title": "Take Charge of My Heart",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3404,6 +3404,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "297846",
+    "tmdbId": 297846,
+    "imdbId": "tt38125175",
+    "type": "tv",
+    "title": "First Love",
+    "overview": "Music drama series that focuses on six different love stories about the innocence of teen love. Every love story is unique and powerful, packed with scenes that will give you butterflies. Feel the nervousness and the excitement as these young boys and girls fall into each other.",
+    "year": "2025",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gOB4tji3xIWRrLjo8DKQSGB9cNt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cCDukisadpwE35hYJjGLlS0Adpe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rJ2F6737p2Lb0XOOTcLVgHjngxt.png",
+    "certificate": "",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "235355",
     "tmdbId": 235355,
     "imdbId": "tt31171500",
@@ -6575,27 +6596,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "218539",
-    "tmdbId": 218539,
-    "imdbId": "tt29569035",
-    "type": "tv",
-    "title": "My Demon",
-    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
-    "year": "2023",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/h157HVgveWHhNfrJs1YQJYcc4ta.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "155040",
     "tmdbId": 155040,
     "imdbId": "tt30241060",
@@ -6611,6 +6611,27 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "218539",
+    "tmdbId": 218539,
+    "imdbId": "tt29569035",
+    "type": "tv",
+    "title": "My Demon",
+    "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+    "year": "2023",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eSB0fD6CbNW3LT8Z55V07fmYFpo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h157HVgveWHhNfrJs1YQJYcc4ta.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -7575,27 +7596,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/28etfPfvOQwAB0GAKeWz2J7d1Ct.png",
     "certificate": "12",
     "runTimeMinutes": 77,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "211261",
-    "tmdbId": 211261,
-    "imdbId": "tt23635250",
-    "type": "tv",
-    "title": "The First Responders",
-    "overview": "A police station and a fire station adjoining each other cooperate in combating crime and fire in the most brutal and tragic cases.",
-    "year": "2022",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ccEYx9NoZvDJRw8Ji2E7yJYLXwt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bnEDaINpzWGBsE8IjA3TsU4FWeJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hUnzgjLKWgqJvgI8sj7qHLlTpWx.png",
-    "certificate": "19",
-    "runTimeMinutes": 71,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
