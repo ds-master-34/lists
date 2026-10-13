@@ -4167,47 +4167,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "211261",
-    "tmdbId": 211261,
-    "imdbId": "tt23635250",
-    "type": "tv",
-    "title": "The First Responders",
-    "overview": "A police station and a fire station adjoining each other cooperate in combating crime and fire in the most brutal and tragic cases.",
-    "year": "2022",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ccEYx9NoZvDJRw8Ji2E7yJYLXwt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bnEDaINpzWGBsE8IjA3TsU4FWeJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hUnzgjLKWgqJvgI8sj7qHLlTpWx.png",
-    "certificate": "19",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "157664",
-    "tmdbId": 157664,
-    "imdbId": "tt15657742",
-    "type": "tv",
-    "title": "The Stolen Cup",
-    "overview": "After investing all his savings to travel with his son to the World Cup, Lucho is shocked when the Argentine team gets disqualified from the games. He and a flashy group of losers, decide to devise a plan to steal the World Cup trophy.",
-    "year": "2022",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7UN6avyL6oNy3HP5QdYtgRXeqgP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gco9GOAYLpTAVSahJnHELQ00D7V.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xGVveRhw8iY8sRRqUmIoFN3UgW0.png",
-    "certificate": "12",
-    "runTimeMinutes": 26,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
   }
 ]
