@@ -1,5 +1,26 @@
 [
   {
+    "id": "298852",
+    "tmdbId": 298852,
+    "imdbId": "tt37972251",
+    "type": "tv",
+    "title": "WAR",
+    "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+    "year": "2026",
+    "rating": 7.923,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "285418",
     "tmdbId": 285418,
     "imdbId": "tt35949226",
@@ -2189,6 +2210,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "204154",
+    "tmdbId": 204154,
+    "imdbId": "tt21056886",
+    "type": "tv",
+    "title": "Scavengers Reign",
+    "overview": "When a deep space freighter is damaged by a solar flare its surviving crew are stranded on a beautiful and unforgiving planet. They begin to learn the true nature of this planet as they try to survive long enough to escape or be rescued.",
+    "year": "2023",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rTViEeltl4rO974PmkUAdhQqW2R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zuyD19mCifHbdgApcdtzrXN5gV4.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "233600",
     "tmdbId": 233600,
     "imdbId": "tt28787850",
@@ -4161,47 +4203,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "131561",
-    "tmdbId": 131561,
-    "imdbId": "tt15286764",
-    "type": "tv",
-    "title": "The Way Down: God, Greed, and the Cult of Gwen Shamblin",
-    "overview": "Explore how the late Gwen Shamblin Lara, who founded the controversial Remnant Fellowship Church and created the Christian weight loss program The Weigh Down Workshop, rose to fame as a diet guru and church leader.",
-    "year": "2021",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uOr6OoVh9Q7REqLvD8ISy9mGLdj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f7ARZAnmTFfO3l2fMXpKFcCjG8q.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/znP76GvpyX3CE4l5HBzSVo05H7n.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 40,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "133423",
-    "tmdbId": 133423,
-    "imdbId": "tt15444212",
-    "type": "tv",
-    "title": "Rap Battlefield",
-    "overview": "León and Rafaela want to be a part of the competitive world of freestyling. Together, they will triumph over their competitors and overcome their own obstacles. Andy will help them navigate the social network world.",
-    "year": "2021",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fhct30O7WyOJVP77b0U4J7pvWPs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/th0aL1AEIk1JhfMYHaAjayeqGNp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wIOcdx6qoqz6kEBAsg4nIbp2XNq.png",
-    "certificate": "16",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
   }
 ]
