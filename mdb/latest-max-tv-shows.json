@@ -1663,27 +1663,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "259739",
-    "tmdbId": 259739,
-    "imdbId": "tt33035689",
-    "type": "tv",
-    "title": "Taken Together: Who Killed Lyric and Elizabeth?",
-    "overview": "Dives into the haunting 2012 double abduction of two cousins, 10-year-old Lyric Cook-Morrissey and 8-year-old Elizabeth Collins, in Evansdale, Iowa. With over seven years of exclusive access and insider interviews.",
-    "year": "2024",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/YFzYgd1i13RdPVH1TDsDPgy5jC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mUEZVH7sKLpHZn4O4vn1CdWhhUM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wm4UDqhusvfKkIAHdBETIGB8wL7.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "200753",
     "tmdbId": 200753,
     "imdbId": "tt19853518",
@@ -4203,5 +4182,26 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "133423",
+    "tmdbId": 133423,
+    "imdbId": "tt15444212",
+    "type": "tv",
+    "title": "Rap Battlefield",
+    "overview": "León and Rafaela want to be a part of the competitive world of freestyling. Together, they will triumph over their competitors and overcome their own obstacles. Andy will help them navigate the social network world.",
+    "year": "2021",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fhct30O7WyOJVP77b0U4J7pvWPs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/th0aL1AEIk1JhfMYHaAjayeqGNp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wIOcdx6qoqz6kEBAsg4nIbp2XNq.png",
+    "certificate": "16",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
   }
 ]
