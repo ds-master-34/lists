@@ -63,21 +63,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "96102",
-    "tmdbId": 96102,
-    "imdbId": "tt11769304",
+    "id": "276161",
+    "tmdbId": 276161,
+    "imdbId": "tt34809853",
     "type": "tv",
-    "title": "Hospital Playlist",
-    "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
-    "year": "2020",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl6scQy8Klx9MEXNCLE86vhs24U.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jWi6kxpHKwRhxeNPhMHDQQSecDm.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 122,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
+    "title": "Teach You a Lesson",
+    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+    "year": "2026",
+    "rating": 9.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -140,27 +140,6 @@
     "certificate": "TV-14",
     "runTimeMinutes": 74,
     "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 9.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -420,6 +399,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "96102",
+    "tmdbId": 96102,
+    "imdbId": "tt11769304",
+    "type": "tv",
+    "title": "Hospital Playlist",
+    "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
+    "year": "2020",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl6scQy8Klx9MEXNCLE86vhs24U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jWi6kxpHKwRhxeNPhMHDQQSecDm.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "108291",
     "tmdbId": 108291,
     "imdbId": "tt13304700",
@@ -588,6 +588,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "289424",
+    "tmdbId": 289424,
+    "imdbId": "tt36732944",
+    "type": "tv",
+    "title": "We Are All Trying Here",
+    "overview": "An aspiring director hits rock bottom after 20 years chasing his debut — until he meets an overwhelmed producer who helps him rediscover his self-worth.",
+    "year": "2026",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nfCOKDJHo3yOtiPP37LBcelrYs2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8ivvIzb7zE8DSCV8bAORR7nmazR.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "65143",
     "tmdbId": 65143,
     "imdbId": "tt4925000",
@@ -624,6 +645,27 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "96462",
+    "tmdbId": 96462,
+    "imdbId": "tt12451520",
+    "type": "tv",
+    "title": "It's Okay to Not Be Okay",
+    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+    "year": "2020",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/49xFFqq2lilJP2f5LHQlcJ8y96y.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -840,27 +882,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "289424",
-    "tmdbId": 289424,
-    "imdbId": "tt36732944",
-    "type": "tv",
-    "title": "We Are All Trying Here",
-    "overview": "An aspiring director hits rock bottom after 20 years chasing his debut — until he meets an overwhelmed producer who helps him rediscover his self-worth.",
-    "year": "2026",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nfCOKDJHo3yOtiPP37LBcelrYs2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8ivvIzb7zE8DSCV8bAORR7nmazR.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "99494",
     "tmdbId": 99494,
     "imdbId": "tt11691684",
@@ -897,27 +918,6 @@
     "runTimeMinutes": 53,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "96462",
-    "tmdbId": 96462,
-    "imdbId": "tt12451520",
-    "type": "tv",
-    "title": "It's Okay to Not Be Okay",
-    "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
-    "year": "2020",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/49xFFqq2lilJP2f5LHQlcJ8y96y.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1044,6 +1044,27 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "70649",
+    "tmdbId": 70649,
+    "imdbId": "tt6256484",
+    "type": "tv",
+    "title": "While You Were Sleeping",
+    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
+    "year": "2017",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uN1uvzg4ekww9TFIxfHMwBsQ0FA.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1428,27 +1449,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "70649",
-    "tmdbId": 70649,
-    "imdbId": "tt6256484",
-    "type": "tv",
-    "title": "While You Were Sleeping",
-    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
-    "year": "2017",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uN1uvzg4ekww9TFIxfHMwBsQ0FA.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 29,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "68398",
     "tmdbId": 68398,
     "imdbId": "tt6157190",
@@ -1743,27 +1743,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "96160",
-    "tmdbId": 96160,
-    "imdbId": "tt11058644",
-    "type": "tv",
-    "title": "My Holo Love",
-    "overview": "Unexpected love finds a lonely woman when she forms a connection with a humanlike hologram who looks exactly like his prickly creator.",
-    "year": "2020",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nLbKNyUKq6WMMoPuL712m43MVhc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x2qrI0gQ1tK1NXuSALhZk6Eq4mG.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "79434",
     "tmdbId": 79434,
     "imdbId": "tt8242904",
@@ -2016,6 +1995,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "233833",
+    "tmdbId": 233833,
+    "imdbId": "tt39369595",
+    "type": "tv",
+    "title": "In Your Radiant Season",
+    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nU5zUEgqx8JkZGCTLaW98E9WgN1.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "235355",
     "tmdbId": 235355,
     "imdbId": "tt31171500",
@@ -2142,27 +2142,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "298610",
-    "tmdbId": 298610,
-    "imdbId": "tt40247521",
-    "type": "tv",
-    "title": "Spooky in Love",
-    "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-    "year": "2026",
-    "rating": 8.704,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cbSFA6ILexvyf9J18CDMDwoR6Fi.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "74074",
     "tmdbId": 74074,
     "imdbId": "tt7278588",
@@ -2178,6 +2157,27 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "96160",
+    "tmdbId": 96160,
+    "imdbId": "tt11058644",
+    "type": "tv",
+    "title": "My Holo Love",
+    "overview": "Unexpected love finds a lonely woman when she forms a connection with a humanlike hologram who looks exactly like his prickly creator.",
+    "year": "2020",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nLbKNyUKq6WMMoPuL712m43MVhc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x2qrI0gQ1tK1NXuSALhZk6Eq4mG.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -2499,27 +2499,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "233833",
-    "tmdbId": 233833,
-    "imdbId": "tt39369595",
-    "type": "tv",
-    "title": "In Your Radiant Season",
-    "overview": "Chan lives every day like it is summer vacation. Haran is trapped in a lonely winter. When their forgotten past reunites them, Chan is determined to gift her another spring. Through laughter and tears, they face winter together and reach their spring in this heartwarming romance.",
-    "year": "2026",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/35UAIEtQQsjVl38GVPvbqc00pcJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nU5zUEgqx8JkZGCTLaW98E9WgN1.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "243964",
     "tmdbId": 243964,
     "imdbId": "tt35450649",
@@ -2554,6 +2533,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/pnq5WRYsqYjoBWJXxyayYWR53ay.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "298610",
+    "tmdbId": 298610,
+    "imdbId": "tt40247521",
+    "type": "tv",
+    "title": "Spooky in Love",
+    "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+    "year": "2026",
+    "rating": 8.704,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cbSFA6ILexvyf9J18CDMDwoR6Fi.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
@@ -5042,6 +5042,27 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "270420",
+    "tmdbId": 270420,
+    "imdbId": "tt33429144",
+    "type": "tv",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1mHyHzGP1vmXhaFJDMYatExUWEE.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "78796",
     "tmdbId": 78796,
     "imdbId": "tt8160178",
@@ -5141,27 +5162,6 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "270420",
-    "tmdbId": 270420,
-    "imdbId": "tt33429144",
-    "type": "tv",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1mHyHzGP1vmXhaFJDMYatExUWEE.svg",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -5420,6 +5420,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "299365",
+    "tmdbId": 299365,
+    "imdbId": "tt42206645",
+    "type": "tv",
+    "title": "Reborn Rookie",
+    "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
+    "year": "2026",
+    "rating": 8.179,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mI3fpKc3ztK7FRfFXcjksMu3whn.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "45579",
     "tmdbId": 45579,
     "imdbId": "tt3143378",
@@ -5603,27 +5624,6 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "299365",
-    "tmdbId": 299365,
-    "imdbId": "tt42206645",
-    "type": "tv",
-    "title": "Reborn Rookie",
-    "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
-    "year": "2026",
-    "rating": 8.179,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mI3fpKc3ztK7FRfFXcjksMu3whn.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -6050,27 +6050,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "89641",
-    "tmdbId": 89641,
-    "imdbId": "tt9145880",
-    "type": "tv",
-    "title": "Love Alarm",
-    "overview": "Love Alarm is an app that tells you if someone within a 10-meter radius has a crush on you. It quickly becomes a social phenomenon. While everyone talks about it and uses it to test their love and popularity, Jojo is one of the few people who have yet to download the app. However, she soon faces a love triangle situation between Sun-oh whom she starts to have feelings for, and Hye-young, who has had a huge crush on her.",
-    "year": "2019",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hQ8Hobo1RpYuZVQJQOCycNMHAG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jIjhNkmRmxK1UgpD4qMKwVEYgf3.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "285278",
     "tmdbId": 285278,
     "imdbId": "tt39068875",
@@ -6176,6 +6155,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "89641",
+    "tmdbId": 89641,
+    "imdbId": "tt9145880",
+    "type": "tv",
+    "title": "Love Alarm",
+    "overview": "Love Alarm is an app that tells you if someone within a 10-meter radius has a crush on you. It quickly becomes a social phenomenon. While everyone talks about it and uses it to test their love and popularity, Jojo is one of the few people who have yet to download the app. However, she soon faces a love triangle situation between Sun-oh whom she starts to have feelings for, and Hye-young, who has had a huge crush on her.",
+    "year": "2019",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hQ8Hobo1RpYuZVQJQOCycNMHAG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jIjhNkmRmxK1UgpD4qMKwVEYgf3.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "211747",
     "tmdbId": 211747,
     "imdbId": "tt14166656",
@@ -6212,6 +6212,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "232402",
+    "tmdbId": 232402,
+    "imdbId": "tt36056620",
+    "type": "tv",
+    "title": "S Line",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nqDGidN6ENZuLiW8p8R3UqdafyZ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6337,27 +6358,6 @@
     "certificate": "TV-14",
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "232402",
-    "tmdbId": 232402,
-    "imdbId": "tt36056620",
-    "type": "tv",
-    "title": "S Line",
-    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
-    "year": "2025",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nqDGidN6ENZuLiW8p8R3UqdafyZ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -6554,6 +6554,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "134902",
+    "tmdbId": 134902,
+    "imdbId": "tt15484900",
+    "type": "tv",
+    "title": "The Raincoat Killer: Chasing a Predator in Korea",
+    "overview": "In the early 2000s, Yoo Young-chul hammered his victims to death and cast fear across Seoul. This docuseries recounts the hunt for a prolific killer.",
+    "year": "2021",
+    "rating": 6.631,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9EUIlgEoi4MQ4QJSex5nZqS2D47.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h3BzBhJlAgrErOcMGTPeHVtxbMC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ibOCzctw841gYGPR8WRaTYvE17O.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233205",
     "tmdbId": 233205,
     "imdbId": "tt29833806",
@@ -6596,27 +6617,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "134902",
-    "tmdbId": 134902,
-    "imdbId": "tt15484900",
-    "type": "tv",
-    "title": "The Raincoat Killer: Chasing a Predator in Korea",
-    "overview": "In the early 2000s, Yoo Young-chul hammered his victims to death and cast fear across Seoul. This docuseries recounts the hunt for a prolific killer.",
-    "year": "2021",
-    "rating": 6.631,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9EUIlgEoi4MQ4QJSex5nZqS2D47.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h3BzBhJlAgrErOcMGTPeHVtxbMC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ibOCzctw841gYGPR8WRaTYvE17O.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "278113",
     "tmdbId": 278113,
     "imdbId": "tt37253311",
@@ -6632,6 +6632,27 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "294095",
+    "tmdbId": 294095,
+    "imdbId": "tt43616775",
+    "type": "tv",
+    "title": "A Bona Fide Killer",
+    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -6764,6 +6785,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "224414",
+    "tmdbId": 224414,
+    "imdbId": "tt31014107",
+    "type": "tv",
+    "title": "You and Everything Else",
+    "overview": "From teen years to adulthood, two friends linked by warmth and tension grow apart — until one is asked to accompany the other through her final days.",
+    "year": "2025",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bFHooGj9D87pMp7xQK8VhSAfUo8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3KIo7Iq0hsXme6LDisiAR3WAMcw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "44969",
     "tmdbId": 44969,
     "imdbId": "tt2593336",
@@ -6821,6 +6863,27 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61700",
+    "tmdbId": 61700,
+    "imdbId": "tt3914520",
+    "type": "tv",
+    "title": "Bad Guys",
+    "overview": "To combat rising violent crimes, the Police Chief asks Detective Oh Goo Tak to form a team consisting of criminals. He is currently suspended from the police force for using excessive force. He then gathers team members: Park Woong Chul who is a gangster, Lee Jung Moon who is the youngest serial killer with extraordinary intelligence and Jung Tae Soo who is a contract killer. Police Inspector Yoo Mi Young also joins the team and she tries to have these guys work as a team by dealing with them rationally and sometimes emotionally.",
+    "year": "2014",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m2NvNFJWRGH49sjEwDLdDeuHslp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vMwcaFqcaEseNBsOpjgAnw7J2g.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3WsEhMRZhBjjZ26mcUYjbGX0RyU.png",
+    "certificate": "19",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -6995,27 +7058,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "224414",
-    "tmdbId": 224414,
-    "imdbId": "tt31014107",
-    "type": "tv",
-    "title": "You and Everything Else",
-    "overview": "From teen years to adulthood, two friends linked by warmth and tension grow apart — until one is asked to accompany the other through her final days.",
-    "year": "2025",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bFHooGj9D87pMp7xQK8VhSAfUo8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3KIo7Iq0hsXme6LDisiAR3WAMcw.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "276472",
     "tmdbId": 276472,
     "imdbId": "tt40108629",
@@ -7052,27 +7094,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61700",
-    "tmdbId": 61700,
-    "imdbId": "tt3914520",
-    "type": "tv",
-    "title": "Bad Guys",
-    "overview": "To combat rising violent crimes, the Police Chief asks Detective Oh Goo Tak to form a team consisting of criminals. He is currently suspended from the police force for using excessive force. He then gathers team members: Park Woong Chul who is a gangster, Lee Jung Moon who is the youngest serial killer with extraordinary intelligence and Jung Tae Soo who is a contract killer. Police Inspector Yoo Mi Young also joins the team and she tries to have these guys work as a team by dealing with them rationally and sometimes emotionally.",
-    "year": "2014",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/m2NvNFJWRGH49sjEwDLdDeuHslp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vMwcaFqcaEseNBsOpjgAnw7J2g.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3WsEhMRZhBjjZ26mcUYjbGX0RyU.png",
-    "certificate": "19",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -7283,27 +7304,6 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "294095",
-    "tmdbId": 294095,
-    "imdbId": "tt43616775",
-    "type": "tv",
-    "title": "A Bona Fide Killer",
-    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
