@@ -6193,27 +6193,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "241773",
-    "tmdbId": 241773,
-    "imdbId": "tt30321175",
-    "type": "tv",
-    "title": "Penelope",
-    "overview": "A restless teenager who questions her place in the world embarks on a soul-searching journey into the remote wilderness of the Pacific Northwest.",
-    "year": "2024",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/97y29UZBzw4V5G4xMZahOyAzAhq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wKiv3MzPT0CtEKLGMluDLjvy4OK.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e27jWLhkANJZeC7999ZolDac2Ty.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 26,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "241549",
     "tmdbId": 241549,
     "imdbId": "tt12408718",
@@ -6255,68 +6234,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "261615",
-    "tmdbId": 261615,
-    "imdbId": "tt29494111",
-    "type": "tv",
-    "title": "Envious",
-    "overview": "After a devastating breakup, Vicky, almost 40, embarks on a quest for new love, unaware it will lead her to a profound—and hilarious—self-discovery.",
-    "year": "2024",
-    "rating": 8.178,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/raxf7xkf1ZwddzQSIl4hdakr8YR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mVBNAeSLVqcR1hAV9tKNz6I3uW6.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "261646",
-    "tmdbId": 261646,
-    "imdbId": "tt33184626",
-    "type": "tv",
-    "title": "What's Next? The Future with Bill Gates",
-    "overview": "Join visionary philanthropist Bill Gates as he delves into pressing global issues and uncovers cutting-edge technologies that will transform the world.",
-    "year": "2024",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/s2uNbATWA2qZTVgsrJeqWmQPb4V.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cRLp4PsE2O1vFvRSYjkUIh4R7yW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gpKtwPzSLcUJ18U1fWOyFnLjHJe.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "223785",
-    "tmdbId": 223785,
-    "imdbId": "tt29306091",
-    "type": "tv",
-    "title": "Billionaire Island",
-    "overview": "The ruthless owner of a Norwegian fish farming company plans a hostile takeover of her local rival to become the world's largest salmon producer.",
-    "year": "2024",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vZXSWqFklMIncnGCZVuyul9yNgF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gOcLQ4IBpLfV5rjCOj3WMr5dpl2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rw6xN0ooO7dcMrrM2TyXwsQm3x0.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "NO"
-    ],
-    "originalLanguage": "no"
   }
 ]
