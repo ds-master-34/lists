@@ -4192,5 +4192,26 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "133670",
+    "tmdbId": 133670,
+    "imdbId": "tt15548198",
+    "type": "tv",
+    "title": "Work Later, Drink Now",
+    "overview": "Three single women in 30s gather and talk about everyday life from work to love. Nothing is more important to them than enjoying a drink after work.",
+    "year": "2021",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m6c69FvtN5kMCryjp1DyOssthij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zZZJeUCF2LSdFuQcHTIHLvLGKDh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pCNzcBGkZiPIiF1RpZclJUq0kg8.png",
+    "certificate": "19",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   }
 ]
