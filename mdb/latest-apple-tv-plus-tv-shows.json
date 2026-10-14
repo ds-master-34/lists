@@ -231,6 +231,27 @@
     "originalLanguage": "fr"
   },
   {
+    "id": "312693",
+    "tmdbId": 312693,
+    "imdbId": "tt38504111",
+    "type": "tv",
+    "title": "Small Prophets",
+    "overview": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
+    "year": "2026",
+    "rating": 8.167,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7XP3EmioPCmCBFBSHHPh8taTa.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "230936",
     "tmdbId": 230936,
     "imdbId": "tt28445317",
