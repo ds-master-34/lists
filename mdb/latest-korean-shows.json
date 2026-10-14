@@ -63,42 +63,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "310326",
-    "tmdbId": 310326,
-    "imdbId": "tt43643492",
+    "id": "316197",
+    "tmdbId": 316197,
+    "imdbId": "tt43088191",
     "type": "tv",
-    "title": "Love on the Menu",
-    "overview": "A cheerful side dish shop owner and a chef hiding a secret cross paths at a local market, but their path to romance won't be easy.",
-    "year": "2026",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sDa74kaZNLMjnLRfBYaXBkPuPrW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "130103",
-    "tmdbId": 130103,
-    "imdbId": "tt14169862",
-    "type": "tv",
-    "title": "Salon de Nabi",
-    "overview": "We visit hair salons when we're depressed, or when we want to change how we look according to the changing seasons, or just for no reason at all. A hair salon that we can easily find in our neighborhood and that anyone can visit. \"Salon de Nabi gives a warm welcome to all customers who come to visit.\"",
+    "title": "Dive into You",
+    "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
     "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dJZzKvTje5z5Ov8NmZeMSy69cOc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1rjJf57TSfAU3Y3fzgxMwtRxnI5.jpg",
-    "logoUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
     "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -147,21 +126,42 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "316197",
-    "tmdbId": 316197,
-    "imdbId": "tt43088191",
+    "id": "310326",
+    "tmdbId": 310326,
+    "imdbId": "tt43643492",
     "type": "tv",
-    "title": "Dive into You",
-    "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
+    "title": "Love on the Menu",
+    "overview": "A cheerful side dish shop owner and a chef hiding a secret cross paths at a local market, but their path to romance won't be easy.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sDa74kaZNLMjnLRfBYaXBkPuPrW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "130103",
+    "tmdbId": 130103,
+    "imdbId": "tt14169862",
+    "type": "tv",
+    "title": "Salon de Nabi",
+    "overview": "We visit hair salons when we're depressed, or when we want to change how we look according to the changing seasons, or just for no reason at all. A hair salon that we can easily find in our neighborhood and that anyone can visit. \"Salon de Nabi gives a warm welcome to all customers who come to visit.\"",
     "year": "2026",
     "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dJZzKvTje5z5Ov8NmZeMSy69cOc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1rjJf57TSfAU3Y3fzgxMwtRxnI5.jpg",
+    "logoUrl": null,
     "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2352,27 +2352,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "262237",
-    "tmdbId": 262237,
-    "imdbId": "tt37436162",
-    "type": "tv",
-    "title": "My Youth",
-    "overview": "The story of Sun Woo-hae and Sung Je-yun, who reunite after 15 years, struggling and living fiercely in their respective stages.",
-    "year": "2025",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dSabZvHzuZnDrBMCR1YuVH2wEiS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a32io4EZZx9LfOYbOsPo9hgvD5x.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zup6KuYOGmtvKLoNBwjxeYgPGqn.png",
-    "certificate": "15",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "230926",
     "tmdbId": 230926,
     "imdbId": "tt31472425",
@@ -2388,6 +2367,27 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "262237",
+    "tmdbId": 262237,
+    "imdbId": "tt37436162",
+    "type": "tv",
+    "title": "My Youth",
+    "overview": "The story of Sun Woo-hae and Sung Je-yun, who reunite after 15 years, struggling and living fiercely in their respective stages.",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dSabZvHzuZnDrBMCR1YuVH2wEiS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a32io4EZZx9LfOYbOsPo9hgvD5x.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zup6KuYOGmtvKLoNBwjxeYgPGqn.png",
+    "certificate": "15",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
