@@ -1,5 +1,26 @@
 [
   {
+    "id": "284833",
+    "tmdbId": 284833,
+    "imdbId": "tt35854736",
+    "type": "tv",
+    "title": "Avatar: Seven Havens",
+    "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+    "year": "2026",
+    "rating": 8.763,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "252105",
     "tmdbId": 252105,
     "imdbId": "tt32149571",
@@ -57,6 +78,27 @@
     "runTimeMinutes": 15,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "299167",
+    "tmdbId": 299167,
+    "imdbId": "tt34991493",
+    "type": "tv",
+    "title": "Dutton Ranch",
+    "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+    "year": "2026",
+    "rating": 9.131,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w6rTydgams5hQ6T4d7ieYkg2PsQ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Western",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
@@ -441,6 +483,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "226174",
+    "tmdbId": 226174,
+    "imdbId": "tt26591147",
+    "type": "tv",
+    "title": "Matlock",
+    "overview": "After achieving success in her younger years, the brilliant septuagenarian Madeline Matlock rejoins the workforce at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within. Inspired by the classic television series of the same name.",
+    "year": "2024",
+    "rating": 6.978,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/amYND1mIdCYEGVqKEH764W4HBtb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vAiyVZhzhKv3XZSomr2g8YR4Qm6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "224732",
     "tmdbId": 224732,
     "imdbId": "tt27554432",
@@ -629,6 +692,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "157950",
+    "tmdbId": 157950,
+    "imdbId": "tt18258908",
+    "type": "tv",
+    "title": "NCIS: Sydney",
+    "overview": "The brilliant and eclectic team of U.S. NCIS Agents and the Australian Federal Police (AFP) are grafted into a multi-national taskforce to keep naval crimes in check in the most contested patch of ocean on the planet.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9HumTe8VKGfH6PSgfRxoDEPYzDK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cNXgTF1xNDGfO0OB9KefEk6zOMt.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "157732",
@@ -1129,6 +1213,27 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Drama",
     "secondaryGenre": "Western",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "126027",
+    "tmdbId": 126027,
+    "imdbId": "tt11379026",
+    "type": "tv",
+    "title": "Ghosts",
+    "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+    "year": "2021",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uAqvh2GMfoEtb7OJ0l3LHvmfDNW.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
@@ -2188,6 +2293,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "62999",
+    "tmdbId": 62999,
+    "imdbId": "tt3484406",
+    "type": "tv",
+    "title": "The Jim Gaffigan Show",
+    "overview": "Comedy about a husband and wife trying to raise their five kids in a New York two-bedroom apartment.",
+    "year": "2015",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fIs7LLODtiowheV17UXycFM7DSV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1dHRGHco08jw2xI5U3cke00OT4d.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "62819",
     "tmdbId": 62819,
     "imdbId": "tt3593432",
@@ -2772,6 +2898,27 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "39269",
+    "tmdbId": 39269,
+    "imdbId": "tt1837576",
+    "type": "tv",
+    "title": "Scandal",
+    "overview": "Everyone has secrets and Olivia Pope has dedicated her life to protecting and defending the public images of the elite by keeping those secrets under wraps. Pope and her team are at the top of their game when it comes to getting the job done for their clients, but it becomes apparent that these \"gladiators in suits,\" who specialize in fixing the lives of other people, have trouble fixing those closest at hand -- their own.",
+    "year": "2012",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hpvw89Vq6rYx1bzrE3zdnWBGLfS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3D1QRLTxdGQBLC0HYs65FyUncY2.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
