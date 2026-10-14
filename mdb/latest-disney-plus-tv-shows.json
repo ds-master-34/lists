@@ -359,6 +359,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "218274",
+    "tmdbId": 218274,
+    "imdbId": "tt26351133",
+    "type": "tv",
+    "title": "Secrets of the Bees",
+    "overview": "With the expertise of entomologist and fellow National Geographic Explorer Dr. Samuel Ramsey, the series uses groundbreaking filming technology to reveal the extraordinary world of bees; and uncover their astonishing architecture and intelligence, unlocking their secrets and featuring never-before-filmed moments.",
+    "year": "2026",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k2snA5sP2zXtrwKcN0s7gBNeTbl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5jybpfzbMbBu1QTPkWKYHkwrJhY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2WjgA5alepLSdaRL2kW9RmRUzc1.png",
+    "certificate": "PG",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "314172",
     "tmdbId": 314172,
     "imdbId": "tt38048350",
@@ -837,6 +858,27 @@
     "runTimeMinutes": 32,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "273247",
+    "tmdbId": 273247,
+    "imdbId": "tt31289994",
+    "type": "tv",
+    "title": "The Lowdown",
+    "overview": "Follow the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sonyBptmsZNhHnCXPJZCZBHo85S.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
