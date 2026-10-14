@@ -1,5 +1,90 @@
 [
   {
+    "id": "285322",
+    "tmdbId": 285322,
+    "imdbId": "tt35934755",
+    "type": "tv",
+    "title": "Below",
+    "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+    "year": "2026",
+    "rating": 7.29,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A6vkCbJKDb7IeOrBuW1mKWzwxUr.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 37,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "CA",
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "258165",
+    "tmdbId": 258165,
+    "imdbId": "tt21097264",
+    "type": "tv",
+    "title": "East of Eden",
+    "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+    "year": "2026",
+    "rating": 7.993,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jd9EWL7f9Mefmj4c3YGEPqVx4r7.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "290720",
+    "tmdbId": 290720,
+    "imdbId": "tt36832679",
+    "type": "tv",
+    "title": "The Final Problem",
+    "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+    "year": "2026",
+    "rating": 7.108,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uQmgmmmTlGX6kXGtOnR7XEZWBqc.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
+    "id": "305357",
+    "tmdbId": 305357,
+    "imdbId": "tt33081352",
+    "type": "tv",
+    "title": "A Different World",
+    "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/btPU2DsXixzuZfvseRi1mYgcCPV.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "275102",
     "tmdbId": 275102,
     "imdbId": "tt36347588",
