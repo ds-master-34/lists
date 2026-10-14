@@ -21,6 +21,29 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "1418811",
+    "tmdbId": 1418811,
+    "imdbId": "tt37538626",
+    "type": "movie",
+    "title": "The Fin",
+    "overview": "In a post-war, ecologically devastated Korea, mutated outcasts known as Omegas are exploited as cheap labor. Su-jin, a young government worker, begins to question the state's ideology as she pursues Mia, an Omega living in hiding.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/azofjhgHBLvUkDAcrnBOWoosur2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nmEC4cxuUVuWyzKMYzdCnLbhYw7.jpg",
+    "logoUrl": null,
+    "certificate": "K-16",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "KR",
+      "DE",
+      "QA"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "1396749",
     "tmdbId": 1396749,
     "imdbId": "tt40815155",
@@ -2074,27 +2097,6 @@
     "runTimeMinutes": 105,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "958263",
-    "tmdbId": 958263,
-    "imdbId": "tt26258204",
-    "type": "movie",
-    "title": "Believer 2",
-    "overview": "A determined detective continues his search for the truth behind Asia's largest drug organization and its elusive boss he has unfinished business with.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kW75Wz92dGMcs8rcEUScDMUwvna.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cpLpjTHmAbpIdTXhUfbJNJEZoxt.png",
-    "certificate": "A",
-    "runTimeMinutes": 116,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
     "originCountries": [
       "KR"
     ],
