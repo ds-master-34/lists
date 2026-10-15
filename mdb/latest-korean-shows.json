@@ -7581,26 +7581,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "221934",
-    "tmdbId": 221934,
-    "imdbId": "tt29443342",
-    "type": "tv",
-    "title": "Apple of My Eye",
-    "overview": "A work about the delightful and heartbreaking story of a family growing up while raising a child, centering on a single dad Geum Kang San and adopted child Ok Mi Rae who is the apple of his eye.",
-    "year": "2023",
-    "rating": 4.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4wIgh7yDZOVY5J3kddXY6xA89SE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bmy2Tnwk12IPAKvUX7HlI5D4bnD.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 28,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]
