@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "333631",
+    "tmdbId": 333631,
+    "imdbId": "tt43700003",
+    "type": "tv",
+    "title": "Captive",
+    "overview": "An Argentine dramatic television miniseries co-produced by TNT and FLOW. It follows the life of a nun who, after fifteen years, manages to escape from a cloistered convent where she was a victim of psychological abuse and held against her will. Starring Carolina Kopelioff, Lorena Vega, Rita Cortese, and Julieta Zylberberg.",
+    "year": "2026",
+    "rating": 7.867,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iQpdPJ2SSWHGdeCV7n5GGt95g4I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/urJ3WlzmErAZJh2bXYLR8t5En78.png",
+    "certificate": "M18",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "332910",
     "tmdbId": 332910,
     "imdbId": "tt9280400",
@@ -61,6 +82,28 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "331033",
+    "tmdbId": 331033,
+    "imdbId": "tt38116565",
+    "type": "tv",
+    "title": "Collision",
+    "overview": "When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ue1kLkkh9AbhnEs1sfY0Jo2f6Fy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Soap",
+    "originCountries": [
+      "MX",
+      "US"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "95350",
@@ -4157,48 +4200,6 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135546",
-    "tmdbId": 135546,
-    "imdbId": "tt15762026",
-    "type": "tv",
-    "title": "The Mating Game",
-    "overview": "The struggles and successes of a wide variety of animals as they take on one of life's most vital challenges: finding a partner.",
-    "year": "2021",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5gWrmRXHD2duGcp9uvpwLaDSoJA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6JmV6sn4iMFCmfQlaJ3iWcNflZZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wwukWucq3K3kGpBjhBJW6EXcfka.png",
-    "certificate": "13+",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "133808",
-    "tmdbId": 133808,
-    "imdbId": "tt12545180",
-    "type": "tv",
-    "title": "Ten Year Old Tom",
-    "overview": "The misadventures of an average kid as he contends with questionable guidance from the well-meaning grownups around him.",
-    "year": "2021",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mayaOgDJUn6c5ZbVPpH6OnCZGYX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tX06AmOp8ahhLbsBk7a1OtmlcQg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jmAJdavX30pYGi1p9YdyeTC7XgG.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 12,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
