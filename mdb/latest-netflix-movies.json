@@ -63,6 +63,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "1763619",
+    "tmdbId": 1763619,
+    "imdbId": "tt43738050",
+    "type": "movie",
+    "title": "Crazy Rich, Incredibly Broke",
+    "overview": "When the snobbish and wealthy AlThahabi family find out they're actually not as loaded as they think, they're forced to fake their affluence to survive.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zXrxCpD6UR96mk3umb93ub3RmSs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3tt1rsr72wY5hkIfvW4aPqsqXw.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "SA"
+    ],
+    "originalLanguage": "ar"
+  },
+  {
     "id": "1758536",
     "tmdbId": 1758536,
     "imdbId": "tt44568097",
@@ -1873,6 +1894,27 @@
     "originalLanguage": "tl"
   },
   {
+    "id": "1641319",
+    "tmdbId": 1641319,
+    "imdbId": "tt39538786",
+    "type": "movie",
+    "title": "Sniper: No Nation",
+    "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2R6hoW67kT8poPTpN5HEpimLc3C.png",
+    "certificate": "R",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1641962",
     "tmdbId": 1641962,
     "imdbId": "tt40224399",
@@ -2119,27 +2161,6 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1641319",
-    "tmdbId": 1641319,
-    "imdbId": "tt39538786",
-    "type": "movie",
-    "title": "Sniper: No Nation",
-    "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2R6hoW67kT8poPTpN5HEpimLc3C.png",
-    "certificate": "R",
-    "runTimeMinutes": 96,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
     "originCountries": [
       "US"
     ],
@@ -4189,26 +4210,5 @@
       "MX"
     ],
     "originalLanguage": "es"
-  },
-  {
-    "id": "1223601",
-    "tmdbId": 1223601,
-    "imdbId": "tt31844586",
-    "type": "movie",
-    "title": "Sisu: Road to Revenge",
-    "overview": "Returning to the house where his family was brutally murdered during the war, \"the man who refuses to die\" dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/roCMOuMQ55Z2TxVx1vZZTevlo0n.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/10MiMMNzWeE53cHhSlfroPiO8vi.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/olk64qLVBnCM0PNsXlT29Abbn0H.png",
-    "certificate": "R",
-    "runTimeMinutes": 89,
-    "primaryGenre": "Action",
-    "secondaryGenre": "War",
-    "originCountries": [
-      "FI"
-    ],
-    "originalLanguage": "fi"
   }
 ]
