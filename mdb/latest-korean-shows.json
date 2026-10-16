@@ -63,6 +63,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "314939",
+    "tmdbId": 314939,
+    "imdbId": "tt43736405",
+    "type": "tv",
+    "title": "A Love Other Than Yours",
+    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "130103",
     "tmdbId": 130103,
     "imdbId": "tt14169862",
@@ -120,27 +141,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Family",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "314939",
-    "tmdbId": 314939,
-    "imdbId": "tt43736405",
-    "type": "tv",
-    "title": "A Love Other Than Yours",
-    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
-    "year": "2026",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -567,27 +567,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "291496",
-    "tmdbId": 291496,
-    "imdbId": "tt36955608",
-    "type": "tv",
-    "title": "Our Sticky Love",
-    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-    "year": "2026",
-    "rating": 8.819,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tXfXuhXc6PI9i8x3pkHIouAUNAc.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "310033",
     "tmdbId": 310033,
     "imdbId": "tt40295083",
@@ -603,6 +582,27 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "291496",
+    "tmdbId": 291496,
+    "imdbId": "tt36955608",
+    "type": "tv",
+    "title": "Our Sticky Love",
+    "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+    "year": "2026",
+    "rating": 8.819,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tXfXuhXc6PI9i8x3pkHIouAUNAc.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1764,27 +1764,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "284744",
-    "tmdbId": 284744,
-    "imdbId": "tt39012462",
-    "type": "tv",
-    "title": "Pro Bono",
-    "overview": "When a respected judge's world falls apart overnight, he joins a top law firm's pro bono team — where hope and purpose wait in humble, unexpected places.",
-    "year": "2025",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8wovOkYH4CBH45jH1zzkyOMDMSb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/npC8ErjU584ER43OuyVA24NdBGb.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "281005",
     "tmdbId": 281005,
     "imdbId": "tt38221085",
@@ -1798,6 +1777,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/A16nKwPiEHpd0l62v7h1Ow4Ar5Y.png",
     "certificate": "U/A 16+",
     "runTimeMinutes": 75,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "284744",
+    "tmdbId": 284744,
+    "imdbId": "tt39012462",
+    "type": "tv",
+    "title": "Pro Bono",
+    "overview": "When a respected judge's world falls apart overnight, he joins a top law firm's pro bono team — where hope and purpose wait in humble, unexpected places.",
+    "year": "2025",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8wovOkYH4CBH45jH1zzkyOMDMSb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/npC8ErjU584ER43OuyVA24NdBGb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -4853,27 +4853,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "240622",
-    "tmdbId": 240622,
-    "imdbId": "tt30397416",
-    "type": "tv",
-    "title": "DNA Lover",
-    "overview": "So Jin, a genetic researcher who loves DNA, decides to end her relationship with a playboy boyfriend and sets out to find a genetically compatible partner for a happy relationship. Whom among the two men that So Jin meets, obstetrician-gynecologist Yeon Woo and firefighter Kang Hoon, will be the perfect match for her? A captivating story intertwined with genetics! This story portrays the struggles, love, and everyday lives of young friends.",
-    "year": "2024",
-    "rating": 3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xUjWfHz7U5uEG7UPsV0nxBxFY2p.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4hWFO2NbYn1jUPahXCnzqpcB9a0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/v1WYX8kAhzkXvz1XnP5ZAq8ZtCQ.png",
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "241454",
     "tmdbId": 241454,
     "imdbId": "tt30446769",
@@ -4889,6 +4868,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "240622",
+    "tmdbId": 240622,
+    "imdbId": "tt30397416",
+    "type": "tv",
+    "title": "DNA Lover",
+    "overview": "So Jin, a genetic researcher who loves DNA, decides to end her relationship with a playboy boyfriend and sets out to find a genetically compatible partner for a happy relationship. Whom among the two men that So Jin meets, obstetrician-gynecologist Yeon Woo and firefighter Kang Hoon, will be the perfect match for her? A captivating story intertwined with genetics! This story portrays the struggles, love, and everyday lives of young friends.",
+    "year": "2024",
+    "rating": 3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xUjWfHz7U5uEG7UPsV0nxBxFY2p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4hWFO2NbYn1jUPahXCnzqpcB9a0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v1WYX8kAhzkXvz1XnP5ZAq8ZtCQ.png",
+    "certificate": "15",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7514,69 +7514,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "136368",
-    "tmdbId": 136368,
-    "imdbId": "tt21627436",
-    "type": "tv",
-    "title": "Song of the Bandits",
-    "overview": "In the lawless land of Gando, fierce bandits will stop at nothing to fight for their precious homeland and loved ones — even if it means life or death.",
-    "year": "2023",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4lls2JCt9g1YiusX3xLVSdSZ6cO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/swdlL4gCeRsYU5pC2wh9fzzQt2V.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8C7HkyU14do2lDjRtjIQh1m7EAF.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "126485",
-    "tmdbId": 126485,
-    "imdbId": "tt24640580",
-    "type": "tv",
-    "title": "Moving",
-    "overview": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
-    "year": "2023",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gu768DYUj242X2ooyJfufBZhaC2.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "210781",
-    "tmdbId": 210781,
-    "imdbId": "tt27203727",
-    "type": "tv",
-    "title": "My Lovely Liar",
-    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
-    "year": "2023",
-    "rating": 7.795,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dn8IwNeeqhYYDC3UeRkZyJDaqk4.png",
-    "certificate": "15",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
