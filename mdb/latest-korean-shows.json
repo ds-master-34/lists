@@ -1,5 +1,26 @@
 [
   {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "326991",
     "tmdbId": 326991,
     "imdbId": "tt44093541",
@@ -63,6 +84,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "316197",
+    "tmdbId": 316197,
+    "imdbId": "tt43088191",
+    "type": "tv",
+    "title": "Dive into You",
+    "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
+    "certificate": "15",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "314939",
     "tmdbId": 314939,
     "imdbId": "tt43736405",
@@ -78,6 +120,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "310326",
+    "tmdbId": 310326,
+    "imdbId": "tt43643492",
+    "type": "tv",
+    "title": "Love on the Menu",
+    "overview": "A cheerful side dish shop owner and a chef hiding a secret cross paths at a local market, but their path to romance won't be easy.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sDa74kaZNLMjnLRfBYaXBkPuPrW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -119,69 +182,6 @@
     "certificate": "TV-14",
     "runTimeMinutes": 73,
     "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "310326",
-    "tmdbId": 310326,
-    "imdbId": "tt43643492",
-    "type": "tv",
-    "title": "Love on the Menu",
-    "overview": "A cheerful side dish shop owner and a chef hiding a secret cross paths at a local market, but their path to romance won't be easy.",
-    "year": "2026",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sDa74kaZNLMjnLRfBYaXBkPuPrW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "316197",
-    "tmdbId": 316197,
-    "imdbId": "tt43088191",
-    "type": "tv",
-    "title": "Dive into You",
-    "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -3929,27 +3929,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "259288",
-    "tmdbId": 259288,
-    "imdbId": "tt35683421",
-    "type": "tv",
-    "title": "Friendly Rivalry",
-    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
-    "year": "2025",
-    "rating": 8.724,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lPXXSz7033u4rb5CLn9gvP5cQeX.png",
-    "certificate": "19",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "224733",
     "tmdbId": 224733,
     "imdbId": "tt33143998",
@@ -3965,6 +3944,27 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "259288",
+    "tmdbId": 259288,
+    "imdbId": "tt35683421",
+    "type": "tv",
+    "title": "Friendly Rivalry",
+    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
+    "year": "2025",
+    "rating": 8.724,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lPXXSz7033u4rb5CLn9gvP5cQeX.png",
+    "certificate": "19",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
