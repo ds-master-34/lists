@@ -1,5 +1,26 @@
 [
   {
+    "id": "213375",
+    "tmdbId": 213375,
+    "imdbId": "tt23112594",
+    "type": "tv",
+    "title": "VisionQuest",
+    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+    "year": "2026",
+    "rating": 9.106,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "284833",
     "tmdbId": 284833,
     "imdbId": "tt35854736",
@@ -85,6 +106,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "313630",
+    "tmdbId": 313630,
+    "imdbId": "tt33078239",
+    "type": "tv",
+    "title": "Eternally Yours",
+    "overview": "Charles and Liz are a charming, married 500-year-old vampire couple whose relationship has survived centuries because, as vampires, divorce isn’t exactly an option. Together, they navigate modern society and their daughter dating a human.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gMKJJtwOnTkhkbdQabyo7OKTosb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1bmsSexBYKUlkst0TgHZCdf4EvH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mmc57JGMWOht0UEetErNFCTRfRN.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "288673",
     "tmdbId": 288673,
     "imdbId": "tt11540908",
@@ -102,6 +144,27 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "CA",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "319800",
+    "tmdbId": 319800,
+    "imdbId": "tt41814550",
+    "type": "tv",
+    "title": "NCIS: New York",
+    "overview": "Special Agent Sam Hanna returns to his hometown of New York City to the NCIS field office and partners with a roguish agent, Nick Schaeffer, to help lead a new team as they are tasked with high-stakes missions to defend one of the most vital cities and ports in the world.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wLL8oRsz9XGFQpnCpgi8S0Pj6sO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1wcyS3C3JLbN9sipMhrDkWndoKd.png",
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
       "US"
     ],
     "originalLanguage": "en"
@@ -2173,6 +2236,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "303493",
+    "tmdbId": 303493,
+    "imdbId": "tt38916337",
+    "type": "tv",
+    "title": "Knot",
+    "overview": "A young man’s life changes forever when a powerful Alpha marks him, binding their fates together in an inescapable bond.",
+    "year": "2026",
+    "rating": 6.676,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8z62pp4K602d1y6079oU1GBeiAG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zq22918LdWTkBstphgUfxDZUO7i.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d6NRApoGHwc3rjAN0ftqkTC2eOG.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "256694",
     "tmdbId": 256694,
     "imdbId": "tt32603995",
@@ -2211,6 +2295,27 @@
     "secondaryGenre": "Comedy",
     "originCountries": [
       "NZ"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "204137",
+    "tmdbId": 204137,
+    "imdbId": "tt21057046",
+    "type": "tv",
+    "title": "The Doomies",
+    "overview": "When best friends Bobby and Romy mistakenly open up a gateway to another world, they turn their sleepy coastal town into a hotspot for terrifying creatures of doom. Roped into an epic supernatural mystery, they will cross paths with the so-called “Chosen One” and do battle with both literal and inner monsters.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dT7ARI93vfbP1Tf8fuVfDFMyQqE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pSjgrVQwOItiEyrpzqEtkey8E9O.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -2360,6 +2465,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "315083",
+    "tmdbId": 315083,
+    "imdbId": "tt40231500",
+    "type": "tv",
+    "title": "The Edge of Horizon",
+    "overview": "Years after being torn apart by rank and tradition, a prince and his first love reunite as buried feelings bloom once more.",
+    "year": "2026",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c6onzDcWmyPmVbVWcbFyCTZcVP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9YypMijnNFAgcaFcJqCEKFuS89Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5bzchMuzEO4gHB0HzSRK0GZ2bWt.png",
+    "certificate": "",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
   },
   {
     "id": "296285",
@@ -4083,132 +4209,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "297640",
-    "tmdbId": 297640,
-    "imdbId": "tt39010903",
-    "type": "tv",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "year": "2026",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6sxEYsm7ciMZYLjE8vABffSwKkj.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "258842",
-    "tmdbId": 258842,
-    "imdbId": "tt32974250",
-    "type": "tv",
-    "title": "Naughty Business",
-    "overview": "When her husband falls into a coma, Nines, a traditional housewife, transforms the family business into the first adult video store in Valladolid.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4fccegkh4fJYCNxCzzLtTsTiIkX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pGhq2AODZEB1y0aAYYF6DqiJMj7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/t7rL35CCbzhG1OZN7yaZH193huq.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 34,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "ES",
-      "US"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "285838",
-    "tmdbId": 285838,
-    "imdbId": "tt36104233",
-    "type": "tv",
-    "title": "If Wishes Could Kill",
-    "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5BzfcAW5ZI2m7QypeJBbYNjBuR0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/21nrcCJkHtuPvDLkZDOg2mstBtS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "224263",
-    "tmdbId": 224263,
-    "imdbId": "tt27486290",
-    "type": "tv",
-    "title": "Stranger Things: Tales from '85",
-    "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xyVpiSZNA2fYJUuuagkqiSHJqjr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ff4nzGS3122NvLVN10dheKtEZ9E.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "287978",
-    "tmdbId": 287978,
-    "imdbId": "tt37031059",
-    "type": "tv",
-    "title": "Flunked",
-    "overview": "Eddy, a math genius and small-time crook, avoids jail-time by going undercover as a teacher. His mission: to identify the kid of a major criminal.",
-    "year": "2026",
-    "rating": 6.773,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/caabnbe4QJ5ZvJipH4cssFkbzwc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4hIUjsuPsNusla53s4nMx2M6C8R.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 27,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": "fr"
-  },
-  {
-    "id": "302034",
-    "tmdbId": 302034,
-    "imdbId": "tt38582409",
-    "type": "tv",
-    "title": "The Tribute",
-    "overview": "The story follows Adolfo Novak, a powerful family patriarch, whose 80th birthday celebration uncovers decades of secrets, betrayals, loyalties, and a thirst for revenge.",
-    "year": "2026",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xaKZjJStLrE9vGP8dBR02waSyVi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lm00srmYuNuInzsyHLtyickcAJt.jpg",
-    "logoUrl": null,
-    "certificate": "16",
-    "runTimeMinutes": 34,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": "es"
   }
 ]
