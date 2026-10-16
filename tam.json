@@ -1,5 +1,47 @@
 [
   {
+    "id": "1764201",
+    "tmdbId": 1764201,
+    "imdbId": "tt42897565",
+    "type": "movie",
+    "title": "Yen Ennai Edho Seidhai",
+    "overview": "Broken young man trapped in emotional darkness finds unexpected healing when Madhu's love guides him from self destruction toward hope, purpose, and light.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A5B8tt7aM7SbAKs7I9jRunaAR3Q.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": "A",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ta"
+  },
+  {
+    "id": "1542884",
+    "tmdbId": 1542884,
+    "imdbId": "tt38947564",
+    "type": "movie",
+    "title": "4 Idiots",
+    "overview": "King, Queen, Jack, and Ace-four misfits surviving through petty crimes in Chennai-found their world turned upside down when COVID-19 lockdowns shut down public transport, their main source of income. Desperate for a way out, King discovered an audio recording about a bungalow filled with black money, supposedly guarded by a lone watchman. Seeing it as their golden opportunity, the gang set out to execute the perfect heist. However, upon entering the bungalow, the door slammed shut behind them, and a chilling voice welcomed them. The so-called security guard was none other than Pulibaba, a notorious gangster. With a gun in hand, he forced them to surrender their belongings and made a sinister phone call: \"Doctor, the delivery is ready... Eight kidneys.",
+    "year": "2026",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zcHMRPurZAF9SOrKIwT2WtjX9JH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikKdgB2wHJo17OF2R9ejllsYPgk.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ta"
+  },
+  {
     "id": "1686999",
     "tmdbId": 1686999,
     "imdbId": "tt33095205",
@@ -8352,48 +8394,6 @@
     "runTimeMinutes": 143,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "63664",
-    "tmdbId": 63664,
-    "imdbId": "tt1496872",
-    "type": "movie",
-    "title": "Siva Manasula Sakthi",
-    "overview": "Siva and Sakthi lie about their respective jobs when they meet. Once the truth comes out, they decide to take revenge but start developing feelings for each other instead.",
-    "year": "2009",
-    "rating": 6.591,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vYajr5280tllnXRDBF44ge0lv3g.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1Raq1mQU9pret7ubboIW2lpHNIx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sGxAOsCrpxIELFh2ZVCfVDSrSMV.png",
-    "certificate": "UA",
-    "runTimeMinutes": 138,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "410481",
-    "tmdbId": 410481,
-    "imdbId": "tt7190460",
-    "type": "movie",
-    "title": "Thupparivaalan",
-    "overview": "Detective Kaniyan Poonkundran is hungry for a challenging case to investigate and the mystery of a murdered dog leads to a rival who could be the match for him.",
-    "year": "2017",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jG10W7dT4tHb4dqJ9sB2miClGP7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/w33ulTx4eXUsgHX83XjoaHukCac.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/AcBh1MwvFOWWvUcWi8p73VK3UxP.png",
-    "certificate": "UA",
-    "runTimeMinutes": 159,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "IN"
     ],
