@@ -4188,26 +4188,5 @@
       "SG"
     ],
     "originalLanguage": "ta"
-  },
-  {
-    "id": "287230",
-    "tmdbId": 287230,
-    "imdbId": "tt33995822",
-    "type": "tv",
-    "title": "The Cage",
-    "overview": "When Leanne and Matty discover they are both robbing from the safe at the inner-city casino they work in, their lives are set on a collision course; with each other, the local gangster they're stealing from, and the police.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hAcICUwR1wuP4PzGaVWlMVhD50l.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/biL1DowUN0htUUnldrsFz828A7M.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mwkifDpZRLU6kyNiO33ZPpWeAqY.png",
-    "certificate": "",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
   }
 ]
