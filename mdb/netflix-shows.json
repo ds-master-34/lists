@@ -1,5 +1,26 @@
 [
   {
+    "id": "289423",
+    "tmdbId": 289423,
+    "imdbId": "tt37737331",
+    "type": "tv",
+    "title": "Take Charge of My Heart",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "year": "2026",
+    "rating": 8.724,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "285322",
     "tmdbId": 285322,
     "imdbId": "tt35934755",
@@ -167,6 +188,27 @@
       "NL"
     ],
     "originalLanguage": "nl"
+  },
+  {
+    "id": "314478",
+    "tmdbId": 314478,
+    "imdbId": "tt40003445",
+    "type": "tv",
+    "title": "Dang!",
+    "overview": "After their sister Ruthie blows up her perfect life, Andrew and Eunice show her the fun in being flawed as she helps them adult.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bRyUIj9iXzKiGUgmU2U7yd0QgWM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "305644",
@@ -568,6 +610,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "322427",
+    "tmdbId": 322427,
+    "imdbId": "tt42605728",
+    "type": "tv",
+    "title": "The American Experiment",
+    "overview": "Life. Liberty. The pursuit of happiness. This sweeping historical documentary series traces how the ideals of America's founders gave rise to a nation.",
+    "year": "2026",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xpp6e3uobvlmWrhhXrmhmoXFdb5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fFIWAFUj8TlKafcPUSJlX75dQcM.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "296285",
@@ -6251,70 +6314,6 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "263089",
-    "tmdbId": 263089,
-    "imdbId": "tt33301469",
-    "type": "tv",
-    "title": "Mr. McMahon",
-    "overview": "WWE experienced record-breaking highs and crushing lows under Vince McMahon's leadership. This docuseries delves into the mogul's controversial reign.",
-    "year": "2024",
-    "rating": 7.755,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mtLYsALvuHlnw7PHg0frCCwSRVy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iw1tzZJyly2SR5LkyI9sso1l1jy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/l2PfGW1fdeyabROAxh1G6CdijpK.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "241549",
-    "tmdbId": 241549,
-    "imdbId": "tt12408718",
-    "type": "tv",
-    "title": "Murder in a Small Town",
-    "overview": "Karl Alberg moves to a quiet coastal town to soothe a psyche that has been battered by big-city police work but finds himself needing to call upon all his skills to solve the murders that continue to wash up on his shore.",
-    "year": "2024",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9oE2YKjY9mo7LVEUVm8NuaKFiEw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e0giXYYfrLbztULkjZWfDkUXwWp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "97333",
-    "tmdbId": 97333,
-    "imdbId": "tt10625492",
-    "type": "tv",
-    "title": "Twilight of the Gods",
-    "overview": "Zack Snyder unleashes a bold and bloody vision of Norse mythology in this adult animated series about a warrior with an ax to grind against the gods.",
-    "year": "2024",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/n0rqWDT1oYGcNIuLydZD4J4JpwK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qSdvfhaDhFhNbfU3A6ukJgJrGLQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/Ae945C4Wk3ImF1xOVJUelFHWUqH.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
