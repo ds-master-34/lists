@@ -84,27 +84,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 9.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "64010",
     "tmdbId": 64010,
     "imdbId": "tt5182866",
@@ -120,6 +99,27 @@
     "runTimeMinutes": 113,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "276161",
+    "tmdbId": 276161,
+    "imdbId": "tt34809853",
+    "type": "tv",
+    "title": "Teach You a Lesson",
+    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+    "year": "2026",
+    "rating": 9.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1155,6 +1155,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "156406",
+    "tmdbId": 156406,
+    "imdbId": "tt22265394",
+    "type": "tv",
+    "title": "Under the Queen's Umbrella",
+    "overview": "A spirited queen tries to rein in her rowdy sons in order to make one of them the next king of Joseon, while her competitors vie to snatch the throne.",
+    "year": "2022",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9CIjlNBlyHbrzhTa5PoIjCUxwRP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uj8DokshBfXWiM64iEXrEldyr39.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zcvgXb16tETlxRLPxvQccDB7Y37.png",
+    "certificate": "15",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "206693",
     "tmdbId": 206693,
     "imdbId": "tt26228190",
@@ -1590,27 +1611,6 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "156406",
-    "tmdbId": 156406,
-    "imdbId": "tt22265394",
-    "type": "tv",
-    "title": "Under the Queen's Umbrella",
-    "overview": "A spirited queen tries to rein in her rowdy sons in order to make one of them the next king of Joseon, while her competitors vie to snatch the throne.",
-    "year": "2022",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9CIjlNBlyHbrzhTa5PoIjCUxwRP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uj8DokshBfXWiM64iEXrEldyr39.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zcvgXb16tETlxRLPxvQccDB7Y37.png",
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -5273,6 +5273,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "299365",
+    "tmdbId": 299365,
+    "imdbId": "tt42206645",
+    "type": "tv",
+    "title": "Reborn Rookie",
+    "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
+    "year": "2026",
+    "rating": 8.179,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mI3fpKc3ztK7FRfFXcjksMu3whn.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "70452",
     "tmdbId": 70452,
     "imdbId": "tt6385752",
@@ -5477,27 +5498,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "299365",
-    "tmdbId": 299365,
-    "imdbId": "tt42206645",
-    "type": "tv",
-    "title": "Reborn Rookie",
-    "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
-    "year": "2026",
-    "rating": 8.179,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mI3fpKc3ztK7FRfFXcjksMu3whn.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -8297,27 +8297,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "116045",
-    "tmdbId": 116045,
-    "imdbId": "tt13670090",
-    "type": "tv",
-    "title": "Hello, Me!",
-    "overview": "Miserable and unsuccessful, a woman thinks she's lost all her spark — until one day, her spunky younger self appears in front of her demanding change.",
-    "year": "2021",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yHqHL1x6y8gyzuPWljpfKe4YakC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ollH7DfG9E0iEX9MsnuGtZYFmvQ.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "240942",
     "tmdbId": 240942,
     "imdbId": "tt30324574",
@@ -8396,6 +8375,27 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "116045",
+    "tmdbId": 116045,
+    "imdbId": "tt13670090",
+    "type": "tv",
+    "title": "Hello, Me!",
+    "overview": "Miserable and unsuccessful, a woman thinks she's lost all her spark — until one day, her spunky younger self appears in front of her demanding change.",
+    "year": "2021",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yHqHL1x6y8gyzuPWljpfKe4YakC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ollH7DfG9E0iEX9MsnuGtZYFmvQ.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
