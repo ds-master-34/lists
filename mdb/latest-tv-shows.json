@@ -1,5 +1,26 @@
 [
   {
+    "id": "213562",
+    "tmdbId": 213562,
+    "imdbId": "tt23148340",
+    "type": "tv",
+    "title": "Crystal Lake",
+    "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+    "year": "2026",
+    "rating": 8.212,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "213375",
     "tmdbId": 213375,
     "imdbId": "tt23112594",
@@ -15,6 +36,27 @@
     "runTimeMinutes": 48,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "335536",
+    "tmdbId": 335536,
+    "imdbId": "tt35051210",
+    "type": "tv",
+    "title": "TYSON",
+    "overview": "Explore the explosive life of Mike Tyson — one of the most feared and fascinating figures in sports history.",
+    "year": "2026",
+    "rating": 9.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bexRfKCRpdOoDe73n0iABeNlSKz.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -695,6 +737,27 @@
       "DE"
     ],
     "originalLanguage": "de"
+  },
+  {
+    "id": "332657",
+    "tmdbId": 332657,
+    "imdbId": "tt32132697",
+    "type": "tv",
+    "title": "Route 187",
+    "overview": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hDe7pmjEWL9di4zDVbOj0mv98Qx.png",
+    "certificate": "16",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "330302",
@@ -1493,6 +1556,27 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "301418",
+    "tmdbId": 301418,
+    "imdbId": "tt41785451",
+    "type": "tv",
+    "title": "The Affair Was Just the Beginning",
+    "overview": "A successful entrepreneur with a seemingly perfect life sees everything fall apart after discovering her husband covering up a murder allegedly committed by their daughter. As the family scrambles to hide the truth, an anonymous blackmailer claims to have recorded everything, pulling them into a dangerous web of lies, secrets, and betrayal.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k1uOMMHv0o9xPJuxh0q28nqN83Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/463KX5md13Db6pIMCCnIZqtPWFK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Gh18B7ngdreVNkqQNsZirfTdEp.png",
+    "certificate": "19",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4104,89 +4188,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "287450",
-    "tmdbId": 287450,
-    "imdbId": "tt32477632",
-    "type": "tv",
-    "title": "Secret Service",
-    "overview": "A British intelligence officer Kate Henderson races against time to uncover a UK politician's potential ties with the Kremlin, risking her reputation and family, as a murder and election loom.",
-    "year": "2026",
-    "rating": 6.667,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z5vJszVCv3feLAlsoPjIuMZjQ46.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aStp0yGb66lIWGlTaFphGunpRyK.png",
-    "certificate": "12",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "300529",
-    "tmdbId": 300529,
-    "imdbId": "tt38337374",
-    "type": "tv",
-    "title": "Straight to Hell",
-    "overview": "As Japan's most famous fortune teller, Kazuko Hosoki ruled TV and bestseller lists, but who was she behind rumors of spiritual scams and underworld ties?",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fRgQ7noEDUoP6w2EEQlQgvnrpiy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hZvPXP2jtZ7oSu0pSeOB3bB8fhJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/A4PMhlq2W43f3CtntVYCepf89JL.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
-  },
-  {
-    "id": "314916",
-    "tmdbId": 314916,
-    "imdbId": "tt35668813",
-    "type": "tv",
-    "title": "Unconditional",
-    "overview": "A mother-daughter vacation abroad takes a devastating turn when Gali is arrested for drug possession. Refusing to accept the charges, her mother Orna risks everything on a quest for freedom—only to get entangled in a web of Gali's secrets.",
-    "year": "2026",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aVvPFnpv0djtEG6KtS3dMdSCwee.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/onsDYGJ7R2ouv6rU7ZqFj0cxbCw.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IL"
-    ],
-    "originalLanguage": "he"
-  },
-  {
-    "id": "321944",
-    "tmdbId": 321944,
-    "imdbId": "tt42132738",
-    "type": "tv",
-    "title": "Must Date the Playboy!",
-    "overview": "A fake relationship. A hidden agenda. A shy girl and a notorious playboy enter a dangerous game of love — where the biggest mistake they can make… is falling for each other.",
-    "year": "2026",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mxF3z6KmdDGf2jpHR2x0iqhkZyE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/63smAq7lAw1HcKqNoCAs55pHpDz.jpg",
-    "logoUrl": null,
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 24,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "SG"
-    ],
-    "originalLanguage": "ta"
   }
 ]
