@@ -1,5 +1,26 @@
 [
   {
+    "id": "1799570",
+    "tmdbId": 1799570,
+    "imdbId": "tt39558804",
+    "type": "movie",
+    "title": "Sugriva",
+    "overview": "Balu leads a quiet life with his wife Prashanthi and young daughter Akshara until an accident leaves the girl in hospital, needing a surgery that costs 50 lakh rupees. Out of options, the desperate father turns to a powerful mafia boss and is drawn into the underworld, where he must rely on his strength and wits to save his family.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dtnutjXr4bXhwfniuX4jaSholLT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/15RG8RGQZ5Vopb9EPLdhq74ptLd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mEolAd0h9s4oOYQBX3JdrjOo8pd.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
     "id": "1799104",
     "tmdbId": 1799104,
     "imdbId": "tt43383993",
