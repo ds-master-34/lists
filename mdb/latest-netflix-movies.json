@@ -21,6 +21,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1756138",
+    "tmdbId": 1756138,
+    "imdbId": "tt9859238",
+    "type": "movie",
+    "title": "Who Is Martin Mull?",
+    "overview": "Discover Martin Mull's restless reinvention from smoky folk clubs to primetime sitcoms to gallery walls, told in his own words and by the friends who watched it happen, including Steve Martin, Tom Waits, David Alan Grier and others.",
+    "year": "2026",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gQjXr8XxVpskubxVACnRLHx5xIS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hWqHYFw8cFkKKHzlMAHk0htDvaE.jpg",
+    "logoUrl": null,
+    "certificate": "19",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1458857",
     "tmdbId": 1458857,
     "imdbId": "tt36429458",
@@ -1848,6 +1869,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1284186",
+    "tmdbId": 1284186,
+    "imdbId": "tt32268992",
+    "type": "movie",
+    "title": "Sacrifice",
+    "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+    "year": "2026",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nLKejp8AUnvcxDPPuWxecvEqeZJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dkQ95ve1iEyt738io4AJOmQgijJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
     ],
     "originalLanguage": "en"
   },
@@ -4168,47 +4210,5 @@
       "CA"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "701387",
-    "tmdbId": 701387,
-    "imdbId": "tt12300742",
-    "type": "movie",
-    "title": "Bugonia",
-    "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-    "year": "2025",
-    "rating": 7.293,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/18Kbb0qeCxwzna0W6a9gEMZuizF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zt1aSeO7YVSmBj4Dh0eTeSGYthO.png",
-    "certificate": "A",
-    "runTimeMinutes": 119,
-    "primaryGenre": "Science Fiction",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1119090",
-    "tmdbId": 1119090,
-    "imdbId": "tt36639986",
-    "type": "movie",
-    "title": "I Am Frankelda",
-    "overview": "A gifted young writer in 19th-century Mexico journeys into her subconscious and comes face to face with characters from her own spooky stories.",
-    "year": "2025",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hDzllxB1TQ7uUxVvjnGHirJJovt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pme7D46PxaOdNWika46q5VUS2CR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xy6Nec5740aIfIG3vRAeLJSkUos.svg",
-    "certificate": "NR",
-    "runTimeMinutes": 104,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "MX"
-    ],
-    "originalLanguage": "es"
   }
 ]
