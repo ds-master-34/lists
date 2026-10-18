@@ -4032,6 +4032,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "289423",
+    "tmdbId": 289423,
+    "imdbId": "tt37737331",
+    "type": "tv",
+    "title": "Take Charge of My Heart",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "year": "2026",
+    "rating": 8.294,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "31417",
     "tmdbId": 31417,
     "imdbId": "tt2074131",
@@ -4874,27 +4895,6 @@
     "originalLanguage": "ja"
   },
   {
-    "id": "289423",
-    "tmdbId": 289423,
-    "imdbId": "tt37737331",
-    "type": "tv",
-    "title": "Take Charge of My Heart",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "year": "2026",
-    "rating": 8.294,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300727",
     "tmdbId": 300727,
     "imdbId": "tt43357366",
@@ -5294,6 +5294,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "46553",
+    "tmdbId": 46553,
+    "imdbId": "tt2782216",
+    "type": "tv",
+    "title": "Reply 1997",
+    "overview": "As a teen, Shi Won was obsessed with a boy band. Now 33 years old, Shi Won and her friends are reviving their memories as their school reunion nears.",
+    "year": "2012",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/onW5VNmzZuDYmkSeFhtSibt0rRq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qph3c3QKAMsljHM7S0tI25MlQkD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sPOLQt3x9Kfqzll0L96jAfIhqxq.png",
+    "certificate": "NR",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "66082",
+    "tmdbId": 66082,
+    "imdbId": "tt5679572",
+    "type": "tv",
+    "title": "Another Miss Oh",
+    "overview": "Two women working in the same industry with the exact same name keep getting their lives entangled both professionally and personally.",
+    "year": "2016",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rvXTuQf2T6dt1C30z4Tuqy5R7d0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wDPdTGrAMvMgYryojcCUzesgUBX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tiU7FmLkwOMhBDmVbzeAhHzA0zv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "70452",
     "tmdbId": 70452,
     "imdbId": "tt6385752",
@@ -5567,27 +5609,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "46553",
-    "tmdbId": 46553,
-    "imdbId": "tt2782216",
-    "type": "tv",
-    "title": "Reply 1997",
-    "overview": "As a teen, Shi Won was obsessed with a boy band. Now 33 years old, Shi Won and her friends are reviving their memories as their school reunion nears.",
-    "year": "2012",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/onW5VNmzZuDYmkSeFhtSibt0rRq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qph3c3QKAMsljHM7S0tI25MlQkD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sPOLQt3x9Kfqzll0L96jAfIhqxq.png",
-    "certificate": "NR",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "83941",
     "tmdbId": 83941,
     "imdbId": "tt8769260",
@@ -5603,27 +5624,6 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "66082",
-    "tmdbId": 66082,
-    "imdbId": "tt5679572",
-    "type": "tv",
-    "title": "Another Miss Oh",
-    "overview": "Two women working in the same industry with the exact same name keep getting their lives entangled both professionally and personally.",
-    "year": "2016",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rvXTuQf2T6dt1C30z4Tuqy5R7d0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wDPdTGrAMvMgYryojcCUzesgUBX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tiU7FmLkwOMhBDmVbzeAhHzA0zv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6050,6 +6050,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "292121",
+    "tmdbId": 292121,
+    "imdbId": "tt39245629",
+    "type": "tv",
+    "title": "The Scarecrow",
+    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "89410",
     "tmdbId": 89410,
     "imdbId": "tt10253244",
@@ -6128,27 +6149,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
-    "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -6260,6 +6260,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "203164",
+    "tmdbId": 203164,
+    "imdbId": "tt29225198",
+    "type": "tv",
+    "title": "Strong Girl Nam-soon",
+    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
+    "year": "2023",
+    "rating": 7.663,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gJtulJRPQpPgSG5bdG5ybudLnqd.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "253905",
     "tmdbId": 253905,
     "imdbId": "tt33503491",
@@ -6365,27 +6386,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "72690",
-    "tmdbId": 72690,
-    "imdbId": "tt7020532",
-    "type": "tv",
-    "title": "Save Me",
-    "overview": "Four young men come to the rescue of a former classmate whose family has been sucked into the clutches of a religious cult and its charismatic leader.",
-    "year": "2017",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oflwibJLRZZtYDUdjEu0XWD7lIi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ssmKNLHwGJCSBUMcmo1FeBLCNqu.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hcmDK0EcXeIjzvwsEATejiScaPU.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "106465",
     "tmdbId": 106465,
     "imdbId": "tt12850262",
@@ -6399,27 +6399,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/ywFmrTTTHe5RSVSypV9Q7LSoH0z.png",
     "certificate": "15",
     "runTimeMinutes": 60,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "203164",
-    "tmdbId": 203164,
-    "imdbId": "tt29225198",
-    "type": "tv",
-    "title": "Strong Girl Nam-soon",
-    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
-    "year": "2023",
-    "rating": 7.663,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gJtulJRPQpPgSG5bdG5ybudLnqd.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -6485,6 +6464,27 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "72690",
+    "tmdbId": 72690,
+    "imdbId": "tt7020532",
+    "type": "tv",
+    "title": "Save Me",
+    "overview": "Four young men come to the rescue of a former classmate whose family has been sucked into the clutches of a religious cult and its charismatic leader.",
+    "year": "2017",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oflwibJLRZZtYDUdjEu0XWD7lIi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ssmKNLHwGJCSBUMcmo1FeBLCNqu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hcmDK0EcXeIjzvwsEATejiScaPU.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -6569,6 +6569,27 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "294095",
+    "tmdbId": 294095,
+    "imdbId": "tt43616775",
+    "type": "tv",
+    "title": "A Bona Fide Killer",
+    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -6674,27 +6695,6 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "294095",
-    "tmdbId": 294095,
-    "imdbId": "tt43616775",
-    "type": "tv",
-    "title": "A Bona Fide Killer",
-    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -6842,6 +6842,27 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "220076",
+    "tmdbId": 220076,
+    "imdbId": "tt26679485",
+    "type": "tv",
+    "title": "The Story of Park's Marriage Contract",
+    "overview": "A woman travels from 19th century Joseon to modern-day Seoul, her fate takes a twist with a ‘fake marriage’ with a man who resembles her ex-husband.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c3IKOXfdRVYN1BH97rWC7U0BI1L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jV5VPSDT4KoGyjBcTBvT7f4kcLJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6wicWejPgUYFvaKu9PSHQg3qjxY.png",
+    "certificate": "15",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -7100,27 +7121,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "220076",
-    "tmdbId": 220076,
-    "imdbId": "tt26679485",
-    "type": "tv",
-    "title": "The Story of Park's Marriage Contract",
-    "overview": "A woman travels from 19th century Joseon to modern-day Seoul, her fate takes a twist with a ‘fake marriage’ with a man who resembles her ex-husband.",
-    "year": "2023",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c3IKOXfdRVYN1BH97rWC7U0BI1L.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jV5VPSDT4KoGyjBcTBvT7f4kcLJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6wicWejPgUYFvaKu9PSHQg3qjxY.png",
-    "certificate": "15",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "276472",
     "tmdbId": 276472,
     "imdbId": "tt40108629",
@@ -7310,6 +7310,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "5381",
+    "tmdbId": 5381,
+    "imdbId": "tt0477524",
+    "type": "tv",
+    "title": "My Lovely Sam Soon",
+    "overview": "An average pastry chef agrees to pose as a wealthy restaurant owner’s pretend girlfriend – but real feelings make things complicated.",
+    "year": "2005",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hqam3HaYUdZH1uXB9BqwJ7UBeij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kWQMRr6rjG7qAPNnAsBFGmtKD4O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/p40stRKSU2OVHFRrQrMpT1RNqGZ.png",
+    "certificate": "15",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "70595",
     "tmdbId": 70595,
     "imdbId": "tt6032762",
@@ -7430,27 +7451,6 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "5381",
-    "tmdbId": 5381,
-    "imdbId": "tt0477524",
-    "type": "tv",
-    "title": "My Lovely Sam Soon",
-    "overview": "An average pastry chef agrees to pose as a wealthy restaurant owner’s pretend girlfriend – but real feelings make things complicated.",
-    "year": "2005",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hqam3HaYUdZH1uXB9BqwJ7UBeij.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kWQMRr6rjG7qAPNnAsBFGmtKD4O.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/p40stRKSU2OVHFRrQrMpT1RNqGZ.png",
-    "certificate": "15",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7604,6 +7604,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "275102",
+    "tmdbId": 275102,
+    "imdbId": "tt36347588",
+    "type": "tv",
+    "title": "The Scandal",
+    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i8NWMINx7uTJJlsKZvgPwP9dQll.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233219",
     "tmdbId": 233219,
     "imdbId": "tt34622123",
@@ -7724,27 +7745,6 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "275102",
-    "tmdbId": 275102,
-    "imdbId": "tt36347588",
-    "type": "tv",
-    "title": "The Scandal",
-    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-    "year": "2026",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i8NWMINx7uTJJlsKZvgPwP9dQll.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 80,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
