@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "283371",
+    "tmdbId": 283371,
+    "imdbId": "tt36470958",
+    "type": "tv",
+    "title": "The Trap",
+    "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+    "year": "2026",
+    "rating": 6.225,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "335536",
     "tmdbId": 335536,
     "imdbId": "tt35051210",
@@ -59,6 +80,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "307176",
+    "tmdbId": 307176,
+    "imdbId": "tt38990181",
+    "type": "tv",
+    "title": "Dustfall",
+    "overview": "Seasoned detective Tig returns to her hometown of North Gap after years in the city, and uncovers a string of drink-spiking assaults, the case is turned on its head when a primary suspect is found murdered.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a7LdXshL4vuCA3LWB2gNNckBIpO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q7VXA2jZ88Dvp7TPbqNVWwR94ik.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dUOZrvruwxhvTtfYKDK1CEoLHgd.png",
+    "certificate": "M",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "AU"
     ],
     "originalLanguage": "en"
   },
@@ -4144,48 +4186,6 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "NZ"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "257994",
-    "tmdbId": 257994,
-    "imdbId": "tt32767294",
-    "type": "tv",
-    "title": "Half Man",
-    "overview": "When Niall's estranged 'brother' Ruben shows up at his wedding, it leads to an explosion of violence that catapults us back through their lives.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/loZCtN8s1yjSBD75rbHsRisWfUc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kCn25N8mYOajoEF1VzqoYyYs8n4.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "270476",
-    "tmdbId": 270476,
-    "imdbId": "tt33332385",
-    "type": "tv",
-    "title": "Widow's Bay",
-    "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sTu3Xvai7lVNRZcniEC0kFC9BvA.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }
