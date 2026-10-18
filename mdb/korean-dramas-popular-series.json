@@ -756,6 +756,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "99489",
+    "tmdbId": 99489,
+    "imdbId": "tt13067118",
+    "type": "tv",
+    "title": "The Penthouse",
+    "overview": "Three women who live at Seoul's most luxurious penthouse apartment will stop at nothing to protect their status and their children's futures. But a murder at Hera leaves one mom questioning her place in this elite society and puts her on the road for revenge.",
+    "year": "2020",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/phNCvOZkzxWk24oSWvxIfCusbnt.png",
+    "certificate": "MA15+",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "294636",
     "tmdbId": 294636,
     "imdbId": "tt44072314",
@@ -1134,27 +1155,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "112888",
-    "tmdbId": 112888,
-    "imdbId": "tt13274038",
-    "type": "tv",
-    "title": "True Beauty",
-    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
-    "year": "2020",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
-    "certificate": "12",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "135340",
     "tmdbId": 135340,
     "imdbId": "tt14979052",
@@ -1302,6 +1302,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "112888",
+    "tmdbId": 112888,
+    "imdbId": "tt13274038",
+    "type": "tv",
+    "title": "True Beauty",
+    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+    "year": "2020",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
+    "certificate": "12",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "210704",
     "tmdbId": 210704,
     "imdbId": "tt20600022",
@@ -1422,27 +1443,6 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "99489",
-    "tmdbId": 99489,
-    "imdbId": "tt13067118",
-    "type": "tv",
-    "title": "The Penthouse",
-    "overview": "Three women who live at Seoul's most luxurious penthouse apartment will stop at nothing to protect their status and their children's futures. But a murder at Hera leaves one mom questioning her place in this elite society and puts her on the road for revenge.",
-    "year": "2020",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/phNCvOZkzxWk24oSWvxIfCusbnt.png",
-    "certificate": "MA15+",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -1966,27 +1966,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/zQLzxu3optEC5zLoEJ2CpxYrysW.svg",
     "certificate": "TV-14",
     "runTimeMinutes": 90,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "205319",
-    "tmdbId": 205319,
-    "imdbId": "tt26258202",
-    "type": "tv",
-    "title": "Daily Dose of Sunshine",
-    "overview": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
-    "year": "2023",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1M1uTLRNZD9Yjdo5iXFXshPaQXq.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -2688,6 +2667,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "214999",
+    "tmdbId": 214999,
+    "imdbId": "tt27042206",
+    "type": "tv",
+    "title": "The Good Bad Mother",
+    "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
+    "year": "2023",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vtDLhvpTk1xcaBCKubSH0if575G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vP4DNFkN1tGidCkHDuHewN5buYM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "205319",
+    "tmdbId": 205319,
+    "imdbId": "tt26258202",
+    "type": "tv",
+    "title": "Daily Dose of Sunshine",
+    "overview": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
+    "year": "2023",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1M1uTLRNZD9Yjdo5iXFXshPaQXq.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "219651",
     "tmdbId": 219651,
     "imdbId": "tt26653824",
@@ -2850,27 +2871,6 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "214999",
-    "tmdbId": 214999,
-    "imdbId": "tt27042206",
-    "type": "tv",
-    "title": "The Good Bad Mother",
-    "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
-    "year": "2023",
-    "rating": 8.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vtDLhvpTk1xcaBCKubSH0if575G.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vP4DNFkN1tGidCkHDuHewN5buYM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3045,27 +3045,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "154824",
-    "tmdbId": 154824,
-    "imdbId": "tt27838483",
-    "type": "tv",
-    "title": "See You in My 19th Life",
-    "overview": "Ban Ji-eum can endlessly reincarnate. But when her 18th life gets cut short, she dedicates the next one to finding her now grown-up childhood love.",
-    "year": "2023",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zbP6wPbdFCTFnzuZoVXMw9q5Hno.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jChgOjgYN7Vhkc5OpBbIYG4uSTG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/k9rhDMxgLlMOMH6lnUHxvHSD0dl.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "60957",
     "tmdbId": 60957,
     "imdbId": "tt3469052",
@@ -3144,6 +3123,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "333484",
+    "tmdbId": 333484,
+    "imdbId": "tt41070790",
+    "type": "tv",
+    "title": "Your Personal Taxi",
+    "overview": "In an unusual taxi, passengers open up about their lives, sharing personal stories alongside songs that hold special meaning to them.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/600463FEirm57sAsFcD55iGbVrE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJtNQgGoXTCEZzmdJUijryXV5bO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uhJIQPerTMbJRoYomzbitzHeewj.png",
+    "certificate": "12",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3310,27 +3310,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/6Tou2BGxiDMVCdvIlbD056pqixt.png",
     "certificate": "TV-14",
     "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "137094",
-    "tmdbId": 137094,
-    "imdbId": "tt26229508",
-    "type": "tv",
-    "title": "Love to Hate You",
-    "overview": "For an attorney who despises losing to men and an A-list actor who distrusts women, love means nothing — until they're forced to date each other.",
-    "year": "2023",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ifOXQyDvpVnZvKq7pR8fujtbeQk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wApbr6dC602QMnoCMdRvfV4aMKq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wnDCW1EQI3sAqRwG22jEv5Zl9C8.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -3844,27 +3823,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "66082",
-    "tmdbId": 66082,
-    "imdbId": "tt5679572",
-    "type": "tv",
-    "title": "Another Miss Oh",
-    "overview": "Two women working in the same industry with the exact same name keep getting their lives entangled both professionally and personally.",
-    "year": "2016",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rvXTuQf2T6dt1C30z4Tuqy5R7d0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wDPdTGrAMvMgYryojcCUzesgUBX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tiU7FmLkwOMhBDmVbzeAhHzA0zv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "153496",
     "tmdbId": 153496,
     "imdbId": "tt18352538",
@@ -3922,6 +3880,27 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "137094",
+    "tmdbId": 137094,
+    "imdbId": "tt26229508",
+    "type": "tv",
+    "title": "Love to Hate You",
+    "overview": "For an attorney who despises losing to men and an A-list actor who distrusts women, love means nothing — until they're forced to date each other.",
+    "year": "2023",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ifOXQyDvpVnZvKq7pR8fujtbeQk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wApbr6dC602QMnoCMdRvfV4aMKq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wnDCW1EQI3sAqRwG22jEv5Zl9C8.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4069,27 +4048,6 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "197078",
-    "tmdbId": 197078,
-    "imdbId": "tt23788642",
-    "type": "tv",
-    "title": "Summer Strike",
-    "overview": "After getting dumped by her boyfriend and losing her mother in an accident, Yeo-reum decides to move to a small village to do nothing.",
-    "year": "2022",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ge4M0QHCfegOETAkjAKZroo82Rr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bFIXVd8oxOsFg4GkkTYTvMe7uF6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7BfJ3p5JnvwC6QA6lHtKRX437M9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8393,6 +8351,48 @@
     "runTimeMinutes": 60,
     "primaryGenre": "",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "69413",
+    "tmdbId": 69413,
+    "imdbId": "tt10642476",
+    "type": "tv",
+    "title": "Delicious Love",
+    "overview": "A teen romantic comedy that tells the story of a chef named Sung Jun who is the best at his craft and has no flaws in the eyes of others, but he is simply hopeless when it comes to love. But when he meets a girl who eats everything deliciously, he falls in love at first sight.",
+    "year": "2015",
+    "rating": 4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vJRRN2cCYfXIE1TuPSqo04RvJMU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wqw4F74yekdgOvA4FIqdL8kDR5h.jpg",
+    "logoUrl": null,
+    "certificate": "ALL",
+    "runTimeMinutes": 18,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "30735",
+    "tmdbId": 30735,
+    "imdbId": "tt3375828",
+    "type": "tv",
+    "title": "Dream",
+    "overview": "Dream is a 2009 South Korean television series that follows the lives of a sports agent and K-1 fighters. Starring Joo Jin-mo, Kim Bum and Son Dam-bi, it aired on SBS from July 27 to September 29, 2009 on Mondays and Tuesdays at 21:55 for 20 episodes.",
+    "year": "2009",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fhvBI3paDEhAFXKPR4zNPVdlSVY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xzKZ6wk5dCT7DjvnzbPEu9kPaIF.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
     "originCountries": [
       "KR"
     ],
