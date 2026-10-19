@@ -1575,27 +1575,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "301886",
-    "tmdbId": 301886,
-    "imdbId": "tt39303266",
-    "type": "tv",
-    "title": "To My Beloved Thief",
-    "overview": "Hong Eun Jo leads a double life: a servant and healer by day and a Robin-Hood-like thief named Gil Dong by night. Grand Prince Do Wol, brother to the King, begins to investigate the case. An encounter with a monk leads to them swapping souls, and they are forced to navigate each other's complex worlds.",
-    "year": "2026",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rovxC2ugTtaMsgo7lOF4R4VBSb9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/enTNCPGiu3dhul8XTBZEJCLZWbI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tq1tYKkRy2MSdNPJVkivEF80M7Y.png",
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "296009",
     "tmdbId": 296009,
     "imdbId": "tt39375130",
@@ -1611,6 +1590,27 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "301886",
+    "tmdbId": 301886,
+    "imdbId": "tt39303266",
+    "type": "tv",
+    "title": "To My Beloved Thief",
+    "overview": "Hong Eun Jo leads a double life: a servant and healer by day and a Robin-Hood-like thief named Gil Dong by night. Grand Prince Do Wol, brother to the King, begins to investigate the case. An encounter with a monk leads to them swapping souls, and they are forced to navigate each other's complex worlds.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rovxC2ugTtaMsgo7lOF4R4VBSb9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/enTNCPGiu3dhul8XTBZEJCLZWbI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tq1tYKkRy2MSdNPJVkivEF80M7Y.png",
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -6638,27 +6638,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "155040",
-    "tmdbId": 155040,
-    "imdbId": "tt30241060",
-    "type": "tv",
-    "title": "My Man Is Cupid",
-    "overview": "Star-crossed love story between a love fairy and a human girl. For humans and fairies aren’t meant to be, when he accidentally shoots himself and falls in love, their fate takes a wrong turn. The two reconnect after centuries of reincarnation. Where will this story lead?",
-    "year": "2023",
-    "rating": 7.485,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ij2dlIzdEJa09Am7nxEoJbEjYcN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vm1XKRtPkHmyTy9IXL1jDqROCIf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2RrrnG15wa0X6RVj2tzzfSexGpo.png",
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "218539",
     "tmdbId": 218539,
     "imdbId": "tt29569035",
@@ -6674,6 +6653,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "155040",
+    "tmdbId": 155040,
+    "imdbId": "tt30241060",
+    "type": "tv",
+    "title": "My Man Is Cupid",
+    "overview": "Star-crossed love story between a love fairy and a human girl. For humans and fairies aren’t meant to be, when he accidentally shoots himself and falls in love, their fate takes a wrong turn. The two reconnect after centuries of reincarnation. Where will this story lead?",
+    "year": "2023",
+    "rating": 7.485,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ij2dlIzdEJa09Am7nxEoJbEjYcN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vm1XKRtPkHmyTy9IXL1jDqROCIf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2RrrnG15wa0X6RVj2tzzfSexGpo.png",
+    "certificate": "15",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
