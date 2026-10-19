@@ -63,6 +63,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1487317",
+    "tmdbId": 1487317,
+    "imdbId": "tt37027309",
+    "type": "movie",
+    "title": "Therapy Done Right",
+    "overview": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
+    "year": "2026",
+    "rating": 7.661,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "1756138",
     "tmdbId": 1756138,
     "imdbId": "tt9859238",
@@ -4187,27 +4208,6 @@
     "secondaryGenre": "Family",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1550569",
-    "tmdbId": 1550569,
-    "imdbId": "tt38457052",
-    "type": "movie",
-    "title": "Aileen: Queen of the Serial Killers",
-    "overview": "Aileen Wuornos remains a rarity: a female serial killer. From childhood abuse to death-row revelations, this documentary revisits her life and crimes.",
-    "year": "2025",
-    "rating": 6.953,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iBCorGTwpXhIOeWwTA21HC5Rprx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mrYoBknZhVI7jMsEe4nbbHLgLKa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9kKvwmZjUbkanaB13KUGFHV6PRz.png",
-    "certificate": "A",
-    "runTimeMinutes": 104,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }
