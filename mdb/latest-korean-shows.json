@@ -1,5 +1,47 @@
 [
   {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "307106",
+    "tmdbId": 307106,
+    "imdbId": "tt39087958",
+    "type": "tv",
+    "title": "Between Steps",
+    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "316197",
     "tmdbId": 316197,
     "imdbId": "tt43088191",
@@ -14,27 +56,6 @@
     "certificate": "15",
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -84,6 +105,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "310326",
     "tmdbId": 310326,
     "imdbId": "tt43643492",
@@ -126,27 +168,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
-    "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
-    "year": "2026",
-    "rating": 10,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "311648",
     "tmdbId": 311648,
     "imdbId": "tt47661704",
@@ -160,27 +181,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
     "certificate": "15",
     "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307106",
-    "tmdbId": 307106,
-    "imdbId": "tt39087958",
-    "type": "tv",
-    "title": "Between Steps",
-    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -2500,6 +2500,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "285678",
+    "tmdbId": 285678,
+    "imdbId": "tt36449057",
+    "type": "tv",
+    "title": "Protect Your Luck",
+    "overview": "Han Mu Cheol, also known as 'K-Scrooge', owns Daewoon Building and is obsessed with money. He is wealthy but miserly, trembling at 100 won and spewing venom at people.",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aEqfkiRe2N2aUCcsNZfmPeTtz4P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqQZdyXxeDCXE2sqaWa29W4vQP8.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "223326",
     "tmdbId": 223326,
     "imdbId": "tt27368147",
@@ -2518,27 +2539,6 @@
     "originCountries": [
       "KR",
       "US"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "285678",
-    "tmdbId": 285678,
-    "imdbId": "tt36449057",
-    "type": "tv",
-    "title": "Protect Your Luck",
-    "overview": "Han Mu Cheol, also known as 'K-Scrooge', owns Daewoon Building and is obsessed with money. He is wealthy but miserly, trembling at 100 won and spewing venom at people.",
-    "year": "2025",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aEqfkiRe2N2aUCcsNZfmPeTtz4P.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqQZdyXxeDCXE2sqaWa29W4vQP8.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
     ],
     "originalLanguage": "ko"
   },
@@ -4118,27 +4118,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "243964",
-    "tmdbId": 243964,
-    "imdbId": "tt35450649",
-    "type": "tv",
-    "title": "Melo Movie",
-    "overview": "A movie buff falls for an aspiring director, igniting a romance that fizzles out too soon. When their paths cross again, can love find its way back?",
-    "year": "2025",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4Aat5liR3Aepisn0fhxegpBSGKF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/am3WbCcPXKGhUSCpHNnSNfiKIBd.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "233100",
     "tmdbId": 233100,
     "imdbId": "tt34730468",
@@ -4154,6 +4133,27 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "243964",
+    "tmdbId": 243964,
+    "imdbId": "tt35450649",
+    "type": "tv",
+    "title": "Melo Movie",
+    "overview": "A movie buff falls for an aspiring director, igniting a romance that fizzles out too soon. When their paths cross again, can love find its way back?",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4Aat5liR3Aepisn0fhxegpBSGKF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/am3WbCcPXKGhUSCpHNnSNfiKIBd.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7016,27 +7016,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "216310",
-    "tmdbId": 216310,
-    "imdbId": "tt28348835",
-    "type": "tv",
-    "title": "Castaway Diva",
-    "overview": "Fifteen years after being stranded on a remote island, an aspiring singer reenters society — stopping at nothing to pursue her dream of becoming a diva.",
-    "year": "2023",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oYOxdgfPogMoXPizBjKcZx7f9k2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6b5AgwBJ9RQKzXh0B7kG0wWq5P9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8aLbTnMYqRpk5Oz0EiueEGleMDk.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "230524",
     "tmdbId": 230524,
     "imdbId": "tt29657033",
@@ -7052,6 +7031,27 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "216310",
+    "tmdbId": 216310,
+    "imdbId": "tt28348835",
+    "type": "tv",
+    "title": "Castaway Diva",
+    "overview": "Fifteen years after being stranded on a remote island, an aspiring singer reenters society — stopping at nothing to pursue her dream of becoming a diva.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oYOxdgfPogMoXPizBjKcZx7f9k2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6b5AgwBJ9RQKzXh0B7kG0wWq5P9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8aLbTnMYqRpk5Oz0EiueEGleMDk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
