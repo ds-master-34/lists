@@ -63,27 +63,6 @@
     "originalLanguage": "de"
   },
   {
-    "id": "335536",
-    "tmdbId": 335536,
-    "imdbId": "tt35051210",
-    "type": "tv",
-    "title": "TYSON",
-    "overview": "Explore the explosive life of Mike Tyson — one of the most feared and fascinating figures in sports history.",
-    "year": "2026",
-    "rating": 9.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bexRfKCRpdOoDe73n0iABeNlSKz.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "307176",
     "tmdbId": 307176,
     "imdbId": "tt38990181",
@@ -101,6 +80,27 @@
     "secondaryGenre": "Crime",
     "originCountries": [
       "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "333101",
+    "tmdbId": 333101,
+    "imdbId": "tt40385667",
+    "type": "tv",
+    "title": "Treasure Island",
+    "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+    "year": "2026",
+    "rating": 6.31,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hL0kOXZMmv3VYAb5ldP2jMK5GWr.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -141,6 +141,27 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 9.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -907,6 +928,27 @@
       "US"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "294636",
+    "tmdbId": 294636,
+    "imdbId": "tt44072314",
+    "type": "tv",
+    "title": "The Ordinary Jackpot",
+    "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
+    "certificate": "15",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "325755",
@@ -4146,47 +4188,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "318262",
-    "tmdbId": 318262,
-    "imdbId": "tt41082351",
-    "type": "tv",
-    "title": "Should I Marry a Murderer?",
-    "overview": "In 2020, pathologist Caroline Muirhead's fiancé, Scottish farmer Alexander 'Sandy' McKellar, confessed to her that he and his twin brother Robert had killed cyclist Tony Parsons in a 2017 hit-and-run on the A82 near Bridge of Orchy and buried the body on the Auch Estate.",
-    "year": "2026",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wu8iopmnuCDZ45FMD3Gh7IgQaCI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mbgqjJLj5cr4vZZ6jAzutE5WmON.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "320348",
-    "tmdbId": 320348,
-    "imdbId": "tt42321618",
-    "type": "tv",
-    "title": "New Zealand Spy",
-    "overview": "The New Zealand Intelligence Agency’s on the hunt for new recruits. When the agency places an ad in the newspaper, only three decidedly unlikely candidates respond. Thrown headfirst into the murky world of espionage, the mismatched trio fumbles its way through betrayal, romance and escalating absurdity.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7cIOwTqZDcUm0NMriuIZMGTx9az.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fGWPPryex9ffPGeYuJJYYIMkVvy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zCgijN4QmLaMK2p6kuar9gIT6lb.png",
-    "certificate": "M",
-    "runTimeMinutes": 23,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "NZ"
-    ],
-    "originalLanguage": "en"
   }
 ]
