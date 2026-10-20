@@ -1,26 +1,5 @@
 [
   {
-    "id": "289423",
-    "tmdbId": 289423,
-    "imdbId": "tt37737331",
-    "type": "tv",
-    "title": "Take Charge of My Heart",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "year": "2026",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "293610",
     "tmdbId": 293610,
     "imdbId": "tt39328047",
@@ -36,6 +15,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "289423",
+    "tmdbId": 289423,
+    "imdbId": "tt37737331",
+    "type": "tv",
+    "title": "Take Charge of My Heart",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -567,27 +567,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "67915",
-    "tmdbId": 67915,
-    "imdbId": "tt5994364",
-    "type": "tv",
-    "title": "Guardian: The Lonely and Great God",
-    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
-    "year": "2016",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vq3jtNuFkeVW3dYZGOjvsgTKyPa.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "298610",
     "tmdbId": 298610,
     "imdbId": "tt40247521",
@@ -645,27 +624,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "99494",
-    "tmdbId": 99494,
-    "imdbId": "tt11691684",
-    "type": "tv",
-    "title": "Flower of Evil",
-    "overview": "Hiding a twisted past, a man maintains his facade as the perfect husband to his detective wife — until she begins investigating a series of murders.",
-    "year": "2020",
-    "rating": 8.256,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7kMOHCoDjQeZSJkTJzba2Xm6V5T.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 79,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -771,27 +729,6 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "316197",
-    "tmdbId": 316197,
-    "imdbId": "tt43088191",
-    "type": "tv",
-    "title": "Dive into You",
-    "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1029,27 +966,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "233347",
-    "tmdbId": 233347,
-    "imdbId": "tt35304338",
-    "type": "tv",
-    "title": "Study Group",
-    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
-    "year": "2025",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nZDeIfKCzp0qhu4N3HxrcKWN59J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A32KgHacV0pCJNYIH4JrQb5djGu.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nqycxjYBir3wfQbcjqW2SFtiQeG.png",
-    "certificate": "19",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "278573",
     "tmdbId": 278573,
     "imdbId": "tt39333617",
@@ -1113,6 +1029,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "99494",
+    "tmdbId": 99494,
+    "imdbId": "tt11691684",
+    "type": "tv",
+    "title": "Flower of Evil",
+    "overview": "Hiding a twisted past, a man maintains his facade as the perfect husband to his detective wife — until she begins investigating a series of murders.",
+    "year": "2020",
+    "rating": 8.256,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7kMOHCoDjQeZSJkTJzba2Xm6V5T.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "233347",
+    "tmdbId": 233347,
+    "imdbId": "tt35304338",
+    "type": "tv",
+    "title": "Study Group",
+    "overview": "A struggling student at Korea's worst high school forms a study group while protecting his classmates with his fighting skills, hoping to overcome academic challenges and secure a spot in college.",
+    "year": "2025",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nZDeIfKCzp0qhu4N3HxrcKWN59J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A32KgHacV0pCJNYIH4JrQb5djGu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nqycxjYBir3wfQbcjqW2SFtiQeG.png",
+    "certificate": "19",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "129888",
     "tmdbId": 129888,
     "imdbId": "tt17513352",
@@ -1155,6 +1113,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "67915",
+    "tmdbId": 67915,
+    "imdbId": "tt5994364",
+    "type": "tv",
+    "title": "Guardian: The Lonely and Great God",
+    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+    "year": "2016",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vq3jtNuFkeVW3dYZGOjvsgTKyPa.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "229891",
     "tmdbId": 229891,
     "imdbId": "tt30293074",
@@ -1176,27 +1155,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "230923",
-    "tmdbId": 230923,
-    "imdbId": "tt31324295",
-    "type": "tv",
-    "title": "Lovely Runner",
-    "overview": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
-    "year": "2024",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yqzvNd51lbn08jYZ61OypGH7p6e.png",
-    "certificate": "15",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "232766",
     "tmdbId": 232766,
     "imdbId": "tt29650530",
@@ -1212,6 +1170,27 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "230923",
+    "tmdbId": 230923,
+    "imdbId": "tt31324295",
+    "type": "tv",
+    "title": "Lovely Runner",
+    "overview": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+    "year": "2024",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yqzvNd51lbn08jYZ61OypGH7p6e.png",
+    "certificate": "15",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -1344,6 +1323,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "65143",
+    "tmdbId": 65143,
+    "imdbId": "tt4925000",
+    "type": "tv",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "year": "2016",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c3EVMcfTRwrXVl4GUm2ficTVKi1.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "253905",
     "tmdbId": 253905,
     "imdbId": "tt33503491",
@@ -1357,6 +1357,48 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
     "certificate": "TV-14",
     "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "316197",
+    "tmdbId": 316197,
+    "imdbId": "tt43088191",
+    "type": "tv",
+    "title": "Dive into You",
+    "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
+    "certificate": "15",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "113268",
+    "tmdbId": 113268,
+    "imdbId": "tt13273826",
+    "type": "tv",
+    "title": "The Uncanny Counter",
+    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
+    "year": "2020",
+    "rating": 8.339,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xF6Bl12zpDQ144NxCTPaYs6fwll.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 72,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
     "originCountries": [
@@ -1422,6 +1464,27 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "119769",
+    "tmdbId": 119769,
+    "imdbId": "tt13759970",
+    "type": "tv",
+    "title": "Taxi Driver",
+    "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company.",
+    "year": "2021",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lghfb8beej1aH9ML8QyeSixniom.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i1SyUHsi45psSH1xy9sM0in8FKJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mzrKK1FUNs8YTdkrmDP288KsmKT.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -1512,27 +1575,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "156484",
-    "tmdbId": 156484,
-    "imdbId": "tt30423279",
-    "type": "tv",
-    "title": "The 8 Show",
-    "overview": "Eight individuals trapped in a mysterious 8-story building participate in a tempting but dangerous show where they earn money as time passes.",
-    "year": "2024",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/umBNBnKThMmF1QQZixZ7rsYOowq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cjWtOw2fQvL0g8oiAhdfPvdsG6a.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "116612",
     "tmdbId": 116612,
     "imdbId": "tt13634872",
@@ -1547,27 +1589,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 79,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "119769",
-    "tmdbId": 119769,
-    "imdbId": "tt13759970",
-    "type": "tv",
-    "title": "Taxi Driver",
-    "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company.",
-    "year": "2021",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lghfb8beej1aH9ML8QyeSixniom.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i1SyUHsi45psSH1xy9sM0in8FKJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mzrKK1FUNs8YTdkrmDP288KsmKT.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
@@ -1610,6 +1631,27 @@
     "certificate": "NC16",
     "runTimeMinutes": 71,
     "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "156484",
+    "tmdbId": 156484,
+    "imdbId": "tt30423279",
+    "type": "tv",
+    "title": "The 8 Show",
+    "overview": "Eight individuals trapped in a mysterious 8-story building participate in a tempting but dangerous show where they earn money as time passes.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/umBNBnKThMmF1QQZixZ7rsYOowq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cjWtOw2fQvL0g8oiAhdfPvdsG6a.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Mystery",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
@@ -1869,27 +1911,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "113268",
-    "tmdbId": 113268,
-    "imdbId": "tt13273826",
-    "type": "tv",
-    "title": "The Uncanny Counter",
-    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
-    "year": "2020",
-    "rating": 8.339,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xF6Bl12zpDQ144NxCTPaYs6fwll.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "67391",
     "tmdbId": 67391,
     "imdbId": "tt5966882",
@@ -2058,6 +2079,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "92983",
+    "tmdbId": 92983,
+    "imdbId": "tt8523042",
+    "type": "tv",
+    "title": "Vagabond",
+    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
+    "year": "2019",
+    "rating": 8.277,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tlfueIFua3TWPDaK5aEYBe8rwOI.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "79434",
+    "tmdbId": 79434,
+    "imdbId": "tt8242904",
+    "type": "tv",
+    "title": "What's Wrong with Secretary Kim",
+    "overview": "When his secretary unexpectedly quits, an arrogant executive will do anything to bring her back.",
+    "year": "2018",
+    "rating": 8.316,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pmiqjuSPhQGZrxllkFC8KiK8I3T.png",
+    "certificate": "15",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "292121",
     "tmdbId": 292121,
     "imdbId": "tt39245629",
@@ -2115,48 +2178,6 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "74682",
-    "tmdbId": 74682,
-    "imdbId": "tt7521778",
-    "type": "tv",
-    "title": "I Am Not a Robot",
-    "overview": "Kim Min Gyu has wealth and success, but lives an isolated life due to his allergy of people. He then meets and falls in love with a girl who is pretending to be a robot for her ex-boyfriend, a genius robots professor.",
-    "year": "2017",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2l1KTliFU7SjNT1OpTojbvjEnZe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vKpIUPTiUX0pOdh0N813nHvNczg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/a10lvSULPvslv2p2SdIwAmVLcMR.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 26,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "65143",
-    "tmdbId": 65143,
-    "imdbId": "tt4925000",
-    "type": "tv",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "year": "2016",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/c3EVMcfTRwrXVl4GUm2ficTVKi1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -2331,6 +2352,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "74682",
+    "tmdbId": 74682,
+    "imdbId": "tt7521778",
+    "type": "tv",
+    "title": "I Am Not a Robot",
+    "overview": "Kim Min Gyu has wealth and success, but lives an isolated life due to his allergy of people. He then meets and falls in love with a girl who is pretending to be a robot for her ex-boyfriend, a genius robots professor.",
+    "year": "2017",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2l1KTliFU7SjNT1OpTojbvjEnZe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vKpIUPTiUX0pOdh0N813nHvNczg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a10lvSULPvslv2p2SdIwAmVLcMR.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "154887",
     "tmdbId": 154887,
     "imdbId": "tt15146130",
@@ -2478,48 +2520,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "79434",
-    "tmdbId": 79434,
-    "imdbId": "tt8242904",
-    "type": "tv",
-    "title": "What's Wrong with Secretary Kim",
-    "overview": "When his secretary unexpectedly quits, an arrogant executive will do anything to bring her back.",
-    "year": "2018",
-    "rating": 8.316,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/w6muIYgrx1XZFombs3N8owfgLwf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pmiqjuSPhQGZrxllkFC8KiK8I3T.png",
-    "certificate": "15",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "92983",
-    "tmdbId": 92983,
-    "imdbId": "tt8523042",
-    "type": "tv",
-    "title": "Vagabond",
-    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
-    "year": "2019",
-    "rating": 8.277,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tlfueIFua3TWPDaK5aEYBe8rwOI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "61670",
     "tmdbId": 61670,
     "imdbId": "tt4284216",
@@ -2556,6 +2556,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "229915",
+    "tmdbId": 229915,
+    "imdbId": "tt29899652",
+    "type": "tv",
+    "title": "Night Has Come",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "year": "2023",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gJLKUo5y7N4MGuASLLCAG3GuVVN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -2814,27 +2835,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "70649",
-    "tmdbId": 70649,
-    "imdbId": "tt6256484",
-    "type": "tv",
-    "title": "While You Were Sleeping",
-    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
-    "year": "2017",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uN1uvzg4ekww9TFIxfHMwBsQ0FA.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 29,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "205082",
     "tmdbId": 205082,
     "imdbId": "tt27458539",
@@ -2919,6 +2919,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "202783",
+    "tmdbId": 202783,
+    "imdbId": "tt28642796",
+    "type": "tv",
+    "title": "A Killer Paradox",
+    "overview": "When one accidental killing leads to another, an ordinary young man finds himself stuck in an endless cat-and-mouse chase with a shrewd detective.",
+    "year": "2024",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/i2yYZGT2If8XcCZS9ASF1g13MiT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q8hTaxWrOi85jnHZvQzEuSQrMmI.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "108284",
     "tmdbId": 108284,
     "imdbId": "tt12879418",
@@ -2932,6 +2953,48 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/3CEEgSitIV4CwSuKNzVMOnPe9zP.png",
     "certificate": "TV-14",
     "runTimeMinutes": 80,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "243964",
+    "tmdbId": 243964,
+    "imdbId": "tt35450649",
+    "type": "tv",
+    "title": "Melo Movie",
+    "overview": "A movie buff falls for an aspiring director, igniting a romance that fizzles out too soon. When their paths cross again, can love find its way back?",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4Aat5liR3Aepisn0fhxegpBSGKF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/am3WbCcPXKGhUSCpHNnSNfiKIBd.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "70649",
+    "tmdbId": 70649,
+    "imdbId": "tt6256484",
+    "type": "tv",
+    "title": "While You Were Sleeping",
+    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
+    "year": "2017",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uN1uvzg4ekww9TFIxfHMwBsQ0FA.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 29,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -2982,84 +3045,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "222233",
-    "tmdbId": 222233,
-    "imdbId": "tt27135274",
+    "id": "258256",
+    "tmdbId": 258256,
+    "imdbId": "tt36807294",
     "type": "tv",
-    "title": "Doctor Slump",
-    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
-    "year": "2024",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yUZbp3Yk6SN4u6TwUDsQNik704W.png",
-    "certificate": "TV-14",
+    "title": "Our Movie",
+    "overview": "A director with no future and an actress with no tomorrow fall into a love story that cannot wait.",
+    "year": "2025",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4tEVuEVaPUvfddItXAEcL8zxOxr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/C8FKBkJsUMV5ezhhupvA0lmX2w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l90VdKjVNbGU1PGxetYADcLZg96.png",
+    "certificate": "PG13",
     "runTimeMinutes": 72,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "229915",
-    "tmdbId": 229915,
-    "imdbId": "tt29899652",
-    "type": "tv",
-    "title": "Night Has Come",
-    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
-    "year": "2023",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gJLKUo5y7N4MGuASLLCAG3GuVVN.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "235355",
-    "tmdbId": 235355,
-    "imdbId": "tt31171500",
-    "type": "tv",
-    "title": "Resident Playbook",
-    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
-    "year": "2025",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9cHQ9q6XuRlndCKZTVeMu54KtF9.png",
-    "certificate": "15",
-    "runTimeMinutes": 100,
-    "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "243964",
-    "tmdbId": 243964,
-    "imdbId": "tt35450649",
-    "type": "tv",
-    "title": "Melo Movie",
-    "overview": "A movie buff falls for an aspiring director, igniting a romance that fizzles out too soon. When their paths cross again, can love find its way back?",
-    "year": "2025",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4Aat5liR3Aepisn0fhxegpBSGKF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/am3WbCcPXKGhUSCpHNnSNfiKIBd.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3192,6 +3192,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "212957",
+    "tmdbId": 212957,
+    "imdbId": "tt36808372",
+    "type": "tv",
+    "title": "Shark: The Storm",
+    "overview": "An action noir about the life of Cha Woo-sol, who was born again after meeting martial arts champion Jeong Do-hyeon in a juvenile prison.",
+    "year": "2025",
+    "rating": 7.45,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iG7BrHe92jVFNAHMsFxsvBA9NL8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/95WN7H6jyzpvZ6UOojrfocKNMuK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9MqSiytyA3YlVylyAy47DbkVFLw.png",
+    "certificate": "15",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "60957",
     "tmdbId": 60957,
     "imdbId": "tt3469052",
@@ -3276,27 +3297,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "258256",
-    "tmdbId": 258256,
-    "imdbId": "tt36807294",
-    "type": "tv",
-    "title": "Our Movie",
-    "overview": "A director with no future and an actress with no tomorrow fall into a love story that cannot wait.",
-    "year": "2025",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4tEVuEVaPUvfddItXAEcL8zxOxr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/C8FKBkJsUMV5ezhhupvA0lmX2w.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/l90VdKjVNbGU1PGxetYADcLZg96.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300954",
     "tmdbId": 300954,
     "imdbId": "tt39393581",
@@ -3333,6 +3333,27 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "235355",
+    "tmdbId": 235355,
+    "imdbId": "tt31171500",
+    "type": "tv",
+    "title": "Resident Playbook",
+    "overview": "First-year OBGYN residents at Yulje Medical Center navigate the chaos of their work and personal lives, all in their quest to become exceptional doctors.",
+    "year": "2025",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9cHQ9q6XuRlndCKZTVeMu54KtF9.png",
+    "certificate": "15",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3465,27 +3486,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "238458",
-    "tmdbId": 238458,
-    "imdbId": "tt30413044",
-    "type": "tv",
-    "title": "Cashero",
-    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "295509",
     "tmdbId": 295509,
     "imdbId": "tt38626513",
@@ -3564,6 +3564,48 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "238458",
+    "tmdbId": 238458,
+    "imdbId": "tt30413044",
+    "type": "tv",
+    "title": "Cashero",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "3215",
+    "tmdbId": 3215,
+    "imdbId": "tt1772685",
+    "type": "tv",
+    "title": "Coffee Prince",
+    "overview": "An immature company heir falls for his hardworking new cafe employee, but there’s a catch: he thinks she’s a man, and he's... ok with it?",
+    "year": "2007",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/58sGxCprk1CSBXiXCG9fpr1S8D0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Ujyp6wzwcfPp76K7XqP5CYYxPE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xCb0J8C5aD2PNS23ek9KExXQWJc.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3991,21 +4033,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "202783",
-    "tmdbId": 202783,
-    "imdbId": "tt28642796",
+    "id": "68398",
+    "tmdbId": 68398,
+    "imdbId": "tt6157190",
     "type": "tv",
-    "title": "A Killer Paradox",
-    "overview": "When one accidental killing leads to another, an ordinary young man finds himself stuck in an endless cat-and-mouse chase with a shrewd detective.",
-    "year": "2024",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/i2yYZGT2If8XcCZS9ASF1g13MiT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/viQZtznvR20oTTSbXp6MPAWkGB2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/q8hTaxWrOi85jnHZvQzEuSQrMmI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
+    "title": "Dr. Romantic",
+    "overview": "An eccentric, triple board-certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital, where he mentors young doctors.",
+    "year": "2016",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zEZjQTvTzk5MROv1aGG8OnVFEvB.png",
+    "certificate": "NR",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4027,27 +4069,6 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "68398",
-    "tmdbId": 68398,
-    "imdbId": "tt6157190",
-    "type": "tv",
-    "title": "Dr. Romantic",
-    "overview": "An eccentric, triple board-certified virtuoso surgeon leaves a top job in Seoul and ends up at a provincial hospital, where he mentors young doctors.",
-    "year": "2016",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9fbRJgZ2zDTnSUId1bOwsllHNr7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zEZjQTvTzk5MROv1aGG8OnVFEvB.png",
-    "certificate": "NR",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4138,27 +4159,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "299989",
-    "tmdbId": 299989,
-    "imdbId": "tt38179711",
-    "type": "tv",
-    "title": "Quiet Please!",
-    "overview": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not this kind of drama. What he doesn’t expect is to be tormented by the thunderous noise coming from the apartment next door. Determined to put an end to it, he confronts his neighbor—only to make things infinitely worse when he accidentally punches him in the face.Yi-hyuk tries everything—from childish pranks to petty power plays—but his neighbor just won’t budge. He even pleads on his knees to make the noise stop. Just when it seems the feud will never end, they finally manage to call an uneasy truce.And somewhere along the way, Yi-hyuk realizes he might be falling for the very person who once drove him up the wall.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihE0jp6V7R6dMwV7YrbYyjdQMvr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3aPnywGkR8BwLYiu4a2CsUc9eVm.png",
-    "certificate": "19",
-    "runTimeMinutes": 8,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "75123",
     "tmdbId": 75123,
     "imdbId": "tt7099334",
@@ -4195,6 +4195,27 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "224414",
+    "tmdbId": 224414,
+    "imdbId": "tt31014107",
+    "type": "tv",
+    "title": "You and Everything Else",
+    "overview": "From teen years to adulthood, two friends linked by warmth and tension grow apart — until one is asked to accompany the other through her final days.",
+    "year": "2025",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bFHooGj9D87pMp7xQK8VhSAfUo8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5VxTROBF4YeokB5aaJXzAvFzr8j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3KIo7Iq0hsXme6LDisiAR3WAMcw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4531,6 +4552,27 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "299989",
+    "tmdbId": 299989,
+    "imdbId": "tt38179711",
+    "type": "tv",
+    "title": "Quiet Please!",
+    "overview": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not this kind of drama. What he doesn’t expect is to be tormented by the thunderous noise coming from the apartment next door. Determined to put an end to it, he confronts his neighbor—only to make things infinitely worse when he accidentally punches him in the face.Yi-hyuk tries everything—from childish pranks to petty power plays—but his neighbor just won’t budge. He even pleads on his knees to make the noise stop. Just when it seems the feud will never end, they finally manage to call an uneasy truce.And somewhere along the way, Yi-hyuk realizes he might be falling for the very person who once drove him up the wall.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihE0jp6V7R6dMwV7YrbYyjdQMvr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3aPnywGkR8BwLYiu4a2CsUc9eVm.png",
+    "certificate": "19",
+    "runTimeMinutes": 8,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8351,48 +8393,6 @@
     "runTimeMinutes": 27,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "73575",
-    "tmdbId": 73575,
-    "imdbId": "tt7208182",
-    "type": "tv",
-    "title": "Temperature of Love",
-    "overview": "An aspiring screenwriter's online romance with a French chef turns complicated when a persistent business partner vies for her attention.",
-    "year": "2017",
-    "rating": 7.081,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/li5g58aDqpZ30OJTh6pDt3prDq7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1yW7RR0alaQBOcwxLI1fHwF5smJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xTbSBgmdvX6f7BD3RQv37KEK07D.png",
-    "certificate": "15",
-    "runTimeMinutes": 20,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "62409",
-    "tmdbId": 62409,
-    "imdbId": "tt4613620",
-    "type": "tv",
-    "title": "Hwajung",
-    "overview": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the rightful crown prince and usurps the throne. Exiled from court, Jungmyung goes under disguise as a man and learns to adapt to life as a commoner — never forgetting Gwanghae's wrongdoing. But amidst rampant corruption throughout the kingdom, can Jyungmyung exact her vengeance, restore order and take back her rightful place in the palace?",
-    "year": "2015",
-    "rating": 4.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mwRswiiDVqqlJlD9pez4CbANLn8.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
     "originCountries": [
       "KR"
     ],
