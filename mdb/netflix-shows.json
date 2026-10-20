@@ -2465,6 +2465,27 @@
     "originalLanguage": "pl"
   },
   {
+    "id": "252739",
+    "tmdbId": 252739,
+    "imdbId": "tt32237678",
+    "type": "tv",
+    "title": "Goddess Bless You from Death",
+    "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
+    "year": "2025",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ecoTzXCeyzXEG0G99vUUi8yAz5V.png",
+    "certificate": "M18",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "249586",
     "tmdbId": 249586,
     "imdbId": "tt31835154",
@@ -6297,26 +6318,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "250923",
-    "tmdbId": 250923,
-    "imdbId": "tt26933824",
-    "type": "tv",
-    "title": "Nobody Wants This",
-    "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
-    "year": "2024",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yoIDGAhWvPFxPknG3pgQSdvnVAr.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 28,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
