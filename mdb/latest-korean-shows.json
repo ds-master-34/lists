@@ -1,5 +1,26 @@
 [
   {
+    "id": "307106",
+    "tmdbId": 307106,
+    "imdbId": "tt39087958",
+    "type": "tv",
+    "title": "Between Steps",
+    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "303745",
     "tmdbId": 303745,
     "imdbId": "tt45246384",
@@ -57,27 +78,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307106",
-    "tmdbId": 307106,
-    "imdbId": "tt39087958",
-    "type": "tv",
-    "title": "Between Steps",
-    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2163,27 +2163,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "280946",
-    "tmdbId": 280946,
-    "imdbId": "tt36856846",
-    "type": "tv",
-    "title": "Typhoon Family",
-    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
-    "year": "2025",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/o7CPRoPXTogJuiz7UcPHYzNpXC9.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "275592",
     "tmdbId": 275592,
     "imdbId": "tt38570528",
@@ -2199,6 +2178,27 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "280946",
+    "tmdbId": 280946,
+    "imdbId": "tt36856846",
+    "type": "tv",
+    "title": "Typhoon Family",
+    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+    "year": "2025",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o7CPRoPXTogJuiz7UcPHYzNpXC9.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
