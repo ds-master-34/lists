@@ -2356,6 +2356,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1672938",
+    "tmdbId": 1672938,
+    "imdbId": "tt40383471",
+    "type": "movie",
+    "title": "Making of Lord of the Flies",
+    "overview": "A trippy tale capturing the creative vision of writer Jack Thorne and director Marc Munden, as a British crew and young cast film this timely adaptation on the remote islands of Malaysia during monsoon season. The crew battle twisters, torrential rain and scary insects to create this hallucinatory fever dream, featuring behind-the-scenes interviews and mesmerising performances by the newbie cast.",
+    "year": "2026",
+    "rating": 9.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mjhgTkb3WVqyasATS3SQNh99qtN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hmO6gcVSYchZXN0N7XcbXtjaC0k.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jstKjkYWoWnvzAVUUfQezuHzmt5.png",
+    "certificate": "",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1125701",
     "tmdbId": 1125701,
     "imdbId": "tt7374950",
@@ -4189,26 +4210,5 @@
       "TH"
     ],
     "originalLanguage": "th"
-  },
-  {
-    "id": "1507275",
-    "tmdbId": 1507275,
-    "imdbId": "tt37671699",
-    "type": "movie",
-    "title": "A Paw Patrol Christmas",
-    "overview": "Rubble is looking forward to Santa bringing him a new laser drill, but finds that Santa has come down with a cold and can’t deliver any presents. When Mayor Humdinger decides he’s going to the North Pole to take all the gifts for himself, it’s up to the PAW Patrol to stop him.",
-    "year": "2025",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dZpH8UEQD2743cMOPjXqNCg7bWv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32mjpsITLwEQcvqKuMBGyajN18h.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/m4mEHrZdfJi1Xi5gIZvNpUszb6L.png",
-    "certificate": "G",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
