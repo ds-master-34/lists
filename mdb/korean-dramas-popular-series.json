@@ -798,27 +798,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "294636",
-    "tmdbId": 294636,
-    "imdbId": "tt44072314",
-    "type": "tv",
-    "title": "The Ordinary Jackpot",
-    "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
-    "year": "2026",
-    "rating": 7.429,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
-    "certificate": "15",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "96462",
     "tmdbId": 96462,
     "imdbId": "tt12451520",
@@ -1491,6 +1470,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "294636",
+    "tmdbId": 294636,
+    "imdbId": "tt44072314",
+    "type": "tv",
+    "title": "The Ordinary Jackpot",
+    "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
+    "year": "2026",
+    "rating": 7.429,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
+    "certificate": "15",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "241454",
     "tmdbId": 241454,
     "imdbId": "tt30446769",
@@ -1527,27 +1527,6 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "96162",
-    "tmdbId": 96162,
-    "imdbId": "tt11239552",
-    "type": "tv",
-    "title": "Itaewon Class",
-    "overview": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
-    "year": "2020",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ymBkaDMh7gbXMjmRAgGdpUBH4S2.png",
-    "certificate": "15",
-    "runTimeMinutes": 88,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -1617,6 +1596,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "96162",
+    "tmdbId": 96162,
+    "imdbId": "tt11239552",
+    "type": "tv",
+    "title": "Itaewon Class",
+    "overview": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
+    "year": "2020",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ymBkaDMh7gbXMjmRAgGdpUBH4S2.png",
+    "certificate": "15",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "231280",
     "tmdbId": 231280,
     "imdbId": "tt32361930",
@@ -1659,27 +1659,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "108261",
-    "tmdbId": 108261,
-    "imdbId": "tt13400006",
-    "type": "tv",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "year": "2020",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gko6rf0BmhTnc9mawzWfgPUPUT1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "89959",
     "tmdbId": 89959,
     "imdbId": "tt10613844",
@@ -1701,27 +1680,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "230448",
-    "tmdbId": 230448,
-    "imdbId": "tt27539317",
-    "type": "tv",
-    "title": "Mr. Plankton",
-    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
-    "year": "2024",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ugWl7rqoJsJSOC410tzctQf2cYN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iFparapxy2524J5wLlmrv7IXsbW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "198004",
     "tmdbId": 198004,
     "imdbId": "tt26693803",
@@ -1737,6 +1695,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "230448",
+    "tmdbId": 230448,
+    "imdbId": "tt27539317",
+    "type": "tv",
+    "title": "Mr. Plankton",
+    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ugWl7rqoJsJSOC410tzctQf2cYN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iFparapxy2524J5wLlmrv7IXsbW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1779,6 +1758,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "106651",
+    "tmdbId": 106651,
+    "imdbId": "tt12235718",
+    "type": "tv",
+    "title": "Hellbound",
+    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+    "year": "2021",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4FBaYwKFfHoUXDwzUVivL0XDoDX.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -1869,6 +1869,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "67391",
+    "tmdbId": 67391,
+    "imdbId": "tt5966882",
+    "type": "tv",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "year": "2016",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Boog9v42xErQhxoSxMP0pSDAu8.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "289763",
     "tmdbId": 289763,
     "imdbId": "tt38960812",
@@ -1904,27 +1925,6 @@
     "certificate": "TV-14",
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "67391",
-    "tmdbId": 67391,
-    "imdbId": "tt5966882",
-    "type": "tv",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "year": "2016",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1Boog9v42xErQhxoSxMP0pSDAu8.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -1987,6 +1987,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/jWi6kxpHKwRhxeNPhMHDQQSecDm.png",
     "certificate": "TV-14",
     "runTimeMinutes": 122,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "108261",
+    "tmdbId": 108261,
+    "imdbId": "tt13400006",
+    "type": "tv",
+    "title": "Mr. Queen",
+    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
+    "year": "2020",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gko6rf0BmhTnc9mawzWfgPUPUT1.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -2262,27 +2283,6 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "256355",
-    "tmdbId": 256355,
-    "imdbId": "tt33047061",
-    "type": "tv",
-    "title": "Kian's Bizarre B&B",
-    "overview": "On a remote island, Kian84 hosts a quirky B&B escape, where BTS' Jin and Ji Ye-eun lead guests through playful exploits and delightful chaos.",
-    "year": "2025",
-    "rating": 8.154,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/MRbE4voyOTxNlrfykwXmPeSfB7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iPiacwH8UK9Jnt9U27lhwdpU2cE.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mMxpNyLlpEcE5HaiZMRoRo8SNCF.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Reality",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -2625,6 +2625,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "322723",
+    "tmdbId": 322723,
+    "imdbId": "tt48409707",
+    "type": "tv",
+    "title": "Boy, with Caution",
+    "overview": "A disgraced teacher finds comfort in an anonymous chat partner, unaware the troubled student behind the messages is growing closer to him.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7PACkKJJ09apWdYSKvDtbajprG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AnaPwTBGbjHcqlQXB7G29GRbiL8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7ecDtHJHT2U0iM79EnwgyukIixS.png",
+    "certificate": "19",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "286360",
     "tmdbId": 286360,
     "imdbId": "tt36270432",
@@ -2661,48 +2682,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "96571",
-    "tmdbId": 96571,
-    "imdbId": "tt11052470",
-    "type": "tv",
-    "title": "Move to Heaven",
-    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
-    "year": "2021",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qXZmSOeeS0JtEUc2imQW0TjRLe9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "106651",
-    "tmdbId": 106651,
-    "imdbId": "tt12235718",
-    "type": "tv",
-    "title": "Hellbound",
-    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
-    "year": "2021",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4FBaYwKFfHoUXDwzUVivL0XDoDX.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -2787,6 +2766,27 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "132979",
+    "tmdbId": 132979,
+    "imdbId": "tt15146202",
+    "type": "tv",
+    "title": "Bad and Crazy",
+    "overview": "A superhero drama about Soo-yeol who has lived his whole life as a materialistic police detective, but changes into a champion for justice and fights against police corruption when a hidden persona called \"K\" awakens inside him.",
+    "year": "2021",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gN5UG5Cf31NJJDH5aSv1mNOXFlT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6MQaS4mMnM2WPvsAdQvZDOTxRK9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sEjL8v83Rf1iwfSavYdzHrkKW72.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3045,6 +3045,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "96571",
+    "tmdbId": 96571,
+    "imdbId": "tt11052470",
+    "type": "tv",
+    "title": "Move to Heaven",
+    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
+    "year": "2021",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qXZmSOeeS0JtEUc2imQW0TjRLe9.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "258256",
     "tmdbId": 258256,
     "imdbId": "tt36807294",
@@ -3276,27 +3297,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "333484",
-    "tmdbId": 333484,
-    "imdbId": "tt41070790",
-    "type": "tv",
-    "title": "Your Personal Taxi",
-    "overview": "In an unusual taxi, passengers open up about their lives, sharing personal stories alongside songs that hold special meaning to them.",
-    "year": "2026",
-    "rating": 10,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/600463FEirm57sAsFcD55iGbVrE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJtNQgGoXTCEZzmdJUijryXV5bO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uhJIQPerTMbJRoYomzbitzHeewj.png",
-    "certificate": "12",
-    "runTimeMinutes": 26,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300954",
     "tmdbId": 300954,
     "imdbId": "tt39393581",
@@ -3312,27 +3312,6 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "132979",
-    "tmdbId": 132979,
-    "imdbId": "tt15146202",
-    "type": "tv",
-    "title": "Bad and Crazy",
-    "overview": "A superhero drama about Soo-yeol who has lived his whole life as a materialistic police detective, but changes into a champion for justice and fights against police corruption when a hidden persona called \"K\" awakens inside him.",
-    "year": "2021",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gN5UG5Cf31NJJDH5aSv1mNOXFlT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6MQaS4mMnM2WPvsAdQvZDOTxRK9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sEjL8v83Rf1iwfSavYdzHrkKW72.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3480,6 +3459,27 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "93657",
+    "tmdbId": 93657,
+    "imdbId": "tt10826102",
+    "type": "tv",
+    "title": "Extraordinary You",
+    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/90j1gGBn4uQcd1xyOYgxHUyO8kB.png",
+    "certificate": "15",
+    "runTimeMinutes": 37,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3646,6 +3646,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/czQCUwo2j7wJhp1ItQ0DdxrKvtj.png",
     "certificate": "12",
     "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "333484",
+    "tmdbId": 333484,
+    "imdbId": "tt41070790",
+    "type": "tv",
+    "title": "Your Personal Taxi",
+    "overview": "In an unusual taxi, passengers open up about their lives, sharing personal stories alongside songs that hold special meaning to them.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/600463FEirm57sAsFcD55iGbVrE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJtNQgGoXTCEZzmdJUijryXV5bO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uhJIQPerTMbJRoYomzbitzHeewj.png",
+    "certificate": "12",
+    "runTimeMinutes": 26,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -4510,27 +4531,6 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "93657",
-    "tmdbId": 93657,
-    "imdbId": "tt10826102",
-    "type": "tv",
-    "title": "Extraordinary You",
-    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
-    "year": "2019",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/90j1gGBn4uQcd1xyOYgxHUyO8kB.png",
-    "certificate": "15",
-    "runTimeMinutes": 37,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
