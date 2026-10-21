@@ -1,5 +1,26 @@
 [
   {
+    "id": "1376856",
+    "tmdbId": 1376856,
+    "imdbId": "tt31969655",
+    "type": "movie",
+    "title": "The Paradise",
+    "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+    "year": "2026",
+    "rating": 4.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zgCkFI2L1cnq1pIJC7gndC6P3Rr.png",
+    "certificate": "A",
+    "runTimeMinutes": 174,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
     "id": "1799570",
     "tmdbId": 1799570,
     "imdbId": "tt39558804",
