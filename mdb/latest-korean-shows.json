@@ -4244,27 +4244,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "250385",
-    "tmdbId": 250385,
-    "imdbId": "tt33085643",
-    "type": "tv",
-    "title": "Iron Family",
-    "overview": "Iron Family depicts warm love and fierce conflict between family members and provides an opportunity to reflect on the meaning of 'family' in modern society.",
-    "year": "2024",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iRwBoGCMEMdmanAsXM11EGJwqtD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sevM7QtEPjJB8QN1h017zIbU3hC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kpcVbpmC2Y6NT1Qc0Keqg4vypPV.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "226649",
     "tmdbId": 226649,
     "imdbId": "tt33980640",
@@ -4280,6 +4259,27 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "250385",
+    "tmdbId": 250385,
+    "imdbId": "tt33085643",
+    "type": "tv",
+    "title": "Iron Family",
+    "overview": "Iron Family depicts warm love and fierce conflict between family members and provides an opportunity to reflect on the meaning of 'family' in modern society.",
+    "year": "2024",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iRwBoGCMEMdmanAsXM11EGJwqtD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sevM7QtEPjJB8QN1h017zIbU3hC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kpcVbpmC2Y6NT1Qc0Keqg4vypPV.png",
+    "certificate": "15",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
     "originCountries": [
       "KR"
     ],
@@ -7331,27 +7331,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "212203",
-    "tmdbId": 212203,
-    "imdbId": "tt28743902",
-    "type": "tv",
-    "title": "The Kidnapping Day",
-    "overview": "A father turned clumsy kidnapper and a genius child get tangled in unexpected circumstances.",
-    "year": "2023",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rtuZelGw0xDo27akrKD36aCiYN5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7DY8ZndmTLecEO25OW4Wib4zvmp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nIOczVDZHXQJMfrGTUoBhJn11c5.png",
-    "certificate": "15",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "210704",
     "tmdbId": 210704,
     "imdbId": "tt20600022",
@@ -7367,6 +7346,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Crime",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "212203",
+    "tmdbId": 212203,
+    "imdbId": "tt28743902",
+    "type": "tv",
+    "title": "The Kidnapping Day",
+    "overview": "A father turned clumsy kidnapper and a genius child get tangled in unexpected circumstances.",
+    "year": "2023",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rtuZelGw0xDo27akrKD36aCiYN5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7DY8ZndmTLecEO25OW4Wib4zvmp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nIOczVDZHXQJMfrGTUoBhJn11c5.png",
+    "certificate": "15",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
