@@ -21,6 +21,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "286183",
+    "tmdbId": 286183,
+    "imdbId": "tt35673115",
+    "type": "tv",
+    "title": "Hollywood Arts",
+    "overview": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A4YDllXwK8ZOlpPlW57yK4YRXWx.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "213375",
     "tmdbId": 213375,
     "imdbId": "tt23112594",
@@ -269,6 +290,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "231801",
+    "tmdbId": 231801,
+    "imdbId": "tt33406999",
+    "type": "tv",
+    "title": "GET JIRO",
+    "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+    "year": "2026",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qQWJIQ2nY10pabBOWBqg6siCbkZ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "US"
     ],
@@ -906,6 +948,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "314939",
+    "tmdbId": 314939,
+    "imdbId": "tt43736405",
+    "type": "tv",
+    "title": "A Love Other Than Yours",
+    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "260249",
@@ -4125,68 +4188,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "311858",
-    "tmdbId": 311858,
-    "imdbId": "tt34273502",
-    "type": "tv",
-    "title": "Prisoner",
-    "overview": "A young and ambitious prison officer finds herself in the middle of a battle for the criminal underworld as crime lords try to evade justice. But in order to do that, she will have to learn quickly to put her faith in one of the very men she wants to put behind bars.",
-    "year": "2026",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zDjl6FOCuCy8gyug54VDlLgxa1l.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uozEhY3g882QqgNg5AjR2cXAVRC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vi9VllIYo8ujAWQgQAq2DD23gGd.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "259702",
-    "tmdbId": 259702,
-    "imdbId": "tt33022938",
-    "type": "tv",
-    "title": "The House of the Spirits",
-    "overview": "The epic tale of a proud and passionate family, secret loves, and bloody revolution. The Trueba family's passions, struggles, and secrets span a century of violent social change, culminating in a crisis that hurls the proud, tyrannical patriarch and his beloved granddaughter towards opposite sides of the fence.",
-    "year": "2026",
-    "rating": 8.459,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aX2MN3TweeODXA8xrciMWogL9A2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9GG6cPSTaLgtas19PLmqzrlTfpB.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "278113",
-    "tmdbId": 278113,
-    "imdbId": "tt37253311",
-    "type": "tv",
-    "title": "Gold Land",
-    "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qhbwTTeSnIGctR4CEmHc9RQBwtT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoJgqEYpxRWd58gNQKNwYlPUFeZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/b6K8twKCjo0y7sNmPcvqoVnvzT3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]
