@@ -317,6 +317,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "292111",
+    "tmdbId": 292111,
+    "imdbId": "tt37350966",
+    "type": "tv",
+    "title": "The Reluctant Vampire",
+    "overview": "A young vampire finds out he is not in fact a vampire at all, and has to live a double life.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8nAWtAkMOtmAyq0ZaqEI3Ia7w8M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2QChVbIhtQFJI6VYi8W5FQoHVy4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dOlmSlVRpmI4BDDarNYVTLtIleq.png",
+    "certificate": "",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "284558",
     "tmdbId": 284558,
     "imdbId": "tt35726020",
@@ -991,6 +1012,27 @@
       "US"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "316241",
+    "tmdbId": 316241,
+    "imdbId": "tt43603919",
+    "type": "tv",
+    "title": "Pls Love",
+    "overview": "Cold and seemingly-perfect business heiress Peem reunites with Parn, a woman she once shared a fleeting seaside romance with–now working as a hostess at a luxury club in Bangkok. Determined to keep her close, Peem hires her as a personal assistant, forcing them to confront unresolved feelings, pride, and painful misunderstandings. As secrets and class differences threaten to pull them apart, both women must decide if they are brave enough to trust and love each other without judgement.",
+    "year": "2026",
+    "rating": 9.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4wCj3cqVJUi2lmNVe05YaPj5ys8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/51eUZbANuBk9KBA4V3PALGEGs2k.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uHl5K8yLMMCtljDovx8fDR3cWk.png",
+    "certificate": "16",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
   },
   {
     "id": "294636",
@@ -4146,47 +4188,5 @@
       "CA"
     ],
     "originalLanguage": "fr"
-  },
-  {
-    "id": "320452",
-    "tmdbId": 320452,
-    "imdbId": "tt36854075",
-    "type": "tv",
-    "title": "Golden Boys",
-    "overview": "Stockholm 1997. Eco-criminal Joachim Posener, recently released from prison, dreams of building an empire. He wants to show his parents and his seven-year-old son that he can achieve anything. Joachim joins forces with his boundless cousin, Thomas Jisander. They call themselves the Golden Boys and party hard, dream big and plan an extremely illegal business scheme. The series is inspired by the Trustor affair.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/s9kyXsqJ8hEv1S3WNx8dySDWQAU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5CWizTOaU3aM5KiIwFkCUsVEb5A.jpg",
-    "logoUrl": null,
-    "certificate": "Från 15 år",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "SE"
-    ],
-    "originalLanguage": "sv"
-  },
-  {
-    "id": "223386",
-    "tmdbId": 223386,
-    "imdbId": "tt27331527",
-    "type": "tv",
-    "title": "Man on Fire",
-    "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
-    "year": "2026",
-    "rating": 7.393,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/brsyZlmvOTHfJxgwpfT2hAd55CP.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
