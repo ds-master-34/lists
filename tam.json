@@ -1,5 +1,26 @@
 [
   {
+    "id": "1515692",
+    "tmdbId": 1515692,
+    "imdbId": "tt32012509",
+    "type": "movie",
+    "title": "Baththa",
+    "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4ycOQ94Sh73VboamUUPGe49f24Q.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 159,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ta"
+  },
+  {
     "id": "1578079",
     "tmdbId": 1578079,
     "imdbId": "tt38915678",
@@ -8373,27 +8394,6 @@
     "runTimeMinutes": 145,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "1223603",
-    "tmdbId": 1223603,
-    "imdbId": "tt30523278",
-    "type": "movie",
-    "title": "Eppura",
-    "overview": "Eppura is a Tamil movie based on six stories.It takes place in one night in Puducherry .A movie called 'Eppura' has been made by hyperlinking the story with dark comedy.",
-    "year": "2024",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rLbaWfONqV0VDkWEmkQfpyucq4y.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "IN"
     ],
