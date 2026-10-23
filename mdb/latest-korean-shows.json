@@ -2521,27 +2521,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "285678",
-    "tmdbId": 285678,
-    "imdbId": "tt36449057",
-    "type": "tv",
-    "title": "Protect Your Luck",
-    "overview": "Han Mu Cheol, also known as 'K-Scrooge', owns Daewoon Building and is obsessed with money. He is wealthy but miserly, trembling at 100 won and spewing venom at people.",
-    "year": "2025",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aEqfkiRe2N2aUCcsNZfmPeTtz4P.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqQZdyXxeDCXE2sqaWa29W4vQP8.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "223326",
     "tmdbId": 223326,
     "imdbId": "tt27368147",
@@ -2560,6 +2539,27 @@
     "originCountries": [
       "KR",
       "US"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "285678",
+    "tmdbId": 285678,
+    "imdbId": "tt36449057",
+    "type": "tv",
+    "title": "Protect Your Luck",
+    "overview": "Han Mu Cheol, also known as 'K-Scrooge', owns Daewoon Building and is obsessed with money. He is wealthy but miserly, trembling at 100 won and spewing venom at people.",
+    "year": "2025",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aEqfkiRe2N2aUCcsNZfmPeTtz4P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqQZdyXxeDCXE2sqaWa29W4vQP8.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
     ],
     "originalLanguage": "ko"
   },
@@ -7226,6 +7226,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "262438",
+    "tmdbId": 262438,
+    "imdbId": "tt33255199",
+    "type": "tv",
+    "title": "Youth on the Road",
+    "overview": "“We’ll help you to celebrate your 100-day anniversary!” But... you don’t even know your girlfriend’s face?!\n\nThe trio's wanderings in Miryang for his first love!\n\n\"Will I be able to find the girlfriend I dreamed of?\"",
+    "year": "2023",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Uw75vQa2r2jExLdKEMamRaQVMi.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "212204",
     "tmdbId": 212204,
     "imdbId": "tt27446493",
@@ -7429,48 +7450,6 @@
     "certificate": "",
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "215001",
-    "tmdbId": 215001,
-    "imdbId": "tt27974068",
-    "type": "tv",
-    "title": "Destined with You",
-    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
-    "year": "2023",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8zBQfIPFZOnJdxgTmeXkeJCPehK.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "272360",
-    "tmdbId": 272360,
-    "imdbId": "tt33482771",
-    "type": "tv",
-    "title": "Golf's True Colors",
-    "overview": "A story about losing everything while betting on golf with friends.",
-    "year": "2023",
-    "rating": 4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDFlI31NqLf0rF8sOuv0UU7MWMe.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
