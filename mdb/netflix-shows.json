@@ -1918,6 +1918,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "310045",
+    "tmdbId": 310045,
+    "imdbId": "tt34692346",
+    "type": "tv",
+    "title": "To Love, To Lose",
+    "overview": "A star-crossed romance seals the fate of two families when a woman trying to save her family restaurant falls for the surly heir of a debt collector.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j5mbscE83E2udAljoALb65Sxhmt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3I7VZG3xrEaSxvn48LvStuwRInQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oYMNRZGcWr3h6Rpnn2GpfMboJhR.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": "tr"
+  },
+  {
     "id": "259731",
     "tmdbId": 259731,
     "imdbId": "tt33035373",
@@ -6297,26 +6318,5 @@
       "MX"
     ],
     "originalLanguage": "es"
-  },
-  {
-    "id": "250385",
-    "tmdbId": 250385,
-    "imdbId": "tt33085643",
-    "type": "tv",
-    "title": "Iron Family",
-    "overview": "Iron Family depicts warm love and fierce conflict between family members and provides an opportunity to reflect on the meaning of 'family' in modern society.",
-    "year": "2024",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iRwBoGCMEMdmanAsXM11EGJwqtD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sevM7QtEPjJB8QN1h017zIbU3hC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kpcVbpmC2Y6NT1Qc0Keqg4vypPV.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]
