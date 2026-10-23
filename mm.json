@@ -1,5 +1,26 @@
 [
   {
+    "id": "1805385",
+    "tmdbId": 1805385,
+    "imdbId": "tt41935268",
+    "type": "movie",
+    "title": "Aaru Aanugal",
+    "overview": "The story traces six stages in a man's life, from childhood to old age, revealing the roles, struggles, and responsibilities he carries through each phase of his journey.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/12HpY4UGzsJ0zD4eLoylc8DNhyf.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ml"
+  },
+  {
     "id": "1590718",
     "tmdbId": 1590718,
     "imdbId": "tt38990864",
@@ -8375,27 +8396,6 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ml"
-  },
-  {
-    "id": "877250",
-    "tmdbId": 877250,
-    "imdbId": "tt15477202",
-    "type": "movie",
-    "title": "Voice of Sathyanathan",
-    "overview": "A man is mistakenly suspected of being a threat to the President of India.",
-    "year": "2023",
-    "rating": 6.409,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rVGr7tD7j866GtZfV6IxTDxqzIe.jpg",
-    "backdropUrl": null,
-    "logoUrl": "https://image.tmdb.org/t/p/w500/upJclg6nvjpEpC7Xy8BSTS8ziEt.png",
-    "certificate": "U",
-    "runTimeMinutes": 135,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
