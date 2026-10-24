@@ -7434,26 +7434,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "272707",
-    "tmdbId": 272707,
-    "imdbId": "tt33505764",
-    "type": "tv",
-    "title": "Ridiculous Diet Rules",
-    "overview": "The story of Noh Yu-ji, a happy maintainer who compromised with reality after a never-ending battle with dieting.",
-    "year": "2023",
-    "rating": 4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ijAgwHgQBtH6fk78ia73IA5e7iA.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]
