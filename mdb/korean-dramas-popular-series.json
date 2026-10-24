@@ -336,48 +336,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "290193",
-    "tmdbId": 290193,
-    "imdbId": "tt36996011",
-    "type": "tv",
-    "title": "Mousetrap",
-    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "215072",
-    "tmdbId": 215072,
-    "imdbId": "tt26450613",
-    "type": "tv",
-    "title": "A Shop for Killers",
-    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-    "year": "2024",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lg134VJrvY3ZdOlP4lTu1onOhcf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/u9mNj02iYfhRx4p48QmOkKKjQpu.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "94796",
     "tmdbId": 94796,
     "imdbId": "tt10850932",
@@ -420,6 +378,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215072",
+    "tmdbId": 215072,
+    "imdbId": "tt26450613",
+    "type": "tv",
+    "title": "A Shop for Killers",
+    "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+    "year": "2024",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lg134VJrvY3ZdOlP4lTu1onOhcf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u9mNj02iYfhRx4p48QmOkKKjQpu.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "275102",
     "tmdbId": 275102,
     "imdbId": "tt36347588",
@@ -435,6 +414,27 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "290193",
+    "tmdbId": 290193,
+    "imdbId": "tt36996011",
+    "type": "tv",
+    "title": "Mousetrap",
+    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1596,6 +1596,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "292121",
+    "tmdbId": 292121,
+    "imdbId": "tt39245629",
+    "type": "tv",
+    "title": "The Scarecrow",
+    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "206693",
     "tmdbId": 206693,
     "imdbId": "tt26228190",
@@ -1995,6 +2016,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "281013",
+    "tmdbId": 281013,
+    "imdbId": "tt38353551",
+    "type": "tv",
+    "title": "Dynamite Kiss",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "year": "2025",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8M6uxiedTxVj8OWgNletMu0NqHu.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "96102",
     "tmdbId": 96102,
     "imdbId": "tt11769304",
@@ -2205,27 +2247,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
-    "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "64840",
     "tmdbId": 64840,
     "imdbId": "tt5332206",
@@ -2346,27 +2367,6 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "126035",
-    "tmdbId": 126035,
-    "imdbId": "tt14518284",
-    "type": "tv",
-    "title": "Nevertheless,",
-    "overview": "The intoxicating charm of a flirtatious art school classmate pulls a reluctant love cynic into a friends-with-benefits relationship.",
-    "year": "2021",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pWIcIhpQibR1eDU0As4HRZeb8EL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cPLtnxTlFpCIyH6AkGNuGCluvY1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fDsFgLql4MBm3pebGfqB4L4fOWZ.png",
-    "certificate": "19",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -2646,6 +2646,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "126035",
+    "tmdbId": 126035,
+    "imdbId": "tt14518284",
+    "type": "tv",
+    "title": "Nevertheless,",
+    "overview": "The intoxicating charm of a flirtatious art school classmate pulls a reluctant love cynic into a friends-with-benefits relationship.",
+    "year": "2021",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pWIcIhpQibR1eDU0As4HRZeb8EL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cPLtnxTlFpCIyH6AkGNuGCluvY1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fDsFgLql4MBm3pebGfqB4L4fOWZ.png",
+    "certificate": "19",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "261980",
     "tmdbId": 261980,
     "imdbId": "tt36724865",
@@ -2682,27 +2703,6 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "281013",
-    "tmdbId": 281013,
-    "imdbId": "tt38353551",
-    "type": "tv",
-    "title": "Dynamite Kiss",
-    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
-    "year": "2025",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8M6uxiedTxVj8OWgNletMu0NqHu.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2856,27 +2856,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "99048",
-    "tmdbId": 99048,
-    "imdbId": "tt12867810",
-    "type": "tv",
-    "title": "Start-Up",
-    "overview": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
-    "year": "2020",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v9Ej3dWhR0nFcLPOtvdPFXC6DN9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/AvhQDybz5p2MIzrjlYXIfz9l5ev.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "136732",
     "tmdbId": 136732,
     "imdbId": "tt19800324",
@@ -2997,6 +2976,48 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "208336",
+    "tmdbId": 208336,
+    "imdbId": "tt23032890",
+    "type": "tv",
+    "title": "Revenge of Others",
+    "overview": "A boy falls to his death at school, but Ok Chan-mi does not believe that her twin brother, Park Won-seok, committed suicide. Chan-mi transfers to her brother's school, Yongtan High, and meets Ji Soo-heon, who witnessed her brother's death. A \"hero,\" who avenges bullied students, appears at Yongtan High. Chan-mi speculates that it may be connected to her brother and starts looking for this hero.",
+    "year": "2022",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ccej6D8J81DDJWqhP7OG6PA6xcl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zbzldNycqQy1O9gP5vwJf9HECwk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7X9QYpdtnor40WulKJlJDGCIRq.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "245079",
+    "tmdbId": 245079,
+    "imdbId": "tt35378081",
+    "type": "tv",
+    "title": "Hyper Knife",
+    "overview": "Seok, an eager yet genius neurosurgeon is reunited with Deokhee, the professor who ruined her life long ago. Once, the two surgeons cared for each other more than anyone else. But now with nothing but hatred toward each other, Seok is furious that he is back in her life and vows to take revenge.",
+    "year": "2025",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hHkiSxa7O8kPjyyTJ9ue2mqYJVx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gd6er39HiIfVQIDKhZdMz7FVIw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bAZI6l4Gd8MAZ96Qx0JOZMi4lie.png",
+    "certificate": "18",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3339,6 +3360,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "96164",
+    "tmdbId": 96164,
+    "imdbId": "tt12042964",
+    "type": "tv",
+    "title": "The World of the Married",
+    "overview": "Ji Sun Woo is an associate director of a family clinic with a perfect life—a great career, married to a handsome, young-looking man, mother to an adoring son, and surrounded by seemingly caring friends. She couldn't be more content. Lee Tae Oh, her husband, is an aspiring movie director. However, when his temptation leads him to betray Sun Woo along with the people around her, she gets driven to revenge. The perilous twists-and-turns of a married couple's life unfolds.",
+    "year": "2020",
+    "rating": 7.547,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/240WwUgMGGgIF4gUWg0ecVfSeKE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s5blC7jMtAOHcFxmdADqwHBby0X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jqMVxortCwXS3NxdbfnyMklBDzb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "258256",
     "tmdbId": 258256,
     "imdbId": "tt36807294",
@@ -3654,27 +3696,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293608",
-    "tmdbId": 293608,
-    "imdbId": "tt39219419",
-    "type": "tv",
-    "title": "Undercover Miss Hong",
-    "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xlYu3wbL8DQVFqZ1QqoepdOK2AY.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "276472",
     "tmdbId": 276472,
     "imdbId": "tt40108629",
@@ -3906,6 +3927,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "99048",
+    "tmdbId": 99048,
+    "imdbId": "tt12867810",
+    "type": "tv",
+    "title": "Start-Up",
+    "overview": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
+    "year": "2020",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v9Ej3dWhR0nFcLPOtvdPFXC6DN9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AvhQDybz5p2MIzrjlYXIfz9l5ev.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "301418",
     "tmdbId": 301418,
     "imdbId": "tt41785451",
@@ -4110,6 +4152,27 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "90814",
+    "tmdbId": 90814,
+    "imdbId": "tt10262630",
+    "type": "tv",
+    "title": "Extracurricular",
+    "overview": "Determined to escape a dead-end life, a gifted high school student turns to a world of serious crime to ensure he can pay for college.",
+    "year": "2020",
+    "rating": 8.103,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dPMsIHo7LUtGaBfpV4c35wKZERV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nQAyoR7kmyiQCC9EAJLb12ZDS2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4Xg7HRtHhoXyXDDvEDjqvmVGDB6.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4369,27 +4432,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "245079",
-    "tmdbId": 245079,
-    "imdbId": "tt35378081",
-    "type": "tv",
-    "title": "Hyper Knife",
-    "overview": "Seok, an eager yet genius neurosurgeon is reunited with Deokhee, the professor who ruined her life long ago. Once, the two surgeons cared for each other more than anyone else. But now with nothing but hatred toward each other, Seok is furious that he is back in her life and vows to take revenge.",
-    "year": "2025",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hHkiSxa7O8kPjyyTJ9ue2mqYJVx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gd6er39HiIfVQIDKhZdMz7FVIw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bAZI6l4Gd8MAZ96Qx0JOZMi4lie.png",
-    "certificate": "18",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "137094",
     "tmdbId": 137094,
     "imdbId": "tt26229508",
@@ -4642,6 +4684,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "258764",
+    "tmdbId": 258764,
+    "imdbId": "tt35839843",
+    "type": "tv",
+    "title": "The Divorce Insurance",
+    "overview": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6HAbRWYkX3bouEeHA4bjsUxznKC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kXxiTD8ePVtwqQTtTMdJXqVusmi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yedxd9ntgHib0m15e0UD5C4YgR3.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "214582",
     "tmdbId": 214582,
     "imdbId": "tt27995115",
@@ -4656,27 +4719,6 @@
     "certificate": "TV-14",
     "runTimeMinutes": 101,
     "primaryGenre": "Reality",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "227192",
-    "tmdbId": 227192,
-    "imdbId": "tt29311421",
-    "type": "tv",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "year": "2024",
-    "rating": 8.057,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9uMnB5gdANzSe0tFLIDa2irsOEc.png",
-    "certificate": "19",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
@@ -4768,6 +4810,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "227192",
+    "tmdbId": 227192,
+    "imdbId": "tt29311421",
+    "type": "tv",
+    "title": "Pyramid Game",
+    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
+    "year": "2024",
+    "rating": 8.057,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9uMnB5gdANzSe0tFLIDa2irsOEc.png",
+    "certificate": "19",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "81822",
     "tmdbId": 81822,
     "imdbId": "tt8801670",
@@ -4783,6 +4846,27 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "134465",
+    "tmdbId": 134465,
+    "imdbId": "tt15672294",
+    "type": "tv",
+    "title": "Crazy Love",
+    "overview": "No Go Jin is the most popular mathematics instructor in the private education field and the CEO of GOTOP Education. Even though he has only a high school level education, he has achieved all of his success due to his extreme intelligence. He seems like a perfect man with a handsome appearance, high IQ, and wealth. He is also narcissistic. One day, he is suddenly warned that he will be murdered.\n\nLee Shin A works as No Go Jin’s secretary. She is a diligent and responsible employee. Due to her quiet and introverted personality, she has little presence with her boss No Go Jin and her colleagues at work. Her colleagues begin to recognize her, because she has worked for the notorious No Go Jin for more than 1 year. She then learns that she does not have much time left to live.",
+    "year": "2022",
+    "rating": 7.768,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wQmABWWAGsifRGn2nltTJRLEF3Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ppG2MqOXVg7cDFgdJpKeS3OjZPr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5AweZNFRyIwllxOdQ3DKZWQIo43.png",
+    "certificate": "15",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8308,90 +8392,6 @@
     "certificate": "15",
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "13946",
-    "tmdbId": 13946,
-    "imdbId": "tt1765453",
-    "type": "tv",
-    "title": "Thank You",
-    "overview": "Gi Seo is a renowned doctor at the top of his profession, but he’s racked with guilt because he wasn’t able to save his girlfriend, Ji Min, who was HIV-positive. He escapes to work on a small island and fulfill Ji Min’s dying wish: to find a little girl named Bom who she accidentally infected with HIV while she was a medical intern. Bom lives on the island with her single mom Young Shin and grandfather, who has dementia. Gi Seo grows increasingly fond of the family and finds a reason to live again, discovering beautiful miracles on the island.",
-    "year": "2007",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aMKRuLrevCd4lsZx2HBJq6QtVPd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kCEMckVuZL83oTT1YxnmSLkFks2.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "63618",
-    "tmdbId": 63618,
-    "imdbId": "tt5074306",
-    "type": "tv",
-    "title": "The Virtual Bride",
-    "overview": "In an attempt to regain her popularity, former idol star In Young goes on a TV Show where she clashes with her on-screen mother-in-law, Yang Choon Ja. However, the tension is increasingly worse off-set when In Young starts dating Choon Ja's real son!",
-    "year": "2015",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8Qv6rRJTwjCoxhnWDJb1XLRKM5I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5hfjNPP3pVAixAvsjnBhFwci3lN.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "68882",
-    "tmdbId": 68882,
-    "imdbId": "tt6342372",
-    "type": "tv",
-    "title": "Love is Drop By Drop",
-    "overview": "Eun Bang Wool falls in love with Park Woo Hyuk who received a heart transplant from her ex-boyfriend.",
-    "year": "2016",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wz1uiNrmvzHG6Wlg0RHEFvbp6sM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/71uFU7ODHv0CwbYUFUt1MbTn9Gh.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 35,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61934",
-    "tmdbId": 61934,
-    "imdbId": "tt3715044",
-    "type": "tv",
-    "title": "Big Man",
-    "overview": "Kim Ji Hyuk (Kang Ji Hwan) lives a hard knocked life, but when the orphan meets the modest restaurateur Hong Dal Sook (Song Ok Suk), he gains a mother figure and works hard to open his own restaurant one day. Then suddenly, the family behind Korea's most powerful corporation claims that he is their long lost son. When Ji Hyeok discovers the Hyunsung family's ulterior motives, he swears to bring down the company that destroyed the life he worked so hard to build.",
-    "year": "2014",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vmkEZd4jAo5ThTb3ZyENj6qizwp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tYRZ9tOerxbi4ZQXdhYB4kacZzM.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
