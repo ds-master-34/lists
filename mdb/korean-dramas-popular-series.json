@@ -336,27 +336,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "135157",
-    "tmdbId": 135157,
-    "imdbId": "tt20859920",
-    "type": "tv",
-    "title": "Alchemy of Souls",
-    "overview": "She was named Naksu because wherever she went, a trail of heads followed. She performs the alchemy of souls, magic that can change people's bodies and souls, which is forbidden in Daeho, and ends up being chased. Naksu hurriedly abandons her body and attempts the alchemy of souls on a woman passing by. Jang Wook, the son of the King of Daeho, realizes that Mudeok's soul has been changed and helps her. Jang Wook wants to learn Naksu's martial arts and become a sorcerer, and Naksu, in the body of Mudeok, stays by his side so she can recover her strength.",
-    "year": "2022",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sFVThz6cgpQntvK6ovayVf2UUmz.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 84,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "215072",
     "tmdbId": 215072,
     "imdbId": "tt26450613",
@@ -456,6 +435,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "135157",
+    "tmdbId": 135157,
+    "imdbId": "tt20859920",
+    "type": "tv",
+    "title": "Alchemy of Souls",
+    "overview": "She was named Naksu because wherever she went, a trail of heads followed. She performs the alchemy of souls, magic that can change people's bodies and souls, which is forbidden in Daeho, and ends up being chased. Naksu hurriedly abandons her body and attempts the alchemy of souls on a woman passing by. Jang Wook, the son of the King of Daeho, realizes that Mudeok's soul has been changed and helps her. Jang Wook wants to learn Naksu's martial arts and become a sorcerer, and Naksu, in the body of Mudeok, stays by his side so she can recover her strength.",
+    "year": "2022",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sFVThz6cgpQntvK6ovayVf2UUmz.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -1680,27 +1680,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "89959",
-    "tmdbId": 89959,
-    "imdbId": "tt10613844",
-    "type": "tv",
-    "title": "Strangers from Hell",
-    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
-    "year": "2019",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hWa3eZ1JDpQHZHgyRjUwx49OW2x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xH8NKKGb2GQlCMmcxJFukV9droA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zxxvFjV2VJTYxgFv6NhbKZ7YpUH.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300727",
     "tmdbId": 300727,
     "imdbId": "tt43357366",
@@ -1799,6 +1778,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "64840",
+    "tmdbId": 64840,
+    "imdbId": "tt5332206",
+    "type": "tv",
+    "title": "Signal",
+    "overview": " Detectives from the present and a detective from the past communicate via walkie-talkie to solve a long-time unsolved case.",
+    "year": "2016",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
@@ -2247,27 +2247,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "64840",
-    "tmdbId": 64840,
-    "imdbId": "tt5332206",
-    "type": "tv",
-    "title": "Signal",
-    "overview": " Detectives from the present and a detective from the past communicate via walkie-talkie to solve a long-time unsolved case.",
-    "year": "2016",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 89,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "108291",
     "tmdbId": 108291,
     "imdbId": "tt13304700",
@@ -2325,6 +2304,27 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61670",
+    "tmdbId": 61670,
+    "imdbId": "tt4284216",
+    "type": "tv",
+    "title": "Healer",
+    "overview": "A star reporter, a second-rate journalist and a man by the code name \"Healer\" are brought together by a long-buried incident that hides dark truths.",
+    "year": "2014",
+    "rating": 8.304,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aIPsYHFneiLlwrHhe1YX8b8c9qW.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -2772,27 +2772,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "61670",
-    "tmdbId": 61670,
-    "imdbId": "tt4284216",
-    "type": "tv",
-    "title": "Healer",
-    "overview": "A star reporter, a second-rate journalist and a man by the code name \"Healer\" are brought together by a long-buried incident that hides dark truths.",
-    "year": "2014",
-    "rating": 8.304,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aIPsYHFneiLlwrHhe1YX8b8c9qW.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "116386",
     "tmdbId": 116386,
     "imdbId": "tt13669128",
@@ -2919,6 +2898,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "137094",
+    "tmdbId": 137094,
+    "imdbId": "tt26229508",
+    "type": "tv",
+    "title": "Love to Hate You",
+    "overview": "For an attorney who despises losing to men and an A-list actor who distrusts women, love means nothing — until they're forced to date each other.",
+    "year": "2023",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ifOXQyDvpVnZvKq7pR8fujtbeQk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wApbr6dC602QMnoCMdRvfV4aMKq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wnDCW1EQI3sAqRwG22jEv5Zl9C8.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "214999",
     "tmdbId": 214999,
     "imdbId": "tt27042206",
@@ -2976,27 +2976,6 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "205319",
-    "tmdbId": 205319,
-    "imdbId": "tt26258202",
-    "type": "tv",
-    "title": "Daily Dose of Sunshine",
-    "overview": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
-    "year": "2023",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1M1uTLRNZD9Yjdo5iXFXshPaQXq.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3143,6 +3122,27 @@
     "certificate": "15",
     "runTimeMinutes": 74,
     "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "60957",
+    "tmdbId": 60957,
+    "imdbId": "tt3469052",
+    "type": "tv",
+    "title": "My Love from the Star",
+    "overview": "An alien who came to Earth 400 years ago is almost able to return to his own planet, but when he meets a famous actress, he doesn't want to go home.",
+    "year": "2013",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qNekqgLeiCtzsIGIz4Sssxmbrqn.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -3570,27 +3570,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "60957",
-    "tmdbId": 60957,
-    "imdbId": "tt3469052",
-    "type": "tv",
-    "title": "My Love from the Star",
-    "overview": "An alien who came to Earth 400 years ago is almost able to return to his own planet, but when he meets a famous actress, he doesn't want to go home.",
-    "year": "2013",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qNekqgLeiCtzsIGIz4Sssxmbrqn.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "134675",
     "tmdbId": 134675,
     "imdbId": "tt21828868",
@@ -3759,6 +3738,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "214582",
+    "tmdbId": 214582,
+    "imdbId": "tt27995115",
+    "type": "tv",
+    "title": "The Devil's Plan",
+    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+    "year": "2023",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/10Tg57d8wtcn6crPWOi1ebx7qIz.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "224819",
     "tmdbId": 224819,
     "imdbId": "tt27554348",
@@ -3780,21 +3780,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "239005",
-    "tmdbId": 239005,
-    "imdbId": "tt29872951",
+    "id": "202318",
+    "tmdbId": 202318,
+    "imdbId": "tt24578016",
     "type": "tv",
-    "title": "Seoul Busters",
-    "overview": "Songwon Police Violent Crimes Unit 2 has the lowest arrest rate in the country. After their chief is demoted, the team is exiled to a closed daycare center. Enter Yubin, their new leader. Despite the team's initial distrust, Yubin and the team start to bond as they solve cases together.",
-    "year": "2024",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nYDvkvutYQNKj2lhQTavGzgUE6L.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vas44Kp1BPca4ou2cBb4orAQ53F.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dwnBXbSHsDau170MY7e5m5wEAxD.png",
-    "certificate": "SAM 16",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
+    "title": "Crash Course in Romance",
+    "overview": "The series follows the bittersweet relationship between a banchan shop owner whose daughter enters the war of Korea's college entrance exams, and a top hagwon instructor.",
+    "year": "2023",
+    "rating": 8.187,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/88rQREli2xtoDV6HToJysp71ZL7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x0Lornpp68Qqho1NqmXc3DGnGYk.png",
+    "certificate": "15",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4158,6 +4158,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "239005",
+    "tmdbId": 239005,
+    "imdbId": "tt29872951",
+    "type": "tv",
+    "title": "Seoul Busters",
+    "overview": "Songwon Police Violent Crimes Unit 2 has the lowest arrest rate in the country. After their chief is demoted, the team is exiled to a closed daycare center. Enter Yubin, their new leader. Despite the team's initial distrust, Yubin and the team start to bond as they solve cases together.",
+    "year": "2024",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nYDvkvutYQNKj2lhQTavGzgUE6L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vas44Kp1BPca4ou2cBb4orAQ53F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dwnBXbSHsDau170MY7e5m5wEAxD.png",
+    "certificate": "SAM 16",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "215001",
     "tmdbId": 215001,
     "imdbId": "tt27974068",
@@ -4257,6 +4278,48 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "89959",
+    "tmdbId": 89959,
+    "imdbId": "tt10613844",
+    "type": "tv",
+    "title": "Strangers from Hell",
+    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hWa3eZ1JDpQHZHgyRjUwx49OW2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xH8NKKGb2GQlCMmcxJFukV9droA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zxxvFjV2VJTYxgFv6NhbKZ7YpUH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "205319",
+    "tmdbId": 205319,
+    "imdbId": "tt26258202",
+    "type": "tv",
+    "title": "Daily Dose of Sunshine",
+    "overview": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
+    "year": "2023",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1M1uTLRNZD9Yjdo5iXFXshPaQXq.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4368,27 +4431,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "135840",
-    "tmdbId": 135840,
-    "imdbId": "tt19115260",
-    "type": "tv",
-    "title": "Our Blues",
-    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
-    "year": "2022",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nAhIeW3ISZQ7Dkn0PguOaiBMEjN.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "68398",
     "tmdbId": 68398,
     "imdbId": "tt6157190",
@@ -4474,6 +4516,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "135840",
+    "tmdbId": 135840,
+    "imdbId": "tt19115260",
+    "type": "tv",
+    "title": "Our Blues",
+    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
+    "year": "2022",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nAhIeW3ISZQ7Dkn0PguOaiBMEjN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "86830",
     "tmdbId": 86830,
     "imdbId": "tt9674954",
@@ -4488,27 +4551,6 @@
     "certificate": "15",
     "runTimeMinutes": 67,
     "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "137094",
-    "tmdbId": 137094,
-    "imdbId": "tt26229508",
-    "type": "tv",
-    "title": "Love to Hate You",
-    "overview": "For an attorney who despises losing to men and an A-list actor who distrusts women, love means nothing — until they're forced to date each other.",
-    "year": "2023",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ifOXQyDvpVnZvKq7pR8fujtbeQk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wApbr6dC602QMnoCMdRvfV4aMKq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wnDCW1EQI3sAqRwG22jEv5Zl9C8.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
@@ -4552,27 +4594,6 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "209502",
-    "tmdbId": 209502,
-    "imdbId": "tt29006388",
-    "type": "tv",
-    "title": "A Good Day to be a Dog",
-    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
-    "year": "2023",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4768,27 +4789,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "203164",
-    "tmdbId": 203164,
-    "imdbId": "tt29225198",
-    "type": "tv",
-    "title": "Strong Girl Nam-soon",
-    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
-    "year": "2023",
-    "rating": 7.663,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gJtulJRPQpPgSG5bdG5ybudLnqd.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "158258",
     "tmdbId": 158258,
     "imdbId": "tt26672563",
@@ -4825,48 +4825,6 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "214582",
-    "tmdbId": 214582,
-    "imdbId": "tt27995115",
-    "type": "tv",
-    "title": "The Devil's Plan",
-    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
-    "year": "2023",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/10Tg57d8wtcn6crPWOi1ebx7qIz.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 101,
-    "primaryGenre": "Reality",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "236356",
-    "tmdbId": 236356,
-    "imdbId": "tt31510539",
-    "type": "tv",
-    "title": "Family Matters",
-    "overview": "A group of people with supernatural powers form a surrogate family to protect themselves from a criminal syndicate.",
-    "year": "2024",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/h5OFsjZCPyoTjLyWarFyPzMrZQp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kLv2yxi2Zj6ZsHssvCR4GvVKWK.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yxYSGwIvkZPGZP7Y8IUlSlNtr6Q.png",
-    "certificate": "19",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -4970,6 +4928,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/9uMnB5gdANzSe0tFLIDa2irsOEc.png",
     "certificate": "19",
     "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "63927",
+    "tmdbId": 63927,
+    "imdbId": "tt5079024",
+    "type": "tv",
+    "title": "Six Flying Dragons",
+    "overview": "The ambitious success stories of 6 people surrounding Prince Lee Bang Won, and the ideological and political conflict between Prince Lee Bang Won and Jung Do Jeon, the man instrumental in helping King Taejo establish the fledgling Joseon nation.",
+    "year": "2015",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2hTPwQbjRM1POBckZwp6SxJCHf1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mUdN4k4ryXfptQTn9xfUmj4hNmE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ojGZZYYG6Hl646BJNIjLNLSTiNA.png",
+    "certificate": "15",
+    "runTimeMinutes": 58,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -8391,6 +8370,27 @@
     "logoUrl": null,
     "certificate": "15",
     "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61580",
+    "tmdbId": 61580,
+    "imdbId": "tt4284134",
+    "type": "tv",
+    "title": "Naeil's Cantabile",
+    "overview": "An arrogant piano student is forced to perform a duet with an unorthodox classmate, but her unique take on music might be just what he needs.",
+    "year": "2014",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/65B1t9NJe4KEGzT6d0jXmehptn8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gGg1aSFMED2cFDf8g97SmPEd4EE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nShzW8gKU7MhyQApBlMtlt36SFu.png",
+    "certificate": "B-15",
+    "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
