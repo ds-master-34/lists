@@ -84,6 +84,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "331693",
+    "tmdbId": 331693,
+    "imdbId": "tt43697602",
+    "type": "tv",
+    "title": "My Love, the Black Sea",
+    "overview": "The series “Sevdam Karadeniz” tells the story of the enmity between two well-established families of the Black Sea region, which began with the unfinished love of Hafize Alazlı and Durali Yeniceli and, years later, drives their grandchildren Kuzey and Zeyşan into a forced marriage.\n\nAmid secrets, forbidden loves, and vows of revenge, the two young people are forced to make a choice that will change the fate of their families.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zOqcJuBcEgzwKax9jHQM4MGAy0y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iR0uB1YKK4jOF2pqlL4Sy2XdprY.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 151,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": "tr"
+  },
+  {
     "id": "307176",
     "tmdbId": 307176,
     "imdbId": "tt38990181",
@@ -2866,6 +2887,27 @@
     "originalLanguage": "zh"
   },
   {
+    "id": "321928",
+    "tmdbId": 321928,
+    "imdbId": "tt43583640",
+    "type": "tv",
+    "title": "Different Lives",
+    "overview": "For Emir and his friends—Hasan, Sadık, and Mert—who grew up in Ziyankâr, a working-class neighborhood on the outskirts of Istanbul, life feels like a game they’ve lost before it even began. Trapped between poverty, violence, and despair, these four young men see soccer as their only chance to change their fate. They try to break free from this darkness through their friendship and their dreams.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8GzocJ1oEslGCO2uPlQzW6kH5NG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gArW7wThMe09R5WV7NRZTTjgd8C.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i7LGgfYuRHAwNZj9MTkaMjteHhT.png",
+    "certificate": "",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": "tr"
+  },
+  {
     "id": "315610",
     "tmdbId": 315610,
     "imdbId": "tt41050785",
@@ -3158,6 +3200,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "289271",
+    "tmdbId": 289271,
+    "imdbId": "tt37140755",
+    "type": "tv",
+    "title": "Ashes to Crown",
+    "overview": "The general's daughter, Chu Zhao, refuses to accept her fate as nothing more than a pawn to be sacrificed in Xiao Xun's rise to power. Taking matters into her own hands, she fights her way out with the help of Xie Yanlai, protecting the emperor's grandson as he makes his way to the emperor's presence. Through a tense standoff in the imperial court, she helps the young prince secure the throne, cutting off Xiao Xun's path to power. But with a new emperor comes new crises. The realm is torn by internal strife and foreign threats. Working alongside Xie Yanlai, Chu Zhao navigates the treacherous currents of the court, leads troops into battle, and ultimately rewrites her own destiny, sparing the people of the State of Chu from the ravages of war.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/avupwPQBoIp8ahCaIYIQfT1N6ps.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3z8a8eWrFXLSiSSQGSZH3ajfNDF.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
   },
   {
     "id": "324288",
@@ -4125,68 +4188,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "308254",
-    "tmdbId": 308254,
-    "imdbId": "tt42322841",
-    "type": "tv",
-    "title": "Love Beyond Dreams",
-    "overview": "Aran, 21, believed her bond with Lene was more than sisterly-until a harsh rejection sent her abroad. A letter calls her back to Thailand, where she finds Lene dead. After the funeral, she wakes five years earlier, determined to save her.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5e1oNIUAfUCVqf4PGuiIRUKKSVT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5ekSElFZydVmpYEcfSrZp9cM0x5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mFRInshhSNTY2pXL5YftX3mdSXe.png",
-    "certificate": "",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
-  },
-  {
-    "id": "307432",
-    "tmdbId": 307432,
-    "imdbId": "tt39044698",
-    "type": "tv",
-    "title": "Enemies with Benefits",
-    "overview": "Head of Sales Lal is determined to triumph over Head of Accounting Wine. Wine is her polar opposite and known for her mercilessness. When a wild night leads them to a friends with benefits relationship, they'll do anything to keep it a secret, pretending to be enemies so that absolutely no one at work finds out. Without realising it, however, their newfound closeness begins to give way to love.",
-    "year": "2026",
-    "rating": 9.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5QKQeDL0by7n7csuga1qbqN23Jt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zmLGxk861WZa1m1lkwjbCBfuk9Q.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kjMXNSK0ig7lwABylgn0bhVdfbF.png",
-    "certificate": "",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
-  },
-  {
-    "id": "292686",
-    "tmdbId": 292686,
-    "imdbId": "tt37091702",
-    "type": "tv",
-    "title": "The Glass House",
-    "overview": "A determined immigrant builds his way up from zero in Quebec's competitive 1990s business landscape, navigating challenges and opportunities while creating a successful enterprise.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ts89frrLgYJl3jfmBjEGkeVYv11.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zIHCHSpuz4qExLesSVFcj7hPSNQ.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 34,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA"
-    ],
-    "originalLanguage": "fr"
   }
 ]
