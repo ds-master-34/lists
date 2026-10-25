@@ -1,5 +1,26 @@
 [
   {
+    "id": "283371",
+    "tmdbId": 283371,
+    "imdbId": "tt36470958",
+    "type": "tv",
+    "title": "The Trap",
+    "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "289423",
     "tmdbId": 289423,
     "imdbId": "tt37737331",
@@ -6297,26 +6318,5 @@
       "IT"
     ],
     "originalLanguage": "it"
-  },
-  {
-    "id": "271152",
-    "tmdbId": 271152,
-    "imdbId": "tt30068040",
-    "type": "tv",
-    "title": "The Secret of the River",
-    "overview": "When a young boy arrives in a small Mexican village, a profound friendship blossoms with a local kid — and a dark secret seals their bond forever.",
-    "year": "2024",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7eo4skUtcNuRtLL4TCGHeoa2D9o.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJ3wW7FjSZGMdB0pIMTyPNzm8sQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iEVkLsotXlPUUEUiY88rpDWTTQz.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
-    "originalLanguage": "es"
   }
 ]
