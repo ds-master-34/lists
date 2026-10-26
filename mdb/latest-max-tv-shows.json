@@ -1748,6 +1748,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "256212",
+    "tmdbId": 256212,
+    "imdbId": "tt32495809",
+    "type": "tv",
+    "title": "Cris Miró (She|Her|Hers)",
+    "overview": "Cris Miró's journey as Argentina's first trans vedette in 1995, shedding light on the trans community. Despite challenges, she embraced her true self until her untimely passing, leaving a legacy of inspiration and acceptance",
+    "year": "2024",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vRnjqvpDsfjGk3vitYLbbZ8M9nw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ao97AHrCkTRWFFJF2I1Gvm68lPY.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "253832",
     "tmdbId": 253832,
     "imdbId": "tt32310438",
@@ -1957,6 +1978,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "263246",
+    "tmdbId": 263246,
+    "imdbId": "tt33319186",
+    "type": "tv",
+    "title": "The Sancho Case",
+    "overview": "Rodolfo Sancho gives his first interview to talk about the situation faced by his son, accused of the premeditated murder in Thailand.",
+    "year": "2024",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/srSsMQe4R65RBTc3hAWiMloDHi0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tU5gWaznOytODLpqRFZ355gr9sv.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "241230",
@@ -4158,48 +4200,6 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "133342",
-    "tmdbId": 133342,
-    "imdbId": "tt15221950",
-    "type": "tv",
-    "title": "Sort Of",
-    "overview": "Fluid millennial Sabi Mehboob straddles various identities from bartender at an LGBTQ bookstore/bar, to the youngest child in a Pakistani family, to the de facto parent of a downtown hipster family. Sabi feels like they’re in transition in every aspect of their life, from gender to love to sexuality to family to career.",
-    "year": "2021",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xKWiSPk4DotlQRA5kloIk3cUO8y.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bNrl3sSloifgetzjS7wVBKgzHh8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tmxdekFx191DchHyBlXFC0fzdUk.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 22,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "131875",
-    "tmdbId": 131875,
-    "imdbId": "tt14396056",
-    "type": "tv",
-    "title": "What Happened, Brittany Murphy?",
-    "overview": "An in-depth, intimate character portrait exploring the life and career and mysterious circumstances surrounding the tragic death of 90’s actress and rising star, Brittany Murphy. The series goes beyond the conspiracy theories and headlines, featuring new interviews by those closest to Brittany and new archival footage.",
-    "year": "2021",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wvjooU9XSedeinHoQKJe9a7MkpS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/polN0UlINjmBGRYUbALLtQyn6kk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tQTiEQyn7oYV06NOotFXmjXAhkX.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],
