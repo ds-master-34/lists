@@ -1,5 +1,26 @@
 [
   {
+    "id": "1593963",
+    "tmdbId": 1593963,
+    "imdbId": "tt39014003",
+    "type": "movie",
+    "title": "Adinaasam Vellapokkam",
+    "overview": "Four students at strict Liberty Engineering College encounter a gangster who sneaks in as a motivational speaker. The stern principal watches everyone closely as events unfold.",
+    "year": "2025",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rI7Yu92YOdukaaKopASwipGLcXD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wSrFXvII1UkkyLq8WmT96r49z4J.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w9y98WICtHOPMT20FeQwQUy2Jsy.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 126,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ml"
+  },
+  {
     "id": "1805385",
     "tmdbId": 1805385,
     "imdbId": "tt41935268",
@@ -8375,27 +8396,6 @@
     "runTimeMinutes": 119,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ml"
-  },
-  {
-    "id": "457031",
-    "tmdbId": 457031,
-    "imdbId": "tt6860924",
-    "type": "movie",
-    "title": "Amala",
-    "overview": "The journey of a brilliant police officer who is entrusted with the task of solving a series of murders happening in the city overnight. He sets out to find clues that would lead him to the killer.",
-    "year": "2023",
-    "rating": 3.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/56Mx5qTwVeQOxkTvgHLRWFlTvsF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pkCHW6lIbEFCtMHQm3AWyKk1D13.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 115,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Thriller",
     "originCountries": [
       "IN"
     ],
