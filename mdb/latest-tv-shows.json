@@ -1,5 +1,26 @@
 [
   {
+    "id": "314360",
+    "tmdbId": 314360,
+    "imdbId": "tt39980704",
+    "type": "tv",
+    "title": "YAGA",
+    "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lVCFOjUDlZLMvTJxQ2t78MjTIqL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/csAe6BpoxRFQoaZpETzOYuxUS2b.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "213562",
     "tmdbId": 213562,
     "imdbId": "tt23148340",
@@ -4163,27 +4184,6 @@
     "runTimeMinutes": 40,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "323903",
-    "tmdbId": 323903,
-    "imdbId": "tt31186255",
-    "type": "tv",
-    "title": "The Terror: Devil in Silver",
-    "overview": "Wrongfully committed to New Hyde Psychiatric Hospital, one man faces secretive doctors, dangerous patients, and something even worse …",
-    "year": "2026",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bdblQNZ4rP8AVJPqvGi82woxZkg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dIOCCTC3hd2zhTh0qeEDE4Gf3oO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qGZTUmDE6HK5spUgPlIaip9edP3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
