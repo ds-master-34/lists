@@ -252,6 +252,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "271880",
+    "tmdbId": 271880,
+    "imdbId": "tt33400507",
+    "type": "tv",
+    "title": "Ghosts Australia",
+    "overview": "New lovebirds Kate and Sean are about to jump into the hellscape that is the inner-city rental market, until Kate inherits a huge mansion in the country. Moving in together for the first time the young couple are attempting domestic bliss, but unbeknown to them, the house is haunted by a collection of needy spirits who carked it in Ramshead Manor over the past 200 years.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2LQNn3kRU9xkgLbD6IfeQKkX4K7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqNCRVrKf6Y0MNHz5vIEJ95URZM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qmUGx0PSCHoeDor0KQWX82PLhsL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "289567",
     "tmdbId": 289567,
     "imdbId": "tt33078075",
@@ -4186,27 +4207,6 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "4238",
-    "tmdbId": 4238,
-    "imdbId": "tt0165581",
-    "type": "tv",
-    "title": "The King of Queens",
-    "overview": "Life’s good for deliveryman Doug Heffernan, until his newly widowed father-in-law, Arthur, moves in with him and his wife Carrie. Doug is no longer the king of his domain, and instead of having a big screen television in his recently renovated basement, he now has a crazy old man.",
-    "year": "1998",
-    "rating": 7.155,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pcZ2CNTQapXxHhbn46vosLpxwVe.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 21,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
