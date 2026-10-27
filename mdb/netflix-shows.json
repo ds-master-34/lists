@@ -127,6 +127,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "312557",
+    "tmdbId": 312557,
+    "imdbId": "tt28765828",
+    "type": "tv",
+    "title": "Minerva Academy",
+    "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jNoYbHU2oC1njpCTqSILbte0bXK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
     "id": "275102",
     "tmdbId": 275102,
     "imdbId": "tt36347588",
@@ -6297,26 +6318,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "265156",
-    "tmdbId": 265156,
-    "imdbId": "tt27031470",
-    "type": "tv",
-    "title": "Deceitful Love",
-    "overview": "After turning 60, a wealthy woman suddenly falls in love with an attractive and much younger man, but her family raises doubts about his intentions.",
-    "year": "2024",
-    "rating": 6.543,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dHFBXB57Zuq0XDUQYEi5qQnUjh8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jBdukU4TyIOxW3R8dk1oV9vQC8s.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7ZmjpqFmyYRNOQ1GhgWlWSN2ez1.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IT"
-    ],
-    "originalLanguage": "it"
   }
 ]
