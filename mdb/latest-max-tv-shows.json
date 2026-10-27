@@ -1,5 +1,26 @@
 [
   {
+    "id": "231801",
+    "tmdbId": 231801,
+    "imdbId": "tt33406999",
+    "type": "tv",
+    "title": "GET JIRO",
+    "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+    "year": "2026",
+    "rating": 9.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qQWJIQ2nY10pabBOWBqg6siCbkZ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "298852",
     "tmdbId": 298852,
     "imdbId": "tt37972251",
@@ -4179,27 +4200,6 @@
     "runTimeMinutes": 47,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "134373",
-    "tmdbId": 134373,
-    "imdbId": "tt11212276",
-    "type": "tv",
-    "title": "The Sex Lives of College Girls",
-    "overview": "Follow four college roommates as they arrive at New England's prestigious Essex College. A bundle of contradictions and hormones, these girls are equal parts lovable and infuriating as they live out their new, free lives on campus.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wThMl6AhneaNw78XHC7fupBxNle.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hxlHxV4g5PDSGk1LP46KUMFSYUG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yHH1B2ho9B82YR1l9TkJiTJzgqq.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 35,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
