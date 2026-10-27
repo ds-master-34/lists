@@ -1540,6 +1540,27 @@
     "originalLanguage": "sv"
   },
   {
+    "id": "312523",
+    "tmdbId": 312523,
+    "imdbId": "tt39365311",
+    "type": "tv",
+    "title": "S&X",
+    "overview": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ifZSONpm6S4Zjax1nsUiOSGUstD.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "323557",
     "tmdbId": 323557,
     "imdbId": "tt43661815",
@@ -2442,6 +2463,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "322570",
+    "tmdbId": 322570,
+    "imdbId": "tt43639297",
+    "type": "tv",
+    "title": "Until the T-Shirt Dries",
+    "overview": "A sudden summer accident shatters the peaceful lives of two couples, dragging a happily married editor into a web of grief, human selfishness, and her husband's hidden secrets.",
+    "year": "2026",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xVZvNASRqY91hD09g1cXHpErhGX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/84eyOn4Fxb5rU0PC7HnfrFAAnSB.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "252884",
@@ -4166,47 +4208,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "303143",
-    "tmdbId": 303143,
-    "imdbId": "tt38828946",
-    "type": "tv",
-    "title": "My Royal Nemesis",
-    "overview": "A Joseon-era villain doomed to die opens her eyes in modern-day Seoul — where a ruthless chaebol heir may be her last chance to rewrite her fate.",
-    "year": "2026",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3SDlj2zgdRDZx48Il4wJog9wprZ.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "319804",
-    "tmdbId": 319804,
-    "imdbId": "tt41634339",
-    "type": "tv",
-    "title": "The Palu Family: Under a Dark Spell",
-    "overview": "An investigation into one of Turkey's most shocking cases -- and how one man was able to enact total control over a tight-knit family.",
-    "year": "2026",
-    "rating": 4.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aedb0OOUOl1fzDlUpI75phjjzZb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zuzH6LWUrEM0pNSt3TEq6O9FBly.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "TR"
-    ],
-    "originalLanguage": "tr"
   }
 ]
