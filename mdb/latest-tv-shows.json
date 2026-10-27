@@ -21,6 +21,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "275139",
+    "tmdbId": 275139,
+    "imdbId": "tt21952924",
+    "type": "tv",
+    "title": "Phony",
+    "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g2r69hj61xfhMxnrYm8QyMs0gs1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xqc5IeHc6TzT1uvNZ1CCNIiTeNC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "213562",
     "tmdbId": 213562,
     "imdbId": "tt23148340",
@@ -166,6 +187,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 9.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "284833",
@@ -1075,6 +1117,27 @@
       "TH"
     ],
     "originalLanguage": "th"
+  },
+  {
+    "id": "256440",
+    "tmdbId": 256440,
+    "imdbId": "tt45382417",
+    "type": "tv",
+    "title": "Alıkara",
+    "overview": "A mysterious corpse draws Chief Inspector Deniz and Psychologist Işık into a grueling struggle. As the investigation deepens, long-hidden traumas from the past come to light, and the hunt for an anonymous killer begins…",
+    "year": "2026",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3Vp8LSlyJY34q8jnGTNs0FHgnXP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7leJka0INkfFgZ3RpAKfDShyCTq.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": "tr"
   },
   {
     "id": "294636",
@@ -2001,6 +2064,27 @@
       "FR"
     ],
     "originalLanguage": "fr"
+  },
+  {
+    "id": "329394",
+    "tmdbId": 329394,
+    "imdbId": "tt39390494",
+    "type": "tv",
+    "title": "My Daughter's Father",
+    "overview": "Follows Julieta who, during her graduation party suffers a life-threatening health crisis that forces her mother, Maca, to face secrets from the past.",
+    "year": "2026",
+    "rating": 9.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wUUS9lwm82R8nlYMIaijt8dQbIz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aQFeADnhJimn635owevcpwyaUAG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAPww1sHj3M9cT7ysbIg5Z06y5c.png",
+    "certificate": "19",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "289139",
@@ -4124,69 +4208,5 @@
       "TR"
     ],
     "originalLanguage": "tr"
-  },
-  {
-    "id": "317056",
-    "tmdbId": 317056,
-    "imdbId": "tt42152890",
-    "type": "tv",
-    "title": "Double Helix",
-    "overview": "Years after being torn apart by family and fate, two former lovers reunite as boss and employee, forced to confront a love they can't escape.",
-    "year": "2026",
-    "rating": 7.674,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/udcrxC8tceOSAZ41jKtLCc47j6F.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b5lBe5DfYd8Io7rCmo6ykLATgDz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nPmv9UyorM3yjOwr49fA5rX9gwE.png",
-    "certificate": "18+",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CN",
-      "SG"
-    ],
-    "originalLanguage": "zh"
-  },
-  {
-    "id": "262280",
-    "tmdbId": 262280,
-    "imdbId": "tt33265765",
-    "type": "tv",
-    "title": "Legends",
-    "overview": "As drugs flood the streets of '90s Britain, a team of civil servants is thrust undercover to topple the gangs behind it.",
-    "year": "2026",
-    "rating": 7.617,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jgN2pRkzfDr2rVCnzB92KvxB1Mr.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "262388",
-    "tmdbId": 262388,
-    "imdbId": "tt33253070",
-    "type": "tv",
-    "title": "M.I.A.",
-    "overview": "Restless in the Florida Keys, Etta Tiger Jonze dreams of a life in Miami's glittering, sub-tropical kingdom. When her family's drug-running business shatters in tragedy, however, Etta embarks on a dangerous journey through Miami's neon-lit underbelly that will define who she is and what she's ultimately capable of.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wqjhAWmqHrIIn4PdchGCuEgPksw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4MFO1GLwwCWJp16kMsHmE7P4na2.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 40,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
