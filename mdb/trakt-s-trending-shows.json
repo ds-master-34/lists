@@ -4729,5 +4729,447 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "260458",
+    "tmdbId": 260458,
+    "imdbId": "tt33049767",
+    "type": "tv",
+    "title": "Adults",
+    "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h8GrwttOjjQEoQJ72W9ugkyIVaB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vlcQQkQUm66RVJgwVwdASAcgbEN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "138501",
+    "tmdbId": 138501,
+    "imdbId": "tt15571732",
+    "type": "tv",
+    "title": "Agatha All Along",
+    "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+    "year": "2024",
+    "rating": 7.423,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3RiiNqzCGGuwUtyTh1syOXmDbQp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "61889",
+    "tmdbId": 61889,
+    "imdbId": "tt3322312",
+    "type": "tv",
+    "title": "Marvel's Daredevil",
+    "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+    "year": "2015",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pPALpad1Fh14g7ejyQjqKzlhrBw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jbYIbMDDMP6gTA4VjBfoMDJ3L85.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "63639",
+    "tmdbId": 63639,
+    "imdbId": "tt3230854",
+    "type": "tv",
+    "title": "The Expanse",
+    "overview": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history.",
+    "year": "2015",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eVwD4s4dBOK5Jn7CzOLBTo0vXNH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2O44nO22UQ8pF0RXKhBtU6DLCi2.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "14929",
+    "tmdbId": 14929,
+    "imdbId": "tt1094229",
+    "type": "tv",
+    "title": "Heartland",
+    "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+    "year": "2007",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVQuM21SMsCAIkSe61HvBdKlfi.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "284558",
+    "tmdbId": 284558,
+    "imdbId": "tt35726020",
+    "type": "tv",
+    "title": "Kill Jackie",
+    "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+    "year": "2026",
+    "rating": 7.107,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mcxfMCC7V4xq1fEVyHV4wGe2quY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "AU",
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "30745",
+    "tmdbId": 30745,
+    "imdbId": "tt1626459",
+    "type": "tv",
+    "title": "My Kitchen Rules",
+    "overview": "My Kitchen Rules is an Australian competitive cooking game show broadcast on the Seven Network since 2010. The series is produced by the team who created the Seven reality show My Restaurant Rules, and was put into production based on the success of Network Ten's MasterChef Australia. My Kitchen Rules has just been renewed by the Seven Network for a fifth series.",
+    "year": "2010",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tzbSNgNrquLhXpR0M0jihkEFM0m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3VsO6TVUYN6aeUmrNIXqhuX902t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yoXnHJ09Hg1UMYENOyo8weBqRvg.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4238",
+    "tmdbId": 4238,
+    "imdbId": "tt0165581",
+    "type": "tv",
+    "title": "The King of Queens",
+    "overview": "Life’s good for deliveryman Doug Heffernan, until his newly widowed father-in-law, Arthur, moves in with him and his wife Carrie. Doug is no longer the king of his domain, and instead of having a big screen television in his recently renovated basement, he now has a crazy old man.",
+    "year": "1998",
+    "rating": 7.151,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pcZ2CNTQapXxHhbn46vosLpxwVe.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "67178",
+    "tmdbId": 67178,
+    "imdbId": "tt5675620",
+    "type": "tv",
+    "title": "Marvel's The Punisher",
+    "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+    "year": "2017",
+    "rating": 8.163,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9czVEnJemvP6gcJlMEjUeuISL1c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9mc72Fo2nXSb4gP5ngrrVDHcuJH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "335319",
+    "tmdbId": 335319,
+    "imdbId": "tt46658083",
+    "type": "tv",
+    "title": "The New Stanford Prison Experiment",
+    "overview": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ERDwCJm22CvH02X8daZkAqVhdO.png",
+    "certificate": "14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1409",
+    "tmdbId": 1409,
+    "imdbId": "tt1124373",
+    "type": "tv",
+    "title": "Sons of Anarchy",
+    "overview": "The Sons of Anarchy (SOA) are an outlaw motorcycle club with many charters in the United States and overseas. The show focused on the original and founding charter, Sons of Anarchy Motorcycle Club, Redwood Original, often referred to by the acronym SAMCRO, Sam Crow, or simply Redwood Charter. The charter operates both legal and illegal businesses in the small town of Charming, California. They combine gun-running and a garage, and involvement in porn film industry. Clay, the charter president, likes it old school and violent; while Jax, his stepson and the club's VP, has thoughts about changing the way things are done. Their conflict has effects on both the club and their personal relationship, especially when Jax goes on a personal quest to cleanse the SAMCRO name and image.",
+    "year": "2008",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yPLkf4EiCkR0NOvMfmpHMA2zfN3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2nZsWSN7GKuYntgIwTaGgA07eCy.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "124101",
+    "tmdbId": 124101,
+    "imdbId": "tt11815682",
+    "type": "tv",
+    "title": "Hacks",
+    "overview": "Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+    "year": "2021",
+    "rating": 7.516,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "106379",
+    "tmdbId": 106379,
+    "imdbId": "tt12637874",
+    "type": "tv",
+    "title": "Fallout",
+    "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+    "year": "2024",
+    "rating": 8.108,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kyhbjHomRagzpNEeyKSssbkPWan.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "202555",
+    "tmdbId": 202555,
+    "imdbId": "tt18923754",
+    "type": "tv",
+    "title": "Daredevil: Born Again",
+    "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+    "year": "2025",
+    "rating": 8.159,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/23zbPU6u5TUdyrYXWs8Jxhqhiy9.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "297903",
+    "tmdbId": 297903,
+    "imdbId": "tt39181351",
+    "type": "tv",
+    "title": "PSYREN",
+    "overview": "One day, high schooler Ageha Yoshina picks up a mysterious red phone card. Days later, his childhood friend, Sakurako Amamiya, who possessed the same card, suddenly vanishes. In search of her, he's drawn into rumors of a nationwide string of mysterious disappearances by a secret organization known as Psyren. When he accesses the group, a deadly game that changes his fate forever begins.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3imj2VLU77bLOyJ4aPnEUlpJZDX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4p8RNcI2CpZ4xHRWD8EFxViHcMd.png",
+    "certificate": "16",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
+    "id": "82684",
+    "tmdbId": 82684,
+    "imdbId": "tt9054364",
+    "type": "tv",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nBd0dWeSmD08NsoBTkSLlHDZg4l.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
+    "id": "259140",
+    "tmdbId": 259140,
+    "imdbId": "tt32766897",
+    "type": "tv",
+    "title": "Ranma1/2",
+    "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+    "year": "2024",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ajJxeM5CIDV8fMQZU3sHSfTIVKb.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
+    "id": "70523",
+    "tmdbId": 70523,
+    "imdbId": "tt5753856",
+    "type": "tv",
+    "title": "Dark",
+    "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+    "year": "2017",
+    "rating": 8.428,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bV2DiPOCGj3VYtxTK3qS2N6PePI.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
+    "id": "298505",
+    "tmdbId": 298505,
+    "imdbId": "tt36064406",
+    "type": "tv",
+    "title": "Coven Academy",
+    "overview": "A coven protects their magic school from a dark fate.",
+    "year": "2026",
+    "rating": 7.633,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7WZylCL6enVUsRPnJpYW0B1I7oJ.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4588",
+    "tmdbId": 4588,
+    "imdbId": "tt0108757",
+    "type": "tv",
+    "title": "ER",
+    "overview": "ER explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room.",
+    "year": "1994",
+    "rating": 7.818,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mm5G1pTGXMzG79xVrN5VqdLi11v.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "207347",
+    "tmdbId": 207347,
+    "imdbId": "tt32639706",
+    "type": "tv",
+    "title": "Blue Box",
+    "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+    "year": "2024",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ubw6k78dv5SU9y9JoHRkBW8pGuN.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   }
 ]
