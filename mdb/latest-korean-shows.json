@@ -63,6 +63,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "335951",
+    "tmdbId": 335951,
+    "imdbId": "tt47596978",
+    "type": "tv",
+    "title": "Summer Vacation",
+    "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
+    "certificate": "15",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "320406",
     "tmdbId": 320406,
     "imdbId": "tt43619121",
@@ -183,6 +204,27 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Family",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "334517",
+    "tmdbId": 334517,
+    "imdbId": "tt49931644",
+    "type": "tv",
+    "title": "Oh! My Guard",
+    "overview": "A wildly unpredictable romance begins when a flawed “master of melodrama” actor encounters a mysterious woman who believes she is the female lead of a TV drama.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jFpUscK4vAj2F6pZH1ZT20cO6sw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8INHzI2A4Pa23UnlScY7N1ZWXgT.png",
+    "certificate": "15",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
