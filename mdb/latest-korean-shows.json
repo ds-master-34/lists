@@ -1,26 +1,5 @@
 [
   {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
-    "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
-    "year": "2026",
-    "rating": 10,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "307106",
     "tmdbId": 307106,
     "imdbId": "tt39087958",
@@ -78,6 +57,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 10,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
     "originCountries": [
       "KR"
     ],
@@ -5588,27 +5588,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "234061",
-    "tmdbId": 234061,
-    "imdbId": "tt29311377",
-    "type": "tv",
-    "title": "Dreaming of a Freaking Fairy Tale",
-    "overview": "Shin Jae-rim dreams of becoming a modern-day Cinderella and trading her current boring life for one of luxury and leisure. But landing her Prince Cha-min isn't easy—not only is Moon Cha-min her boss, but he's also engaged to another woman. Can Jae-rim find love with the man of her dreams…or will she discover that the true path to happiness is found within herself?",
-    "year": "2024",
-    "rating": 7.343,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ngrKR7Vnb38vzLVKmc63GYnsZh9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clkI3hotqtyRdJibuDzZc4coAyj.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aMmcJjeUImsSO7CSH5yNmqT5Et5.png",
-    "certificate": "15",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "223329",
     "tmdbId": 223329,
     "imdbId": "tt27368132",
@@ -5624,6 +5603,27 @@
     "runTimeMinutes": 39,
     "primaryGenre": "Drama",
     "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "234061",
+    "tmdbId": 234061,
+    "imdbId": "tt29311377",
+    "type": "tv",
+    "title": "Dreaming of a Freaking Fairy Tale",
+    "overview": "Shin Jae-rim dreams of becoming a modern-day Cinderella and trading her current boring life for one of luxury and leisure. But landing her Prince Cha-min isn't easy—not only is Moon Cha-min her boss, but he's also engaged to another woman. Can Jae-rim find love with the man of her dreams…or will she discover that the true path to happiness is found within herself?",
+    "year": "2024",
+    "rating": 7.343,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ngrKR7Vnb38vzLVKmc63GYnsZh9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clkI3hotqtyRdJibuDzZc4coAyj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aMmcJjeUImsSO7CSH5yNmqT5Et5.png",
+    "certificate": "15",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
