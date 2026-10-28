@@ -1587,6 +1587,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "275677",
+    "tmdbId": 275677,
+    "imdbId": "tt33366664",
+    "type": "tv",
+    "title": "Cromañón: The Night of the Fire",
+    "overview": "It's 2008. A news story connects Malena, 22, with her traumatic past. In 2004, she attended a rock concert at the República de Cromañón venue, where a fire broke out, and 194 young people died. Now, four years later, a new event will link her to past loves and friendships, helping her overcome the guilt she feels for being alive.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2CvdgDkG8eAVJmlBGpjSy3YsRqX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ppAfmqEsQ9jiNAQvBuIvHwX3Ktd.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 33,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "154084",
     "tmdbId": 154084,
     "imdbId": "tt27111295",
@@ -1966,6 +1987,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "255313",
+    "tmdbId": 255313,
+    "imdbId": "tt28212796",
+    "type": "tv",
+    "title": "Viktor bringt's",
+    "overview": "Moritz Bleibtreu plays the opinionated Berlin service technician Viktor, who has to come to terms with his son Mika. Together, they deliver electrical appliances and get into ludicrous discussions with customers about the big and small questions of life.",
+    "year": "2024",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eU9kstd3xJ9OTe984F2GVCjg3TP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mmq34g0Qu8n2jXjPq89GPzjEnl2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bSutVnCvIVfTB0GXSybg9j7G3By.png",
+    "certificate": "12",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "252146",
     "tmdbId": 252146,
     "imdbId": "tt32244849",
@@ -2006,6 +2048,27 @@
       "DE"
     ],
     "originalLanguage": "de"
+  },
+  {
+    "id": "253360",
+    "tmdbId": 253360,
+    "imdbId": "tt29424368",
+    "type": "tv",
+    "title": "STHLM Blackout",
+    "overview": "Technical news-producer Arthur goes on a first date with true-crime enthusiast Mille. They are involuntarily caught in the center of a chaos, involving murder and sabotage. To survive, they must take matters into their own hands.",
+    "year": "2024",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5GsDQp24m29hkL4ndvdvvsFU7yG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pQRTV0vQxKMxXkdYz3INDO8OcaH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/siys1Bx6w3A6NQm6wWPWg7bsZyb.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": "sv"
   },
   {
     "id": "106379",
@@ -2834,7 +2897,7 @@
     "title": "True to Love",
     "overview": "Dating coach Bo-ra, whose relationship is failing, and prickly publisher Su-hyeok team up to save Bo-ra’s love life for the sake of her upcoming book about dating. The collaboration results in the mind game of romance.",
     "year": "2023",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oyY2NRn9J1onVAx7NE0ncULtJur.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kbeTlKwpYH7lCa1b9cYY4jXfbio.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/buq2gblWQ26uT781cg07kH3TxwM.png",
@@ -4150,68 +4213,5 @@
       "IT"
     ],
     "originalLanguage": "it"
-  },
-  {
-    "id": "135597",
-    "tmdbId": 135597,
-    "imdbId": "tt7492014",
-    "type": "tv",
-    "title": "Fairfax",
-    "overview": "Follow four middle school best friends on their never-ending quest for clout in Fairfax Avenue in Los Angeles — the pulsing heart of hypebeast culture.",
-    "year": "2021",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oOEFB2yTmaDOoYsybgxJw7lz8UW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1IVTdSgLtx4tFrEmpmAfhy746Fk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w3rEf4Sz2HOAOEJUijbu2CybYIu.png",
-    "certificate": "18",
-    "runTimeMinutes": 27,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "113901",
-    "tmdbId": 113901,
-    "imdbId": "tt8431322",
-    "type": "tv",
-    "title": "Maradona, Blessed Dream",
-    "overview": "The controversial life and history of Argentine football legend Diego Armando Maradona. From his beginnings in Villa Fiorito, one of the poorest barrios of Buenos Aires, to achieving glory on the international football league. Earning himself a well-deserved place in history. Living a life strewn with drugs, sex and public scrutiny, he played by his own rules regardless of the consequences. Watch the man who took the world by storm and made his way into the hearts of millions.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qjxEp8azTOezyEZe0EZ353mzdwH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/y0XhPDB0sQQyyLpL0N7t0GpH0Aj.jpg",
-    "logoUrl": null,
-    "certificate": "16",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "291212",
-    "tmdbId": 291212,
-    "imdbId": "tt15599734",
-    "type": "tv",
-    "title": "Murder Drones",
-    "overview": "Uzi, a sardonic teen worker robot gone rogue befriends N, an excitable optimistic disassembly drone sent to destroy her, creating what we can assume is a very bad relationship for mankind.",
-    "year": "2021",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/z6fAKaN2F9jogQIdcHUHNVsiFNV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t4OuXVAt0zUBJUC6DnttSph3J5f.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/j3bemfQgvuldQPtYSR4hTKvC3Yq.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 22,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "AU"
-    ],
-    "originalLanguage": "en"
   }
 ]
