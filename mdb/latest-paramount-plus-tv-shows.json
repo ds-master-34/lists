@@ -567,6 +567,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "234061",
+    "tmdbId": 234061,
+    "imdbId": "tt29311377",
+    "type": "tv",
+    "title": "Dreaming of a Freaking Fairy Tale",
+    "overview": "Shin Jae-rim dreams of becoming a modern-day Cinderella and trading her current boring life for one of luxury and leisure. But landing her Prince Cha-min isn't easy—not only is Moon Cha-min her boss, but he's also engaged to another woman. Can Jae-rim find love with the man of her dreams…or will she discover that the true path to happiness is found within herself?",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ngrKR7Vnb38vzLVKmc63GYnsZh9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clkI3hotqtyRdJibuDzZc4coAyj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aMmcJjeUImsSO7CSH5yNmqT5Et5.png",
+    "certificate": "15",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "247246",
     "tmdbId": 247246,
     "imdbId": "tt31456372",
@@ -4186,27 +4207,6 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Talk",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1981",
-    "tmdbId": 1981,
-    "imdbId": "tt0158552",
-    "type": "tv",
-    "title": "Charmed",
-    "overview": "Three sisters (Prue, Piper and Phoebe) reunite and unlock their powers to become the Charmed Ones, the most powerful good witches of all time, whose prophesied destiny is to protect innocent lives from evil beings such as demons and warlocks. Each sister possesses unique magical powers that grow and evolve, while they attempt to maintain normal lives in modern day San Francisco. ",
-    "year": "1998",
-    "rating": 8.159,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ueZFcwAUvkjyAB9beaiqJyg0M8H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rqweyVru9LSYsL4R0iZdU8nOsip.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
