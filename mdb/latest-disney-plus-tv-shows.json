@@ -2421,6 +2421,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "204139",
+    "tmdbId": 204139,
+    "imdbId": "tt15837206",
+    "type": "tv",
+    "title": "Primos",
+    "overview": "Soon to be 10-year-old Tater Ramirez Humphrey's summer plans are turned upside down when all 12 of her primos are invited to stay the summer.",
+    "year": "2024",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3jiIJgCUT2btYJLASV11t9vxPn6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k26HStggCmPVdccTSfYkKXb2vEp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/se0yJox9JsKSqm3xo2DdKk7Q72b.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "236996",
     "tmdbId": 236996,
     "imdbId": "tt29282561",
@@ -2692,6 +2713,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "216292",
+    "tmdbId": 216292,
+    "imdbId": "tt30485422",
+    "type": "tv",
+    "title": "Chief Detective 1958",
+    "overview": "In an era of violence and corruption, Park Yeong-han, a humble detective, joins forces with Sang-sun, Gyeong-hwan and Ho-jeong to uphold justice.",
+    "year": "2024",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3iJPQbGF9MzZQXb5HiUZP43LPz8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/teJVPef30lrI3zzC96BPoTYkwMo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/isTgGn1Wv4Bdqzm0fGIJyjLpx9N.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "211358",
@@ -4162,48 +4204,6 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "137043",
-    "tmdbId": 137043,
-    "imdbId": "tt22002370",
-    "type": "tv",
-    "title": "Connect",
-    "overview": "Dongsoo leads a solitary life, spending his time uploading  music to the internet. His ordinary life is upended when he is kidnapped by an organ hunter, who takes out one of his eyes. Soon, Dongsoo is sharing the  vision of someone who got his eye. Through the connected vision, he learns that the taker is a notorious serial killer, and pursues the murderer to get his eye back.",
-    "year": "2022",
-    "rating": 7.547,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bVgwlYamm5gplckeMWKNFBVyNXi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qmOMfbBANh1ec5mqk4hkPWtVVLY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yPqyKa6TxlrbxkcwaipHzRP4zMT.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "130567",
-    "tmdbId": 130567,
-    "imdbId": "tt14675860",
-    "type": "tv",
-    "title": "Welcome to Chippendales",
-    "overview": "The outrageous story of Somen “Steve” Banerjee, an Indian immigrant who became the unlikely founder of the world’s greatest male-stripping empire—and let nothing stand in his way in the process.",
-    "year": "2022",
-    "rating": 6.457,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cowPil7lc6c4giarDYWP0ZbK8hs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kHSQr6JVwEGOQmGOvseuNPA3lNT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dALURihLlevTDw0H0rIVf5Z328.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],
