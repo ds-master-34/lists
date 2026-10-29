@@ -3236,6 +3236,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293670",
+    "tmdbId": 293670,
+    "imdbId": "tt37601824",
+    "type": "tv",
+    "title": "Budding Romance",
+    "overview": "An aspiring singer and a famous pop star navigate challenges and setbacks on their journey, ultimately finding love and success together.",
+    "year": "2025",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lWIvKGmuz6YiFAdjeIXmPvfssCM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/biHuN3oewEMPIYaXEszE9tsoTbe.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "280016",
     "tmdbId": 280016,
     "imdbId": "tt36667479",

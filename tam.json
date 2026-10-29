@@ -1,5 +1,26 @@
 [
   {
+    "id": "1505305",
+    "tmdbId": 1505305,
+    "imdbId": "tt36931126",
+    "type": "movie",
+    "title": "Immortal",
+    "overview": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
+    "year": "2026",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Ev68TZqunJ31uvn7cbchALeDkn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
+    "logoUrl": null,
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ta"
+  },
+  {
     "id": "1515692",
     "tmdbId": 1515692,
     "imdbId": "tt32012509",
@@ -8373,27 +8394,6 @@
     "runTimeMinutes": 199,
     "primaryGenre": "History",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "79328",
-    "tmdbId": 79328,
-    "imdbId": "tt0274789",
-    "type": "movie",
-    "title": "Minsara Kanavu",
-    "overview": "Priya decides that she wants to be a nun, much to the horror of her father and Thomas, the boy who is in love with her. Thomas decides to enlist the help of Deva to change her mind.",
-    "year": "1997",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/h7a3GSQdt0r1dfQKw9CAkXfEiTk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/em2X6JSHaioKsRS3StUO3hpbuVg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tpHs2CWTIqRy3rpyxV67HFFgdUJ.png",
-    "certificate": "",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
     "originCountries": [
       "IN"
     ],
