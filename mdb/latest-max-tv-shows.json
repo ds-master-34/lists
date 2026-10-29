@@ -1727,6 +1727,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "261449",
+    "tmdbId": 261449,
+    "imdbId": "tt33081933",
+    "type": "tv",
+    "title": "Born Evil: The Serial Killer and the Savior",
+    "overview": "Explore the life and crimes of Hadden Clark, a lesser-known serial killer. Dive into the inner workings of the volatile and dysfunctional Clark family, Hadden's path of depravity, and the shocking confessions he made to his cellmate that sent investigators on a search to solve the cold cases allegedly linked to him.",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lBv80THexr4o274WbrXL5jMEmUI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x4Ck5edQ9eJm3CA3OaMDULBmVH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lnCsJF8jr9zIwqvUykh9JeZuTdm.png",
+    "certificate": "16",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "223397",
     "tmdbId": 223397,
     "imdbId": "tt27535062",
@@ -1810,6 +1831,48 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "258342",
+    "tmdbId": 258342,
+    "imdbId": "tt32821057",
+    "type": "tv",
+    "title": "Teen Torture, Inc.",
+    "overview": "Follows on-going efforts to expose America's \"troubled teen\" industry (TTI). For six decades and counting, this billion-dollar business has used what it calls \"tough love\" as a form of treatment despite numerous deaths, countless suicides, life-altering injuries, and instances of child sexual abuse. Until recently, nobody has been able to stop it. The series follows a recurring band of young survivors and whistleblowers and their harrowing first-hand accounts of extreme abuse and cult-like brainwashing at the hands of these programs, starting a social media firestorm in 2021.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sAOeAnMM4D9XIISvvZ771NkbPWM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/roCiFwvhy2qJYzExRv6JiCqP0BX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j4i5nY6SyUaIj7NEGeSExjQeEw.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "256380",
+    "tmdbId": 256380,
+    "imdbId": "tt32874364",
+    "type": "tv",
+    "title": "Until I Destroyed My Husband's Other Family",
+    "overview": "Kisaragi Minori, who thought she had a happy family with her pure love since they were students and was married to her husband Yudai, was blessed with children, but the story begins when she finds out that her husband Yudai has been cheating on her for 15 years. Minori, who has vowed to take revenge on Yudai, who has another family, and on his lover, Riko Miyake, plots her revenge using Riko's son, Wataru.",
+    "year": "2024",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/70WI0myoHLVpzuZ3RMWMqc5Fl0q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hE8ChyCcSdcaoSqLNn6xEBIGDXy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wmUjYem5JeQw6vjgNreUL66bkdT.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "256212",
@@ -4138,69 +4201,6 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "139086",
-    "tmdbId": 139086,
-    "imdbId": "tt8045494",
-    "type": "tv",
-    "title": "The Murders at Starved Rock",
-    "overview": "This documentary series explores the 1960 brutal murders of three women in Starved Rock State Park in LaSalle County, Illinois, and the decades of questions and doubts that have haunted the son of the prosecutor in the case, as the man found guilty seeks to clear his name after sixty years in prison.",
-    "year": "2021",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xjCTvdaI9U6isyHUZybGtzLgE0Y.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qQ8ETQpuUnEUAkWCPp5MKWvJxJn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zqWCOHAheKsTr4bfdU59u5mjGGm.png",
-    "certificate": "NR",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "153263",
-    "tmdbId": 153263,
-    "imdbId": "tt16742878",
-    "type": "tv",
-    "title": "Ken and Barbie Killers: The Lost Murder Tapes",
-    "overview": "Three schoolgirl murders. Two killers hiding in plain sight. Six video tapes that horrify the world and lead to one of the most controversial murder trials in modern history: one that left a nation shamed, victims denied justice, and a serial killer roaming free in Canada today. Over the course four parts, THE KEN AND BARBIE KILLERS: THE LOST MURDER TAPES follows the extraordinary twists and turns of the case and trial of glamour couple Paul Bernardo and Karla Homolka, the \"demonic duo of dark kink\", who quickly became the most notorious killers in Canadian history.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qLUEokWiO097RPq4CkDFrqR2p4j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wVVYQMIl226uUeggxARrv4ymwGk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kZopCUPAXDUd58zlI8g0oOZDzu0.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "116450",
-    "tmdbId": 116450,
-    "imdbId": "tt13819960",
-    "type": "tv",
-    "title": "And Just Like That…",
-    "overview": "This new chapter of “Sex and the City” follows Carrie, Miranda and Charlotte as they navigate the journey from the complicated reality of life and friendship in their 30s to the even more complicated reality of life and friendship in their 50s.",
-    "year": "2021",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2b6E0pN19IGsmxSv6HyTKydKKdb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sHvTsXSWxuW7hoXAqWM4lBLJI50.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vGv6nIImicWUyePE2pO9Aqt2CCE.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 33,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
