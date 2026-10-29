@@ -21,6 +21,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "298550",
+    "tmdbId": 298550,
+    "imdbId": "tt37180305",
+    "type": "tv",
+    "title": "Friends Sex and Games",
+    "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 34,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "288673",
     "tmdbId": 288673,
     "imdbId": "tt11540908",
@@ -1585,6 +1606,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "270605",
+    "tmdbId": 270605,
+    "imdbId": "tt28329925",
+    "type": "tv",
+    "title": "Every Minute Counts",
+    "overview": "In 1985 Mexico City, a catastrophic earthquake buries thousands. A doctor with a dark past, a journalist chasing fame, and a family in distress risk their lives in rescue attempts. Their efforts become chances to change their own lives.",
+    "year": "2024",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/f2R98auOoUk43Ub6OOVfV2M1kqo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qeAfC9rXL7PwaanIuVTGPhT6U99.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cijGrPXWwhsTNDFJknkBhCCMr74.png",
+    "certificate": "M18",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "275677",
@@ -4171,47 +4213,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "137895",
-    "tmdbId": 137895,
-    "imdbId": "tt15766736",
-    "type": "tv",
-    "title": "The Center Seat: 55 Years of Star Trek",
-    "overview": "In honor of the sci-fi franchise’s 55th anniversary this year and produced by The Nacelle Company, the project will feature interviews with cast, crew and experts as it explores pivotal moments in the franchise’s history, from its inception at Lucille Ball’s production company Desilu to recent film and television adaptations.",
-    "year": "2021",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sYlsE2W1g244E3O1RLJuSiFOMDL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9aH9Jf2jHgTIExOLpJppPFKdc9R.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1pjuM2SnIv8KcoAF8pG123wSghl.png",
-    "certificate": "AL",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135794",
-    "tmdbId": 135794,
-    "imdbId": "tt14691760",
-    "type": "tv",
-    "title": "Vita da Carlo",
-    "overview": "Carlo Verdone plays himself by portraying the drama and the comedy of his private life and his relationship with a loving and oppressive mother: Rome.",
-    "year": "2021",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pVoAM7TxsrLsnPrlktlDOv4X27i.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aX5YpmuYmG7CaU8HEBOckCeZSgd.jpg",
-    "logoUrl": null,
-    "certificate": "13+",
-    "runTimeMinutes": 31,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IT"
-    ],
-    "originalLanguage": "it"
   }
 ]
