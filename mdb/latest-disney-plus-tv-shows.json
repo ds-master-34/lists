@@ -2063,6 +2063,48 @@
     "originalLanguage": "es"
   },
   {
+    "id": "210315",
+    "tmdbId": 210315,
+    "imdbId": "tt28372209",
+    "type": "tv",
+    "title": "This Is Not Hollywood",
+    "overview": "On August 26, 2010, a girl named Sarah disappears in Avetrana. The town is in turmoil, especially her cousin Sabrina. It looks like an innocent escape, but it's not. While everyone searches for her, Sarah has simply vanished without a trace. In one of the best-known cases in Italian true crime, this is the disconcerting story of a disappearance, narrated through the eyes of the protagonists.",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2RU1TbbR4xrtI0Y3rB3O1y6HhZr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oJcDHTNijq7kygGHZnvDKU5UAPt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rZJ7ZztcKexxwahsFASjplxLGB7.png",
+    "certificate": "12",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
+    "id": "222807",
+    "tmdbId": 222807,
+    "imdbId": "tt27207590",
+    "type": "tv",
+    "title": "The Disappearance of Kimmy Diore",
+    "overview": "When Kimmy Diore is kidnapped in broad daylight, shockwaves go beyond her family circle. Kimmy is no ordinary six-old-year girl, but a YouTube star whose videos are followed by millions of viewers. To save her, Sara Roussel must dive into an unfamiliar world, both fascinating and terrifying. She enters the Diore family's inner circle, gradually uncovering secrets that resonate with her own.",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7JnA647tAHiiMeB7DuE4gbGdkll.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uMjHSU8uZqwgaqwDSLOOdaowtHs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Y7uvH5LtKQvIUF65zzzr1mgdDk.png",
+    "certificate": "MA 15+",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "208921",
     "tmdbId": 208921,
     "imdbId": "tt21906238",
@@ -2331,6 +2373,27 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "261449",
+    "tmdbId": 261449,
+    "imdbId": "tt33081933",
+    "type": "tv",
+    "title": "Born Evil: The Serial Killer and the Savior",
+    "overview": "Explore the life and crimes of Hadden Clark, a lesser-known serial killer. Dive into the inner workings of the volatile and dysfunctional Clark family, Hadden's path of depravity, and the shocking confessions he made to his cellmate that sent investigators on a search to solve the cold cases allegedly linked to him.",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lBv80THexr4o274WbrXL5jMEmUI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x4Ck5edQ9eJm3CA3OaMDULBmVH0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lnCsJF8jr9zIwqvUykh9JeZuTdm.png",
+    "certificate": "16",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],
@@ -2610,6 +2673,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "209173",
+    "tmdbId": 209173,
+    "imdbId": "tt21936640",
+    "type": "tv",
+    "title": "Uncle Samsik",
+    "overview": "Driven to turn his country's fortunes around, Kim San crosses paths with Pak Doochill, a shady fixer who adapts quickly to any situation; together, the pair form an uneasy alliance.",
+    "year": "2024",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/60iLAUnwnejECmOwDcuimUnMAO6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pzDY9xhJQZAx1CADITkOUA27GCB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9HuXcXxoK8kraNb3hvifDRoQKKL.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "226102",
     "tmdbId": 226102,
     "imdbId": "tt32117300",
@@ -2667,6 +2751,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
+    "id": "242008",
+    "tmdbId": 242008,
+    "imdbId": "tt30527421",
+    "type": "tv",
+    "title": "Marbella",
+    "overview": "César is a successful lawyer based in Marbella, the mafia capital of the world. Handsome, rich, hedonistic, selfish, ambitious, obsessed with social networks... he knows that to maintain his status he has to be the best in court and the man that everyone knows at the wild Marbella parties, where the numerous criminal groups that do business do business. They operate on the Costa del Sol. César is very clear that, in order not to have problems in life, you have to be friends with everyone and never cross certain lines. But when he least expects it, he discovers that he is in the eye of the hurricane and who needs a lawyer to save him is precisely him.",
+    "year": "2024",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u2w6pfPNaK6OxICsrtS6MVLOjpV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/frKXX8EFIJBgAMYG6l4QDqc6UOZ.jpg",
+    "logoUrl": null,
+    "certificate": "18",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "ES"
     ],
@@ -2841,6 +2946,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "244525",
+    "tmdbId": 244525,
+    "imdbId": "tt31067371",
+    "type": "tv",
+    "title": "See You in Another Life",
+    "overview": "On March 11, 2004, the Cercanías network in Madrid suffered terrorist attacks that cost the lives of more than 190 people.",
+    "year": "2024",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xfiyd4dknLQlnQXSupX7omjoWX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aCchjEbwwVoJrsECYdpB36GQDI7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d2E2jJr6zIM15fBaxsBnr11STwx.png",
+    "certificate": "18",
+    "runTimeMinutes": 37,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "114481",
     "tmdbId": 114481,
     "imdbId": "tt13623772",
@@ -2860,6 +2986,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "223212",
+    "tmdbId": 223212,
+    "imdbId": "tt26693681",
+    "type": "tv",
+    "title": "The Impossible Heir",
+    "overview": "An ambitious boy grows up and joins an intense war of desires to become a star of his own.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ksIQrUoJERXBnVcxAxkMQDpzx3l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sXT9JVUznUwwVy3LsYeD4kCwGgv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/efuoQMiEsqWSL3AuxRSRVzRNfCb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "126308",
@@ -4059,153 +4206,6 @@
     "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "217448",
-    "tmdbId": 217448,
-    "imdbId": "tt25050236",
-    "type": "tv",
-    "title": "How I Caught My Killer",
-    "overview": "The real-life stories behind unique homicide cases with in-depth interviews, authentic archival material and cinematic recreations all packaged together into a fresh spin in the genre.",
-    "year": "2023",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/JyxEEoMCUsKQq5dedTvLWTUp7N.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sG13fWs55PRvDIwZAYvozBPCCKs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3Vw4vuyBrnnE5kv9CnhqStqzTqA.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "121567",
-    "tmdbId": 121567,
-    "imdbId": "tt14307470",
-    "type": "tv",
-    "title": "Koala Man",
-    "overview": "A powerless superhero and family patriarch in an Australian suburb lives a not-so-secret identity as Koala Man while possessing a burning passion to snuff out petty crime and bring order the community.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/omhNXYjGpx0d3ovdTSLh27XjXCa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/64j3QBLDvPE5VXU8yUboVmuy9Sn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/43VswSGddHubnLLvEfse4GtvDdq.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "206816",
-    "tmdbId": 206816,
-    "imdbId": "tt24246994",
-    "type": "tv",
-    "title": "Death in the Dorms",
-    "overview": "These are the stories of the kind of danger that no college student is ever prepared for: a life cut short just when it was getting started, not by accident but by foul play. Each procedural episode of “Death in the Dorms” will examine a different murder of a college student in the U.S.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xwNn6YDaGsoX9QYyeKqAXqIGtsz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2SYEsLJ9gfi9TGdO47jfKMPbqJw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wnPyd7aaMSUw7tupYoUcq1Nw6kP.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "210213",
-    "tmdbId": 210213,
-    "imdbId": "tt22187798",
-    "type": "tv",
-    "title": "Gannibal",
-    "overview": "After causing a major incident, police officer Daigo Agawa takes his wife and daughter to live in the remote mountain village of Kuge. It seems the perfect place to recover from the ordeal, despite the mysterious disappearance of a previous officer posted there. One day, the body of an old woman is found on the mountain. The Goto family says she was attacked by a bear, but Daigo notices a human bite mark. It soon becomes clear that not all is as it seems in the village.",
-    "year": "2022",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AvjCytHUq6AN6rYOFQFATrWbGSR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oilobjVpXlSaDDj67raoNqdHrfB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kRnnfxVyOOg3GJ5afq9ICAA5Y15.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
-  },
-  {
-    "id": "112486",
-    "tmdbId": 112486,
-    "imdbId": "tt17329616",
-    "type": "tv",
-    "title": "Big Bet",
-    "overview": "Cha Moosik runs a casino bar, only to flee to the Philippines due to a crackdown by the National Tax Service. He launches a full-fledged casino business, and strategizes winning over the political and business circles in the Philippines. However, he is suddenly framed as a suspect in Min Seokjun's death, and is tracked by Oh Seunghoon of the Korean Desk. Betrayal is rampant in the presence of money.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9GEGH8kT7XK8iUXl76cWsCt8e46.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9OpU8wamgFVmXmLCLofXlnf8g7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eiljm09V82t4E4wq8cgmtEAxpQK.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "137437",
-    "tmdbId": 137437,
-    "imdbId": "tt12580982",
-    "type": "tv",
-    "title": "National Treasure: Edge of History",
-    "overview": "While searching for history's greatest treasure, Jess Valenzuela unburies her family's secret past.",
-    "year": "2022",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9VW8wF6KpG01fMY4erZ9bw7A4Er.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/y2s4Xdi99Mu2Nh85Y89YZrbY5r6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gDTXEKo2oORqD5cKue8p16znU1x.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "138561",
-    "tmdbId": 138561,
-    "imdbId": "tt14376190",
-    "type": "tv",
-    "title": "Kindred",
-    "overview": "A young aspiring writer discovers secrets about her family's past when she finds herself mysteriously being pulled back and forth in time to a 19th century plantation.",
-    "year": "2022",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iSrPT4PQmrVDGdp55cCShrpBMlj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nCy0y2zbHt8y7Behadt9SaYfE0Q.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w0WSzaLdjsPyoSF8AeKIn4lHYKL.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }
