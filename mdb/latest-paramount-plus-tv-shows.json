@@ -1850,27 +1850,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "81026",
-    "tmdbId": 81026,
-    "imdbId": "tt6601082",
-    "type": "tv",
-    "title": "Rise of the Teenage Mutant Ninja Turtles",
-    "overview": "Rise up! The Teenage Mutant Ninja Turtles get an all-new look, new weapons, and awesome new powers! Join the legendary heroes, Raph, Leo, Donnie and Mikey as these brothers discover a Hidden City beneath New York, learn amazing mystic ninja skills, battle absurd mutants… and always find time for a slice of their favorite pizza! Cowabunga!",
-    "year": "2018",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tyMkJH0YvK6uBydUbN1nkW4Ad3f.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/476lT2b2qfuuBQ8xqFYPNfF1Yvc.png",
-    "certificate": "TV-Y7",
-    "runTimeMinutes": 11,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "76467",
     "tmdbId": 76467,
     "imdbId": "tt7210448",
@@ -1885,6 +1864,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 50,
     "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "72750",
+    "tmdbId": 72750,
+    "imdbId": "tt7016936",
+    "type": "tv",
+    "title": "Killing Eve",
+    "overview": "A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse.",
+    "year": "2018",
+    "rating": 7.888,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2eR0H27Us1tvbjd95oW7WhiKioC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7kibNa9Yob0aNQUtgeBoB3Uh1Ah.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
     "originCountries": [
       "US"
