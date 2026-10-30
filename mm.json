@@ -1,5 +1,26 @@
 [
   {
+    "id": "1290035",
+    "tmdbId": 1290035,
+    "imdbId": "tt34792531",
+    "type": "movie",
+    "title": "Avaraachan & Sons",
+    "overview": "Follows Avarachan, his children and the various family and social relationships that shape their lives.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xFCMObAyeWE7iWFH30XNiOjcWsv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cn5RbvKzrYskQhDkofDaJYjcv1D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cDJtVRUHGkv0Rdm8AWRYETG5RIt.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 150,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ml"
+  },
+  {
     "id": "1593963",
     "tmdbId": 1593963,
     "imdbId": "tt39014003",
@@ -3389,7 +3410,7 @@
     "title": "Meesha",
     "overview": "A forest guard, Midhun, invites his old friends to a reunion in the woods. What starts as a warm get-together slowly turns into a night of tension, betrayal, and survival, as secrets unravel and friendships crack under pressure.",
     "year": "2025",
-    "rating": 6.4,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1SzqFfA4YSpUECHBntbz44NQj6A.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/17HPPumRKBmjLMOeCwhrN0AqBSr.jpg",
     "logoUrl": null,
@@ -8375,27 +8396,6 @@
     "runTimeMinutes": 82,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ml"
-  },
-  {
-    "id": "1022971",
-    "tmdbId": 1022971,
-    "imdbId": "tt23849582",
-    "type": "movie",
-    "title": "Madhura Manohara Moham",
-    "overview": "Town of Kumbazha, the lives of Manu and Meera's family are forever altered by an unexpected truth. As the unshakeable foundation crumbles, they embark on a tumultuous journey, challenging societal norms.",
-    "year": "2023",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ektyuao2iG6NXGCSRVxxNcQkXWZ.jpg",
-    "backdropUrl": null,
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rc1KR5paHJuVqO0yi2dWH6N9Aco.png",
-    "certificate": "U",
-    "runTimeMinutes": 119,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "IN"
     ],

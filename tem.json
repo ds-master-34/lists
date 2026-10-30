@@ -1,5 +1,47 @@
 [
   {
+    "id": "1428295",
+    "tmdbId": 1428295,
+    "imdbId": "tt32089596",
+    "type": "movie",
+    "title": "Comrade Kalyan",
+    "overview": "In a naxal-dominated village on the Andhra-Odisha border, a theatre owner uses communist sentiment to keep his old cinema running. He joins the naxals and kidnaps a leader, setting off a chain of events.",
+    "year": "2026",
+    "rating": 9.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zsAbkmTkGE3l98Jhvdiy7ybNFo8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7xTxoALDYOaMUXvmdn3utV1q34b.png",
+    "certificate": "UA",
+    "runTimeMinutes": 145,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
+    "id": "1261763",
+    "tmdbId": 1261763,
+    "imdbId": "tt31841170",
+    "type": "movie",
+    "title": "Don't Trouble the Trouble",
+    "overview": "Suri, a magician, accidentally makes a young girl vanish with a spell. The girl, revealed to be a genie who grants wishes, explores the city and unleashes her powers when angered.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A0uqqpeLhGfOsW6muky7xvLd8Qf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/60qZoB27ByNcKPihhjMCiC4Ws5l.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 156,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
     "id": "1805372",
     "tmdbId": 1805372,
     "imdbId": "tt43310374",
@@ -28,7 +70,7 @@
     "title": "The Paradise",
     "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
     "year": "2026",
-    "rating": 6,
+    "rating": 5.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/zgCkFI2L1cnq1pIJC7gndC6P3Rr.png",

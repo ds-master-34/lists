@@ -1,5 +1,26 @@
 [
   {
+    "id": "333533",
+    "tmdbId": 333533,
+    "imdbId": "tt44941753",
+    "type": "tv",
+    "title": "The One About Matthew Perry",
+    "overview": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zVnpkk97cyRh8WBJLqHOArdQ4iW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "321221",
     "tmdbId": 321221,
     "imdbId": "tt42220724",
@@ -91,7 +112,7 @@
     "title": "Crystal Lake",
     "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
@@ -227,6 +248,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "336024",
+    "tmdbId": 336024,
+    "imdbId": "tt39123226",
+    "type": "tv",
+    "title": "The Party",
+    "overview": "The Party follows Martin Gilmour, a journalist shaped by his lifelong friendship with the wealthy and charismatic politician Ben Fitzmaurice. Having met at an elite boarding school, Martin and Ben have an unbreakable bond. Three decades on, Martin is invited to Ben’s lavish birthday party at the Fitzmaurice’s country pile, but Martin fears that the publicity of Ben’s bid for Conservative leader will dredge up the secrets of their past with tragic consequences.",
+    "year": "2026",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kzriDfCB8p34TMVq55MgVJk4iFA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mTFyUbPY66kBifUbLZ8AtRCTJzH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/juiCh2SK79HW9U9RkT0WzcWqeKy.png",
+    "certificate": "16",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   },
@@ -767,7 +809,7 @@
     "title": "Line of Fire",
     "overview": "A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice … even if it means betraying their sworn code.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cXG4WDOPNog1kt6pkDqEDQCkJyz.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6WXYI24DFdbvMBTAETtJWFN2qN5.png",
@@ -956,7 +998,7 @@
     "title": "The Doll",
     "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lRDqXZ4LCFl7Rd8fVQ43AhKhtI5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/v61zyREQIx8BUBcXxgzvLqQHyz.png",
@@ -4162,48 +4204,6 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "321338",
-    "tmdbId": 321338,
-    "imdbId": "tt42171045",
-    "type": "tv",
-    "title": "Between Father and Son",
-    "overview": "In just a few suspenseful minutes, a lawyer's world tilts as her visit to her fiancé's family estate ignites an irresistible bond with her future stepson.",
-    "year": "2026",
-    "rating": 4.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uOh3yStvGlWiaktHs4VFtZdquK8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7K4Ywif166vgdB8LK16Vq9CoyMW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/63hyN37TPdo3egsxt3dN333xOGs.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 9,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "256695",
-    "tmdbId": 256695,
-    "imdbId": "tt32604054",
-    "type": "tv",
-    "title": "Regular Show: The Lost Tapes",
-    "overview": "Familiar duo Mordecai and Rigby navigate mundane park jobs that inevitably spiral into surreal, chaotic disasters.",
-    "year": "2026",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Zk5UmvJ634LhA56R18h8RfipFG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uduWVyZHt6YhSLIdcCj1QVrYPL5.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 17,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],

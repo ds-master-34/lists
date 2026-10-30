@@ -651,6 +651,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "249582",
+    "tmdbId": 249582,
+    "imdbId": "tt31842359",
+    "type": "tv",
+    "title": "CTRL+ALT+DESIRE",
+    "overview": "Learn the haunting case of Grant Amato, a 29-year-old Florida man accused of murdering his own family execution style for the love of a cam girl.",
+    "year": "2024",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wALAs5agJcT1PtPVNFNBaCYQKIP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wk5bZjCtWiaiyG3zQN0aqJOipmS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3xh6zU80gnKTQCRHxsRZn6lEKti.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "123625",
     "tmdbId": 123625,
     "imdbId": "tt13629530",
@@ -4186,27 +4207,6 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "4787",
-    "tmdbId": 4787,
-    "imdbId": "tt0497480",
-    "type": "tv",
-    "title": "Comedy Central Presents",
-    "overview": "These half-hour specials showcased some of the best up-and-coming comedians of the moment. The show was a pivotal stepping stone for many of today's stand-up stars.",
-    "year": "1998",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/223LsiI29uOQpdN32QdeMTfmB5R.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "TV-14",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Talk",
     "originCountries": [
       "US"
     ],

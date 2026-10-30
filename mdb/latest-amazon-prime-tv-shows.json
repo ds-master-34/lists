@@ -7,7 +7,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -149,6 +149,27 @@
       "US"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "314939",
+    "tmdbId": 314939,
+    "imdbId": "tt43736405",
+    "type": "tv",
+    "title": "A Love Other Than Yours",
+    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "260249",
@@ -615,6 +636,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "308606",
+    "tmdbId": 308606,
+    "imdbId": "tt39318088",
+    "type": "tv",
+    "title": "Pelayo: Más Allá Del Límite",
+    "overview": "An immersive, three-episode docuseries narrated in the first person by Pelayo Gayol, revealing the darkest side of drug trafficking, not as a distant phenomenon, but as a global system that transforms violence into a business. It's a journey of no return to the heart of a silent war where looking the other way is no longer an option. Gayol leaves his role as an instructor to try to understand the roots of the conflict from the frontlines.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fNxvkDtJKUXIPZaVHVSNacktBRV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2VCSUWfJSE5nrMpSBquiZtpHUUP.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "280948",
@@ -1819,6 +1861,27 @@
     "originalLanguage": "it"
   },
   {
+    "id": "241773",
+    "tmdbId": 241773,
+    "imdbId": "tt30321175",
+    "type": "tv",
+    "title": "Penelope",
+    "overview": "A restless teenager who questions her place in the world embarks on a soul-searching journey into the remote wilderness of the Pacific Northwest.",
+    "year": "2024",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/97y29UZBzw4V5G4xMZahOyAzAhq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wKiv3MzPT0CtEKLGMluDLjvy4OK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e27jWLhkANJZeC7999ZolDac2Ty.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "261646",
     "tmdbId": 261646,
     "imdbId": "tt33184626",
@@ -1880,6 +1943,28 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "244324",
+    "tmdbId": 244324,
+    "imdbId": "tt31499843",
+    "type": "tv",
+    "title": "Dead and Buried",
+    "overview": "Outside the supermarket with her young son, Cathy encounters Michael - the man convicted of the brutal murder of her brother, 20 years earlier. Ignoring the advice of her best friend, Cathy takes to social media, uncovering the successful career and family life Michael has forged for himself since early release from prison, while she grieved for her brother.",
+    "year": "2024",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mNOtgyHuat5xZWLKl15JjBz8yqQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9WmDfvPWeGqKAuYIGcEsbZV6a7K.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AnFfOV3uuxRR2jjg8aPlMdKfMs3.png",
+    "certificate": "",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IE",
+      "GB"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "229480",
@@ -1964,6 +2049,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "230424",
+    "tmdbId": 230424,
+    "imdbId": "tt32321928",
+    "type": "tv",
+    "title": "Betty La Fea: The Story Continues",
+    "overview": "While an empowered and wiser Betty works hard on rebuilding her relationship with her teenage daughter Mila, her relationship with Armando begins to deteriorate, making her question if she made the right decision 20 years ago.",
+    "year": "2024",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/huEeQQBmZsZ5qDXkWl0pS5vPWIU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/l8IOzjaS1YvlfxDXsMhgAJnxld0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bncFAs84GngcZbMOORtuiCoHRBO.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Soap",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "CO"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "218589",
@@ -2939,7 +3045,7 @@
     "title": "True to Love",
     "overview": "Dating coach Bo-ra, whose relationship is failing, and prickly publisher Su-hyeok team up to save Bo-ra’s love life for the sake of her upcoming book about dating. The collaboration results in the mind game of romance.",
     "year": "2023",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oyY2NRn9J1onVAx7NE0ncULtJur.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kbeTlKwpYH7lCa1b9cYY4jXfbio.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/buq2gblWQ26uT781cg07kH3TxwM.png",
@@ -3264,6 +3370,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "153312",
+    "tmdbId": 153312,
+    "imdbId": "tt16358384",
+    "type": "tv",
+    "title": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -4085,132 +4212,6 @@
     "secondaryGenre": "Comedy",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "120909",
-    "tmdbId": 120909,
-    "imdbId": "tt11847842",
-    "type": "tv",
-    "title": "The Tourist",
-    "overview": "When a man wakes up in the Australian outback with no memory, he must use the few clues he has to discover his identity before his past catches up with him.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i2u22f5fSujYLF2xbUrE8imEtuz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oHGnfO0wfqDrRc9pT6mit55JZWS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "139064",
-    "tmdbId": 139064,
-    "imdbId": "tt14220870",
-    "type": "tv",
-    "title": "A Very British Scandal",
-    "overview": "The true story of a duchess publicly shamed in a high society divorce that gripped the nation.",
-    "year": "2021",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rCa2Cdb3JNx2jka2LQJeaSTCIeH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oratSFbxhVq4uGps5bAZvSqUuRH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/thffzIC6iefSjGb8Fwnj4SSRqz0.png",
-    "certificate": "15",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "126914",
-    "tmdbId": 126914,
-    "imdbId": "tt14734228",
-    "type": "tv",
-    "title": "With Love",
-    "overview": "The Diaz siblings, Lily and Jorge, are on a mission to find love and purpose. They cross paths with seemingly unrelated residents during some of the most heightened days of the year—the holidays.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/H7UoEyxRPKdwgdy4kt7UbvkAlX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tlamrEuFPeXBjUNW4ynmJaAemV3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iWfQhkQrPT9KZmpAP6RCF6EYsXc.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "138089",
-    "tmdbId": 138089,
-    "imdbId": "tt10608454",
-    "type": "tv",
-    "title": "Harlem",
-    "overview": "Four stylish and ambitious best girlfriends in Harlem, New York City: a rising star professor struggling to make space for her love life; a savvy tech entrepreneur always dating someone new; a no-filter singer; and a hopeless romantic fashion designer. Together, they level up into the next phase of their careers, relationships, and big city dreams.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hQP2zAm5L52vs7fp3JzOI5LZ4uB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/olMqKtUQp4Hv4H2MErI2mrBzXZr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jgUlopi8G66An1oKFZgN38dQSZW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "71914",
-    "tmdbId": 71914,
-    "imdbId": "tt7462410",
-    "type": "tv",
-    "title": "The Wheel of Time",
-    "overview": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/58qMLQLDJhK1nP7RWZbWVEIyrAb.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135230",
-    "tmdbId": 135230,
-    "imdbId": "tt14489404",
-    "type": "tv",
-    "title": "The Curse of Von Dutch: A Brand to Die For",
-    "overview": "The series chronicles the unbelievable true story behind the rise and fall of the 2000s most iconic fashion trend. In this epic character-driven saga, Venice Beach surfers, gangsters, European garmentos and Hollywood movers and shakers all vie for control of the infamous brand.",
-    "year": "2021",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cIuleHGslnNMABGbHaKNp5Z3ae4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dPcxhfZrUa2UU9awVODFwjfW54R.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/t2fJnCGe6KDNCMbs9qkp3NetWP2.png",
-    "certificate": "14",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }
