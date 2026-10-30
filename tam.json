@@ -1,5 +1,47 @@
 [
   {
+    "id": "1618200",
+    "tmdbId": 1618200,
+    "imdbId": "tt45370533",
+    "type": "movie",
+    "title": "The Dark Heaven",
+    "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 147,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ta"
+  },
+  {
+    "id": "1395215",
+    "tmdbId": 1395215,
+    "imdbId": "tt39239754",
+    "type": "movie",
+    "title": "Sigma",
+    "overview": "A daring treasure hunter throws caution to the wind, outwitting deadly traps and treacherous allies with sheer nerve and cunning.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ljNmU4qn8WJbMe9JwH3FAdZiRAi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/moDLVhvBc5IEc19NdPxhCgpRJBn.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 145,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ta"
+  },
+  {
     "id": "1505305",
     "tmdbId": 1505305,
     "imdbId": "tt36931126",
@@ -8352,48 +8394,6 @@
     "runTimeMinutes": 145,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "412101",
-    "tmdbId": 412101,
-    "imdbId": "tt7088074",
-    "type": "movie",
-    "title": "Gemini Ganeshanum Suruli Raajanum",
-    "overview": "A romantic youngster, who manages to have several relationships with pretty girls, realises his mistakes and finally decides to settle down in life by marrying one among them.",
-    "year": "2017",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/13a35ajW4HmVprxAi2rv7bP788v.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pFf3S2CKa8aydwXfzWPPz56pAVO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/r5Bh0WpccirtoXCiG7mDA72wyV9.png",
-    "certificate": "U",
-    "runTimeMinutes": 134,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "60579",
-    "tmdbId": 60579,
-    "imdbId": "tt0222012",
-    "type": "movie",
-    "title": "Hey Ram",
-    "overview": "Saketh Ram's wife is raped and killed during direct action day riots in Calcutta. He is convinced that Mahatma Gandhi is responsible for all the problems happening in the country. He sets out to kill him.",
-    "year": "2000",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/v7MM2hogZ6XwPaoHFC66g8g26Mo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/874CuWTcoT5reU8OgQ41DWg9Cxw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oJEJl2zxFYs0rEcZR6lmUkAyUsT.png",
-    "certificate": "A",
-    "runTimeMinutes": 199,
-    "primaryGenre": "History",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
