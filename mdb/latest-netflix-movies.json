@@ -1,5 +1,26 @@
 [
   {
+    "id": "1780005",
+    "tmdbId": 1780005,
+    "imdbId": "tt37961714",
+    "type": "movie",
+    "title": "Surviving Hurricane Otis",
+    "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+    "year": "2026",
+    "rating": 7.254,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tNfFbBOuyBbKl4WhKXCbUOwI8Tb.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "1620918",
     "tmdbId": 1620918,
     "imdbId": "tt44822485",
@@ -2798,6 +2819,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1596294",
+    "tmdbId": 1596294,
+    "imdbId": "tt39162810",
+    "type": "movie",
+    "title": "Paralyzed by Hope: The Maria Bamford Story",
+    "overview": "Blurring the line between performance and personal crisis, comedian Maria Bamford turns her mental health journey into material that’s riotously funny and ultimately inspiring. What emerges is a portrait of an artist transforming vulnerability into creative strength through honesty.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/toPLP3b8LfH7ix8w7dcrJ9mn5da.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8mAEphDrPRr4kdcVAC86M2UX2qg.png",
+    "certificate": "R",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1595481",
     "tmdbId": 1595481,
     "imdbId": "tt39140662",
@@ -4168,47 +4210,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1299209",
-    "tmdbId": 1299209,
-    "imdbId": "tt33402908",
-    "type": "movie",
-    "title": "The Son of a Thousand Men",
-    "overview": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vIFdUrfIuOnW6YRGK1BqPAYOaTY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7jiOCYtxAzaac6OXruH59QcoEjM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/binBmXKKGWGz1ozogoJr4m1KzwO.png",
-    "certificate": "A",
-    "runTimeMinutes": 126,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": "pt"
-  },
-  {
-    "id": "1418302",
-    "tmdbId": 1418302,
-    "imdbId": "tt38808167",
-    "type": "movie",
-    "title": "My Boo 2",
-    "overview": "Witness the deep bond between Joe and Anong, which has been long-lasting through many lifetimes and reincarnations.",
-    "year": "2025",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3EVZqugrpUY2RTRdQgKXgE3vZ8b.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bK7hnpxPmdLA4dvTESjPLhDCNqP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4T7Y864siN8jGDqIOE6Af9qtED5.png",
-    "certificate": "17+",
-    "runTimeMinutes": 117,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
   }
 ]
