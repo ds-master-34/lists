@@ -4754,7 +4754,7 @@
     "title": "The Apartment Job",
     "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
@@ -4901,7 +4901,7 @@
     "title": "Romantics Anonymous",
     "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
     "year": "2025",
-    "rating": 7.7,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
@@ -5231,6 +5231,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "64548",
     "tmdbId": 64548,
     "imdbId": "tt4741110",
@@ -5315,27 +5336,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "297424",
     "tmdbId": 297424,
     "imdbId": "tt39453765",
@@ -5393,6 +5393,27 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "333",
+    "tmdbId": 333,
+    "imdbId": "tt0409546",
+    "type": "tv",
+    "title": "Jewel in the Palace",
+    "overview": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
+    "year": "2003",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8ulaHSy8b76VQM6efkin7bxthfB.png",
+    "certificate": "NR",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -5672,27 +5693,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "333",
-    "tmdbId": 333,
-    "imdbId": "tt0409546",
-    "type": "tv",
-    "title": "Jewel in the Palace",
-    "overview": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
-    "year": "2003",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8ulaHSy8b76VQM6efkin7bxthfB.png",
-    "certificate": "NR",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "134465",
     "tmdbId": 134465,
     "imdbId": "tt15672294",
@@ -5861,6 +5861,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "95484",
+    "tmdbId": 95484,
+    "imdbId": "tt11378124",
+    "type": "tv",
+    "title": "Stove League",
+    "overview": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
+    "year": "2019",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6C69xR1hMM66pZmlEAKeIDXpssh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3sfdTRELhR64w2eueRJagITO609.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "146102",
     "tmdbId": 146102,
     "imdbId": "tt15007172",
@@ -5897,27 +5918,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "95484",
-    "tmdbId": 95484,
-    "imdbId": "tt11378124",
-    "type": "tv",
-    "title": "Stove League",
-    "overview": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
-    "year": "2019",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6C69xR1hMM66pZmlEAKeIDXpssh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3sfdTRELhR64w2eueRJagITO609.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -6351,7 +6351,7 @@
     "title": "When the Phone Rings",
     "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
     "year": "2024",
-    "rating": 6,
+    "rating": 6.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
@@ -6525,6 +6525,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/ywFmrTTTHe5RSVSypV9Q7LSoH0z.png",
     "certificate": "15",
     "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "284744",
+    "tmdbId": 284744,
+    "imdbId": "tt39012462",
+    "type": "tv",
+    "title": "Pro Bono",
+    "overview": "When a respected judge's world falls apart overnight, he joins a top law firm's pro bono team — where hope and purpose wait in humble, unexpected places.",
+    "year": "2025",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8wovOkYH4CBH45jH1zzkyOMDMSb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/npC8ErjU584ER43OuyVA24NdBGb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -7331,6 +7352,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "300954",
+    "tmdbId": 300954,
+    "imdbId": "tt39393581",
+    "type": "tv",
+    "title": "The Husband",
+    "overview": "Taeju and Seyun are on the verge of divorce. But when a drunken comment from Taeju gets Seyun kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Taeju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5sORr7unLLaEcO7OpNenMrdWhP6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "64127",
     "tmdbId": 64127,
     "imdbId": "tt4775200",
@@ -7451,27 +7493,6 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "300954",
-    "tmdbId": 300954,
-    "imdbId": "tt39393581",
-    "type": "tv",
-    "title": "The Husband",
-    "overview": "Taeju and Seyun are on the verge of divorce. But when a drunken comment from Taeju gets Seyun kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Taeju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
-    "year": "2026",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5sORr7unLLaEcO7OpNenMrdWhP6.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7611,7 +7632,7 @@
     "title": "True to Love",
     "overview": "Dating coach Bo-ra, whose relationship is failing, and prickly publisher Su-hyeok team up to save Bo-ra’s love life for the sake of her upcoming book about dating. The collaboration results in the mind game of romance.",
     "year": "2023",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oyY2NRn9J1onVAx7NE0ncULtJur.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kbeTlKwpYH7lCa1b9cYY4jXfbio.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/buq2gblWQ26uT781cg07kH3TxwM.png",
@@ -7982,6 +8003,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "253029",
+    "tmdbId": 253029,
+    "imdbId": "tt33607282",
+    "type": "tv",
+    "title": "Brewing Love",
+    "overview": "A heart-fluttering love story between Chae Yong-ju, a super passionate sales king at a liquor company who hides her emotions, and Yun Min-ju, a super sensitive brewery owner who is adept at catching people’s emotions.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kQMXEmYkyKGMGA1ZdgfWIxCOWOX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/awMJmGHHQ7bECz1Rgp7HZnJI7B3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bZNrIe9Vjyv9DIC6hxy6Z6b8pUR.png",
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "79238",
     "tmdbId": 79238,
     "imdbId": "tt8269398",
@@ -8087,6 +8129,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "204589",
+    "tmdbId": 204589,
+    "imdbId": "tt26351388",
+    "type": "tv",
+    "title": "My Perfect Stranger",
+    "overview": "Yun Hae Jun is the youngest anchor to ever work at his broadcasting station. He is calm and straightforward as a journalist and kind in his personal life. On the other hand, Baek Yun Yeong dreamed of becoming a writer but wound up working at a publishing company. The two somehow travel back in time to the year 1987. There, Yun Hae Jun tries to find the truth behind a serial murder case, while Baek Yun Yeong attempts to prevent her parents from marrying. They soon realize that their objectives are connected.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gYJBz6NMvP4oc2mf181bjPJSgxJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6PwWXSPUiKjjWaGnapfbDGTWNGF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aRE1tM16mDg0PqD42Tjhea0zc9F.png",
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "139280",
     "tmdbId": 139280,
     "imdbId": "tt26350158",
@@ -8171,6 +8234,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "43135",
+    "tmdbId": 43135,
+    "imdbId": "tt2362760",
+    "type": "tv",
+    "title": "A Gentleman's Dignity",
+    "overview": "Four men with complicated love lives refuse to admit they're getting older, and attempt to prove that forty is the new thirty!",
+    "year": "2012",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zdYmI1uYrHsNbw9qMHiWDnGRwXX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9GrOL5cSJ8sz3rt7zNRTK6neWL.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "78797",
     "tmdbId": 78797,
     "imdbId": "tt8236528",
@@ -8207,27 +8291,6 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "204589",
-    "tmdbId": 204589,
-    "imdbId": "tt26351388",
-    "type": "tv",
-    "title": "My Perfect Stranger",
-    "overview": "Yun Hae Jun is the youngest anchor to ever work at his broadcasting station. He is calm and straightforward as a journalist and kind in his personal life. On the other hand, Baek Yun Yeong dreamed of becoming a writer but wound up working at a publishing company. The two somehow travel back in time to the year 1987. There, Yun Hae Jun tries to find the truth behind a serial murder case, while Baek Yun Yeong attempts to prevent her parents from marrying. They soon realize that their objectives are connected.",
-    "year": "2023",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gYJBz6NMvP4oc2mf181bjPJSgxJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6PwWXSPUiKjjWaGnapfbDGTWNGF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aRE1tM16mDg0PqD42Tjhea0zc9F.png",
-    "certificate": "15",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -8333,69 +8396,6 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "43135",
-    "tmdbId": 43135,
-    "imdbId": "tt2362760",
-    "type": "tv",
-    "title": "A Gentleman's Dignity",
-    "overview": "Four men with complicated love lives refuse to admit they're getting older, and attempt to prove that forty is the new thirty!",
-    "year": "2012",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zdYmI1uYrHsNbw9qMHiWDnGRwXX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9GrOL5cSJ8sz3rt7zNRTK6neWL.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "97766",
-    "tmdbId": 97766,
-    "imdbId": "tt11769798",
-    "type": "tv",
-    "title": "Rugal",
-    "overview": "A police detective who loses everything to a criminal organization seeks payback when he gains special abilities through biotechnology.",
-    "year": "2020",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lLXeqmvJ6KnWz1ifLMBPHYOovCt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h31iY3429ivyMCRr9gyt2msBECn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2GNNaB7vmHETIejMUJBFHm217EV.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "68250",
-    "tmdbId": 68250,
-    "imdbId": "tt5994346",
-    "type": "tv",
-    "title": "Tomorrow with You",
-    "overview": "Real-estate CEO Yoo So-joon uses his ability to travel through time to marry photographer Song Ma-rin in an attempt to change his future.",
-    "year": "2017",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/los95p2qvY6ssB570bF0GQGVEi9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rzD7FVPJ94GJYjpD2CsKDJDuK9W.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6CJCrpUI04duy4WfcneoM6Mr1Qn.png",
-    "certificate": "",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],

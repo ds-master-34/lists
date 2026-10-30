@@ -28,7 +28,7 @@
     "title": "Ali G: Who Iz I?",
     "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
     "year": "2026",
-    "rating": 5.7,
+    "rating": 5.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/i5A8UZtgyduV5yhRl4RaIrKkmi8.png",
@@ -91,7 +91,7 @@
     "title": "The Dog Stars",
     "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/mk9IHaDuNrhF9hf5LNYFLsyrfUb.png",
@@ -133,7 +133,7 @@
     "title": "Forgotten Island",
     "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/barJMlk3d6jiiMy3AbqjhBPH0Yw.png",
@@ -162,27 +162,6 @@
     "runTimeMinutes": 132,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1290418",
-    "tmdbId": 1290418,
-    "imdbId": "tt32358390",
-    "type": "movie",
-    "title": "The Cycle",
-    "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
-    "year": "2026",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ziR1y1HXqb2dl7Y0HAvYicBTka8.svg",
-    "certificate": "R-13",
-    "runTimeMinutes": 111,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Horror",
     "originCountries": [
       "GB"
     ],
@@ -407,7 +386,7 @@
     "title": "Tenzing",
     "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
@@ -596,7 +575,7 @@
     "title": "Remain Calm",
     "overview": "The story follows the two gas station clerks whose routine night shift turns into a fight for survival. A government agent warns them about Mr. Frett, a terrifying creature that tracks and hunts people who show any signs of anxiety, stress, or panic. To stay alive, the characters must force themselves into a state of aggressive positivity and calm.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mwS8LsBd7FWp0XomfzVpynrGhHR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mJ7zo8mMjXtvgf70EMiiT9aiola.jpg",
     "logoUrl": null,
@@ -952,27 +931,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1204680",
-    "tmdbId": 1204680,
-    "imdbId": "tt1756855",
-    "type": "movie",
-    "title": "Coyote vs. Acme",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-    "year": "2026",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
-    "certificate": "PG",
-    "runTimeMinutes": 103,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1291366",
     "tmdbId": 1291366,
     "imdbId": "tt29494959",
@@ -1072,27 +1030,6 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "445466",
-    "tmdbId": 445466,
-    "imdbId": "tt6628920",
-    "type": "movie",
-    "title": "Idiots",
-    "overview": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
-    "year": "2026",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/icOjb0xgKgdkNhxEhFMYGOAdryO.png",
-    "certificate": "R",
-    "runTimeMinutes": 100,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],
@@ -1380,7 +1317,7 @@
     "title": "The Last Kiss",
     "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
     "year": "2026",
-    "rating": 5.3,
+    "rating": 5.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/qL3jhyoMSweX3mJ8h9ZsKGLDwOB.png",
@@ -2527,28 +2464,6 @@
     "originalLanguage": "nl"
   },
   {
-    "id": "1421539",
-    "tmdbId": 1421539,
-    "imdbId": "tt13597298",
-    "type": "movie",
-    "title": "Julian",
-    "overview": "After an unexpected encounter, Fleur and Julian fall madly in love. Soon after Julian proposes, an ambitious, yet challenging idea starts to dawn on Fleur. Slowly but surely, she works out a plan to get married in every country where she and her wife are allowed to do so. Fueled by their love and a rising sense of urgency, they take a leap of faith. After only four marriages, their journey comes to an inevitable, painful halt.",
-    "year": "2025",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dPuEkF7dbyPNpzy7x4OarqtoxA9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jl2An3tvhvJKOFWRngBkAe9PCqY.jpg",
-    "logoUrl": null,
-    "certificate": "D",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "BE",
-      "NL"
-    ],
-    "originalLanguage": "fr"
-  },
-  {
     "id": "1315772",
     "tmdbId": 1315772,
     "imdbId": "tt32890033",
@@ -2585,27 +2500,6 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Action",
     "secondaryGenre": "War",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1476682",
-    "tmdbId": 1476682,
-    "imdbId": "tt36834010",
-    "type": "movie",
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "overview": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
-    "year": "2026",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
-    "certificate": "R",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -2759,27 +2653,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1470329",
-    "tmdbId": 1470329,
-    "imdbId": "tt36639436",
-    "type": "movie",
-    "title": "Another World",
-    "overview": "Gudo is a Soul Keeper, a spirit who guides human souls into their next life. When he befriends a young girl named Yuri, he discovers that her untimely death has left her cursed with unresolved rage and regret. As Yuri’s soul teeters on the edge of annihilation, Gudo embarks on a dangerous journey to stop her from unleashing horrible destruction on both the human world and the spirit realm.",
-    "year": "2025",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/glYJbEs9MBPAGAj2EL0jFPlmEAT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eIAv8gvn1VJGIxGNZ88C8A0bkHl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7NudItrQg7cavmc4zrtQpA6MRJ5.png",
-    "certificate": "NR",
-    "runTimeMinutes": 112,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "HK"
-    ],
-    "originalLanguage": "cn"
-  },
-  {
     "id": "1480574",
     "tmdbId": 1480574,
     "imdbId": "tt36948232",
@@ -2852,7 +2725,7 @@
     "title": "Bleach: Thousand-Year Blood War - The Calamity",
     "overview": "The Soul Reapers and Quincies clash in a final battle as Yhwach breaches the Royal Palace. When the Soul King falls, reality begins collapsing. Former enemies unite to storm the transformed palace and face a threat to all existence. A theatrical screening of the first three episodes of the anime featuring an exclusive behind‑the‑scenes conversation with creator Tite Kubo, chief series director Tomohisa Taguchi, and series director Hikaru Murata about the production.",
     "year": "2026",
-    "rating": 8.9,
+    "rating": 9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tEaeXZZO7SEcDr6yRP31UrrxcX0.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/fwdosqd1BW1tDlvaF9qhMuERQGY.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/7VDfmz4cG2UZ52h3AzH577SPnpe.png",
@@ -3083,7 +2956,7 @@
     "title": "A Mosquito in the Ear",
     "overview": "After struggling with fertility issues, an American couple decides to pursue international adoption. They are matched with a 4-year-old girl named Sarvari and travel to an orphanage in Goa, India, to bring her home.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kiU9L3YUi8IWmsZw8V1YHiwYtqE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/fZQKk36AxZIhoRjEMe67j0CTECM.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/lnMkOrrvi8sZH6c1FQhQQB0OCOu.png",
@@ -3356,7 +3229,7 @@
     "title": "The Breadwinner",
     "overview": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
     "year": "2026",
-    "rating": 5.6,
+    "rating": 5.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/dXt1zMzx521gTj6ioOiXcIcOlMv.png",
@@ -3503,7 +3376,7 @@
     "title": "Redline Fury",
     "overview": "Street racers go against bad guy. Bad guy gets very angry. Bad guy gets back at good guys. Good guys win against bad guy. Movie has all the G's - Guts, Gears, Guns, and Girls. Good.",
     "year": "2026",
-    "rating": 5.2,
+    "rating": 5.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ythRDmlwOIa4QtWotEKB34HEbBk.jpg",
     "backdropUrl": null,
     "logoUrl": null,
@@ -3568,7 +3441,7 @@
     "title": "Nothing to Lose",
     "overview": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him — no matter the cost.",
     "year": "2026",
-    "rating": 5.7,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hHCb8i81kikKIxyVbbTJNVfxXIv.png",
@@ -4238,5 +4111,132 @@
       "HU"
     ],
     "originalLanguage": "hu"
+  },
+  {
+    "id": "1558796",
+    "tmdbId": 1558796,
+    "imdbId": "tt37899019",
+    "type": "movie",
+    "title": "Never Change!",
+    "overview": "Nearly two decades after a devastating tornado abruptly cut their senior year short, a group of mid-30s adults must return to their hometown high school to complete their remaining requirements and finally graduate.",
+    "year": "2026",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fhOpv9KqTFToS2JKxYBHmxOXfnz.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1716513",
+    "tmdbId": 1716513,
+    "imdbId": "tt43140112",
+    "type": "movie",
+    "title": "Extreme Makeover: Homer Edition",
+    "overview": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9BceebGe0ewhChD82CjZap0ccVh.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1127384",
+    "tmdbId": 1127384,
+    "imdbId": "tt29516222",
+    "type": "movie",
+    "title": "Deep Water",
+    "overview": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+    "year": "2026",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ax881eb7yKTJPtEGsNGFqwDqrHA.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "AU",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1318413",
+    "tmdbId": 1318413,
+    "imdbId": "tt32547691",
+    "type": "movie",
+    "title": "Pressure",
+    "overview": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A28r04yW2BQgEniLt5inopfryWE.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1391074",
+    "tmdbId": 1391074,
+    "imdbId": "tt34705112",
+    "type": "movie",
+    "title": "Busboys",
+    "overview": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
+    "year": "2026",
+    "rating": 4.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ctUt397YPPr7CeN4xijFXj9TREO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zccqkGvHYnruhWstdCAOd001Qq0.png",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1398655",
+    "tmdbId": 1398655,
+    "imdbId": "tt34915693",
+    "type": "movie",
+    "title": "Blue Film",
+    "overview": "Drawn by the promise of easy money and anonymous sex, queer camboy Aaron Eagle is shocked to discover a personal connection with the mysterious stranger who has paid for his company.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7yqMtaRMPgntGcDtYySv7XfTsDB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u1HfYLIzWZWpeTJENxWao69DUiz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qKn1qxKUrqer9zkr1RxfcV4SeQ3.png",
+    "certificate": "NR",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]
