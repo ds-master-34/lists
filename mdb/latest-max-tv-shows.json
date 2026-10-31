@@ -28,7 +28,7 @@
     "title": "WAR",
     "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
@@ -103,28 +103,6 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "331033",
-    "tmdbId": 331033,
-    "imdbId": "tt38116565",
-    "type": "tv",
-    "title": "Collision",
-    "overview": "When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
-    "year": "2026",
-    "rating": 3.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ue1kLkkh9AbhnEs1sfY0Jo2f6Fy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
-    "logoUrl": null,
-    "certificate": "TV-MA",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Soap",
-    "originCountries": [
-      "MX",
-      "US"
-    ],
-    "originalLanguage": "es"
   },
   {
     "id": "95350",
@@ -4203,6 +4181,27 @@
     "secondaryGenre": "Family",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "152365",
+    "tmdbId": 152365,
+    "imdbId": "tt5232622",
+    "type": "tv",
+    "title": "The Girl Before",
+    "overview": "A traumatized woman falls in love with an extraordinary minimalist house, which remains under the spell of the architect who originally designed it, but everything may not be as it seems.",
+    "year": "2021",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/11FAvHhce6xrMqgumguAVZWmvSI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tvXebdBI5LTQ52brqkF15teS4W5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4X33UtgCZk3yhUi6IpYjiEVuas8.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   }
