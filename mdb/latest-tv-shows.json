@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "322267",
+    "tmdbId": 322267,
+    "imdbId": "tt39469996",
+    "type": "tv",
+    "title": "Newlyweds",
+    "overview": "A mature romance about a free-spirited woman and a reserved professor who marry quickly after a brief, passionate courtship.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9ZAPU2IRSdI9xdVb42z2F1momJc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n0RJ41WxoROYkKOdJP0NU1hEktJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hwMZ5PR4PLnm2pjpQs5SZLKs0fJ.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "314360",
     "tmdbId": 314360,
     "imdbId": "tt39980704",
@@ -4187,26 +4208,5 @@
       "JP"
     ],
     "originalLanguage": "ja"
-  },
-  {
-    "id": "285807",
-    "tmdbId": 285807,
-    "imdbId": "tt36022742",
-    "type": "tv",
-    "title": "Nemesis",
-    "overview": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists — and only one can come out on top.",
-    "year": "2026",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4S1aLdl1jyDsVRaevM6PqjWuIju.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
