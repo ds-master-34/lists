@@ -1366,27 +1366,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "124271",
-    "tmdbId": 124271,
-    "imdbId": "tt14218674",
-    "type": "tv",
-    "title": "NCIS: Hawaiʻi",
-    "overview": "Jane Tennant, the first female Special Agent in Charge of NCIS Pearl Harbor, and her unwavering team of specialists balance duty to family and country while investigating high-stakes crimes involving military personnel, national security and the mysteries of the sun-drenched island paradise itself.",
-    "year": "2021",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4R8xtDx2ge0GjEOnEwoR8V8X82q.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5j8IF8gWOTw2WgxYYvrAlGf9eJ6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6fqcWYqRmd40qYPhxcEmFArwEyg.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "119243",
     "tmdbId": 119243,
     "imdbId": "tt13657062",
@@ -4165,48 +4144,6 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "2009",
-    "tmdbId": 2009,
-    "imdbId": "tt0244926",
-    "type": "tv",
-    "title": "Rocket Power",
-    "overview": "The daily lives of four friends who enjoy extreme sports, surfing, and getting into some crazy situations.",
-    "year": "1999",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2As5aMc84mtTurD2DfDLytNLhkh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oBGchglw5lgrW7jc5UYK7IHsi4X.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ple703ShyyRxbwxIakGaStNYvjO.png",
-    "certificate": "TV-Y7",
-    "runTimeMinutes": 48,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1912",
-    "tmdbId": 1912,
-    "imdbId": "tt0194624",
-    "type": "tv",
-    "title": "Strangers with Candy",
-    "overview": "Jerri Blank is a former prostitute and junkie whore who returns to high school as a 46-year-old freshman at Flatpoint High. Jerri ran away from home and became 'a boozer, a user, and a loser' after dropping out as a teenager, supporting her drug habits through prostitution, stripping, and larceny. She has been to prison several times, the last time because she 'stole the TV'.\n\nAt home, Jerri's father Guy is comatose, although he seems perfectly capable of amazing feats. Her stepmother Sara is vain and bitter, and stepbrother Derrick is a bullying jock. Jerri tries to do things the right way but always ends up learning the wrong lesson. Her hijinks often involve, either directly or indirectly, neurotic history teacher Chuck Noblet and his secret lover, sensitive art teacher Geoffrey Jellineck.",
-    "year": "1999",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/w2qfdUvIgidvvEPkSxz2406So5W.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/PQvIryivjD60LmBZtIiHAAVDbA.png",
-    "certificate": "",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
