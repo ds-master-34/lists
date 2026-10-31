@@ -7,7 +7,7 @@
     "title": "The Dark Heaven",
     "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
     "year": "2026",
-    "rating": 8.1,
+    "rating": 8.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
     "logoUrl": null,
@@ -49,7 +49,7 @@
     "title": "Immortal",
     "overview": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
     "year": "2026",
-    "rating": 8.5,
+    "rating": 8.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8Ev68TZqunJ31uvn7cbchALeDkn.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
     "logoUrl": null,
@@ -133,7 +133,7 @@
     "title": "4 Idiots",
     "overview": "King, Queen, Jack, and Ace-four misfits surviving through petty crimes in Chennai-found their world turned upside down when COVID-19 lockdowns shut down public transport, their main source of income. Desperate for a way out, King discovered an audio recording about a bungalow filled with black money, supposedly guarded by a lone watchman. Seeing it as their golden opportunity, the gang set out to execute the perfect heist. However, upon entering the bungalow, the door slammed shut behind them, and a chilling voice welcomed them. The so-called security guard was none other than Pulibaba, a notorious gangster. With a gun in hand, he forced them to surrender their belongings and made a sinister phone call: \"Doctor, the delivery is ready... Eight kidneys.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zcHMRPurZAF9SOrKIwT2WtjX9JH.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikKdgB2wHJo17OF2R9ejllsYPgk.jpg",
     "logoUrl": null,
@@ -162,27 +162,6 @@
     "runTimeMinutes": 141,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "112314",
-    "tmdbId": 112314,
-    "imdbId": "tt1927165",
-    "type": "movie",
-    "title": "Thoonga Nagaram",
-    "overview": "A story of four friends from different walks of life who get together in an unusual venue in the most unexpected manner.",
-    "year": "2011",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/t5zs9boOUNYatBf4qgrumMQh7on.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "IN"
     ],
@@ -273,27 +252,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "66247",
-    "tmdbId": 66247,
-    "imdbId": "tt0140399",
-    "type": "movie",
-    "title": "Muthu",
-    "overview": "The story concerns Muthu, a charismatic, well-respected and loyal servant and charioteer of Raja Malayasimman, a wealthy zamindar. While Muthu and Raja's exploits lead them to fall in love with the same woman, an actress and dancer named Ranganayaki, Raja's materal uncle Ambalathar is keen on assuming control of the family's property.",
-    "year": "1995",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fespJv8tkg9sWnG0DlB2zjnOpFQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z7GDWAyLbPVJnY9a4wxsqAfYQR9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gRxjKQ6TluDStNAkUV894A6c6NM.png",
-    "certificate": "U",
-    "runTimeMinutes": 165,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1655049",
     "tmdbId": 1655049,
     "imdbId": "tt41101621",
@@ -307,27 +265,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/y1Gb9KbWqvf0PnQiRhpJ4kv3zGn.png",
     "certificate": "U",
     "runTimeMinutes": 150,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "413136",
-    "tmdbId": 413136,
-    "imdbId": "tt7794052",
-    "type": "movie",
-    "title": "Merku Thodarchi Malai",
-    "overview": "Living on the borders of Kerala and Tamil Nadu, Rangasamy, a laborer just like his fellow sons of soils toils, hard-working at the spice plantations owned by landlords. He lives a happy life and wishes to own a piece of land and earn a living through farming. After years of struggle, his dream finally comes true when Chaako, a local politician helps him buy the land, however, he soon faces tougher challenges as he has to deal with corrupt and wealthy politicians.",
-    "year": "2018",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eKIXvlp0h1395TF3FdqWssywipR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xKO1Xrrn11f7XreEokX3CU5724R.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 122,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -351,27 +288,6 @@
     "runTimeMinutes": 144,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "75076",
-    "tmdbId": 75076,
-    "imdbId": "tt0373733",
-    "type": "movie",
-    "title": "Boys",
-    "overview": "The story centers on six youngsters, who experience the downfalls of teenage life. The film conveys a message about the importance of a good education and career over other distractions, such as romance and sex.",
-    "year": "2003",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oQBEA5Slv40HHHM5WA1ey8D7nnl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/65JIeiuARQOJp81pBZPlJ85BnGC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/x9ImJqzfBZWVzYsbh1ddHpDtuyE.png",
-    "certificate": "",
-    "runTimeMinutes": 172,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "IN"
     ],
@@ -434,27 +350,6 @@
     "certificate": "U/A 16+",
     "runTimeMinutes": 149,
     "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "221529",
-    "tmdbId": 221529,
-    "imdbId": "tt3182644",
-    "type": "movie",
-    "title": "Moodar Koodam",
-    "overview": "Four nobodies brought together by a quirk of fate decide to rob the house of a rich man. But things turn crazy when they arrive at his doorstep and find that the man is actually bankrupt.",
-    "year": "2013",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/62OCurCtXlOX8oPL6WFi3N1LEBu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1DNoB7ZFBbpQRu8WSZ43M1Etph0.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 149,
-    "primaryGenre": "Comedy",
     "secondaryGenre": "",
     "originCountries": [
       "IN"
@@ -756,27 +651,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "69513",
-    "tmdbId": 69513,
-    "imdbId": "tt1956589",
-    "type": "movie",
-    "title": "Padikathavan",
-    "overview": "Rocky is looked down upon by his father and spends all his time in a mechanic shop. Problems arise in his life after he falls in love with Gayathri.",
-    "year": "2009",
-    "rating": 5.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3G8JAGuM6JeSCpV3TeJ6fM69bfd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2J9igN4jtltZG5kuSvcDKN2GyDo.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1544326",
     "tmdbId": 1544326,
     "imdbId": "tt38267486",
@@ -847,7 +721,7 @@
     "title": "Lenin Pandiyan",
     "overview": "Set alongside on the riverbanks of Maanamadurai in the Sivagangai district, the premise is about a very gullible, innocent old couple in their late 60s, 70s who inadvertently get intertwined in the political lobby of sand mining which is currently a major issue in the local district. By the orders from a steadfast judge, to ensure protection & safeguard them from the vindictive political system, they nominate a weakest unassuming rookie police constable .The emotional bond between the rookie policeman and the couple & how they avenge the entrenched political system with fortuitous incidents as a new found allies forms the rest of the narrative.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qhvvef3ayMfnuA4wQcPscC8em0A.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8nCqIMHXSbO1uvxizndwMRxcsw9.jpg",
     "logoUrl": null,
@@ -1267,7 +1141,7 @@
     "title": "Breakfast: Accept the Reality",
     "overview": "Divorcing couple Rishab and Lakshmi meet counselor Dr. Gangadevi, who recounts a film about Shantanu and heiress Janvi — on hearing that story the couple finds about an estranged person and the get to know about the relationship between them.",
     "year": "2026",
-    "rating": 5.2,
+    "rating": 5.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xpFEHrivqCbeRem5XQsSmh1TMWi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/cSRqSiw4oB638PtrgtXDbCd6YOC.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/5h2KNOw2TY1Or8cgu8dRVY7GyJL.png",
@@ -1743,27 +1617,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "512534",
-    "tmdbId": 512534,
-    "imdbId": "tt8108034",
-    "type": "movie",
-    "title": "Nota",
-    "overview": "Sitting Chief Minister Vinodhan, who is facing imprisonment in an illegal assets case, makes his son, Varun the temporary CM until his return. The disinterested young man gradually wakes up to the sorry state of affairs and tries to bring in a change.",
-    "year": "2018",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gjmtKSwVTCwhp00Rxg58VauqKG0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1eMOFu5v9Ho8YQBr8pd0Yzz4OL2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eQ3tkHACZNueQlQGGr3VwXl2n3l.png",
-    "certificate": "U",
-    "runTimeMinutes": 146,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1507233",
     "tmdbId": 1507233,
     "imdbId": "tt37511189",
@@ -1947,27 +1800,6 @@
     "runTimeMinutes": 141,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "504231",
-    "tmdbId": 504231,
-    "imdbId": "tt7715202",
-    "type": "movie",
-    "title": "Sarkar",
-    "overview": "NRI corporate Sundar Ramasamy comes to India to vote, only to learn that his vote has already been cast. While he reclaims his right legally, it also sets in motion a chain of events that eventually lead to him entering the political fray, trying to change the system.",
-    "year": "2018",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/plaMZ1r11u7D9JTd4vkmhQJlYfa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dhifkRV8UMaZgE4lS6yIT82n3xt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lwoWUY2a4m0KvfjyFCTpRZ86mzm.png",
-    "certificate": "UA",
-    "runTimeMinutes": 164,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
@@ -2331,48 +2163,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "493107",
-    "tmdbId": 493107,
-    "imdbId": "tt6863784",
-    "type": "movie",
-    "title": "Saamy²",
-    "overview": "The son of Aarusaamy becomes a cop and takes on the criminal who murdered his parents.",
-    "year": "2018",
-    "rating": 4.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dvyDUclIXYVl6nakOljELf1SqQC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yhVhcMbCqVFJt8hXge9aLpu7brW.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 157,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "49029",
-    "tmdbId": 49029,
-    "imdbId": "tt0376144",
-    "type": "movie",
-    "title": "Saamy",
-    "overview": "A policeman accepts bribes from corrupt politicians and local thugs to help them in their illegal work. However, he decides to correct his mistakes after he falls in love with a woman.",
-    "year": "2003",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/932IkUzs2H5tuRxbKyTO4XdGcty.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ywIFHK8CCo8qVZR4ub0p13v3yTk.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 140,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1623927",
     "tmdbId": 1623927,
     "imdbId": "tt39522563",
@@ -2478,27 +2268,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "366252",
-    "tmdbId": 366252,
-    "imdbId": "tt6539198",
-    "type": "movie",
-    "title": "Middle Class Madhavan",
-    "overview": "Madhavan, a lawyer and the breadwinner of his family, finds it difficult to enjoy his married life due to his family's issues.",
-    "year": "2001",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vnqyQBnxBLyAMmPQirWGICQv9oh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tPSHslQytidwkJZRx0WuQGBt9xb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lfGrA9hXyVybHCfVEaoAFVQHppy.png",
-    "certificate": "U",
-    "runTimeMinutes": 151,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "786567",
     "tmdbId": 786567,
     "imdbId": "tt8205190",
@@ -2541,69 +2310,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "69443",
-    "tmdbId": 69443,
-    "imdbId": "tt1365457",
-    "type": "movie",
-    "title": "Ezhumalai",
-    "overview": "A young woman falls in love with a man and wishes to marry him. However, everything changes when she learns about her father's involvement in his first wife's death.",
-    "year": "2002",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1kyYeIK365W69kmpgAsgXiQ36b0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tIcjCnRJRmdbMjiweVNfZQ3SVec.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 159,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "373587",
-    "tmdbId": 373587,
-    "imdbId": "tt5934894",
-    "type": "movie",
-    "title": "Dharmadurai",
-    "overview": "A once-promising village doctor, burdened by personal loss and family betrayal, spirals into alcoholism and becomes an outcast. His journey of pain, resilience, and rediscovery takes him from despair to a chance at redemption, as he confronts his past and searches for purpose, love, and reconciliation.",
-    "year": "2016",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cmSUOVaaaZsQRjSYpkSuWGbDStT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eoiQdUrCUtO29HueK0pnESaaky1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zRNDeG5uaztCSkXCxWRuu8GCFYQ.png",
-    "certificate": "U",
-    "runTimeMinutes": 167,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69661",
-    "tmdbId": 69661,
-    "imdbId": "tt0362548",
-    "type": "movie",
-    "title": "Dhool",
-    "overview": "Arumugham is an uneducated, good hearted, helpful village hick. Easwari is his childhood friend. A chemical factory in the village pollutes the local river and when all attempts to stop the factory waste from going to the drinking water falls flat, the villagers decide to send Arumugham to Chennai and meet the concerned minister who has won from their constituency. He sets out for the city with Easwari and her grandmother and they stay with Arumugham's friend and gang.",
-    "year": "2003",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oz3a9QkNMLozHegJE4bDY0oxO4Z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qIVKlPIvqpqjZQivDalKIbY2jdI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/js3cJiCymzlfIliOqUMJJ5csYg.png",
-    "certificate": "",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1078769",
     "tmdbId": 1078769,
     "imdbId": "tt31713462",
@@ -2621,48 +2327,6 @@
     "secondaryGenre": "Romance",
     "originCountries": [
       "MY"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "114900",
-    "tmdbId": 114900,
-    "imdbId": "tt5439126",
-    "type": "movie",
-    "title": "Manam Kothi Paravai",
-    "overview": "Though Kannan loves Revathy, his neighbour and childhood pal, he lies to his friends that she too is in love with him. So, when Revathy's family, respected - and feared - in the village, arranges her wedding with another, his friends decide to get the lovers together at all costs and send an inebriated and unconscious Kannan and a drugged Revathy off to Kerala in the hope that her family will accept the couple once they are married. How does their plan play out?",
-    "year": "2012",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fT6tRx63zsozINi5usFTSTfoI4A.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kPoigtuTs1bY4GtGMciYWlPd0EN.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 130,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69564",
-    "tmdbId": 69564,
-    "imdbId": "tt1671446",
-    "type": "movie",
-    "title": "Ameerin Aadhi Bhagavan",
-    "overview": "Aadhi, a smart and suave smuggler in Bangkok, falls in love with a waitress. However, he finds himself in trouble when she frames him for all the crimes committed by his look-alike, Bhagavan.",
-    "year": "2013",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/217H02nQ2A8rnkczo5FHfXAyliQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fV9LJZQN6I3oVYWFT0rheCa5fVI.jpg",
-    "logoUrl": null,
-    "certificate": "A",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Action",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
     ],
     "originalLanguage": "ta"
   },
@@ -2772,27 +2436,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "69394",
-    "tmdbId": 69394,
-    "imdbId": "tt0881894",
-    "type": "movie",
-    "title": "Attagasam",
-    "overview": "Twin brothers Jeeva and Guru are separated in childhood by tragedy and fate. When their paths cross years later—one a humble driving instructor, the other a feared gangster—their identities collide, leading to a tale of revenge, redemption, and the enduring bond of family.",
-    "year": "2004",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yrG9GWyTz2EYXko1leZSEqNnZdf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3wRqOlQ67slaLh9F0iJ2rw5yLe7.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 157,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1565650",
     "tmdbId": 1565650,
     "imdbId": "tt38772178",
@@ -2814,90 +2457,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "134016",
-    "tmdbId": 134016,
-    "imdbId": "tt2391732",
-    "type": "movie",
-    "title": "Sundarapandian",
-    "overview": "Sundarapandiyan , who has finished college and goofs around in his village with friend Murugesan , decides to pitch in when Arivazhagan seeks his help in wooing Archana . But she rejects Arivazhagan and also another suitor Bhuvaneshwaran. Complications arise when she says she has been in love with Sundarapandiyan for a long time.",
-    "year": "2012",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gm3esquylldls0scdfQ80BgLDE6.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "G",
-    "runTimeMinutes": 140,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "373320",
-    "tmdbId": 373320,
-    "imdbId": "tt8929736",
-    "type": "movie",
-    "title": "Budget Padmanabhan",
-    "overview": "Padmanabhan has earned the nickname Budget as he is a miser. However, he struggles to save his father's house from money lenders as his wife is a spendthrift and never lets him save enough.",
-    "year": "2000",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4hYsZXXtITVkeQBZeZ7enotcbXM.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 153,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69624",
-    "tmdbId": 69624,
-    "imdbId": "tt0460976",
-    "type": "movie",
-    "title": "Vallavan",
-    "overview": "A man loves a woman even though she is three years older than him. Although she reciprocates initially, the age difference and his past with a classmate lead her to break up with him.",
-    "year": "2006",
-    "rating": 5.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6B8pIy9jtiDqweVonX7jdb8hjI3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tGJX9KrYf21jDrdBPL59WLMv966.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 183,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "424336",
-    "tmdbId": 424336,
-    "imdbId": "tt7161122",
-    "type": "movie",
-    "title": "Meesaya Murukku",
-    "overview": "A passionate youngster who dreams of making it in the music industry is on the verge of losing his love. What will happen to his career and romance?",
-    "year": "2017",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/51YxNae9DC5BG39IgCjsKkTIOdV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tcyX5DP4CCqE8Qkg7p5M9z5V5P1.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 136,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1112564",
     "tmdbId": 1112564,
     "imdbId": "tt26234108",
@@ -2912,69 +2471,6 @@
     "certificate": "U/A 7+",
     "runTimeMinutes": 129,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "66507",
-    "tmdbId": 66507,
-    "imdbId": "tt1365485",
-    "type": "movie",
-    "title": "Marudhamalai",
-    "overview": "Marudhamalai, a cop, gets involved in a scuffle with the local gangster and helps the villagers get rid of his atrocities.",
-    "year": "2007",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yzYmDBOzbvteVND06Eh5U6XZo9a.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xaNSrs5RU74wydd5zebUUXgXlqU.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 159,
-    "primaryGenre": "Action",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69556",
-    "tmdbId": 69556,
-    "imdbId": "tt0453190",
-    "type": "movie",
-    "title": "Raam",
-    "overview": "Ram is falsely charged for killing his mother. His neigbours are also called for interrogation. Everyone's effort leads to tracking down the real killer.",
-    "year": "2005",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/x2ABa7za51NlpojRlu2DE3wb3Rc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fTBGgYTuNXXDGclRHquI1tuH35W.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "78951",
-    "tmdbId": 78951,
-    "imdbId": "tt0810985",
-    "type": "movie",
-    "title": "Neranja Manasu",
-    "overview": "The villagers of Suriyakudi believe that young Ayyanar will be their saviour. He soon gets Sivanandi imprisoned for killing his own father, and years later, Sivanandi returns to kill him.",
-    "year": "2004",
-    "rating": 4.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jTfhZDeVcYAFz0S5qQgMuzmefgo.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Drama",
     "secondaryGenre": "Action",
     "originCountries": [
       "IN"
@@ -3003,27 +2499,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "140299",
-    "tmdbId": 140299,
-    "imdbId": "tt0411131",
-    "type": "movie",
-    "title": "Autograph",
-    "overview": "Senthil, an advertising executive, decides to invite his old friends to his wedding. His past is unraveled as he sets out on a journey to meet his old friends and lovers.",
-    "year": "2004",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/icy3xHF6LcHSys9RxNAuI4xyAW1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AaKItBnW5ob4hP7ZSkgIj5TX2Vm.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 167,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1413333",
     "tmdbId": 1413333,
     "imdbId": "tt32012416",
@@ -3045,69 +2520,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "320906",
-    "tmdbId": 320906,
-    "imdbId": "tt4448310",
-    "type": "movie",
-    "title": "Orange Mittai",
-    "overview": "The journey of an old man and an EMT specialist in an ambulance becomes unexpectedly meaningful for both of them.",
-    "year": "2015",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qJqUCQeF5gaKJYpr6e02egbeyob.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 102,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "415100",
-    "tmdbId": 415100,
-    "imdbId": "tt9890028",
-    "type": "movie",
-    "title": "Chocobar",
-    "overview": "Horror, Drama",
-    "year": "2016",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pft9g2HXIZcQKXPmIH8HV8v5wJm.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "409266",
-    "tmdbId": 409266,
-    "imdbId": "tt8011322",
-    "type": "movie",
-    "title": "Simba",
-    "overview": "A stoner befriends a Great Dane, who is the pet of his neighbour, and tries to make her fall in love with him.",
-    "year": "2019",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dwz5a9JSvJKNY8Sg0t6Fw3OEXIY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eliYyBFXf15cTDUpW6s4Z3mz32o.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hnhoarqSQghOVmzfmL18AFkJE0f.png",
-    "certificate": "",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1608579",
     "tmdbId": 1608579,
     "imdbId": "tt38854883",
@@ -3123,27 +2535,6 @@
     "runTimeMinutes": 136,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "639743",
-    "tmdbId": 639743,
-    "imdbId": "tt11581264",
-    "type": "movie",
-    "title": "Draupathi",
-    "overview": "A man who is accused of killing his wife and her sister on the basis of casteism goes on a rampage to kill those who cheat upper-caste women in the pretense of having a romantic relationship.",
-    "year": "2020",
-    "rating": 3.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/55ySI8fh0J1KtcpEsj8iYhPiWIj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vQU0UMJceDplsMg4t2SwQfAwq9I.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 159,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
@@ -3213,27 +2604,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "66340",
-    "tmdbId": 66340,
-    "imdbId": "tt0364647",
-    "type": "movie",
-    "title": "Virumaandi",
-    "overview": "Angela, a civil advocate interviewing inmates at the Madras Central Prison for a documentary on the death penalty meets Virumaandi and Kothaala, who are sentenced to death and life respectively for their roles in perpetrating the massacre of 24 people during a brutal clash between feuding villages. As tensions mount within the prison walls, she listens to their conflicting accounts of the same story.",
-    "year": "2004",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iV24YxRf7JohgzhK7jw9CpSNFaX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9bFOkZPI0Qf2rCKqc83ugJZuCwd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dFGHKHHMF2JrwhmLCiDHHlQCaa6.png",
-    "certificate": "A",
-    "runTimeMinutes": 175,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1314278",
     "tmdbId": 1314278,
     "imdbId": "tt32423736",
@@ -3297,69 +2667,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "369094",
-    "tmdbId": 369094,
-    "imdbId": "tt5477194",
-    "type": "movie",
-    "title": "Iraivi",
-    "overview": "Three men try to overcome the problems in their lives not realising the impact their efforts are having on the women in their lives.",
-    "year": "2016",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/81wvyetBoSvsGobxzClUtoTX1UD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mlz167d59SaF3BhzWPu6G69sFw7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uAMRuUxpXnUGpUIzVyjQFJE69KK.png",
-    "certificate": "U",
-    "runTimeMinutes": 153,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69636",
-    "tmdbId": 69636,
-    "imdbId": "tt0449951",
-    "type": "movie",
-    "title": "Ghajini",
-    "overview": "After being hit by an iron rod, Sanjay Ramaswamy, a business tycoon, suffers from anterograde amnesia. He is unable to remember anything beyond fifteen minutes. Under such circumstances, he sets out on a quest to find the people who were responsible for his lover Kalpana's murder.",
-    "year": "2005",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fWCiwGeABg5APrLGHV2IgxoP20N.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b0Prc4rfqYHwYCPfgQnAj0AUAnC.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 182,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "112241",
-    "tmdbId": 112241,
-    "imdbId": "tt1582597",
-    "type": "movie",
-    "title": "Satyam",
-    "overview": "A cop, doesn't believe in finishing criminals in fake encounters but in a judicial way. A powerful politician hires an assassin to get rid of his competitors.",
-    "year": "2008",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rRZq0OMtdXHOO3oSu2MoRs5QRBC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8vEWxeDWHBhJNc0qRDJfdhJAG4s.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1074048",
     "tmdbId": 1074048,
     "imdbId": "tt26319590",
@@ -3375,27 +2682,6 @@
     "runTimeMinutes": 140,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "14445",
-    "tmdbId": 14445,
-    "imdbId": "tt0140377",
-    "type": "movie",
-    "title": "Michael Madana Kama Rajan",
-    "overview": "A wicked man separates a set of quadruplets after their birth and one of them ends up with their biological father, while the other three find new homes. Things take a turn after they meet each other.",
-    "year": "1990",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3TzfpFmdTuwRczVmJzB3P9xsHGD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9BWHLtZmHP5IyaR3JkLCLdxI8mV.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 167,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "IN"
     ],
@@ -3436,27 +2722,6 @@
     "logoUrl": null,
     "certificate": "U",
     "runTimeMinutes": 124,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "111563",
-    "tmdbId": 111563,
-    "imdbId": "tt2215301",
-    "type": "movie",
-    "title": "Marina",
-    "overview": "Ambikapathy escapes to Chennai to fulfil his dreams and he earns a living by selling goods on a beach. He faces many hurdles along the way but manages to overcome them in his pursuit for happiness.",
-    "year": "2012",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AonblxdmTf6oYbX1KRJNvesl3St.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rwKGHT4KP2guZxodEWGRfc7IJSj.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lCcdxmdWtrof8CWsCx9SETvGDka.png",
-    "certificate": "",
-    "runTimeMinutes": 125,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -3549,27 +2814,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "410432",
-    "tmdbId": 410432,
-    "imdbId": "tt6076366",
-    "type": "movie",
-    "title": "Aandavan Kattalai",
-    "overview": "A young man, on the advice of an agent, lies that he is married, to go to London. But his visa application is rejected and now, he has to follow-up with a string of lies to hide one lie.",
-    "year": "2016",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rtythafvdg795tzwR4jeBMmonkL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gbCzkatpXMJwejQcUi8eeslvNqQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/idHuuQ46jF68NBNExxXSL8kQZr1.png",
-    "certificate": "U",
-    "runTimeMinutes": 151,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1250508",
     "tmdbId": 1250508,
     "imdbId": "tt28508934",
@@ -3654,69 +2898,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "47940",
-    "tmdbId": 47940,
-    "imdbId": "tt0213969",
-    "type": "movie",
-    "title": "Padayappa",
-    "overview": "Padayappa, a mechanical engineer whose father gives up his property to his foster brother, and then dies of shock soon after. Neelambari initially loves Padayappa, but plans to humiliate him after his family humiliates her father. The rest of the plot deals with Padayappa overcoming all the obstacles placed by Neelambari.",
-    "year": "1999",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8PSYF0AtpLbSlTDneCUo7zP4qL1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c4GW20T51X7xxBlCuJPSzxXuLTp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8CfzXtbunhcAB4MoZ0yEid8tII0.png",
-    "certificate": "U",
-    "runTimeMinutes": 172,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69422",
-    "tmdbId": 69422,
-    "imdbId": "tt0377321",
-    "type": "movie",
-    "title": "Aasai",
-    "overview": "A man kills his wife when she learns that he lusts after her sister. He then begins to make his moves for his sister-in-law. When he tries to sabotage the girl's marriage, her fiance gets suspicious.",
-    "year": "1995",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/baIB9Ufp9xsn8Op6mWt47XMw9vh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jKA1r0AtZaUnaNaojx8iw4BhQnM.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 157,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "143010",
-    "tmdbId": 143010,
-    "imdbId": "tt2187153",
-    "type": "movie",
-    "title": "Thuppakki",
-    "overview": "Captain Jagadish, an intelligence officer in the Indian Army, returns to Mumbai for a vacation but soon finds himself in a deadly mission. After witnessing a bus bombing, he uncovers a network of sleeper cells planning multiple attacks across the city. With no official backing, he embarks on a personal mission with his trusted comrades to eliminate the mastermind, ensuring the sleeper cells remain leaderless and trapped in silence, waiting for orders that will never come. Ready to sacrifice his own life, he sets out on his final mission—but does he succeed, and at what cost?",
-    "year": "2012",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/18Hvx5MDIVnoexyehnGmMQE1lod.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qpakrk2P4uyuxgxjTFqEE1S88zp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/va0KnMDGeYlKbg850mIwYruAt4s.png",
-    "certificate": "U",
-    "runTimeMinutes": 170,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1561955",
     "tmdbId": 1561955,
     "imdbId": "tt38681567",
@@ -3759,27 +2940,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "411280",
-    "tmdbId": 411280,
-    "imdbId": "tt6656784",
-    "type": "movie",
-    "title": "Kattappava Kaanom",
-    "overview": "A fish belonging to a gangster, who considers it his lucky charm, gets stolen and ends up with a guy whose luck has always been rotten.",
-    "year": "2017",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/reEm2t7Lwt6NhWQFAWqweGOeXf4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/y1ibmnkhe8QPLZTki3bWEMx2XTX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sdUk1Tu1plbD4QsljgmcgFTVhMM.png",
-    "certificate": "U",
-    "runTimeMinutes": 125,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1565129",
     "tmdbId": 1565129,
     "imdbId": "tt36505217",
@@ -3795,48 +2955,6 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "115270",
-    "tmdbId": 115270,
-    "imdbId": "tt1296162",
-    "type": "movie",
-    "title": "Leelai",
-    "overview": "Karthik’s flirting ways during his college days leave a bad impression on Malar. A few years later, the two end up working at the same office, though they are on different floors. Karthik falls in love with Malar but considering that she hates even the very mention of his name, he introduces himself to her as Sundar. How long can he carry on this game of deception?",
-    "year": "2012",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6fp8pYfJsOwHwBy8Hf0kRpzxcZi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7O3gt7ImC60bgX7oJ2tMAB2i3eb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lE2G6bECrJZUYoULL5TCzdZMx0E.png",
-    "certificate": "U",
-    "runTimeMinutes": 140,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "278258",
-    "tmdbId": 278258,
-    "imdbId": "tt3563156",
-    "type": "movie",
-    "title": "Anjaan",
-    "overview": "A man travels to Mumbai in search of his estranged brother, a feared figure in the criminal underworld. As he follows the trail through gang rivalries and shifting alliances, he uncovers a complex web of loyalty, deception, and violence that blurs the line between justice and revenge.",
-    "year": "2014",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m998XZmTYyZJf3AmBWqyblvJTQk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cSB13J5VPwEKZPZiB38l2DLEpU9.png",
-    "certificate": "U",
-    "runTimeMinutes": 170,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
     "originCountries": [
       "IN"
     ],
@@ -3879,27 +2997,6 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "108248",
-    "tmdbId": 108248,
-    "imdbId": "tt0308280",
-    "type": "movie",
-    "title": "Friends",
-    "overview": "A man values his best friend more than anything else in the world. One day he confesses a dark secret from their childhood to his wife, which is overheard by another. Once the secret gets out, the friendship is destroyed.",
-    "year": "2001",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iOCOY9SAD8u9N5JWCaLILrlgpzP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jT7GMt5DH4A3Bbq55mwgEjq6n8o.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 167,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
@@ -3990,27 +3087,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "146591",
-    "tmdbId": 146591,
-    "imdbId": "tt2404801",
-    "type": "movie",
-    "title": "Kumki",
-    "overview": "The story revolves around a mahout and his trained elephant.",
-    "year": "2012",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kH3TFrfm0xNhZgUS0NgkDUZ5vDX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wGEdIh0LbVvAcKXDLq6C9RIWLZq.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 148,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1435139",
     "tmdbId": 1435139,
     "imdbId": "tt32284122",
@@ -4024,48 +3100,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/pkML4HpAxiGT3qQXTAPVCeGa4ne.png",
     "certificate": "U/A 13+",
     "runTimeMinutes": 120,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "603110",
-    "tmdbId": 603110,
-    "imdbId": "tt10370932",
-    "type": "movie",
-    "title": "Magamuni",
-    "overview": "Two long-separated brothers end up in life-threatening situations. How do their lives intersect and what happens next?",
-    "year": "2019",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iU8ulKl4M9jdoHx6E0td08VMqXR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bkuUZS0JO7SIOXW9MkqiI8csCWC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/78D2tzejkRw7WAhMPvJ1VzI6uJt.png",
-    "certificate": "UA",
-    "runTimeMinutes": 157,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "336259",
-    "tmdbId": 336259,
-    "imdbId": "tt4672350",
-    "type": "movie",
-    "title": "India Pakistan",
-    "overview": "It is only after moving in to their shared office space do Karthick and Mellina realize that they are in the same profession — law. So, they decide that whoever gets a case first will stay in the place and fight tooth-and-nail to get a case. Meanwhile, a cop, who is searching for a DVD containing video of his illegal encounter, is after Mellina thinking that she is in possession of it.",
-    "year": "2015",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yqLODRtuvqm9jIGAeH4a37OdBwn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oHbsJpIhsNE9RMYk3BdHlVQJ3ti.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 157,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
     "originCountries": [
@@ -4144,7 +3178,7 @@
     "title": "Bad Girl",
     "overview": "From her journey through high school and college, then out into the wider world, Ramya’s dream of finding the perfect guy is obstructed by societal mores, strict parents, unrequited love and the untrammeled chaos of her own mind.",
     "year": "2025",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1vCLv1AyDP5aeNCMJqw7RVCLkSp.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/xCOzdlaVSTlesxG9Ueiw4EUEGpk.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/1QKVCQxLlQ5XQek72NUkbZU6roe.png",
@@ -4152,27 +3186,6 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "616367",
-    "tmdbId": 616367,
-    "imdbId": "tt12531704",
-    "type": "movie",
-    "title": "Igloo",
-    "overview": "Webbed around a couple who believe, preach and practise positivity, where the ‘picture perfect’ lives of a couple are devastated with a hazardous illness and how they handle it positively",
-    "year": "2019",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jJizli6DkzmerHWHBd4xc1L9gU4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cPz13oS5zwY31SKvPuVYhEkYbvX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4VCovBogvuZCluQqhoZjPwvz8Ur.png",
-    "certificate": "U",
-    "runTimeMinutes": 138,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
     "originCountries": [
       "IN"
     ],
@@ -4368,27 +3381,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "197361",
-    "tmdbId": 197361,
-    "imdbId": "tt0215033",
-    "type": "movie",
-    "title": "Parasakthi",
-    "overview": "Set against the backdrop of World War II, three brothers are separated by war while their sister Kalyani faces immense struggles after being widowed and left destitute. As each sibling endures hardship and societal injustice, their paths cross in unexpected ways, culminating in a dramatic courtroom trial that exposes the harsh realities of their world and sets the stage for a powerful family reunion.",
-    "year": "1952",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hqc8Xnz9rHZxIn6WU2xxPKJKuX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AhgcJkVmpkDpeVVRlgyKpOwjhj8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qIyNq3ZE9yMWemsyHFM9cjBhGhg.png",
-    "certificate": "U",
-    "runTimeMinutes": 188,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "743563",
     "tmdbId": 743563,
     "imdbId": "tt9179430",
@@ -4404,27 +3396,6 @@
     "runTimeMinutes": 174,
     "primaryGenre": "Action",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "402778",
-    "tmdbId": 402778,
-    "imdbId": "tt6126294",
-    "type": "movie",
-    "title": "Remo",
-    "overview": "An aspiring actor dresses up as a female nurse to bag a role in a film, and more importantly, woo the love of his life.",
-    "year": "2016",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bhnpnKHsurKVtqbUGAVqB28Jqqr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t1VDCUayWT128fU6AWOSc6P8jIC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6ZfkkpokYnSyWp0VscpGTSs2Trx.png",
-    "certificate": "U",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
     "originCountries": [
       "IN"
     ],
@@ -4488,27 +3459,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "391274",
-    "tmdbId": 391274,
-    "imdbId": "tt5372466",
-    "type": "movie",
-    "title": "Iru Mugan",
-    "overview": "A disgraced  RAW agent Akilan (Vikram) is recalled by the agency to track down a crazy scientist and a cross dresser Love (also Vikram), who has discovered a deadly new drug  ‘Speed inhaler’.",
-    "year": "2016",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hDXsugXi4fqiQaBWjnfotsqlqAe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iqMgPLDj0tywuyJMKwMwynncw8n.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uyL6sFoSaMsRtpaJdGQRU1KT10C.png",
-    "certificate": "U",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Science Fiction",
-    "secondaryGenre": "Action",
     "originCountries": [
       "IN"
     ],
@@ -4704,48 +3654,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "55951",
-    "tmdbId": 55951,
-    "imdbId": "tt1483820",
-    "type": "movie",
-    "title": "Aadhavan",
-    "overview": "A professional assassin is tasked with the murder of a prominent local judge; however, after a series of failed attempts, he is forced to deal with complications and old relationships arising from his troubled past.",
-    "year": "2009",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zInbT4vo0w9liEIbtydoOIUWifI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9KfnXP1ukiy6MiCtzXOfRE89kyS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1O08GnyzB2qUdwdB5Ja8NdhED35.png",
-    "certificate": "",
-    "runTimeMinutes": 135,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69654",
-    "tmdbId": 69654,
-    "imdbId": "tt0361818",
-    "type": "movie",
-    "title": "Kushi",
-    "overview": "College friends Jenny and Shiva part ways due to a misunderstanding. Although they are in love and realize they cannot live without each other, their egos prevent them from uniting.",
-    "year": "2000",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/n0bz0nX3GqPKfoXY8kH8QFTyWCs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/10qih3joKDNsiMQrAkfNhJDejRP.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 178,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1297181",
     "tmdbId": 1297181,
     "imdbId": "tt28252563",
@@ -4761,27 +3669,6 @@
     "runTimeMinutes": 168,
     "primaryGenre": "Action",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "371425",
-    "tmdbId": 371425,
-    "imdbId": "tt5328784",
-    "type": "movie",
-    "title": "Bangalore Naatkal",
-    "overview": "Three cousins, Arjun, Divya and Kannan, relocate to Bangalore for various reasons. However, they face many challenges which change their lives forever.",
-    "year": "2016",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iSt0bggXSNWmD0CEhzEYkpJmfP9.jpg",
-    "backdropUrl": null,
-    "logoUrl": "https://image.tmdb.org/t/p/w500/x7yAzMk3LX9fknRyaaIDEP1Re02.png",
-    "certificate": "U",
-    "runTimeMinutes": 156,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
     "originCountries": [
       "IN"
     ],
@@ -4893,27 +3780,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "277880",
-    "tmdbId": 277880,
-    "imdbId": "tt1699525",
-    "type": "movie",
-    "title": "Winner",
-    "overview": "A young man moves to his hometown; here he falls in love with the village head's daughter. The village head learns about this and he has the girl abducted; if the young man tries to rescue her, his parent's life will be at stake.",
-    "year": "2003",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pGdTtKmQGoMpuTLqPwk67QpdS79.jpg",
-    "backdropUrl": null,
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tYbmQNMq2M2KtGDrI97qb3sIZq9.png",
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1542910",
     "tmdbId": 1542910,
     "imdbId": "tt36256256",
@@ -4977,48 +3843,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "607693",
-    "tmdbId": 607693,
-    "imdbId": "tt10334624",
-    "type": "movie",
-    "title": "Aruvam",
-    "overview": "A food safety officer and a teacher who has no sense of smell come together to fight the practice of food adulteration and its devastating effect on people.",
-    "year": "2019",
-    "rating": 4.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7rMHgiOZHJkB4DPfAgqiALGK2ul.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 133,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "25120",
-    "tmdbId": 25120,
-    "imdbId": "tt1537032",
-    "type": "movie",
-    "title": "Kanthaswamy",
-    "overview": "A CBI officer moonlights as a modern day Robin Hood in the guise of the masked Kanthaswamy, as he helps fight corruption and aid impoverished people.",
-    "year": "2009",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sH1X4a8B6LDeXtchcKnd51F2HcR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8M0TMmC7AGrulTZPcT6GXD3ps5m.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 190,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1421487",
     "tmdbId": 1421487,
     "imdbId": "tt35531706",
@@ -5055,48 +3879,6 @@
     "runTimeMinutes": 106,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "628986",
-    "tmdbId": 628986,
-    "imdbId": "tt1427100",
-    "type": "movie",
-    "title": "Raja",
-    "overview": "Conflict arises between two brothers after the death of their father and unknowingly they become rivals.",
-    "year": "1972",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rKQui5ZMTFHVf77S9DADR2XDR1d.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "388322",
-    "tmdbId": 388322,
-    "imdbId": "tt5542434",
-    "type": "movie",
-    "title": "Aviyal",
-    "overview": "Aviyal is a collection of four short films : A young man attracted to his aunt, a filmmaker chasing robbers who have stolen his short film, two friends going on a trip to deposit the ashes of their friend and a gangster narrating a story.",
-    "year": "2016",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mTDOxt26Vn4G901jG6NR19itlML.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eyvL4w17h7iZ9gfLsjh0q2d77xb.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 116,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "IN"
     ],
@@ -5183,27 +3965,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "280165",
-    "tmdbId": 280165,
-    "imdbId": "tt4987556",
-    "type": "movie",
-    "title": "Thani Oruvan",
-    "overview": "An idealistic cop and an ambitious scientist-businessman indulge in a high-stake battle of wits.",
-    "year": "2015",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/90ZpZw1qZlt0RUVByJATFVUEeEm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aRB5UvDflR0A4qDFxjOpiiLD7bf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dQXBnkzbJbFPVnZ097guDMXRMhQ.png",
-    "certificate": "U",
-    "runTimeMinutes": 159,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
     ],
     "originalLanguage": "ta"
   },
@@ -5397,27 +4158,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "69613",
-    "tmdbId": 69613,
-    "imdbId": "tt2778412",
-    "type": "movie",
-    "title": "Naanayam",
-    "overview": "Ravi is an electronics engineer who works in a bank and is in love with Nandhini. Fareed is a criminal who claims that he can prove that Ravi has killed a man and blackmails him into robbing the bank.",
-    "year": "2010",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xZGdzQU94WqY4uXlBdLxQMnyJFc.jpg",
-    "backdropUrl": null,
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iCOxhJLAp8Z3H6HncL7iMtr6jp.png",
-    "certificate": "UA",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1131038",
     "tmdbId": 1131038,
     "imdbId": "tt27813242",
@@ -5475,27 +4215,6 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Music",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69520",
-    "tmdbId": 69520,
-    "imdbId": "tt0459516",
-    "type": "movie",
-    "title": "Pudhupettai",
-    "overview": "The story of ‘Kokki’ Kumar, a carefree teenager from a Chennai slum who runs away from home in the wake of his mother’s death, gets recruited into a local gang and quickly evolves into the dreaded, psychotic right-hand man of a dirty politician.",
-    "year": "2006",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/blrGDOlcTbIit4BBS9gW4PsCuYv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/M0ktNTFtel6IgcOiz5A2v8zYIb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ajRY5dWTH9A3ABbu2bsZrrZLwC9.png",
-    "certificate": "",
-    "runTimeMinutes": 179,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
@@ -5586,27 +4305,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "26247",
-    "tmdbId": 26247,
-    "imdbId": "tt0112553",
-    "type": "movie",
-    "title": "Bombay",
-    "overview": "A Hindu man and a Muslim woman fall in love in a small village and move to Mumbai, where they have two children. However, growing religious tensions and erupting riots threaten to tear the family apart.",
-    "year": "1995",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g1FXpdQogl84eztCsLI3h8Kmp69.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mxpBKB25cWU8YahkWyn1i5OJ04y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vIVodQJejtt4pahSUuwTfhyiMiB.png",
-    "certificate": "",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1475502",
     "tmdbId": 1475502,
     "imdbId": "tt36784178",
@@ -5621,48 +4319,6 @@
     "certificate": "",
     "runTimeMinutes": 136,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "504437",
-    "tmdbId": 504437,
-    "imdbId": "tt7719976",
-    "type": "movie",
-    "title": "Sarvam Thaala Mayam",
-    "overview": "Peter who tries to find his place in the world of classical Indian music embarks on a journey that helps him evolve personally, spiritually and musically.",
-    "year": "2019",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2LreMDJBdGC55Ngbs8EDvyAVWX4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yM19JFb4DA52RvbxbUAz8MtmNJE.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iPcTOvi5VeMEfiMZC19vm8yGszz.png",
-    "certificate": "U",
-    "runTimeMinutes": 133,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Music",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "148240",
-    "tmdbId": 148240,
-    "imdbId": "tt2771926",
-    "type": "movie",
-    "title": "Vatthikuchi",
-    "overview": "A share auto-driver gets entangled in a plot where 3 criminals want him dead.",
-    "year": "2013",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yyuDrPoQ5DTlJEOQ9m02WG6EPa5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2dIE42dft9SQsUMJnTcSMTeSdH8.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 140,
-    "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
     "originCountries": [
       "IN"
@@ -5754,111 +4410,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "345454",
-    "tmdbId": 345454,
-    "imdbId": "tt5542460",
-    "type": "movie",
-    "title": "Mapla Singam",
-    "overview": "Youngsters belonging to two rival factions in a village fall in love with each other. Will this romance add fuel to the enmity or result in peace?",
-    "year": "2016",
-    "rating": 4.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vzXqP79brTdGYgGGaYReU2oVkW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/y51ORXdEp9nNdTQxtk38TrXsoIj.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bNCgNFYC74sLoWEgWBGckB9Ndad.png",
-    "certificate": "U",
-    "runTimeMinutes": 130,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69663",
-    "tmdbId": 69663,
-    "imdbId": "tt0384495",
-    "type": "movie",
-    "title": "Samurai",
-    "overview": "Thiyagu is a medico who leads a masked gang of four to abduct corrupt politicians and bureaucrats who use the loophole in law to enjoy their prison term in hospitals or guest houses. Deiva, a schoolgirl and daughter of the police officer who is hot on the trail of the mysterious gang, has a crush on Thiyagu, but she is not aware of his real identity.",
-    "year": "2002",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8NPoHZK4vkDEfY0YiHMVcqebS9C.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fQmt4yQ3Kwt2KKt0pQSolr1CZYn.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Action",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "262973",
-    "tmdbId": 262973,
-    "imdbId": "tt2002868",
-    "type": "movie",
-    "title": "Anegan",
-    "overview": "Madhumitha is convinced that she and her colleague Ashwin were lovers in their past lives and have been brought together by fate. Is there any truth to this or is she merely hallucinating?",
-    "year": "2015",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iRmgqZjYktrL74HIHNDiH21VSJA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A0vwXAbCTjtw9ZeV2N7haZVn27I.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 154,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "280948",
-    "tmdbId": 280948,
-    "imdbId": "tt3822388",
-    "type": "movie",
-    "title": "Madras",
-    "overview": "A portrayal of the lives of the people living in North Madras,  focusing on the politics inside the slums and how their plight remains the same, despite the political class luring them constantly during elections.",
-    "year": "2014",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hbaUw4NzU7Zd6QGj7HMNohfWpIT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hZZBwFOkOI84ohdPP6cXSL9l5zf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uVOqh8xWpe9h4CnBEaBiaahB5hb.png",
-    "certificate": "UA",
-    "runTimeMinutes": 156,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "535657",
-    "tmdbId": 535657,
-    "imdbId": "tt8733898",
-    "type": "movie",
-    "title": "U Turn",
-    "overview": "When a flyover in the city becomes the hotbed of accidents, a young reporter decides to investigate the issue. Her quest for an answer would lead her into a web of intrigue, murder and mystery.",
-    "year": "2018",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d5wL2axBtieecnAD6X4HMgrkXGp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8aXfZK2KJggOQhUhmrYaULvwF3L.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bgZrBBrzRdIYatdDjZRFAtGmS9G.png",
-    "certificate": "UA",
-    "runTimeMinutes": 129,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1493747",
     "tmdbId": 1493747,
     "imdbId": "tt34823501",
@@ -5922,27 +4473,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "70988",
-    "tmdbId": 70988,
-    "imdbId": "tt1843335",
-    "type": "movie",
-    "title": "Yuddham Sei",
-    "overview": "A CBCID officer investigates an eccentric series of crimes happening in the city. His investigation leads him to unexpected crime perpetrators.",
-    "year": "2011",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8N2G9vM5UC94aEOXSXXAtnKve1G.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kcACqCeci4ysHfJTLa7yhRbcg72.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4pfn98mK2wGcXdIF893BhSSp9Nv.png",
-    "certificate": "UA",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1475924",
     "tmdbId": 1475924,
     "imdbId": "tt35939804",
@@ -5958,27 +4488,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Comedy",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "297125",
-    "tmdbId": 297125,
-    "imdbId": "tt4047140",
-    "type": "movie",
-    "title": "Poojai",
-    "overview": "Anna Thandavam, a big shot who arranges for contract killers, plans to murder Sivakkozhundhu, a cop. His plan goes bust after Vasu, a heroic young man, rescues the ADSP. Meanwhile, Thandavam also gets into problems with Vasu's family...",
-    "year": "2014",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8ZDix6C0DO8lW10vnEklotMky8K.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/97zsSRAK1mrV6pd7JssmBsnb0Hz.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 154,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
     ],
@@ -6002,132 +4511,6 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "330421",
-    "tmdbId": 330421,
-    "imdbId": "tt4429128",
-    "type": "movie",
-    "title": "Papanasam",
-    "overview": "A cinephile tries to protect his family by hiding a heat-of-the-moment murder committed by his daughter by taking cues from the films he has watched. With the victim the son of a cop, can he get away with it?",
-    "year": "2015",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/b756U7HaJF0ooVsxv2YddXIFPuk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/e6WQoHeD1lomknxc0a65Ae1sfVw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/49Z8fKeYm0DMpdYM8VkP875KiBi.png",
-    "certificate": "U",
-    "runTimeMinutes": 181,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "114756",
-    "tmdbId": 114756,
-    "imdbId": "tt2281103",
-    "type": "movie",
-    "title": "Aravaan",
-    "overview": "Komboodhi is the leader of a tribe that steals from the rich to survive. He befriends Varipuli, unaware of his past, only to learn that his village has been hunting him to offer his life to god.",
-    "year": "2012",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nCfwCzWAOoGFGO3TtTtOWDu1oOD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3006FUsUPsnATjwJRzA8b0MHG7a.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69659",
-    "tmdbId": 69659,
-    "imdbId": "tt0948462",
-    "type": "movie",
-    "title": "Priyamaanavale",
-    "overview": "A modern man, Vijay, marries his father's sincere secretary who hails from a poor family. But their stringent prenuptial agreement grants him the power to end his marriage after 12 months.",
-    "year": "2000",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ne9ILFrEQP2VsSy00ACNuPJ7s56.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/r9P7Fwhu7b7CnVev8VtNrEmjn98.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4RZxcR9J2yobWux9CwzKPbyYvjv.png",
-    "certificate": "",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "370076",
-    "tmdbId": 370076,
-    "imdbId": "tt5440700",
-    "type": "movie",
-    "title": "Theri",
-    "overview": "When an honest cop, Vijay Kumar's family is ruthlessly slaughtered by a politician and his aides, he decides to change his identity and commits his life to bring his daughter up in a serene atmosphere. But some freak events end up compromising his identity and what he does to save his daughter and avenge the death of his family unfurls as Theri.",
-    "year": "2016",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/f6BhexotEqO3GejXa3FopBNGL6M.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yzoyr6nuB3ChA38MSHjYKlMpU6W.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8suho4I2bM7gUR2guq5qAeHjGW1.png",
-    "certificate": "U",
-    "runTimeMinutes": 157,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "456287",
-    "tmdbId": 456287,
-    "imdbId": "tt6485666",
-    "type": "movie",
-    "title": "Mersal",
-    "overview": "A few individuals in the medical profession are murdered or kidnapped, and the cop investigating the case suspects a doctor and arrests him. But is he the one who is behind these crimes? And why are they being committed?",
-    "year": "2017",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/65Q1wpRPZ5E3UVUv2V5JBbJQCcj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7IJE6cNsbXYE2HzZSUQBj0RtUfv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kcrHdCw2u19kfEwVacLGdbAfgbn.png",
-    "certificate": "UA",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "280873",
-    "tmdbId": 280873,
-    "imdbId": "tt3824432",
-    "type": "movie",
-    "title": "Salim",
-    "overview": "Salim, a model doctor and a do-gooder, breaks down when he loses his job and rejected by his fiance. He turns into a vigilante to teach the powerful a lesson...",
-    "year": "2014",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6wfJOTtf4DqRKutC4bWKJpPWm0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7AIcbGlCq3I4QnNJ2nCZm3fPoif.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
     ],
     "originalLanguage": "ta"
   },
@@ -6195,27 +4578,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "134508",
-    "tmdbId": 134508,
-    "imdbId": "tt2331167",
-    "type": "movie",
-    "title": "Naan",
-    "overview": "An ex-convict forges signature of a deceased medical student to get enrolled in a medical college. He kills his roommate by accident in a dispute and fears that his identity will be revealed.",
-    "year": "2012",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5JOXVScmQ2UXMy27Q3t1UnGstNq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3mJvbOITjPSlqzDuSpbRAST91Rq.jpg",
-    "logoUrl": null,
-    "certificate": "G",
-    "runTimeMinutes": 135,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1225102",
     "tmdbId": 1225102,
     "imdbId": "tt28677912",
@@ -6231,48 +4593,6 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "346667",
-    "tmdbId": 346667,
-    "imdbId": "tt5029004",
-    "type": "movie",
-    "title": "Trisha Illana Nayanthara",
-    "overview": "A young man falls in love with his childhood friends only to keep breaking up with them, not realising that he will always end up as a loser.",
-    "year": "2015",
-    "rating": 5.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dxfph7ywFeqWEx5MMhj505567Iy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rw7voQT3EFoW7hx5abfz8Rsu6Km.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2Jv3mKVRq4ZbfXmmlUVlw1WPXKt.png",
-    "certificate": "UA",
-    "runTimeMinutes": 130,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "66269",
-    "tmdbId": 66269,
-    "imdbId": "tt0319887",
-    "type": "movie",
-    "title": "Mr. Bharath",
-    "overview": "Businessman Gopinath abandons Shanti, his first love, to marry a rich heiress. Later, Bharath, Gopinath and Shanti's illegitimate son, seeks revenge from him for the injustice meted out to his mother.",
-    "year": "1986",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/i8IOcMfgKsehaJ1XnfYabAZBaci.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oN71dxC43Bn9iuiXJJwa0eZt5oC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/44N2UdfE4B0Mu0XOa5GZ47COrux.png",
-    "certificate": "",
-    "runTimeMinutes": 146,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "IN"
     ],
@@ -6336,27 +4656,6 @@
     "runTimeMinutes": 162,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "432139",
-    "tmdbId": 432139,
-    "imdbId": "tt6148156",
-    "type": "movie",
-    "title": "Vikram Vedha",
-    "overview": "A notorious gangster Vedha surrenders himself to encounter specialist Vikram whom he challenges every step of the way by narrating his life events in the form of riddles that needs to be solved in order to capture him.",
-    "year": "2017",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/se12m3uffluDlkTTZncOzsWKIkg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5bm6sq3eunj3It6pqacFrpRQYoy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f7DkTvZxJ8TrAfarNtyT6mNEPf.png",
-    "certificate": "UA",
-    "runTimeMinutes": 147,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
     "originCountries": [
       "IN"
     ],
@@ -6447,48 +4746,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "281992",
-    "tmdbId": 281992,
-    "imdbId": "tt3711164",
-    "type": "movie",
-    "title": "Sathuranga Vettai",
-    "overview": "A con artist is caught by the cops and is swindled off the money by his own partners. Meanwhile, a person who he had scammed hires a gangster to finish him off. Can he outwit these people and turn over a new leaf?",
-    "year": "2014",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/z0WAnLRpndYWP7abNv7kzSyhi4W.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jMBv63WxQPVNtd4O331gExKaTk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tnGRQRVBPXz1O1qFywaaUUhOeGr.png",
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "280148",
-    "tmdbId": 280148,
-    "imdbId": "tt4047150",
-    "type": "movie",
-    "title": "Vanmam",
-    "overview": "Two friends turn bitter foes after a fall out and their enmity is exploited by a man who has scores to settle.",
-    "year": "2014",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/boEVtgGCeQCum1H3dHMdOsj0poi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mBp62fok2IERhhG1ldQaz84JCLM.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 156,
-    "primaryGenre": "",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1398359",
     "tmdbId": 1398359,
     "imdbId": "tt34915705",
@@ -6510,69 +4767,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "408921",
-    "tmdbId": 408921,
-    "imdbId": "tt6340112",
-    "type": "movie",
-    "title": "Bogan",
-    "overview": "A criminal swaps his body with that of the cop who is hunting him.​",
-    "year": "2017",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/myj2yLj5yEoRipdfohp9BsAxu6P.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nCZB8JWc57z6LbX6bfFUAaJaEvu.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/52m735oWf6iB4u9D9EenRYbDaaf.png",
-    "certificate": "U",
-    "runTimeMinutes": 148,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "76975",
-    "tmdbId": 76975,
-    "imdbId": "tt2187114",
-    "type": "movie",
-    "title": "Samar",
-    "overview": "Shakthi, a trekking guide, goes to Bangkok after he receives a patch-up invitation from his lover Roopa, who had broken up with him. En route, he strikes up a friendship Maya. When Roopa doesn’t arrive for the rendezvous, Shakthi decides to return to India but gets embroiled in a mystery where he is taken for a millionaire businessman. Pretty soon, even Shakthi starts doubting his own identity. Can he get out of this conundrum?",
-    "year": "2013",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7PRFLHgDXDv7IMmfAdmjfPdBSvE.jpg",
-    "backdropUrl": null,
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5Rp7AZ1kKLUOAGvrStS6bF8Vs6K.png",
-    "certificate": "UA",
-    "runTimeMinutes": 144,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "63670",
-    "tmdbId": 63670,
-    "imdbId": "tt0455829",
-    "type": "movie",
-    "title": "Vettaiyaadu Vilaiyaadu",
-    "overview": "DCP Raghavan sets off on the trail of the killers of Rani, the daughter of a police officer. Following this, many more murders take place, leading him to New York to capture the maniac killer.",
-    "year": "2006",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pdFuSN7rz8dk61jFBR9zjqhcwzK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kZ0Gveo8254i8qwIEi2VipjOSPY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8lK7Txk8gnfklttjz0CNluGRRs8.png",
-    "certificate": "UA",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1153886",
     "tmdbId": 1153886,
     "imdbId": "tt27510150",
@@ -6586,69 +4780,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/1FRKkohQV9FcANlklyVxwEtp9xr.png",
     "certificate": "UA",
     "runTimeMinutes": 125,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "579417",
-    "tmdbId": 579417,
-    "imdbId": "tt9615016",
-    "type": "movie",
-    "title": "Dhilluku Dhuddu 2",
-    "overview": "A happy-go-lucky guy has to recover his lady love from the ghostly spirit who accompanies her always.",
-    "year": "2019",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tPXDp3RPjtqh8I6wz76Lev5vOa5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oTsNgeRYIyws9V0ydeinEN6DYJ5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oaeZs6rakKrBWkiR8ITTAhe2CQH.png",
-    "certificate": "UA",
-    "runTimeMinutes": 117,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "29971",
-    "tmdbId": 29971,
-    "imdbId": "tt0093603",
-    "type": "movie",
-    "title": "Nayakan",
-    "overview": "Velu Naicker, who witnesses the brutal murder of his father, kills a corrupt policeman and escapes to Mumbai, only to become a gangster.",
-    "year": "1987",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hnCKKPG5VkUiGQV0DTniyMTEZsT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u4iRTMD0oJPUP2kjmH3XIEhsDKF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bFYwg4lRdqsnwxslahnjBepKYBS.png",
-    "certificate": "A",
-    "runTimeMinutes": 156,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "404711",
-    "tmdbId": 404711,
-    "imdbId": "tt5860564",
-    "type": "movie",
-    "title": "Dhilluku Dhuddu",
-    "overview": "A rich man decides to do away with the middle-class guy whom his daughter loves by inviting the guy's family to a palatial house on the pretence of marriage. What he doesn't know is that the place is haunted by a fearsome ghost.",
-    "year": "2016",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zI5C4xUnvZuGirocFYjVQKpBaQm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uYDi1q4OXOOCCTutJAGKLMEi3TV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3fJnILDPegcaBdAx7mKz58gT38L.png",
-    "certificate": "U",
-    "runTimeMinutes": 133,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
     "originCountries": [
@@ -6783,27 +4914,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "329591",
-    "tmdbId": 329591,
-    "imdbId": "tt4448372",
-    "type": "movie",
-    "title": "Nannbenda",
-    "overview": "Sathya falls in love with Ramya at first sight and starts wooing her. But how will he take the revelations of his girlfriend's past?",
-    "year": "2015",
-    "rating": 3.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6wK0Iqx0ksSfzuCeiQBt1JV7MCA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5xGSmanCjgp5o0T5IRbWGp7pBH4.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 148,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1320752",
     "tmdbId": 1320752,
     "imdbId": "tt36408254",
@@ -6819,48 +4929,6 @@
     "runTimeMinutes": 158,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "412193",
-    "tmdbId": 412193,
-    "imdbId": "tt6236404",
-    "type": "movie",
-    "title": "Kadavul Irukaan Kumaru",
-    "overview": "A confused groom and his friend get booked by a cop while they are on the way back from a bachelor party.",
-    "year": "2016",
-    "rating": 3.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9wXjfax2AdYvmFrlf7cxVi1JMXB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/znH2NXTsJouOSgGaQjU9MmvgS4q.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tOxgwPevg4FiP2FAX54DfDvM3ef.png",
-    "certificate": "U",
-    "runTimeMinutes": 139,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "273870",
-    "tmdbId": 273870,
-    "imdbId": "tt3681422",
-    "type": "movie",
-    "title": "Uttama Villain",
-    "overview": "Superstar Manoranjan learns that he has only a few days to live and approaches his mentor, director Margadarisi to direct his next project — a folklore-ish comedy about a man who keeps cheating death and his role in saving a kingdom. Meanwhile, he has to sort out his personal lives, which involves an estranged son and a daughter from the love of his life.",
-    "year": "2015",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4mwnjii4zreLDTYIDM2OxcuQUTu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/459fTVY8BDiQ3ETpjLX48zgZsgW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i1vhqlF7EBwwkB1lf5coYX5WGBW.png",
-    "certificate": "U",
-    "runTimeMinutes": 173,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "IN"
     ],
@@ -6930,48 +4998,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "391059",
-    "tmdbId": 391059,
-    "imdbId": "tt5655954",
-    "type": "movie",
-    "title": "Vetrivel",
-    "overview": "A brother attempts to get his younger brother married to the girl he loves by kidnapping her, but the plan goes so wrong and results in messy situations...",
-    "year": "2016",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ewSPmhF6ICIN58DgfZlkqs5I14p.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "49074",
-    "tmdbId": 49074,
-    "imdbId": "tt0139876",
-    "type": "movie",
-    "title": "Baasha",
-    "overview": "Auto rickshaw driver Manickam avoids violence at all costs. When some thugs begin to intimidate Manickam's family, it triggers the revival of Manickam's old self.",
-    "year": "1995",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xPSw9PLzYFKTVphw9ErZcBPKUsd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hh2bBmgqzJEY1J7enMKqTsziVRO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ljEkWhughQjvWP81WhgCRRM8bWG.png",
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1465245",
     "tmdbId": 1465245,
     "imdbId": "tt29456794",
@@ -7014,69 +5040,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "504184",
-    "tmdbId": 504184,
-    "imdbId": "tt7892050",
-    "type": "movie",
-    "title": "Chekka Chivantha Vaanam",
-    "overview": "A bloody power struggle erupts between three brothers who are vying to take over the family business following the death of their father.",
-    "year": "2018",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kzwMj4FZdeH37I9u9FIbmkmI2Jx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1K1lKiaHSZpS8tq0ViGjejBk3Jf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vfQffwwsq9AUENFVMHCCsHDfnjc.png",
-    "certificate": "UA",
-    "runTimeMinutes": 143,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "330629",
-    "tmdbId": 330629,
-    "imdbId": "tt0375878",
-    "type": "movie",
-    "title": "Kaakha Kaakha",
-    "overview": "After a police team kills his brother, a drug-dealing gangster vows to kill the entire team and their respective families.",
-    "year": "2003",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d1tXC8fqHr9khx9rt6W6lVSOlmn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/71RBebcMlyTRzi0H2OEIFB8vbgo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/87oxLShjxu8k9WOyGP0Nd6jgbmp.png",
-    "certificate": "UA",
-    "runTimeMinutes": 151,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "247504",
-    "tmdbId": 247504,
-    "imdbId": "tt3320578",
-    "type": "movie",
-    "title": "Veeram",
-    "overview": "A straightforward man, who uses violence to settle disputes, decides to mend his ways for the sake of his lover, but when he learns that her family is in danger, he decides to save them at all cost.",
-    "year": "2014",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tLeL3TODjce9mC6KxpP45EPxZjm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4wTcPRyHlWdpCpIUmfPDrMvMBZ6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/doPGQZ7pyKdMN0MGwW7uSTwwkU5.png",
-    "certificate": "U",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1606210",
     "tmdbId": 1606210,
     "imdbId": "tt38349827",
@@ -7098,27 +5061,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "38637",
-    "tmdbId": 38637,
-    "imdbId": "tt1180583",
-    "type": "movie",
-    "title": "Vaaranam Aayiram",
-    "overview": "A son deals with the death of his father and examines how their relationship influences him through growing up, romance, tragedy and adventure.",
-    "year": "2008",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3PxkiDTObsws7pzkdUiHCjOxVA4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f27VwvczS7VqAwDwVChQrQqprFX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mStG8eTjy8SgsOjLUXqQHxo38mW.png",
-    "certificate": "U",
-    "runTimeMinutes": 169,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "858073",
     "tmdbId": 858073,
     "imdbId": "tt11866370",
@@ -7134,48 +5076,6 @@
     "runTimeMinutes": 155,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "367842",
-    "tmdbId": 367842,
-    "imdbId": "tt5389922",
-    "type": "movie",
-    "title": "Aranmanai 2",
-    "overview": "A ghost enters a palatial mansion and starts attacking the men in the family. What is its back story?",
-    "year": "2016",
-    "rating": 4.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/msZvK0AQ2NsZrz4NF0NXDj9Mfyh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o9USQWUWAotGSHlGEeyjPnLqToa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eXJqXDJvs9bhFPW157y4DJOQwpn.png",
-    "certificate": "UA",
-    "runTimeMinutes": 136,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "280116",
-    "tmdbId": 280116,
-    "imdbId": "tt4010302",
-    "type": "movie",
-    "title": "Aranmanai",
-    "overview": "Aranmanai is about a family that wants to sell their ancestral home. The supernatural elements they discover there in the aranmanai (palace) lead to some bone-chilling moments.",
-    "year": "2014",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lYeQu0lYBRcg1s5za5hxfF6NFfU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihVYceEJZxitmyvSKIrFoctfrKn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wniJtJmVpd2GIk9CD97pIffdbLb.png",
-    "certificate": "UA",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "IN"
     ],
@@ -7224,27 +5124,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "63641",
-    "tmdbId": 63641,
-    "imdbId": "tt0453201",
-    "type": "movie",
-    "title": "Sachein",
-    "overview": "A happy-go-lucky college student falls in love with a beautiful young woman at first sight, but decides to use a unique approach to get close to her, as she has many admirers in the college. How will their relationship evolve?",
-    "year": "2005",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9AUF9tuykPsiAkjqewliulPNT4y.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lPjDk0AwYul5Qy0ce8nODW3j7UE.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/waa6BFK6o5rG8OuycLttMhLEJSx.png",
-    "certificate": "U",
-    "runTimeMinutes": 151,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1415804",
     "tmdbId": 1415804,
     "imdbId": "tt35703429",
@@ -7260,48 +5139,6 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "498580",
-    "tmdbId": 498580,
-    "imdbId": "tt8042248",
-    "type": "movie",
-    "title": "Kanchana 3",
-    "overview": "A young man who gets easily scared is possessed by a ghost that is seeking revenge.",
-    "year": "2019",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/r01e7wDHHFl2WaXBBzMhGoZg50t.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6IftJA2bm4IBEGJV1nG7oJzK5TB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6WehmZQ1K6r8jfeyFvqmzF3AkQr.png",
-    "certificate": "UA",
-    "runTimeMinutes": 174,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "224957",
-    "tmdbId": 224957,
-    "imdbId": "tt4102346",
-    "type": "movie",
-    "title": "Muni",
-    "overview": "Ganesh moves into a new house with his mother, father and wife not knowing that it is the residence where Muni met his death and where his spirit now resides. Muni enter Ganesh's body and Ganesh starts behaving in a rude manner, his family couldn't understand why his behaviour is weird so they seek the help of a priest (Nasser).",
-    "year": "2007",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5tKgyBz3O2QNAYF0FdhNILIG8gE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sd6d4Z9mgeXWqghQs4krKLhCnuA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uZAvlMj2yr2bKJJ9pkwut8KXLID.png",
-    "certificate": "",
-    "runTimeMinutes": 149,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "IN"
     ],
@@ -7434,69 +5271,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "330425",
-    "tmdbId": 330425,
-    "imdbId": "tt3725026",
-    "type": "movie",
-    "title": "Kanchana 2",
-    "overview": "A TV channel’s crew goes to a deserted beachside bungalow to stage a horror show but the place is actually haunted and the ghost(s) in the place possess the director and the cameraman in the team.",
-    "year": "2015",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oBaVzegjQza23C1XCOMfnQRhplw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tU4gV7HLZKc7g82bApr01suekd2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fQb02bpK7d5QGSzhI9g7Zt942xy.png",
-    "certificate": "U",
-    "runTimeMinutes": 168,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "75064",
-    "tmdbId": 75064,
-    "imdbId": "tt2034026",
-    "type": "movie",
-    "title": "Kanchana",
-    "overview": "When three spirits possess a timid young man and start making him act like a woman, his mother consults an exorcist who unearths a heartbreaking tale of societal injustice, murder and vengeance.",
-    "year": "2011",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/imGP0yeKkK8u8LCboD3ufUvaFnT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1Vx5e9s6X8dCCfghY4jIioe8hX5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wStF44O4KRd1cYgauQYwqn2lxUP.png",
-    "certificate": "",
-    "runTimeMinutes": 170,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "371429",
-    "tmdbId": 371429,
-    "imdbId": "tt5756242",
-    "type": "movie",
-    "title": "Maruthu",
-    "overview": "Spurred by his grandmother, an angry young man locks horns with a thug who is intending to murder his sweetheart.",
-    "year": "2016",
-    "rating": 5.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fTQfQZAOGct9vk8BKJY1klyMeNu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hReu4rLnPfqi170tX2YcwUYgTAD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/s0pR48pN3jtX8kaPDX2JNKtD5Wb.png",
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1461360",
     "tmdbId": 1461360,
     "imdbId": "tt27179211",
@@ -7581,27 +5355,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "63634",
-    "tmdbId": 63634,
-    "imdbId": "tt1965272",
-    "type": "movie",
-    "title": "Velayudham",
-    "overview": "An ordinary milkman is forced to become the fictional character Velayudham who takes on the scum of the earth.",
-    "year": "2011",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3AMmKdLbeGr8KxbsOwERzRM3xdy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ubIosvCXH23T4KU8zZsIfgc8AqB.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 160,
-    "primaryGenre": "Action",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1456459",
     "tmdbId": 1456459,
     "imdbId": "tt35769446",
@@ -7617,27 +5370,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "270772",
-    "tmdbId": 270772,
-    "imdbId": "tt3681442",
-    "type": "movie",
-    "title": "Mundasupatti",
-    "overview": "Gopi, a photographer, and Azhagu, his assistant, get stuck in Mundasupatti, a village where having photographs taken is bad omen. And, Gopi falls for Kalaivani, the village headman's daughter who is about to get married.",
-    "year": "2014",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bDTxGNCMWCctxhbtibPFrdeHdzf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wHmlXGkLGrQ86MQw4QE5Lhhmdn0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xlysgRH1SySvqkQXqUw9EDh9LV3.png",
-    "certificate": "U",
-    "runTimeMinutes": 148,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
     "originCountries": [
       "IN"
     ],
@@ -7686,69 +5418,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "180855",
-    "tmdbId": 180855,
-    "imdbId": "tt2677816",
-    "type": "movie",
-    "title": "Settai",
-    "overview": "Three struggling room-mates unknowingly become potential prey of a ruthless gangster",
-    "year": "2013",
-    "rating": 4.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fapd9rqjYtwGnYfwU7F9J28YYu3.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 136,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "366080",
-    "tmdbId": 366080,
-    "imdbId": "tt5071886",
-    "type": "movie",
-    "title": "Kabali",
-    "overview": "A gangster in Malaysia goes in search of his family after 25 years of imprisonment.",
-    "year": "2016",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/va0M1xhP3sUUERWfHeSKGVhtJHW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/12DJjwUO8rr3ds2CAXpPNwhPet6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sTbZWqThKeieyOuKVqFnoelOcFt.png",
-    "certificate": "U",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "50093",
-    "tmdbId": 50093,
-    "imdbId": "tt1421036",
-    "type": "movie",
-    "title": "Goa",
-    "overview": "Three young men, who always get into trouble in their village, dream of an effortless life. For this, they run away to Goa in the hope of finding and getting married to rich foreign women.",
-    "year": "2010",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tHU76m8pX0SGxZSBkxi9WPisHXB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xp276bUoMCCTeJFe6dmJyK8EjxD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cvCTVI9XrMk0b1lfWiMhxPXwzg1.png",
-    "certificate": "",
-    "runTimeMinutes": 164,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "976521",
     "tmdbId": 976521,
     "imdbId": "tt20225002",
@@ -7764,27 +5433,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "69504",
-    "tmdbId": 69504,
-    "imdbId": "tt1956697",
-    "type": "movie",
-    "title": "Vettai",
-    "overview": "Guru always helps his timid brother win accolades and promotions in his career as a policeman. But a brutal incident makes Guru realise that he needs to help his brother in another way.",
-    "year": "2012",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/t95ezCpUmGcCy7gn319wgGmtr9u.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5DnOehrdigGCBb6Lfcyq6QqF1BK.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 150,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
     "originCountries": [
       "IN"
     ],
@@ -7833,69 +5481,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "305506",
-    "tmdbId": 305506,
-    "imdbId": "tt3726006",
-    "type": "movie",
-    "title": "Appuchi Gramam",
-    "overview": "A meteorite is bound towards Tamil Nadu and the experts predict it will cause destruction on a large scale. Meanwhile, the people of Appuchi Gramam, where the meteorite is expected to hit, try to come to terms with the fact in their own way.",
-    "year": "2014",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/r9fTrD82qSzW2fkkspEgfVWgOmb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k70eNhySjuZYWS5rbl8vxbeeEa8.jpg",
-    "logoUrl": null,
-    "certificate": "UA",
-    "runTimeMinutes": 118,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "411311",
-    "tmdbId": 411311,
-    "imdbId": "tt6722870",
-    "type": "movie",
-    "title": "Kadamban",
-    "overview": "The honey-extracting tribal folks of Kadambavanam, a village in the deep interiors of dense forests, enjoy their peaceful &amp; humble lives with the philosophical company of their forefathers. Presence of limestone underneath earns the village some interest from unethical vultures. With multiple soft evacuation plans failing against the tribal resistance, they resort to uglier ways putting the villagers’ lives into complete disarray. Can they withstand when payback time presents itself?",
-    "year": "2017",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4YNQr9In80aL8W3PtcjfPnrsRe4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q4WTaCXTfWhJhbJHNSA372xPHZ7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7uoWeaaZMEAr4sCk1WDlZAl6iN3.png",
-    "certificate": "U",
-    "runTimeMinutes": 138,
-    "primaryGenre": "Action",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "19978",
-    "tmdbId": 19978,
-    "imdbId": "tt0376127",
-    "type": "movie",
-    "title": "Anniyan",
-    "overview": "Unable to tolerate society's injustices and devastated by rejection from the woman he loves, a meek lawyer develops a split personality: one side a vengeful vigilante killer punishing evildoers, the other a dashing playboy capable of winning her heart. Complications arise when the three sides begin to collide.",
-    "year": "2005",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c00EX1zqb8DppHIRB6d51kN5Y27.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ed4iq5kHCDnrsvCaXDItZGEUV6f.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vosy9O3PiRrzopGz0VqcBTrOitv.png",
-    "certificate": "U",
-    "runTimeMinutes": 181,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1402096",
     "tmdbId": 1402096,
     "imdbId": "tt31913142",
@@ -7931,69 +5516,6 @@
     "certificate": "U",
     "runTimeMinutes": 153,
     "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "477239",
-    "tmdbId": 477239,
-    "imdbId": "tt4981012",
-    "type": "movie",
-    "title": "Valladesam",
-    "overview": "A woman is shot at and her daughter kidnapped by an international gang of arms dealer. Who is this woman and how does she fight back to save her daughter — and her nation?",
-    "year": "2017",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tVa2EMMc5N7KbyrOFg85e9766dH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/23ZAojNUOzGNstwoKz8W4zEP3h.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 134,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "495503",
-    "tmdbId": 495503,
-    "imdbId": "tt7179714",
-    "type": "movie",
-    "title": "Iravukku Aayiram Kangal",
-    "overview": "Three strangers, who were cheated by a three-member fraud gang, hatch plan to take revenge on their leader, and go to his home around same time. All of them get the shock of their life when they find someone murdered at the home.",
-    "year": "2018",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1gtw3n7dCYvwga4Kid3a7UJLkp7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wXAEc8kBBGDE6mXtD6acNdpWchS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/g0E0BT4AFhRJRpyHEMafdBjsMo4.png",
-    "certificate": "UA",
-    "runTimeMinutes": 121,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "66434",
-    "tmdbId": 66434,
-    "imdbId": "tt0156666",
-    "type": "movie",
-    "title": "Kalathur Kannamma",
-    "overview": "A landlord's son and a farmer's daughter fall in love and marry secretly in a temple. Since their love is not accepted by the families, they are forced to separate while their child grows up in an orphanage.",
-    "year": "1960",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hqecHSDJU8bMFzikg3hJxmhc8OO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qrtBb1lWgZRkYKlPzVTtMUahyMp.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 180,
-    "primaryGenre": "Romance",
     "secondaryGenre": "Drama",
     "originCountries": [
       "IN"
@@ -8064,27 +5586,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "270766",
-    "tmdbId": 270766,
-    "imdbId": "tt3569782",
-    "type": "movie",
-    "title": "Jigarthanda",
-    "overview": "A budding director endeavors to research a merciless gangster for making a film on gangsterism. But his secret attempts to conduct the research fail when he gets caught for snooping.",
-    "year": "2014",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oDcQE70RYc78iBYgHRknl64QKTu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ydXxKE3km4qsoqunO6g5SpbKhD4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rS30GaW6VusiVsE8OowKrB8gqu6.png",
-    "certificate": "UA",
-    "runTimeMinutes": 170,
-    "primaryGenre": "Music",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1324888",
     "tmdbId": 1324888,
     "imdbId": "tt29463725",
@@ -8148,27 +5649,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "412455",
-    "tmdbId": 412455,
-    "imdbId": "tt7482302",
-    "type": "movie",
-    "title": "Semma Botha Aagatha",
-    "overview": "After a night of binge drinking, a youngster decides to invite a call girl home on the advice of his friend. When the girl ends up dead in his apartment in his absence, he has to track down the person who could have murdered her.",
-    "year": "2018",
-    "rating": 5.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zIITUtz9SVjz7TZ69AJdh19WonR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tqmJy9iUwwZKeJCgnkhWHtASwR7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hUWaglxY8t9Rf0QmXsTD83UhS0T.png",
-    "certificate": "UA",
-    "runTimeMinutes": 133,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1307764",
     "tmdbId": 1307764,
     "imdbId": "tt32678603",
@@ -8184,27 +5664,6 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "257423",
-    "tmdbId": 257423,
-    "imdbId": "tt3565264",
-    "type": "movie",
-    "title": "Thegidi",
-    "overview": "Vettri joins a detective agency and is assigned a series of subjects to observe. He falls in love with Madhusree, one of his targets, and just when everything seems to be going fine, Vettri's subjects start dying mysteriously. Can he save Madhu before it is too late?",
-    "year": "2014",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4qgRM6XOk0cNVdeeNAHLbjhKdJ3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xcnWvOwFjCvlyzg1YZnVIszmSEY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ux7C7UQAweXr8s4fZM5gkqrAumW.png",
-    "certificate": "U",
-    "runTimeMinutes": 122,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
     "originCountries": [
       "IN"
     ],
@@ -8253,90 +5712,6 @@
     "originalLanguage": "ta"
   },
   {
-    "id": "262333",
-    "tmdbId": 262333,
-    "imdbId": "tt0214839",
-    "type": "movie",
-    "title": "Karpagam",
-    "overview": "A rich farmer makes his married children and their spouses live in his house to take care of his business. Problems arise when one of them starts to squander his hard-earned money.",
-    "year": "1963",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3VSxCccudCGR3rBuq0fmesjRfPT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hygKmiShI0DbS9K1xziJf0c37Sg.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 162,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "263471",
-    "tmdbId": 263471,
-    "imdbId": "tt2302966",
-    "type": "movie",
-    "title": "I",
-    "overview": "A deformed hunchback kidnaps a bride and holds her hostage while his connection to her and his targets is revealed in a series of flashbacks that unfold as he starts seeking revenge.",
-    "year": "2015",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pZioBfNL0BHl8JZ6P9ddqBNnFuj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t5TR3aeVPeCFq8VqykuHm0gl2Rs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fgEeLCe8xXWZgGATWRq5ohSCyHt.png",
-    "certificate": "UA",
-    "runTimeMinutes": 170,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "281833",
-    "tmdbId": 281833,
-    "imdbId": "tt0214073",
-    "type": "movie",
-    "title": "Sangamam",
-    "overview": "After initial disagreements, a classical dancer and a rural folk artist charm each other and fall in love. However, they face issues when the girl's father disapproves of their relationship.",
-    "year": "1999",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6F0EYUBzblKkhji8E9yPNAcEepK.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 153,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "527833",
-    "tmdbId": 527833,
-    "imdbId": "tt7329602",
-    "type": "movie",
-    "title": "Tamizh Padam 2",
-    "overview": "A stringent cop tries all the possible ways to nab a dreaded don who poses a big threat to the society.",
-    "year": "2018",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/muDTWWwJo3eaRefQ2uTPdo7prfW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sIHBxNipyh8umL4xpDL9Bisti14.jpg",
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1222718",
     "tmdbId": 1222718,
     "imdbId": "tt30608955",
@@ -8373,27 +5748,6 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
-    "id": "331481",
-    "tmdbId": 331481,
-    "imdbId": "tt6358182",
-    "type": "movie",
-    "title": "Unnai Ninaithu",
-    "overview": "A young man tries to explain to his lover that her fiance is a crook. She refuses to believe him. Later, she realizes her mistake and comes back to him. But the man now loves another woman.",
-    "year": "2002",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g4NImD52a4aKiwn3XNEktE6PlIM.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "U",
-    "runTimeMinutes": 145,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
     "originCountries": [
       "IN"
     ],
