@@ -28,7 +28,7 @@
     "title": "WAR",
     "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
@@ -1363,6 +1363,29 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "256949",
+    "tmdbId": 256949,
+    "imdbId": "tt32083349",
+    "type": "tv",
+    "title": "Video Nasty",
+    "overview": "Three mostly normal, slightly weird teens go on an epic quest for a cult VHS collection. But on the way, they somehow get mixed up in a murder.",
+    "year": "2025",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4vbbIVBvaWdSuaPCNrLNxgwr3UV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4DOb93djWyDzq2m6POMCP90ABQb.jpg",
+    "logoUrl": null,
+    "certificate": "18+",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE",
+      "XI",
+      "GB"
     ],
     "originalLanguage": "en"
   },

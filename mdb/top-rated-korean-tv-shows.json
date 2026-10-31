@@ -4873,6 +4873,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "220074",
+    "tmdbId": 220074,
+    "imdbId": "tt30413181",
+    "type": "tv",
+    "title": "Flex X Cop",
+    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "228689",
     "tmdbId": 228689,
     "imdbId": "tt32409807",
@@ -4901,7 +4922,7 @@
     "title": "Romantics Anonymous",
     "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
     "year": "2025",
-    "rating": 7.8,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
@@ -4931,6 +4952,27 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5105,27 +5147,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "220074",
-    "tmdbId": 220074,
-    "imdbId": "tt30413181",
-    "type": "tv",
-    "title": "Flex X Cop",
-    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-    "year": "2024",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "270420",
     "tmdbId": 270420,
     "imdbId": "tt33429144",
@@ -5231,21 +5252,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
+    "id": "210781",
+    "tmdbId": 210781,
+    "imdbId": "tt27203727",
     "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
+    "title": "My Lovely Liar",
+    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
+    "year": "2023",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dn8IwNeeqhYYDC3UeRkZyJDaqk4.png",
+    "certificate": "15",
+    "runTimeMinutes": 71,
     "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -5308,6 +5329,48 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 55,
     "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "245079",
+    "tmdbId": 245079,
+    "imdbId": "tt35378081",
+    "type": "tv",
+    "title": "Hyper Knife",
+    "overview": "Seok, an eager yet genius neurosurgeon is reunited with Deokhee, the professor who ruined her life long ago. Once, the two surgeons cared for each other more than anyone else. But now with nothing but hatred toward each other, Seok is furious that he is back in her life and vows to take revenge.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hHkiSxa7O8kPjyyTJ9ue2mqYJVx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gd6er39HiIfVQIDKhZdMz7FVIw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bAZI6l4Gd8MAZ96Qx0JOZMi4lie.png",
+    "certificate": "18",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "224030",
+    "tmdbId": 224030,
+    "imdbId": "tt32499943",
+    "type": "tv",
+    "title": "High School Return of a Gangster",
+    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
+    "year": "2024",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/maFcTYK9k0TugmW7b8nISFObkL4.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -5582,48 +5645,6 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "245079",
-    "tmdbId": 245079,
-    "imdbId": "tt35378081",
-    "type": "tv",
-    "title": "Hyper Knife",
-    "overview": "Seok, an eager yet genius neurosurgeon is reunited with Deokhee, the professor who ruined her life long ago. Once, the two surgeons cared for each other more than anyone else. But now with nothing but hatred toward each other, Seok is furious that he is back in her life and vows to take revenge.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hHkiSxa7O8kPjyyTJ9ue2mqYJVx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gd6er39HiIfVQIDKhZdMz7FVIw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bAZI6l4Gd8MAZ96Qx0JOZMi4lie.png",
-    "certificate": "18",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "224030",
-    "tmdbId": 224030,
-    "imdbId": "tt32499943",
-    "type": "tv",
-    "title": "High School Return of a Gangster",
-    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
-    "year": "2024",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/maFcTYK9k0TugmW7b8nISFObkL4.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7772,6 +7793,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "227190",
+    "tmdbId": 227190,
+    "imdbId": "tt31187621",
+    "type": "tv",
+    "title": "Wonderful World",
+    "overview": "A mother who unfairly lost her young son, takes revenge against the perpetrator who has been forgiven by the law and heals her wounds.",
+    "year": "2024",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h6sUmEotEp3gw2j0ThpTL6CdwJd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MoVZ6nkBJv45TlYnw3RWnxbzJk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/JlQoNmTtP9HbY6ibsGMphX6MVj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "246748",
     "tmdbId": 246748,
     "imdbId": "tt26009468",
@@ -7997,6 +8039,27 @@
     "runTimeMinutes": 32,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "155040",
+    "tmdbId": 155040,
+    "imdbId": "tt30241060",
+    "type": "tv",
+    "title": "My Man Is Cupid",
+    "overview": "Star-crossed love story between a love fairy and a human girl. For humans and fairies aren’t meant to be, when he accidentally shoots himself and falls in love, their fate takes a wrong turn. The two reconnect after centuries of reincarnation. Where will this story lead?",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ij2dlIzdEJa09Am7nxEoJbEjYcN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vm1XKRtPkHmyTy9IXL1jDqROCIf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2RrrnG15wa0X6RVj2tzzfSexGpo.png",
+    "certificate": "15",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -8333,69 +8396,6 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "214994",
-    "tmdbId": 214994,
-    "imdbId": "tt27664007",
-    "type": "tv",
-    "title": "Bitch X Rich",
-    "overview": "Kim Hye-in has to transfer to Cheongdam International High School after witnessing a murder. She crosses paths with Baek Je-na, a bully who happens to be connected to the case.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/r2qOi6cSb0aUH1lzrg8vbr6i0Uw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t2fl4Po0H38ZYwzPboTTXhQ6v3Y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dWvqy2ThkPGfEeL7RWSCTY1DmDT.png",
-    "certificate": "15",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "276257",
-    "tmdbId": 276257,
-    "imdbId": "tt35932555",
-    "type": "tv",
-    "title": "Secret Relationships",
-    "overview": "Trapped in an escalating love square, a salaryman must navigate his tumultuous feelings for a colleague, a former tutor, and an heir.",
-    "year": "2025",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/IQDPoMU2U1gBEtQ7Dpp35Y6IaK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moJ8lgBeDMWHgDrPSmOvEH72HnA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gOfF6VuglowGr44y8aj9EiQUYS5.png",
-    "certificate": "15",
-    "runTimeMinutes": 37,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "301886",
-    "tmdbId": 301886,
-    "imdbId": "tt39303266",
-    "type": "tv",
-    "title": "To My Beloved Thief",
-    "overview": "Hong Eun Jo leads a double life: a servant and healer by day and a Robin-Hood-like thief named Gil Dong by night. Grand Prince Do Wol, brother to the King, begins to investigate the case. An encounter with a monk leads to them swapping souls, and they are forced to navigate each other's complex worlds.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rovxC2ugTtaMsgo7lOF4R4VBSb9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/enTNCPGiu3dhul8XTBZEJCLZWbI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tq1tYKkRy2MSdNPJVkivEF80M7Y.png",
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

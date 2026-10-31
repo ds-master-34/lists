@@ -1397,6 +1397,28 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "247718",
+    "tmdbId": 247718,
+    "imdbId": "tt31510819",
+    "type": "tv",
+    "title": "MobLand",
+    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+    "year": "2025",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "249127",
     "tmdbId": 249127,
     "imdbId": "tt31711346",
@@ -2555,6 +2577,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "155040",
+    "tmdbId": 155040,
+    "imdbId": "tt30241060",
+    "type": "tv",
+    "title": "My Man Is Cupid",
+    "overview": "Star-crossed love story between a love fairy and a human girl. For humans and fairies aren’t meant to be, when he accidentally shoots himself and falls in love, their fate takes a wrong turn. The two reconnect after centuries of reincarnation. Where will this story lead?",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ij2dlIzdEJa09Am7nxEoJbEjYcN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vm1XKRtPkHmyTy9IXL1jDqROCIf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2RrrnG15wa0X6RVj2tzzfSexGpo.png",
+    "certificate": "15",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "112388",
     "tmdbId": 112388,
     "imdbId": "tt9174724",
@@ -2637,6 +2680,27 @@
       "DE"
     ],
     "originalLanguage": "de"
+  },
+  {
+    "id": "229183",
+    "tmdbId": 229183,
+    "imdbId": "tt13355880",
+    "type": "tv",
+    "title": "Everybody Loves Diamonds",
+    "overview": "A team of small-time Italian thieves who manage to deceive top-level security to steal millions of dollars' worth of precious stones from the Antwerp Diamond Centre.",
+    "year": "2023",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jHopyCXA5LNOOFuJkoKNmC7ENGB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/WkeHNJtgEPf57yzw5vsfrL2JvZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e1e81AUfiFUOUJ5FSLd12ftfKxW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
   },
   {
     "id": "205715",
@@ -2828,6 +2892,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "218099",
+    "tmdbId": 218099,
+    "imdbId": "tt26085372",
+    "type": "tv",
+    "title": "HeartBeat",
+    "overview": "A thrilling romance between a vampire who desires to experience heart-throbbing love, and a cold-blooded woman.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wRrvEw3OCK9aiwe6YbcpsqkEwIW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lGYw3DiXzOS9bUMaHa9DfuMNoxC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8qys71O1pHDrSMOaC2sMyGrFODu.png",
+    "certificate": "15",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "105169",
     "tmdbId": 105169,
     "imdbId": "tt13649510",
@@ -2868,6 +2953,27 @@
       "UY"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "208935",
+    "tmdbId": 208935,
+    "imdbId": "tt21911406",
+    "type": "tv",
+    "title": "Queen of Oz",
+    "overview": "Princess Georgiana is the black sheep of a fictional British Royal Family. A PR disaster, she's spent her spoilt, party-girl life plastered over the tabloids. On the back of her latest scandal her mother, the Queen, makes the unprecedented move of abdicating her Australian throne in favour of her daughter. It is hoped that giving her some real responsibility will finally be the making of her – and if it isn't, at least shipping her off keeps her 10,000 miles away from London.",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tZ2i4TZs26Y1HQXUEY0GWAZTCf4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vgOimIz3jeX1N2g0kutFVWiwJDk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4fSHQMf0RjB4tC8OzJjYv87ASAk.png",
+    "certificate": "M",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "225780",
@@ -3370,27 +3476,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "153312",
-    "tmdbId": 153312,
-    "imdbId": "tt16358384",
-    "type": "tv",
-    "title": "Tulsa King",
-    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-    "year": "2022",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xz9iVJuRbNsdD7KZhr9dfi8F7Gs.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 41,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   },
@@ -4127,91 +4212,6 @@
     "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "139397",
-    "tmdbId": 139397,
-    "imdbId": "tt12530128",
-    "type": "tv",
-    "title": "As We See It",
-    "overview": "Finding love, making friends, getting a job, adulting. Watch as three roommates on the autism spectrum navigate their early 20s with all its joy, tears and laughter. With the help of their families, aide, and sometimes even each other, these roommates experience setbacks and celebrate triumphs on their own unique journeys towards independence and acceptance.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bh7OXB05LgElZDMOoxFNSJL9o4h.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rl1danwlKUwSjpIgFHaMC27oWTm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pFeuqJLlNbZVk36fGuK2S9DhAEC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "153268",
-    "tmdbId": 153268,
-    "imdbId": "tt11237876",
-    "type": "tv",
-    "title": "Supernatural Academy",
-    "overview": "After discovering they are dragon-marked and cursed to serve the evil Dragon King, adversarial werewolf twins must trust each other to save themselves, their Supernatural Academy and the world.",
-    "year": "2022",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9ZCngZIuBPaocJyiQHlyFecUpru.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1Ktw7Xa51Ywa8ZCELMvgCZRULN6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/z3a4BIXTeQPv7rCSFakcpDF0TnO.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 23,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "136738",
-    "tmdbId": 136738,
-    "imdbId": "tt14452228",
-    "type": "tv",
-    "title": "Wolf Like Me",
-    "overview": "Gary is an emotional wreck and struggles to provide for his daughter since the death of his wife. Mary has a secret she can't bring herself to share with anyone. The universe brought these two together for a reason.",
-    "year": "2022",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AozlVRc0oAx7R2PoPL0gMZBrmAV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/s6QP3E68862iCEeCfrgoEgV8RV.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "AU",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "153425",
-    "tmdbId": 153425,
-    "imdbId": "tt14708510",
-    "type": "tv",
-    "title": "Screw",
-    "overview": "Rob Williams' darkly comic crime drama portrays prison as you've never seen it before: through the embattled and inspiring characters who work there.",
-    "year": "2022",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wHGYdkcV8gLBi1TLVylyR4VUho.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9KLBdEE0XGybFFW49rxVG0YnlxM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1mpWJgdO7umvyj1XKc7eDu0P5Hx.png",
-    "certificate": "18",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }

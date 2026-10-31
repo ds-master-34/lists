@@ -28,7 +28,7 @@
     "title": "100 Days of Deception",
     "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
@@ -273,6 +273,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "94796",
+    "tmdbId": 94796,
+    "imdbId": "tt10850932",
+    "type": "tv",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "year": "2019",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eOSHzaCE8Of4mIHsueUM9dIJXnJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "200709",
     "tmdbId": 200709,
     "imdbId": "tt20234568",
@@ -322,7 +343,7 @@
     "title": "Dead-End Job",
     "overview": "When a debtor is lured by a strange agency with the promise of lucrative gigs, he is soon thrust into a hellish world of terror and unpredictability.",
     "year": "2026",
-    "rating": 8.1,
+    "rating": 8.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/gbIk1sF9JLQZ1P53k3OaijgiWX1.png",
@@ -330,27 +351,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "94796",
-    "tmdbId": 94796,
-    "imdbId": "tt10850932",
-    "type": "tv",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "year": "2019",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eOSHzaCE8Of4mIHsueUM9dIJXnJ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 113,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1344,27 +1344,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "294636",
-    "tmdbId": 294636,
-    "imdbId": "tt44072314",
-    "type": "tv",
-    "title": "The Ordinary Jackpot",
-    "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
-    "certificate": "15",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "273977",
     "tmdbId": 273977,
     "imdbId": "tt35149250",
@@ -1569,6 +1548,27 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "294636",
+    "tmdbId": 294636,
+    "imdbId": "tt44072314",
+    "type": "tv",
+    "title": "The Ordinary Jackpot",
+    "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
+    "certificate": "15",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -1792,7 +1792,7 @@
     "title": "Dive into You",
     "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
@@ -2373,27 +2373,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "196474",
-    "tmdbId": 196474,
-    "imdbId": "tt21627438",
-    "type": "tv",
-    "title": "A Time Called You",
-    "overview": "A grieving woman magically travels through time to 1998, where she meets a man with an uncanny resemblance to her late love.",
-    "year": "2023",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVJ1ffJnYC8bxakKJjieMlX2os.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "106651",
     "tmdbId": 106651,
     "imdbId": "tt12235718",
@@ -2451,27 +2430,6 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "253905",
-    "tmdbId": 253905,
-    "imdbId": "tt33503491",
-    "type": "tv",
-    "title": "When the Phone Rings",
-    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
-    "year": "2024",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -2583,6 +2541,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "196474",
+    "tmdbId": 196474,
+    "imdbId": "tt21627438",
+    "type": "tv",
+    "title": "A Time Called You",
+    "overview": "A grieving woman magically travels through time to 1998, where she meets a man with an uncanny resemblance to her late love.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVJ1ffJnYC8bxakKJjieMlX2os.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233742",
     "tmdbId": 233742,
     "imdbId": "tt32199328",
@@ -2688,6 +2667,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "237565",
+    "tmdbId": 237565,
+    "imdbId": "tt30365813",
+    "type": "tv",
+    "title": "Family by Choice",
+    "overview": "A youth romance about two men and woman who aren't blood related but treated each other as family during their teens and how they meet again after 10 years.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJZ7WkSUyddxEg4kfiJIrOVaOgi.png",
+    "certificate": "15",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "202783",
     "tmdbId": 202783,
     "imdbId": "tt28642796",
@@ -2703,6 +2703,27 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "253905",
+    "tmdbId": 253905,
+    "imdbId": "tt33503491",
+    "type": "tv",
+    "title": "When the Phone Rings",
+    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
+    "year": "2024",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -3227,27 +3248,6 @@
     "certificate": "15",
     "runTimeMinutes": 58,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "119772",
-    "tmdbId": 119772,
-    "imdbId": "tt14169770",
-    "type": "tv",
-    "title": "The Devil Judge",
-    "overview": "The court system is corrupted and old-fashioned. People desire a new system that can satisfy the crowds. However, are the crowds always correct? The drama shows how judges discover the truth about people in court. It centers around a chief judge who doesn’t believe in justice, but only makes judgements that the crowds will be satisfied with. An assistant judge starts to question his motives and tries to find the truth.",
-    "year": "2021",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/41wc4n7juC0A4XNROYTDvlndi0E.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pYzgsW2hVGml2vSguJshVBd5WE9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vVemgq7WpJ48Ui3SoDMEtmAohsQ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -3906,6 +3906,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "131305",
+    "tmdbId": 131305,
+    "imdbId": "tt26315488",
+    "type": "tv",
+    "title": "Celebrity",
+    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
+    "year": "2023",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a4bWzz41C0khqh60VXOmygbwPzu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kzv4cgjegGZr259zHm00jrCTEkw.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "313289",
     "tmdbId": 313289,
     "imdbId": "tt39961100",
@@ -4011,6 +4032,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "218631",
+    "tmdbId": 218631,
+    "imdbId": "tt27368181",
+    "type": "tv",
+    "title": "Gangnam B-Side",
+    "overview": "When Jaehee, a top call girl at a club in Gangnam, goes missing, Detective Kang Dongwoo returns to crack the case. Prosecutor Min Seojin aims to rise in rank, while the notorious pimp, Yoon Gilho becomes a prime suspect. They unravel a web of secrets and connections behind the case.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5oo7JW9BYPGOD9Tco6NobEUuRXk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wMVtQXh4gAmPnZ6QuIL2xA9xCmd.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "138663",
+    "tmdbId": 138663,
+    "imdbId": "tt21049186",
+    "type": "tv",
+    "title": "Café Minamdang",
+    "overview": "A suspicious business that offers the services of a purportedly all-knowing shaman catches the attention of a tenacious police inspector.",
+    "year": "2022",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jFXSdUd12KzpIKixEmTL0P7osxP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aG8IOqCSOR0uVaIawKj3gW5Rjgj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8lZ28TCnw48fAxqOxXMP9493Qjy.png",
+    "certificate": "16",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "123349",
     "tmdbId": 123349,
     "imdbId": "tt14460684",
@@ -4026,27 +4089,6 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "237565",
-    "tmdbId": 237565,
-    "imdbId": "tt30365813",
-    "type": "tv",
-    "title": "Family by Choice",
-    "overview": "A youth romance about two men and woman who aren't blood related but treated each other as family during their teens and how they meet again after 10 years.",
-    "year": "2024",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uJZ7WkSUyddxEg4kfiJIrOVaOgi.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
     "originCountries": [
       "KR"
     ],
@@ -4089,27 +4131,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "131305",
-    "tmdbId": 131305,
-    "imdbId": "tt26315488",
-    "type": "tv",
-    "title": "Celebrity",
-    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
-    "year": "2023",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a4bWzz41C0khqh60VXOmygbwPzu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kzv4cgjegGZr259zHm00jrCTEkw.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -4326,6 +4347,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "131028",
+    "tmdbId": 131028,
+    "imdbId": "tt15181094",
+    "type": "tv",
+    "title": "Thirty-Nine",
+    "overview": "Leaning on each other through thick and thin, a trio of best friends stand together as they experience life, love and loss on the brink of turning 40.",
+    "year": "2022",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Pz7dZRjuxoRzwYBMLdVBTtcEBi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8NMOaMMtxSypZsMnt34aujxBZWM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/whUtFUG0zwgnLVqRV1yPRpt0Bz7.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "271885",
     "tmdbId": 271885,
     "imdbId": "tt33550045",
@@ -4383,27 +4425,6 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "63910",
-    "tmdbId": 63910,
-    "imdbId": "tt5145142",
-    "type": "tv",
-    "title": "D-Day",
-    "overview": "When a natural disaster strikes Seoul, a team of medical doctors and emergency personnel struggle to deal with its aftermath.",
-    "year": "2015",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nIyQtRSj4S5Ym8I3wHKofPI7LkK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/erV14ZUSBIc7YTqY8nWAisO0c70.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uexYc666KpCiXODnrDbFn57bECJ.png",
-    "certificate": "14",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8372,27 +8393,6 @@
     "runTimeMinutes": 14,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "35710",
-    "tmdbId": 35710,
-    "imdbId": "tt3205964",
-    "type": "tv",
-    "title": "Thousand Years of Love",
-    "overview": "It was about 1,400 years ago. The story revolves around Princess Buyeu Ju, the Daughter of last king, general Ari who attempts to reconstruct Bakje for the love of the princess, and general Yu Suk Kim from Shila whos after him. When the princess falls into YuSuks trap, she jumps off the cliff and then, the princess leaps through 1400 years and is brought to modern society in 2003. And meets Inchul (Ari) and Tasuji who have no idea of their past lives and creates love fantasy that overcome time and space. ",
-    "year": "2003",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hLCJM1EcNKP9GvEaE7A7TgUd9c2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SNoVpKXBsUaMEYekDD0QTUsfQw.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],

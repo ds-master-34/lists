@@ -1734,7 +1734,7 @@
     "title": "Between Walls",
     "overview": "Marga and Martín meet and feel attracted to each other, not realizing they'll be neighbors.",
     "year": "2025",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tK0hOBpoUgxmzSbiF67drVJ18JF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/vGroI1ex27huPBxX4MOqH8zTrRi.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/eUo8zlzF0kwmVkWTuL1fGLiD7QI.png",
@@ -1914,6 +1914,27 @@
       "SE"
     ],
     "originalLanguage": "sv"
+  },
+  {
+    "id": "220513",
+    "tmdbId": 220513,
+    "imdbId": "tt26658061",
+    "type": "tv",
+    "title": "Invisible",
+    "overview": "Capi, a twelve-year-old boy with a normal life, has suffered a terrible accident that has left him with severe post-traumatic stress disorder. Neither the school, nor his friends, nor his family can explain what has happened. However, the psychologist who treats him is determined to delve into his story and discover the reasons that led him to this situation.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ww4pfCaHONwPpdSTrP4cZU1pfBL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXxWEyywGTkhkYcVMYdaEvRQhNl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wSJnqEb4rbbkWxnTocCIyZtjq1w.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "255868",
@@ -2701,7 +2722,7 @@
     "title": "The Beauty Queen Killer: 9 Days of Terror",
     "overview": "In 1984, 16-year-old Tina Risico is kidnapped by a killer who takes her on a hellish road trip – and forces her to participate in a brutal crime.",
     "year": "2024",
-    "rating": 5.5,
+    "rating": 6.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/yhNy1GMLvZrd7Ozc7LGJJ4yqyRl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/673N8Nu1sxD8rmrrz0NvOlvcPVX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/zMg7YW9xCnL5R4pXvUSSllKXJNL.png",
@@ -2932,7 +2953,7 @@
     "title": "UFO Factory",
     "overview": "",
     "year": "2024",
-    "rating": 6.8,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aFWJSTRUgo37zPhuvUHLremdBAe.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8KMf7yA78dtXS7K0tbWipP3IblC.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/3jbwdVWTeqZBtn4Nz4Q26s8N2yv.png",
@@ -3038,7 +3059,7 @@
     "title": "Wonderful World",
     "overview": "A mother who unfairly lost her young son, takes revenge against the perpetrator who has been forgiven by the law and heals her wounds.",
     "year": "2024",
-    "rating": 8.4,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/h6sUmEotEp3gw2j0ThpTL6CdwJd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MoVZ6nkBJv45TlYnw3RWnxbzJk.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/JlQoNmTtP9HbY6ibsGMphX6MVj.png",
@@ -3895,6 +3916,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "154114",
+    "tmdbId": 154114,
+    "imdbId": "tt15523440",
+    "type": "tv",
+    "title": "Time Switch",
+    "overview": "Paz is a self-centered influencer who arrives in the town of Água-Marinha, where she clashes with a local activist and is “canceled” for offensive insults. One hundred years earlier, in 1922, Cecília is facing a forced marriage — a life she doesn't want — in Água-Marinha after her parents’ death. Mysteriously, the universe gives the two women an exit as they are swapped into each other’s bodies.",
+    "year": "2023",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tE0Xe0vlXXqEEVYIYOUkGVjB0pe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uybUp9LNqsl54FYtFJSCab7TOha.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oGAX7MpdaFcNSC5Up2f2ISuYHTX.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "218194",
     "tmdbId": 218194,
     "imdbId": "tt17372734",
@@ -4161,48 +4203,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/vbMlqsQaaG20BkPThquHIKsFMRa.png",
     "certificate": "NC16",
     "runTimeMinutes": 52,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "92788",
-    "tmdbId": 92788,
-    "imdbId": "tt8041658",
-    "type": "tv",
-    "title": "Marvel's Moon Girl and Devil Dinosaur",
-    "overview": "After 13-year-old super-genius Lunella accidentally brings ten-ton T-Rex, Devil Dinosaur into present-day New York City via a time vortex, the duo works together to protect the city's Lower East Side from danger.",
-    "year": "2023",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1oFkjiF9fT2asKWjRiJtlbhu3hn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ieZ9AdB3yJF9jZSVO39zZ9d4D1y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9uc57L4RIo8NdIW9rOEFB8Bxv4V.png",
-    "certificate": "TV-Y7",
-    "runTimeMinutes": 23,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "216315",
-    "tmdbId": 216315,
-    "imdbId": "tt23330464",
-    "type": "tv",
-    "title": "Stolen Youth: Inside the Cult at Sarah Lawrence",
-    "overview": "A group of bright Sarah Lawrence College students fall under the dark influence of a friend's father, Larry Ray. With unprecedented access to the survivors who lived with Ray, the series follows the cult from its origins through its still-unfolding aftermath.",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/r00i76ZaQ0NtwK2mkpVLkT6skkg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eEG0mUI2SpDwSk3FWukpcrRDxp8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lQ6NqV2EboYqQlKXQb67ai2jopc.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": [

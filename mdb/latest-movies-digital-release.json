@@ -1,5 +1,27 @@
 [
   {
+    "id": "1308388",
+    "tmdbId": 1308388,
+    "imdbId": "tt29373684",
+    "type": "movie",
+    "title": "Hunting Matthew Nichols",
+    "overview": "Twenty-three years after her brother mysteriously disappeared on Vancouver Island, a documentary filmmaker sets out to solve his missing person's case. When a disturbing piece of evidence is revealed, she comes to believe he might still be alive.",
+    "year": "2026",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d6I1mvnGUaU57kSFeXxNWlQB934.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kOttC22G94ZxDdEcudcB3Lie94t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vHn08jXu6G9kUJchV33G6ihqplf.png",
+    "certificate": "R",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1727734",
     "tmdbId": 1727734,
     "imdbId": "tt43655467",
@@ -282,7 +304,7 @@
     "title": "Tenzing",
     "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
@@ -366,7 +388,7 @@
     "title": "Devour",
     "overview": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
     "year": "2026",
-    "rating": 4.4,
+    "rating": 4.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6t6ux4k1KQJjv25vqdiYNY8XtIm.png",
@@ -1452,27 +1474,6 @@
     "secondaryGenre": "Fantasy",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1439808",
-    "tmdbId": 1439808,
-    "imdbId": "tt36307021",
-    "type": "movie",
-    "title": "Hadestown: The Musical",
-    "overview": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lured to the industrial underworld of Hadestown by Hades, while Orpheus, a struggling musician, ventures down below to bring her back. (Filmed live at the Lyric Theatre, London, featuring the core five original Broadway cast members.)",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n2Lx80fUrEp8OZOjfBNx0a7d37u.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sjS1MYNwDNiN6BarINERtxOGl03.png",
-    "certificate": "NR",
-    "runTimeMinutes": 141,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   },
@@ -2829,6 +2830,27 @@
     "secondaryGenre": "History",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1391074",
+    "tmdbId": 1391074,
+    "imdbId": "tt34705112",
+    "type": "movie",
+    "title": "Busboys",
+    "overview": "A pair of idiot friends believe that if they become waiters, all of their problems will be solved. They aren't entirely wrong, but they aren't entirely right.",
+    "year": "2026",
+    "rating": 4.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z7aBU98usPaaFymldN6IcYRsHZr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ctUt397YPPr7CeN4xijFXj9TREO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zccqkGvHYnruhWstdCAOd001Qq0.png",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   }

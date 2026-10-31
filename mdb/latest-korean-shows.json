@@ -1,20 +1,20 @@
 [
   {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
     "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
     "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
     "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -36,6 +36,48 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "289517",
+    "tmdbId": 289517,
+    "imdbId": "tt36458668",
+    "type": "tv",
+    "title": "Dead-End Job",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gbIk1sF9JLQZ1P53k3OaijgiWX1.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
     "originCountries": [
       "KR"
     ],
@@ -175,7 +217,7 @@
     "title": "Dive into You",
     "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
@@ -196,7 +238,7 @@
     "title": "100 Days of Deception",
     "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
@@ -245,27 +287,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 65,
     "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -2506,7 +2527,7 @@
     "title": "Romantics Anonymous",
     "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
     "year": "2025",
-    "rating": 7.8,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
@@ -6869,27 +6890,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "209502",
-    "tmdbId": 209502,
-    "imdbId": "tt29006388",
-    "type": "tv",
-    "title": "A Good Day to be a Dog",
-    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "240715",
     "tmdbId": 240715,
     "imdbId": "tt30454687",
@@ -6905,6 +6905,27 @@
     "runTimeMinutes": 26,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "209502",
+    "tmdbId": 209502,
+    "imdbId": "tt29006388",
+    "type": "tv",
+    "title": "A Good Day to be a Dog",
+    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -7409,27 +7430,6 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "261443",
-    "tmdbId": 261443,
-    "imdbId": "tt33094642",
-    "type": "tv",
-    "title": "Epilogue",
-    "overview": "'Epilogue', a salty and steamy youth drama about film students. In a hot summer day, before the start of the semester, Hyun Woo and Min Jae talk about their graduation work at a cafe. Hyun Woo starts to worry after hearing his senior's story at the opening party. At this time, popular female idol Min Young went back to school. She has an uncomfortable first meeting with Hyeon Woo.",
-    "year": "2023",
-    "rating": 3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tFij39ERD65Dzq0ydfOnuAnzJhF.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],

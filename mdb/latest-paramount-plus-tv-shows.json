@@ -259,7 +259,7 @@
     "title": "Ghosts Australia",
     "overview": "New lovebirds Kate and Sean are about to jump into the hellscape that is the inner-city rental market, until Kate inherits a huge mansion in the country. Moving in together for the first time the young couple are attempting domestic bliss, but unbeknown to them, the house is haunted by a collection of needy spirits who carked it in Ramshead Manor over the past 200 years.",
     "year": "2025",
-    "rating": 6.6,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/2LQNn3kRU9xkgLbD6IfeQKkX4K7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqNCRVrKf6Y0MNHz5vIEJ95URZM.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/qmUGx0PSCHoeDor0KQWX82PLhsL.png",
@@ -919,6 +919,27 @@
     "runTimeMinutes": 22,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "225244",
+    "tmdbId": 225244,
+    "imdbId": "tt34691314",
+    "type": "tv",
+    "title": "Love You to Death",
+    "overview": "This true-crime docuseries reveals the shocking details behind twisted stories of passion, jealousy and obsession that drive people to murder.",
+    "year": "2023",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/62T8fR98HQ2yDtkBXkcWjMu03cN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yBdLzeoJ4YeZMaFOyPVLMhP1xZF.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Documentary",
     "originCountries": [
       "US"
     ],
@@ -1646,7 +1667,7 @@
     "title": "The Casagrandes",
     "overview": "The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.",
     "year": "2019",
-    "rating": 5.9,
+    "rating": 5.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AarlHgaDolXnWQCFqiFLlpCKuwk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8Nl0mYdmLlzFbHR9i9mvoDL6GVh.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/wspliHRtIKwAKoKkF217mLAG8Oa.png",
@@ -3009,6 +3030,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1401",
+    "tmdbId": 1401,
+    "imdbId": "tt1699748",
+    "type": "tv",
+    "title": "Hell on Wheels",
+    "overview": "The epic story of post-Civil War America, focusing on Cullen Bohannon, a Confederate soldier who sets out to exact revenge on the Union soldiers who killed his wife. His journey takes him west to Hell on Wheels, a dangerous, raucous, lawless melting pot of a town that travels with and services the construction of the first transcontinental railroad, an engineering feat unprecedented for its time.",
+    "year": "2011",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ckC9pL9yeYpOoK5aJ7GbYYWheK7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q5lx6a6upKvxM30kwPHqTp6yM4K.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "39279",
     "tmdbId": 39279,
     "imdbId": "tt1832979",
@@ -3446,6 +3488,27 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5371",
+    "tmdbId": 5371,
+    "imdbId": "tt0972534",
+    "type": "tv",
+    "title": "iCarly",
+    "overview": "Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing and starring in the most awesome show on the web.",
+    "year": "2007",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zswxst53aM8g2LysdVbtQNJAiKM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u3rph1KVUOKbOtrPIgCb27H08Fy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dzM6ciclOCE58D9cEMJBTU7yOq.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -4031,7 +4094,7 @@
     "title": "Oswald",
     "overview": "The story of a blue octopus and his dog that looks like a hotdog, named Weenie, and their friends like Daisy the daisy, and Henry the penguin. They go on adventures in their town that usually involve a problem that needs to be solved.",
     "year": "2001",
-    "rating": 7.6,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/A0FBRubIK3ys3zolPDQFVxt1DgA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/w4X5M6NliJ8CGKQsB9SOjoFGg03.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/T7CMsdkuG8HjpeiuzKtYe4VO5P.png",

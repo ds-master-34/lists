@@ -28,7 +28,7 @@
     "title": "Minimum Wage",
     "overview": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/AeLoyQxyQnw2v5roiFxxvkxAJqQ.png",
@@ -49,7 +49,7 @@
     "title": "Newlyweds",
     "overview": "A mature romance about a free-spirited woman and a reserved professor who marry quickly after a brief, passionate courtship.",
     "year": "2026",
-    "rating": 6.5,
+    "rating": 5.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9ZAPU2IRSdI9xdVb42z2F1momJc.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/n0RJ41WxoROYkKOdJP0NU1hEktJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hwMZ5PR4PLnm2pjpQs5SZLKs0fJ.png",
@@ -301,7 +301,7 @@
     "title": "100 Days of Deception",
     "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
@@ -442,6 +442,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "335813",
+    "tmdbId": 335813,
+    "imdbId": "tt8629424",
+    "type": "tv",
+    "title": "Gnomes",
+    "overview": "Senior Sergeant Arnold Kipps is having the worst day of his life. His ex-partner returns to Nompton to shut down his police station, just as an ancient evil is awakened by the Gnome Queen who unleashes a hellish horde, plunging the town into chaos.",
+    "year": "2026",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3eZCOLYUXAh8fU5ZA2R5zAvctLg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A9rBF6yVNtaii6vCQUdcBwmzYWG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dRukkhDqdPuiZcfYdknjsUNxLoY.png",
+    "certificate": "12",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "288673",
     "tmdbId": 288673,
     "imdbId": "tt11540908",
@@ -556,7 +577,7 @@
     "title": "WAR",
     "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
@@ -830,7 +851,7 @@
     "title": "Line of Fire",
     "overview": "A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice … even if it means betraying their sworn code.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cXG4WDOPNog1kt6pkDqEDQCkJyz.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6WXYI24DFdbvMBTAETtJWFN2qN5.png",
@@ -4187,26 +4208,5 @@
       "ES"
     ],
     "originalLanguage": "es"
-  },
-  {
-    "id": "258063",
-    "tmdbId": 258063,
-    "imdbId": "tt32809226",
-    "type": "tv",
-    "title": "Soul Mate",
-    "overview": "In a moment of despair, Ryu Narutaki finds himself saved by Korean boxer Johan Hwang. As their wounded souls draw closer, their fates cruelly intertwine.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/koWJdCFLPLI2VSWQhssoF91k5al.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dW8Gpg3XhumcGUOGC2lVepM9rHy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/enDN5IEm9m3bSUTnVEIAsuE73bt.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   }
 ]
