@@ -2694,6 +2694,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "254586",
+    "tmdbId": 254586,
+    "imdbId": "tt32381491",
+    "type": "tv",
+    "title": "The Beauty Queen Killer: 9 Days of Terror",
+    "overview": "In 1984, 16-year-old Tina Risico is kidnapped by a killer who takes her on a hellish road trip – and forces her to participate in a brutal crime.",
+    "year": "2024",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yhNy1GMLvZrd7Ozc7LGJJ4yqyRl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/673N8Nu1sxD8rmrrz0NvOlvcPVX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zMg7YW9xCnL5R4pXvUSSllKXJNL.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "209173",
     "tmdbId": 209173,
     "imdbId": "tt21936640",
@@ -3008,6 +3029,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "227190",
+    "tmdbId": 227190,
+    "imdbId": "tt31187621",
+    "type": "tv",
+    "title": "Wonderful World",
+    "overview": "A mother who unfairly lost her young son, takes revenge against the perpetrator who has been forgiven by the law and heals her wounds.",
+    "year": "2024",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h6sUmEotEp3gw2j0ThpTL6CdwJd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MoVZ6nkBJv45TlYnw3RWnxbzJk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/JlQoNmTtP9HbY6ibsGMphX6MVj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "114481",
@@ -4161,48 +4203,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/lQ6NqV2EboYqQlKXQb67ai2jopc.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 74,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "203178",
-    "tmdbId": 203178,
-    "imdbId": "tt18250904",
-    "type": "tv",
-    "title": "Not Dead Yet",
-    "overview": "Nell Serrano is a broke and newly single self-described disaster. She works to restart the life and career she left behind some 10 years ago. When writing obituaries is the only job she can find, Nell starts getting life advice from an unlikely (and dead) source.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/i8QXtqpE5bCQHuSj7e2tRt6HdTK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ymZZtP9Ylt9t72nIACpINQ020co.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aTzRX89oD7UyrJLQPdlUMQlH3cD.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 22,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "216429",
-    "tmdbId": 216429,
-    "imdbId": "tt14489308",
-    "type": "tv",
-    "title": "The 1619 Project",
-    "overview": "In keeping with the original project, this series seeks to reframe the country's history by placing the consequences of slavery and the contributions of black Americans at the very center of our national narrative.",
-    "year": "2023",
-    "rating": 4.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5sNYUV5l130HIryGj4RdhzDtn7A.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wSjFuOGY7pOfSLFkIcX6bf8oyEI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/EXcMw9XoFu8sji7JwMhtrgfWAn.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": [
