@@ -736,27 +736,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "301551",
-    "tmdbId": 301551,
-    "imdbId": "tt38119635",
-    "type": "tv",
-    "title": "Jesse & Joy: What We Never Said Before",
-    "overview": "Jesse & Joy reveal the most intimate side of their story and the conflicts that shaped their identity and their music.",
-    "year": "2025",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yaMGBUFQVRvVvtMZVQ5MG1jluKR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s489338xSwM8VFzq1NwAuvkxTTV.jpg",
-    "logoUrl": null,
-    "certificate": "TV-MA",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
-  },
-  {
     "id": "228305",
     "tmdbId": 228305,
     "imdbId": "tt28013708",
