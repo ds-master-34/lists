@@ -1538,6 +1538,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "275106",
+    "tmdbId": 275106,
+    "imdbId": "tt34237554",
+    "type": "tv",
+    "title": "Expedition Files",
+    "overview": "Adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world’s most captivating and unexplained mysteries.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/orBAM7Wd2fAaXvtrHOq52Z4uamA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rCNtZsZGYLkIMsxys6ox1VgufGg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bigo8xSL8iGVZleDOT6jdZDS9t5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "273801",
     "tmdbId": 273801,
     "imdbId": "tt33745056",
@@ -1725,6 +1746,27 @@
       "JP"
     ],
     "originalLanguage": "ja"
+  },
+  {
+    "id": "261522",
+    "tmdbId": 261522,
+    "imdbId": "tt33410236",
+    "type": "tv",
+    "title": "The Ayotzinapa 43: State Crime",
+    "overview": "​A chilling five-part docuseries detailing an attack that led to the disappearance of 43 students – and the 10-year fight for answers.",
+    "year": "2024",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nUwVso7yfymS5CxYSp8cvRZkDMt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5IkglUnDa2soyAqeM0IATPtfkXU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/urum5NRsr8fCW4QfJ7r6yoIawJ2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "245328",
@@ -2379,6 +2421,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "237727",
+    "tmdbId": 237727,
+    "imdbId": "tt29686758",
+    "type": "tv",
+    "title": "The Daughter of God:  Dalma Maradona",
+    "overview": "Dalma Maradona travels to the places she shared with her father and tries to understand how she came to be called \"the daughter of God.\"",
+    "year": "2023",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cYGAvlLCaSIW5DwLSbYzR3bAwH6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1FMqX7ujJl31ML8MDzSCkGnOT5e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pOvTYlE1qdEVSGbbPhC1skGgao9.png",
+    "certificate": "B-15",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "116156",
@@ -4120,90 +4183,6 @@
     "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "96323",
-    "tmdbId": 96323,
-    "imdbId": "tt16986646",
-    "type": "tv",
-    "title": "The Green Planet",
-    "overview": "This documentary series about plants is the first immersive portrayal of an unseen, inter-connected world, full of remarkable new behaviour, emotional stories and surprising heroes in the plant world. Planet Earth from the perspective of plants.",
-    "year": "2022",
-    "rating": 9.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vmdPMlNQIWf7R7sjYTVmnNgcucf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yEpS6lVOdUMUO7U3tSLZ8wiGhKT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/r71kGlNfZN4J8ueeVefTax8RG2U.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "125282",
-    "tmdbId": 125282,
-    "imdbId": "tt11188682",
-    "type": "tv",
-    "title": "The Cleaning Lady",
-    "overview": "A whip-smart doctor comes to the U.S. for a medical treatment to save her ailing son. But when the system fails and pushes her into hiding, she refuses to be beaten down and marginalized. Instead, she becomes a cleaning lady for the mob and starts playing the game by her own rules.",
-    "year": "2022",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eVGaiNUPhwKyiuWH6LfNa60JFyQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pbXPs6OUWnc2zn8w5Ewvkiosrm9.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "117030",
-    "tmdbId": 117030,
-    "imdbId": "tt13303478",
-    "type": "tv",
-    "title": "We Baby Bears",
-    "overview": "Follow Grizz, Panda and Ice Bear – as their younger baby selves – traveling in a magical box to fantastic new worlds searching for a place to call home. Along the way, they meet new friends, learn a few lessons and discover that “home” can mean wherever they are, as long as they’re together.",
-    "year": "2022",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cXJ1m6f8KORhoIcrPSOYap56aAe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A1g8X7atNe7sjIEDJIyGbmaDfJn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sUGgacX6YMrqn21Xu0eWnNJns5d.png",
-    "certificate": "TV-G",
-    "runTimeMinutes": 12,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "152365",
-    "tmdbId": 152365,
-    "imdbId": "tt5232622",
-    "type": "tv",
-    "title": "The Girl Before",
-    "overview": "A traumatized woman falls in love with an extraordinary minimalist house, which remains under the spell of the architect who originally designed it, but everything may not be as it seems.",
-    "year": "2021",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/11FAvHhce6xrMqgumguAVZWmvSI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tvXebdBI5LTQ52brqkF15teS4W5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4X33UtgCZk3yhUi6IpYjiEVuas8.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }
