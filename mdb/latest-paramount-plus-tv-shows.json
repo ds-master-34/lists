@@ -469,7 +469,7 @@
     "title": "The Road Trip",
     "overview": "On an epic road trip to a wedding in Spain with her sister Deb, Addie nearly collides with a speeding Porsche. Forced to give her ex, Dylan, and his best friend, Marcus, a lift, the gang are stuck on the most awkward road trip imaginable.",
     "year": "2024",
-    "rating": 5.632,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e9SoKhY2J8lR1LcPD98gn9eyii5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/aXG9wWBN6cX7fh3Jm1o3IOABqng.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/46EkayTsKyuy9b9ldYv4NluNPwJ.png",
@@ -532,7 +532,7 @@
     "title": "Dongjae, the Good or the Bastard",
     "overview": "Seo Dong-jae, facing a grim future due to his tarnished reputation as a corrupt prosecutor, is assigned a new high profile case. This new assignment pushes him to navigate a perilous balance between his prosecutorial instincts and opportunistic inclinations.",
     "year": "2024",
-    "rating": 8,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/at4li751SPGzH6bWvyTmcGsdM0L.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hnIyLrGlmi2FKME4nizPgjpZNGm.jpg",
     "logoUrl": null,
@@ -616,7 +616,7 @@
     "title": "Mafia Spies",
     "overview": "Relying heavily on recently declassified material and premium cinematic recreations, this series charts a Cold War game of cat and mouse from Vegas to Miami to Havana that pitted Washington's strongest players against the 20th century's most notorious gangsters and exploring the secret connections among the CIA, the mob and Sinatra's Rat Pack that still resonate today.",
     "year": "2024",
-    "rating": 6.9,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mo8oTl1S3UDQBuTZNMulPtAyI2J.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/aLDt83832U1uikt7DCNKMRghh18.png",
@@ -827,7 +827,7 @@
     "title": "Classified",
     "overview": "Suddenly forced to leave her mother in the US to join her father's stepfamily in South Africa, Ella is swept up in a whole new reality as an expat.",
     "year": "2023",
-    "rating": 6.9,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aGJQETzGsYSXid1Ra2qOUteOkZp.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/41AHEg53nI4hS3Hizek8ycDTozX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/2on3kpDJL8KyaUEmK1WrpxzlsFu.png",
@@ -1402,27 +1402,6 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Drama",
     "secondaryGenre": "Western",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "126027",
-    "tmdbId": 126027,
-    "imdbId": "tt11379026",
-    "type": "tv",
-    "title": "Ghosts",
-    "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-    "year": "2021",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uAqvh2GMfoEtb7OJ0l3LHvmfDNW.svg",
-    "certificate": "TV-14",
-    "runTimeMinutes": 21,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
@@ -4207,6 +4186,27 @@
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1431",
+    "tmdbId": 1431,
+    "imdbId": "tt0247082",
+    "type": "tv",
+    "title": "CSI: Crime Scene Investigation",
+    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+    "year": "2000",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fLhKSEsurxHq3mwEDvCQhnApxkg.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],

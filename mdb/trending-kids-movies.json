@@ -1683,6 +1683,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "170687",
+    "tmdbId": 170687,
+    "imdbId": "tt0787474",
+    "type": "movie",
+    "title": "The Boxtrolls",
+    "overview": "An orphaned boy raised by underground creatures called Boxtrolls comes up from the sewers and out of his box to save his family and the town from the evil exterminator, Archibald Snatcher.",
+    "year": "2014",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dkBx0XNzsngDDqiWiPG08eMWBm7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kf3dUZaohYujLoLLemiOBYLYvY3.png",
+    "certificate": "PG",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "552524",
     "tmdbId": 552524,
     "imdbId": "tt11655566",
@@ -3869,6 +3890,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1175942",
+    "tmdbId": 1175942,
+    "imdbId": "tt30017619",
+    "type": "movie",
+    "title": "The Bad Guys 2",
+    "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/83GkJm2rUc0BL2n0ZTHl8RLRE47.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "6878",
     "tmdbId": 6878,
     "imdbId": "tt0107131",
@@ -3884,6 +3926,27 @@
     "runTimeMinutes": 84,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "639721",
+    "tmdbId": 639721,
+    "imdbId": "tt11125620",
+    "type": "movie",
+    "title": "The Addams Family 2",
+    "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+    "year": "2021",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dvqiFkHsaKILej9EpPlXfk6FHwO.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],

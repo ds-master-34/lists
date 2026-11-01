@@ -49,7 +49,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -343,7 +343,7 @@
     "title": "Dead-End Job",
     "overview": "When a debtor is lured by a strange agency with the promise of lucrative gigs, he is soon thrust into a hellish world of terror and unpredictability.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/gbIk1sF9JLQZ1P53k3OaijgiWX1.png",
@@ -574,7 +574,7 @@
     "title": "Between Steps",
     "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
     "year": "2026",
-    "rating": 8,
+    "rating": 7.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
@@ -1792,7 +1792,7 @@
     "title": "Dive into You",
     "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
-    "rating": 6.5,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
@@ -2961,6 +2961,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "307478",
+    "tmdbId": 307478,
+    "imdbId": "tt47657141",
+    "type": "tv",
+    "title": "The Perfect Lie",
+    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "297826",
     "tmdbId": 297826,
     "imdbId": "tt32869308",
@@ -3165,6 +3186,27 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "78385",
+    "tmdbId": 78385,
+    "imdbId": "tt8078816",
+    "type": "tv",
+    "title": "Something in the Rain",
+    "overview": "Explore the relationship of two people as they go from being “just acquaintances” to “a genuine couple” — Yoon Jin Ah, a coffee shop  supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.",
+    "year": "2018",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tppqH2ALFKZwzsKI4V3DV9l5E1z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9rOoYN4yvXFKoLZugA4HgXKjVs1.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3486,6 +3528,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "89641",
+    "tmdbId": 89641,
+    "imdbId": "tt9145880",
+    "type": "tv",
+    "title": "Love Alarm",
+    "overview": "Love Alarm is an app that tells you if someone within a 10-meter radius has a crush on you. It quickly becomes a social phenomenon. While everyone talks about it and uses it to test their love and popularity, Jojo is one of the few people who have yet to download the app. However, she soon faces a love triangle situation between Sun-oh whom she starts to have feelings for, and Hye-young, who has had a huge crush on her.",
+    "year": "2019",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hQ8Hobo1RpYuZVQJQOCycNMHAG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jIjhNkmRmxK1UgpD4qMKwVEYgf3.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "281010",
     "tmdbId": 281010,
     "imdbId": "tt39837101",
@@ -3640,7 +3703,7 @@
     "title": "Filing for Love",
     "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6sxEYsm7ciMZYLjE8vABffSwKkj.png",
@@ -4074,6 +4137,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "119955",
+    "tmdbId": 119955,
+    "imdbId": "tt15758760",
+    "type": "tv",
+    "title": "Dr. Brain",
+    "overview": "Brilliant brain scientist Sewon suffers a horrific personal tragedy. Desperate to uncover what happened to his family, he conducts \"brain syncs\" with the dead to access their memories for clues.",
+    "year": "2021",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3bYYLQAFWHsTtJyZb0vIReJJv07.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/87IhSzFxzvZIFmLOzfl4HJPe4p2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bQAgNPEoIFqzb3C5IZJEUOUD1Lm.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "231749",
     "tmdbId": 231749,
     "imdbId": "tt30368332",
@@ -4089,6 +4173,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "116045",
+    "tmdbId": 116045,
+    "imdbId": "tt13670090",
+    "type": "tv",
+    "title": "Hello, Me!",
+    "overview": "Miserable and unsuccessful, a woman thinks she's lost all her spark — until one day, her spunky younger self appears in front of her demanding change.",
+    "year": "2021",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yHqHL1x6y8gyzuPWljpfKe4YakC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ollH7DfG9E0iEX9MsnuGtZYFmvQ.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -5552,7 +5657,7 @@
     "title": "The Man from the Equator",
     "overview": "A man that had his family and whole life has been taken away by the friend he trusted the most has returned and is burning for revenge.",
     "year": "2012",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wztkAgrF3qdJ8MvKbkZqcIS9Lwk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ux3shmuskpytqCLgD0xyLws07WP.jpg",
     "logoUrl": null,
