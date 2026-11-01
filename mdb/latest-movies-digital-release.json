@@ -1,27 +1,5 @@
 [
   {
-    "id": "1308388",
-    "tmdbId": 1308388,
-    "imdbId": "tt29373684",
-    "type": "movie",
-    "title": "Hunting Matthew Nichols",
-    "overview": "Twenty-three years after her brother mysteriously disappeared on Vancouver Island, a documentary filmmaker sets out to solve his missing person's case. When a disturbing piece of evidence is revealed, she comes to believe he might still be alive.",
-    "year": "2026",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d6I1mvnGUaU57kSFeXxNWlQB934.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kOttC22G94ZxDdEcudcB3Lie94t.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vHn08jXu6G9kUJchV33G6ihqplf.png",
-    "certificate": "R",
-    "runTimeMinutes": 89,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1727734",
     "tmdbId": 1727734,
     "imdbId": "tt43655467",
