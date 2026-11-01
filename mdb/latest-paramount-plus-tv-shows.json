@@ -462,6 +462,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "275277",
+    "tmdbId": 275277,
+    "imdbId": "tt30890384",
+    "type": "tv",
+    "title": "The Road Trip",
+    "overview": "On an epic road trip to a wedding in Spain with her sister Deb, Addie nearly collides with a speeding Porsche. Forced to give her ex, Dylan, and his best friend, Marcus, a lift, the gang are stuck on the most awkward road trip imaginable.",
+    "year": "2024",
+    "rating": 5.632,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e9SoKhY2J8lR1LcPD98gn9eyii5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aXG9wWBN6cX7fh3Jm1o3IOABqng.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/46EkayTsKyuy9b9ldYv4NluNPwJ.png",
+    "certificate": "16",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "157741",
     "tmdbId": 157741,
     "imdbId": "tt14186672",
@@ -502,6 +523,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "220089",
+    "tmdbId": 220089,
+    "imdbId": "tt29311315",
+    "type": "tv",
+    "title": "Dongjae, the Good or the Bastard",
+    "overview": "Seo Dong-jae, facing a grim future due to his tarnished reputation as a corrupt prosecutor, is assigned a new high profile case. This new assignment pushes him to navigate a perilous balance between his prosecutorial instincts and opportunistic inclinations.",
+    "year": "2024",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/at4li751SPGzH6bWvyTmcGsdM0L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hnIyLrGlmi2FKME4nizPgjpZNGm.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "207318",
@@ -565,6 +607,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "258734",
+    "tmdbId": 258734,
+    "imdbId": "tt27674311",
+    "type": "tv",
+    "title": "Mafia Spies",
+    "overview": "Relying heavily on recently declassified material and premium cinematic recreations, this series charts a Cold War game of cat and mouse from Vegas to Miami to Havana that pitted Washington's strongest players against the 20th century's most notorious gangsters and exploring the secret connections among the CIA, the mob and Sinatra's Rat Pack that still resonate today.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ve7YEWcaPFTAT5EkAmXwKQWY7Hs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mo8oTl1S3UDQBuTZNMulPtAyI2J.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aLDt83832U1uikt7DCNKMRghh18.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "234061",
@@ -753,6 +816,27 @@
     "originCountries": [
       "GB",
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "240828",
+    "tmdbId": 240828,
+    "imdbId": "tt23187098",
+    "type": "tv",
+    "title": "Classified",
+    "overview": "Suddenly forced to leave her mother in the US to join her father's stepfamily in South Africa, Ella is swept up in a whole new reality as an expat.",
+    "year": "2023",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aGJQETzGsYSXid1Ra2qOUteOkZp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/41AHEg53nI4hS3Hizek8ycDTozX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2on3kpDJL8KyaUEmK1WrpxzlsFu.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ZA"
     ],
     "originalLanguage": "en"
   },
@@ -4122,90 +4206,6 @@
     "certificate": "TV-Y7",
     "runTimeMinutes": 24,
     "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1431",
-    "tmdbId": 1431,
-    "imdbId": "tt0247082",
-    "type": "tv",
-    "title": "CSI: Crime Scene Investigation",
-    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
-    "year": "2000",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fLhKSEsurxHq3mwEDvCQhnApxkg.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "8379",
-    "tmdbId": 8379,
-    "imdbId": "tt0233041",
-    "type": "tv",
-    "title": "Clifford the Big Red Dog",
-    "overview": "The adventures of a larger-than-life red dog on Bridwell Island.",
-    "year": "2000",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tZLS8aT8Iqnbw8oMKIi1WHidCA1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4XKhVE10MOao7dieT4QP34vKk9K.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hzrDY7nk7WMK3zwt14DGgZbetst.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 15,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "79",
-    "tmdbId": 79,
-    "imdbId": "tt0235917",
-    "type": "tv",
-    "title": "Dora the Explorer",
-    "overview": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
-    "year": "2000",
-    "rating": 4.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4EvgShbukpyeLBu0BKYNCyQi27y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wkvkmDf8sltJJcVjkM7GiCUyMx0.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 23,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "2382",
-    "tmdbId": 2382,
-    "imdbId": "tt0193676",
-    "type": "tv",
-    "title": "Freaks and Geeks",
-    "overview": "High school mathlete Lindsay Weir rebels and begins hanging out with a crowd of burnouts (the \"freaks\"), while her brother Sam Weir navigates a different part of the social universe with his nerdy friends (the \"geeks\").",
-    "year": "1999",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1lOGkpGa9SjZ2uP1PxfxDkSXRNs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3Z9rY5oenFUBt7x3fIOIruimOR1.svg",
-    "certificate": "TV-14",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
