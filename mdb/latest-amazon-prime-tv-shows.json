@@ -1798,6 +1798,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "259425",
+    "tmdbId": 259425,
+    "imdbId": "tt32889222",
+    "type": "tv",
+    "title": "Medina: The Celebrity Scammer",
+    "overview": "Jorge Ponce sets out to try and discover the identity of \"Medina,\" a mysterious character who has spent the last 20 years scamming dozens of TV personalities by pretending to be a former colleague with a personal drama.",
+    "year": "2024",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/WbFQd0lcsDXa7lsUcVyItBc5hz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/umx1TWqeQCR2e0dsn7eCH016lyv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vkMZdmgJnsmL1A9TlCKcc5wxwyM.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "273794",
     "tmdbId": 273794,
     "imdbId": "tt33499592",
@@ -1881,6 +1902,27 @@
       "US"
     ],
     "originalLanguage": "it"
+  },
+  {
+    "id": "273307",
+    "tmdbId": 273307,
+    "imdbId": "tt33143834",
+    "type": "tv",
+    "title": "Spice Up Our Love",
+    "overview": "The R-rated web novel author, Nam Ja-yeon finds herself magically swapped with the female protagonist of her own novel! An unpredictable romance fantasy unfolds between the forever-alone author and the male lead of her romance novel, Kang Ha-jun.",
+    "year": "2024",
+    "rating": 6.981,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c8l3HvnkmpLnFrhvyHOgyacvHSn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhLOAhHCneP6nyDKelySKLsBlqW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/356f8tM2WjNi1otvsNx7aJE0PnY.png",
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "241773",
@@ -2514,6 +2556,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "242932",
+    "tmdbId": 242932,
+    "imdbId": "tt26912927",
+    "type": "tv",
+    "title": "No Activity: Italy",
+    "overview": "Three couples on very different duties -- 2 cops, 2 dispatch officers and 2 criminals -- are stuck together in their narrow workspace, be it a police car, a radio station or a container. As the wait prolongs, their personal stories unfold in comic dialogues and unusual bonds form.",
+    "year": "2024",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mi1Yv34DJ6n2laHJKZ83E97hjCd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ktCtZDqmQwNUYGF2ONNH0QCDI2F.jpg",
+    "logoUrl": null,
+    "certificate": "NC16",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
     "id": "221851",
     "tmdbId": 221851,
     "imdbId": "tt26628595",
@@ -2617,6 +2680,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "238841",
+    "tmdbId": 238841,
+    "imdbId": "tt24165980",
+    "type": "tv",
+    "title": "Hero Inside",
+    "overview": "Heroes can pop out of their comic books when summoned in this comedic action-adventure.",
+    "year": "2023",
+    "rating": 8.264,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rKMsIvqGYN8vs6AzOVdW6yejtHm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aUUIGAIwcTjcsbeD26QOa35v9Nr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5jpNBkdaztKpLtDrXTy1R7ZW9l5.png",
+    "certificate": "L",
+    "runTimeMinutes": 19,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "225287",
@@ -2808,6 +2892,49 @@
     "originalLanguage": "es"
   },
   {
+    "id": "233531",
+    "tmdbId": 233531,
+    "imdbId": "tt26315329",
+    "type": "tv",
+    "title": "F#Ck1Ng Social Media",
+    "overview": "Amanda, a declining children's content YouTuber, has just turned 30, making her an elder of the internet. After realizing she is not good at anything else, and that attention from strangers is the closest thing she has to love, she will go to great lengths to regain relevance on social media, no matter the cost, and taking down whoever is in her way.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ioWmZBW9QNLMZcdivCqIRSwDVw6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x8PZ4bRPuTDDfVS995ameax4BZr.jpg",
+    "logoUrl": null,
+    "certificate": "14",
+    "runTimeMinutes": 34,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "MX",
+      "US"
+    ],
+    "originalLanguage": "es"
+  },
+  {
+    "id": "212203",
+    "tmdbId": 212203,
+    "imdbId": "tt28743902",
+    "type": "tv",
+    "title": "The Kidnapping Day",
+    "overview": "A father turned clumsy kidnapper and a genius child get tangled in unexpected circumstances.",
+    "year": "2023",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rtuZelGw0xDo27akrKD36aCiYN5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7DY8ZndmTLecEO25OW4Wib4zvmp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nIOczVDZHXQJMfrGTUoBhJn11c5.png",
+    "certificate": "15",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "210787",
     "tmdbId": 210787,
     "imdbId": "tt15483276",
@@ -2974,6 +3101,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "227684",
+    "tmdbId": 227684,
+    "imdbId": "tt22042154",
+    "type": "tv",
+    "title": "Joko Winterscheidt Presents: The World's Most Dangerous Show",
+    "overview": "Joko Winterscheidt takes on one of humanity's biggest challenges: the climate crisis. Joko reaches his limits on this journey, driven to despair by the state of the world. But he also meets people who are fighting for a better, more sustainable world and who give Joko hope.",
+    "year": "2023",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eRfmw4aYhVd4x8GGxfbbuRubZ2s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/91zYT1o1EqQCbx6rAxXTNixDxlU.jpg",
+    "logoUrl": null,
+    "certificate": "14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
   },
   {
     "id": "225780",
@@ -3186,6 +3334,28 @@
     "originalLanguage": "en"
   },
   {
+    "id": "239537",
+    "tmdbId": 239537,
+    "imdbId": "tt27690974",
+    "type": "tv",
+    "title": "Darker Passages",
+    "overview": "A follow-up series to the popular Dark Passages program - continuing the exploration of lesser-known supernatural events, unsolved mysteries, cults, and urban legends.",
+    "year": "2023",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7BT6VwuBXSKY7XM5m1aPW50lH7M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zSyIFbrNKoV1xVxAjRpdOC7B3uJ.jpg",
+    "logoUrl": null,
+    "certificate": "B-15",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "CA",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "207374",
     "tmdbId": 207374,
     "imdbId": "tt14671640",
@@ -3308,6 +3478,49 @@
     "secondaryGenre": "Western",
     "originCountries": [
       "MX"
+    ],
+    "originalLanguage": "es"
+  },
+  {
+    "id": "219588",
+    "tmdbId": 219588,
+    "imdbId": "tt22797236",
+    "type": "tv",
+    "title": "Red Iron Road",
+    "overview": "Red Iron Road is an animated horror anthology series, based on the works of famous European authors. Each of the episodes are between 10-20 minutes, produced with different creative partners in unique visual styles to suit each story.",
+    "year": "2023",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lS7BGVJlIDSC1OTpxzyvTE2C4cK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oJga6KuuS4lgmcQr3SmLi4J4LyV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Lf9D9dcbQS3M74anUeFQPTmN1w.png",
+    "certificate": "18+",
+    "runTimeMinutes": 17,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CA",
+      "MD"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "220663",
+    "tmdbId": 220663,
+    "imdbId": "tt26735172",
+    "type": "tv",
+    "title": "Dudes",
+    "overview": "Billuka is a renowned Fintech company created and managed altogether by Julian and his friends Ricardo, Simón, Santiago, Tomas, Daniel and Mafe. On the other hand, Antonia, daughter of a very important businessman, arrives to Colombia in hopes to make a fresh start. When Julian meets Antonia is love at first sight. Later, Julian entangles himself on a series of conflicts between love and business.",
+    "year": "2023",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gkWnjOb2QvA2b8onBbEKf9o2JKw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tnf1NFPb3EsyO5eob0K1hquXJmt.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "ES"
     ],
     "originalLanguage": "es"
   },
@@ -4002,216 +4215,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "98734",
-    "tmdbId": 98734,
-    "imdbId": "tt15564662",
-    "type": "tv",
-    "title": "Bang Bang Baby",
-    "overview": "Unfolding in Milan at the end of the 80s, Bang Bang Baby is a crime series centred around a shy and insecure teenager, Alice, who becomes a mafia organisation’s youngest member in a bid to win the love of her father, an ‘ndrangheta affiliate.",
-    "year": "2022",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7nuEdV5L60JlYnyFFPPR9NxZnUF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5HNOunFIcO0oJkztFCK7DCRxlv3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vyk03OMTPrR1zbSBVjFnKmFrzrw.png",
-    "certificate": "16",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IT"
-    ],
-    "originalLanguage": "it"
-  },
-  {
-    "id": "113985",
-    "tmdbId": 113985,
-    "imdbId": "tt11685912",
-    "type": "tv",
-    "title": "Outer Range",
-    "overview": "A rancher fighting for his land and family stumbles upon an unfathomable mystery at the edge of Wyoming’s wilderness, forcing a confrontation with the Unknown in ways both intimate and cosmic in the untamable American West.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wI4aGtreUx7vFtZGcyiFoOX3qf3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cPyjkhhPu1msAkP2gzSELbcvyLi.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "157059",
-    "tmdbId": 157059,
-    "imdbId": "tt19174300",
-    "type": "tv",
-    "title": "Poliana Moça",
-    "overview": "Poliana Moça is a Brazilian telenovela produced and broadcast by SBT from March 21, 2022, to May 24, 2023. Based on the novel Pollyanna Moça (1915) by Eleanor H. Porter, it is a sequel to As Aventuras de Poliana (2018–2020). Adapted by Íris Abravanel, with collaboration from Carlos Marques, Denise Barbosa, Danilo Castro, Fernando Pripas, Grace Iwashita, Gustavo Braga, and Marcela Arantes, and directed by Ricardo Mantoanelli, the telenovela stars Sophia Valverde, Igor Jansen, Dalton Vigh, Thaís Melchior, and Otávio Martins.\n\nThe story follows Poliana D’Ávila Monteiro, now a teenager, as she faces the challenges of growing up. While continuing to practice the “jogo do contente”, she discovers that adolescence brings new responsibilities, friendships, romances, and conflicts. Alongside her family and friends, Poliana must deal with personal challenges, secrets, and unexpected situations while learning important lessons about maturity, love, and resilience.",
-    "year": "2022",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sSRFeVwpyUffmqvreVbbNILHYbY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/THHSvcpSeJCjq7WUUGNaGt3x31.jpg",
-    "logoUrl": null,
-    "certificate": "10",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Soap",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": "pt"
-  },
-  {
-    "id": "135652",
-    "tmdbId": 135652,
-    "imdbId": "tt17346230",
-    "type": "tv",
-    "title": "Military Prosecutor Doberman",
-    "overview": "An army prosecutor with ambitions of power and wealth finds his plans disturbed by an unyielding newbie with an agenda of her own.",
-    "year": "2022",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9FICze3QdBj1mJ0eUriroAJDFly.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kjUEbsdm6ivhohLkaL4kYLMd7Hc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bRFhartNt52VWZ5GeIi4EVAeNFu.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "121462",
-    "tmdbId": 121462,
-    "imdbId": "tt11269180",
-    "type": "tv",
-    "title": "Totems",
-    "overview": "Set in 1965 in the midst of the Cold War, Totems follows a French scientist, Francis Mareuil, as he begins working as a spy. While working for the French Secret Service and the CIA, Mareuil meets Lyudmila Goloubeva, a pianist forced to work for the KGB. A romance blossoms between them but neither can be sure what is an expression of their true feelings, and what is the fruit of political shenanigans.",
-    "year": "2022",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aa3WeVK1goLYOazsPNmg0mDQSTF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/JTVdyfExpXPvbH2cqhVMJChqDe.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": "fr"
-  },
-  {
-    "id": "156861",
-    "tmdbId": 156861,
-    "imdbId": "tt16352098",
-    "type": "tv",
-    "title": "The Curse",
-    "overview": "In 1980s East London, a gang of hopeless crooks become embroiled in a major gold heist.",
-    "year": "2022",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kGr8ulZ31zzidZUHxihjgNCxbjR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wXs9sePDRImqPuTBuAW9XXnispQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hpIQfq9NeSnVA9zJMEbebufRgpF.png",
-    "certificate": "12",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "156507",
-    "tmdbId": 156507,
-    "imdbId": "tt14412362",
-    "type": "tv",
-    "title": "Chloe",
-    "overview": "Outsider Becky obsesses over influencer Chloe – until tragedy pulls her in deeper than she ever dreamed possible.",
-    "year": "2022",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kLDFnGct1QUIZMxohYn70OcLNDW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/r7PpZp7tkvDkjMQiWs6sADRuVDz.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "108978",
-    "tmdbId": 108978,
-    "imdbId": "tt9288030",
-    "type": "tv",
-    "title": "Reacher",
-    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-    "year": "2022",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2YkCVT6opPxKh2ogEqxVrCiFgsr.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "156085",
-    "tmdbId": 156085,
-    "imdbId": "tt15440604",
-    "type": "tv",
-    "title": "The Teacher",
-    "overview": "A thriller anthology series detailing the separate stories of teachers.",
-    "year": "2022",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qiCWlhjAL0SHj0UDDL7DFuZJ2ZT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jV8OMgxMIIyRUmytlhN85F3L0uM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oIRkmeDoe7k4R0hFHAVXIhrBkbz.png",
-    "certificate": "15",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135934",
-    "tmdbId": 135934,
-    "imdbId": "tt11247158",
-    "type": "tv",
-    "title": "The Legend of Vox Machina",
-    "overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
-    "year": "2022",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qCGwPCwlSiLdlYinzy9rSQDjQX1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2NOw7k8OlpPoqtPR8TOpFyWnHEu.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 29,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }
