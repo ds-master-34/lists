@@ -1848,6 +1848,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "135840",
+    "tmdbId": 135840,
+    "imdbId": "tt19115260",
+    "type": "tv",
+    "title": "Our Blues",
+    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
+    "year": "2022",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nAhIeW3ISZQ7Dkn0PguOaiBMEjN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "210704",
     "tmdbId": 210704,
     "imdbId": "tt20600022",
@@ -1905,27 +1926,6 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "220074",
-    "tmdbId": 220074,
-    "imdbId": "tt30413181",
-    "type": "tv",
-    "title": "Flex X Cop",
-    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-    "year": "2024",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3171,6 +3171,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "220074",
+    "tmdbId": 220074,
+    "imdbId": "tt30413181",
+    "type": "tv",
+    "title": "Flex X Cop",
+    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "261980",
     "tmdbId": 261980,
     "imdbId": "tt36724865",
@@ -3249,6 +3270,27 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "232616",
+    "tmdbId": 232616,
+    "imdbId": "tt32166552",
+    "type": "tv",
+    "title": "The Atypical Family",
+    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3570,21 +3612,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "202318",
-    "tmdbId": 202318,
-    "imdbId": "tt24578016",
+    "id": "153496",
+    "tmdbId": 153496,
+    "imdbId": "tt18352538",
     "type": "tv",
-    "title": "Crash Course in Romance",
-    "overview": "The series follows the bittersweet relationship between a banchan shop owner whose daughter enters the war of Korea's college entrance exams, and a top hagwon instructor.",
-    "year": "2023",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/88rQREli2xtoDV6HToJysp71ZL7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/x0Lornpp68Qqho1NqmXc3DGnGYk.png",
+    "title": "Reborn Rich",
+    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+    "year": "2022",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6vs7qtD5KUwijUhpthuhA6PkwxI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clGOzO82lN4gPI4Fon7wNVXS90i.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oTCBF2Dd6mHUg9Ju8qQwcaYc8qb.png",
     "certificate": "15",
-    "runTimeMinutes": 77,
+    "runTimeMinutes": 87,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3675,27 +3717,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "153496",
-    "tmdbId": 153496,
-    "imdbId": "tt18352538",
-    "type": "tv",
-    "title": "Reborn Rich",
-    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6vs7qtD5KUwijUhpthuhA6PkwxI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clGOzO82lN4gPI4Fon7wNVXS90i.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oTCBF2Dd6mHUg9Ju8qQwcaYc8qb.png",
-    "certificate": "15",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "243964",
     "tmdbId": 243964,
     "imdbId": "tt35450649",
@@ -3753,27 +3774,6 @@
     "runTimeMinutes": 77,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "232616",
-    "tmdbId": 232616,
-    "imdbId": "tt32166552",
-    "type": "tv",
-    "title": "The Atypical Family",
-    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -4095,27 +4095,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "135840",
-    "tmdbId": 135840,
-    "imdbId": "tt19115260",
-    "type": "tv",
-    "title": "Our Blues",
-    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
-    "year": "2022",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nAhIeW3ISZQ7Dkn0PguOaiBMEjN.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "231749",
     "tmdbId": 231749,
     "imdbId": "tt30368332",
@@ -4151,27 +4130,6 @@
     "certificate": "U/A 16+",
     "runTimeMinutes": 72,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "68890",
-    "tmdbId": 68890,
-    "imdbId": "tt6256692",
-    "type": "tv",
-    "title": "Defendant",
-    "overview": "Park Jung-Woo is a prosecutor at Seoul Central District Prosecutors' Office. One day, he wakes up and finds himself in locked up at the police station. He has temporary amnesia. Park Jung-Woo is falsely accused and is sentenced to death. He must struggle to prove his innocence.",
-    "year": "2017",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qoFTJi6b5Q5eNOArLOTe1Hi1fui.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3spBT6tCcEJCBMDFEsFp83ueArg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mPmJp4vwaYch5eroEnazEIhgRH2.png",
-    "certificate": "15",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -4299,27 +4257,6 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "158258",
-    "tmdbId": 158258,
-    "imdbId": "tt26672563",
-    "type": "tv",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "year": "2023",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vtokuvfqLbfJaSCW6EWhWtrmz2s.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/szkhyUvGBiTpdPCpkGQa6SUoBLw.png",
-    "certificate": "19",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
