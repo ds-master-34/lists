@@ -2126,6 +2126,27 @@
     "originalLanguage": "it"
   },
   {
+    "id": "275106",
+    "tmdbId": 275106,
+    "imdbId": "tt34237554",
+    "type": "tv",
+    "title": "Expedition Files",
+    "overview": "Adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world’s most captivating and unexplained mysteries.",
+    "year": "2024",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/orBAM7Wd2fAaXvtrHOq52Z4uamA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rCNtZsZGYLkIMsxys6ox1VgufGg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bigo8xSL8iGVZleDOT6jdZDS9t5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "222807",
     "tmdbId": 222807,
     "imdbId": "tt27207590",
@@ -2229,6 +2250,27 @@
       "AU"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "258385",
+    "tmdbId": 258385,
+    "imdbId": "tt31227452",
+    "type": "tv",
+    "title": "Ayla and The Mirrors",
+    "overview": "Ayla, a rich and spoiled girl, suffers a shock after losing her father and is left without memories. With no one to claim her, she arrives at the El Bosque shelter. There she meets Inés and The Mirrors, a dance group. She also discovers a surprising ability: hearing the feelings of others through musical visions.",
+    "year": "2024",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aCTuPlV0a2cqJof0Z3YDqTXfk41.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1G6k5v4a2gugOIOH0tqbPSBaT0X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fQ5sojCQQtommIDbxcI6QYdN5Kc.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "249695",
@@ -2608,6 +2650,27 @@
       "JP"
     ],
     "originalLanguage": "ja"
+  },
+  {
+    "id": "227189",
+    "tmdbId": 227189,
+    "imdbId": "tt27921614",
+    "type": "tv",
+    "title": "Red Swan",
+    "overview": "Oh Wan-soo, who married into the powerful Hwain Group, faces death threats. She crosses paths with Seo Do-yoon, a bodyguard investigating a friend's death that is tied to the Hwain Group. Together, they unravel Hwain Group's secrets tainted with desire.",
+    "year": "2024",
+    "rating": 7.337,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5B2U7t7bMFP0UO32BhOWlV2diqL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A9BqB9bTGhCAGcm6n84yrEZYMla.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t8TPpRXyNnKZ2ZtcDQWeGrz8Yru.png",
+    "certificate": "MA 15+",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "251100",
@@ -3411,6 +3474,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "208920",
+    "tmdbId": 208920,
+    "imdbId": "tt21913366",
+    "type": "tv",
+    "title": "Everything Is Fine",
+    "overview": "An ordinary family faces a catastrophe: the serious illness of one of its children. Each member of the family sees their personal life impacted by this ordeal. Disasters make people more human, though not necessarily better.",
+    "year": "2023",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gnClHiuu8TWPzWOVVHC8S94Hzlx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bxcQnlLH0eHZCwhQXTosA9WUECN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/52CUYXuXFMRQI6ltyDpUOPgwCk6.png",
+    "certificate": "15+",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "134095",
     "tmdbId": 134095,
     "imdbId": "tt15227418",
@@ -3535,6 +3619,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "156929",
+    "tmdbId": 156929,
+    "imdbId": "tt17594276",
+    "type": "tv",
+    "title": "4Ever",
+    "overview": "Young musicians Ian, Andy, Dario, and Ciro meet by chance in a restaurant when a valuable guitar that one of them had borrowed disappears. Together, they must find a way to recover it and return it to its owner. To achieve their goal, they must become a recognized boy band in Miami, barely knowing each other.",
+    "year": "2023",
+    "rating": 9.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6M92hXiFXWRerovw4dRZBOMhY7Z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dF6tYwr6kcqrrnHttSO6bfTYuiw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/390EhuiWqRmuDRjZGNrV9M47F3q.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "201413",
@@ -3703,6 +3808,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "128329",
+    "tmdbId": 128329,
+    "imdbId": "tt15657464",
+    "type": "tv",
+    "title": "Pancho Villa: The Centaur of the North",
+    "overview": "This is the story of Doroteo Arango, of a life that began on the wrong side of the law, to becoming \"Pancho Villa\", the feared commander and key figure in the Mexican Revolution. Buried within the story is a man fixated on his own myth, a man whose efforts to become a larger-than-life figure would shape history, but also leave him with many vengeful and powerful enemies.",
+    "year": "2023",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/evmzCQZhU0sBXG8CDZIrjrrH5Di.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vhG7ki8Mf3uPQ6XESZKBZbbquBm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mHTimIWAHZrcKxdLhYLFe1cDbt.png",
+    "certificate": "M18",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "201304",
@@ -4076,133 +4202,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/hsOfHLfzIgKvGhStErt0afaFEfn.png",
     "certificate": "18+",
     "runTimeMinutes": 71,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "157972",
-    "tmdbId": 157972,
-    "imdbId": "tt13068346",
-    "type": "tv",
-    "title": "Great Expectations",
-    "overview": "Orphan Pip discovers through lawyer Mr. Jaggers that a mysterious benefactor wishes to ensure that he becomes a gentleman. Reunited with his childhood patron, Miss Havisham, and his first love, the beautiful but emotionally cold Estella, he discovers that the elderly spinster has gone mad from having been left at the altar as a young woman, and has made her charge into a warped, unfeeling heartbreaker.",
-    "year": "2023",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/izd70v2VS8SxGvnKxDpb65Q5Bx8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i4qZ6kJ4GnHuCDFTegcOVmZxipn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nSSlVt9td5ktZn9YYJtlDSV7Qvg.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "218268",
-    "tmdbId": 218268,
-    "imdbId": "tt17525252",
-    "type": "tv",
-    "title": "Up Here",
-    "overview": "Set in New York City in 1999, Lindsay and Miguel fall in love and discover that the single greatest obstacle to finding happiness together might just be themselves — and the memories, obsessions, fears, and fantasies that lives inside their heads.",
-    "year": "2023",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tcjKq7l6XDd7KYwxOVKm5nWwlUV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6VO8JN3IuIPuqGXsrFj6GYmiFpy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6tXAwZcCcKueHRvUS0yJBzTRiPt.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "201902",
-    "tmdbId": 201902,
-    "imdbId": "tt20228406",
-    "type": "tv",
-    "title": "UnPrisoned",
-    "overview": "A messy but perfectionist relationship therapist and single mom has her life turned right-side-up when her dad gets out of prison and moves in with her and her teenage son.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nJxyT4SVRocp6Pd8xZkdyrrBXL4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rLQxT4gZhR20lAGivIb0jlJhtJg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nfFgltTf1DFc5UKJsdslplG8k71.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 26,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "220597",
-    "tmdbId": 220597,
-    "imdbId": "tt26901868",
-    "type": "tv",
-    "title": "MPower",
-    "overview": "From Carol Danvers and Wanda Maximoff to the women of Wakanda and The Guardians of the Galaxy, this series unpacks the journeys of these characters from their birth in Marvel Comics to the MCU and beyond. Archival footage, imaginative animation and candid interviews work in tandem to profile how these characters and the women behind their success have impacted fans around the world!",
-    "year": "2023",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gscHqNHaRYp4GiqOgbe6R2EQOoW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gtrVTpxqhNO0mDjs6EpiqurfdZD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iWtWm7A7VXQGFVfMhMGIlJu2GMR.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "202213",
-    "tmdbId": 202213,
-    "imdbId": "tt15715052",
-    "type": "tv",
-    "title": "History of the World: Part II",
-    "overview": "Explore different periods of human history through a variety of sketches.",
-    "year": "2023",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6PlHUsScubMx3VADGRh1kIylML2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1LyPGN2D5MtMeCPzmfq5QC5zaXv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6mJXP0OTrYKe0iF3N8JRdvvDqq1.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 22,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "220155",
-    "tmdbId": 220155,
-    "imdbId": "tt11595808",
-    "type": "tv",
-    "title": "Still Missing Morgan",
-    "overview": "On a humid evening in 1995, Colleen Nick’s life would be forever changed when her daughter, Morgan Nick, was kidnapped while playing with friends nearby. Her friend, Patty Wetterling, is one of few people who can relate to life with a child missing for 27 years. Patty’s son, Jacob, was kidnapped six years before Morgan. When the Morgan Nick case is reexamined in 2020, a documentary crew was there with the new investigators - leading to the first dramatic shift in the investigation in 25 years.",
-    "year": "2023",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gxZbzwSIfR2BFMero3OHC9aW3fg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wvcbrPY7re3JEyjK9hybUClFhqO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vbMlqsQaaG20BkPThquHIKsFMRa.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 52,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": [
