@@ -1,5 +1,110 @@
 [
   {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "307106",
+    "tmdbId": 307106,
+    "imdbId": "tt39087958",
+    "type": "tv",
+    "title": "Between Steps",
+    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "326991",
+    "tmdbId": 326991,
+    "imdbId": "tt44093541",
+    "type": "tv",
+    "title": "A Trap Called Desire",
+    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
+    "certificate": "15",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "335951",
+    "tmdbId": 335951,
+    "imdbId": "tt47596978",
+    "type": "tv",
+    "title": "Summer Vacation",
+    "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
+    "certificate": "15",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "316702",
     "tmdbId": 316702,
     "imdbId": "tt49692512",
@@ -56,48 +161,6 @@
     "certificate": "15",
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307478",
-    "tmdbId": 307478,
-    "imdbId": "tt47657141",
-    "type": "tv",
-    "title": "The Perfect Lie",
-    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-    "year": "2026",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -168,21 +231,42 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "326991",
-    "tmdbId": 326991,
-    "imdbId": "tt44093541",
+    "id": "307478",
+    "tmdbId": 307478,
+    "imdbId": "tt47657141",
     "type": "tv",
-    "title": "A Trap Called Desire",
-    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
+    "title": "The Perfect Lie",
+    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
     "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
-    "certificate": "15",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Mystery",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -210,27 +294,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
-    "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "311648",
     "tmdbId": 311648,
     "imdbId": "tt47661704",
@@ -246,69 +309,6 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307106",
-    "tmdbId": 307106,
-    "imdbId": "tt39087958",
-    "type": "tv",
-    "title": "Between Steps",
-    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-    "year": "2026",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "335951",
-    "tmdbId": 335951,
-    "imdbId": "tt47596978",
-    "type": "tv",
-    "title": "Summer Vacation",
-    "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
-    "year": "2026",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
-    "certificate": "15",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
