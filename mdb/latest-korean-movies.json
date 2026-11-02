@@ -2080,26 +2080,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "952476",
-    "tmdbId": 952476,
-    "imdbId": "tt27801630",
-    "type": "movie",
-    "title": "Devils",
-    "overview": "Having lost his colleague who was also his brother-in-law to a serial murderer two years ago, homicide detective Jae Hwan is unable to contain his hatred toward the murderer and dives headfirst into hunting the brutal killer. Jae Hwan finally comes face to face with the murderer Jin Hyuk but in the heat of the chase, they get into an accident. Waking up in a hospital, Jae Hwan realizes his body has been switched with that of the murderer. To protect his family and uncover the secret of this body switch, Jae Hwan begins a desperate chase.",
-    "year": "2023",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iwZyDw2arOsy3q0krcPyYaHyAsW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voL01tDBiZj05lBprSVyAsx0VJB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sjMBZxfkTY8QWq6AdiaclB3vmGE.png",
-    "certificate": "NR",
-    "runTimeMinutes": 105,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]
