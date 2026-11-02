@@ -106,6 +106,49 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1596301",
+    "tmdbId": 1596301,
+    "imdbId": "tt28784376",
+    "type": "movie",
+    "title": "Mum, I'm Alien Pregnant",
+    "overview": "When a messy underachiever accidentally gets alien-pregnant, she must overcome skeptical doctors, a useless baby daddy, and her oversharing mum in order to survive and reclaim her life.",
+    "year": "2026",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kEKZ6i691QKYBXCN9tazt3FVQKH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yXSzReaVVpRD4Kl6hDwnXKOkqck.png",
+    "certificate": "16",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "NZ"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1562777",
+    "tmdbId": 1562777,
+    "imdbId": "tt34611096",
+    "type": "movie",
+    "title": "The Stunt Driver",
+    "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/k9vCHe6h3eHvO8xzkCjGdfdyd81.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA",
+      "IE"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1503762",
     "tmdbId": 1503762,
     "imdbId": "tt13609648",
@@ -123,6 +166,27 @@
     "secondaryGenre": "Romance",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1371730",
+    "tmdbId": 1371730,
+    "imdbId": "tt33998222",
+    "type": "movie",
+    "title": "Love Language",
+    "overview": "After a failed engagement, a woman discovers a talent for writing wedding vows, but her growing success and new romance are complicated when she’s hired to write vows for her former college flame’s wedding.",
+    "year": "2026",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8yDmzavVmUZTBEcYMs0Xj0u6vFZ.png",
+    "certificate": "",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -587,6 +651,27 @@
     "originCountries": [
       "US",
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1788735",
+    "tmdbId": 1788735,
+    "imdbId": "tt43665190",
+    "type": "movie",
+    "title": "Family Guy Happy Hell-o-ween",
+    "overview": "After unexpectedly dying and being sent to Hell, Stewie and Brian’s constant nagging leads The Devil to quit, passing control of Hell to them.",
+    "year": "2026",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fncG0akXHIzaNtPkz618AIaVYqe.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -1140,6 +1225,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1364401",
+    "tmdbId": 1364401,
+    "imdbId": "tt32500181",
+    "type": "movie",
+    "title": "Come with Me",
+    "overview": "Working-class Simon Ward's life unravels after a traumatic home invasion, mounting problems at work and the loss of his best friend. Falling under the influence of rhetoric-spewing radio host Dalton Kirby, Simon spirals into a violent attempt to correct the injustice he believes surrounds him.",
+    "year": "2026",
+    "rating": 4.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pJmDaRNtiyuUZvfQpcSgcPlFCZB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8DmJ62mXjnlL16Fj9jrKJnqRA2c.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1137844",
     "tmdbId": 1137844,
     "imdbId": "tt28014327",
@@ -1282,6 +1388,27 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1545484",
+    "tmdbId": 1545484,
+    "imdbId": "tt30247172",
+    "type": "movie",
+    "title": "Deathwoods",
+    "overview": "A weekend of camping intended to break Scott out of his post breakup depression, quickly turns  into a weekend of bloodshed, as his friends are picked off one by one by the urban legend that haunts the  woods surrounding the small town of Old Hickory, Tennessee.",
+    "year": "2026",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3MUGLE5YkmkUuKYgQFHExM3c8dg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/CDNG41GshX6Ifv7mXriG6ixScL.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],

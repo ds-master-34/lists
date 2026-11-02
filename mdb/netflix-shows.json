@@ -1,5 +1,26 @@
 [
   {
+    "id": "289517",
+    "tmdbId": 289517,
+    "imdbId": "tt36458668",
+    "type": "tv",
+    "title": "Dead-End Job",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4TzvU0KIHuOcq1OIVwv6T7thMQk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "333533",
     "tmdbId": 333533,
     "imdbId": "tt44941753",
@@ -2115,7 +2136,7 @@
     "title": "Cashero",
     "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
     "year": "2025",
-    "rating": 6.5,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
@@ -2790,7 +2811,7 @@
     "title": "Typhoon Family",
     "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
     "year": "2025",
-    "rating": 7.3,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/o7CPRoPXTogJuiz7UcPHYzNpXC9.png",
@@ -6131,6 +6152,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "261317",
+    "tmdbId": 261317,
+    "imdbId": "tt32378211",
+    "type": "tv",
+    "title": "Mistletoe Murders",
+    "overview": "Emily Lane is a good-natured Christmas shop owner with a secret past. When local murders begin to pop up in Fletcher’s Grove, Emily can’t help but to use her unique talents from her past life to help solve murders that affect people in her new life. She crosses paths with Detective Sam Wilner who she starts to make a connection with, until he comes to learn there is more to Emily than meets the eye.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8W9zyufl0IkIbOQchORIPqOPi69.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nOTLXRPFcjI8fpCebRTfy6TPJZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6pw3u1e9LNN6iLp9YzG6ehyb0B9.png",
+    "certificate": "",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "273081",
     "tmdbId": 273081,
     "imdbId": "tt31158589",
@@ -6272,48 +6314,6 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Documentary",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "211624",
-    "tmdbId": 211624,
-    "imdbId": "tt12963502",
-    "type": "tv",
-    "title": "Families Like Ours",
-    "overview": "In a not-too-distant future, Denmark faces total evacuation due to rising water levels. As the nation prepares to leave their homes, high school student Laura must choose between her divorced parents and the boy she's fallen in love with.",
-    "year": "2024",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2S7KqteoupMp1ivg7pp0bp0E9Qv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wvwCIPcT08TLi9DbO1zn8dRPWpF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vKCUF1SYKHYi5RtasI5jZ6uskQQ.png",
-    "certificate": "16",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "DK"
-    ],
-    "originalLanguage": "da"
-  },
-  {
-    "id": "253896",
-    "tmdbId": 253896,
-    "imdbId": "tt31106862",
-    "type": "tv",
-    "title": "Happy's Place",
-    "overview": "Bobbie inherits her father's restaurant and is less than thrilled to discover that she has a new business partner in the half-sister she never knew she had.",
-    "year": "2024",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lQ9Yun6lMNNcQWFM0r2iKReKQeO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fBNWt5oFlZY3BSBsodGP7MOkpXn.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 21,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
