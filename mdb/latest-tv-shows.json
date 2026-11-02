@@ -1,5 +1,47 @@
 [
   {
+    "id": "289517",
+    "tmdbId": 289517,
+    "imdbId": "tt36458668",
+    "type": "tv",
+    "title": "Dead-End Job",
+    "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4TzvU0KIHuOcq1OIVwv6T7thMQk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "292741",
+    "tmdbId": 292741,
+    "imdbId": "tt26598805",
+    "type": "tv",
+    "title": "Nocturne",
+    "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nB5lOt3DlBdgJVziuOFCIGAkzjF.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "333533",
     "tmdbId": 333533,
     "imdbId": "tt44941753",
@@ -4166,47 +4208,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "299167",
-    "tmdbId": 299167,
-    "imdbId": "tt34991493",
-    "type": "tv",
-    "title": "Dutton Ranch",
-    "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w6rTydgams5hQ6T4d7ieYkg2PsQ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Western",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "308014",
-    "tmdbId": 308014,
-    "imdbId": "tt42178219",
-    "type": "tv",
-    "title": "Berlin and the Lady with an Ermine",
-    "overview": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uBw5HWfUgMx9yKFuecVEqiEtxFK.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": "es"
   }
 ]
