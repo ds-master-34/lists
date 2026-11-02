@@ -1292,6 +1292,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "262899",
+    "tmdbId": 262899,
+    "imdbId": "tt31259038",
+    "type": "tv",
+    "title": "I, Jack Wright",
+    "overview": "Explosive events unfold after Wright family patriarch Jack is discovered dead from a supposed suicide, leaving his immediate family utterly devastated.",
+    "year": "2025",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yWo8QNGADcVRFiWFn0vDE8u9BQS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eDB1CCNcxnFANadgiWyFlzaqvK6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hDtYQxDbBA12DuspXdrOVwrhRCZ.png",
+    "certificate": "16",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "238339",
     "tmdbId": 238339,
     "imdbId": "tt11389652",
@@ -1902,6 +1923,27 @@
       "US"
     ],
     "originalLanguage": "it"
+  },
+  {
+    "id": "231751",
+    "tmdbId": 231751,
+    "imdbId": "tt28489780",
+    "type": "tv",
+    "title": "The Hardacres",
+    "overview": "The sweeping rags to riches story of the Hardacres, a working-class family in 1890s Yorkshire who strike it rich and move from a grimy fish dock to a vast estate.",
+    "year": "2024",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/69hMBAPwX5GbAj29aefMyiUHNzL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pg9GKiaVtBUS7KjRwJWi57zBU5K.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iOrfzpiTVShSPl8enrYUp6T3G9G.png",
+    "certificate": "M",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "273307",
@@ -3567,6 +3609,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "210178",
+    "tmdbId": 210178,
+    "imdbId": "tt21263178",
+    "type": "tv",
+    "title": "Black Snow",
+    "overview": "Unsolved murders, missing people, cold cases. How do you cope with not knowing what happened? Detective James Cormack (Travis Fimmel) is focused on solving cold-case mysteries. At the same time, he’s haunted by his personal quest to find his younger brother, who vanished when they were children.",
+    "year": "2023",
+    "rating": 7.121,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8cYzv4vR2u4IA8rx7yk0r8P8uIp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqkqT0JGAz1x5cRhyOB069bV6ap.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mSYYfg58aPyhiui9QVdT1ScE75a.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "211747",
     "tmdbId": 211747,
     "imdbId": "tt14166656",
@@ -4154,68 +4217,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "199918",
-    "tmdbId": 199918,
-    "imdbId": "tt11921588",
-    "type": "tv",
-    "title": "The Kids in the Hall",
-    "overview": "The iconic Canadian sketch comedy show returns with an exciting new season, a fresh batch of fun, off-beat characters and beloved favorites, and sketches that pack a satirical punch, all laced with the edgy and fearless comedy the Kids are synonymous for.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cy5WLoE5QvyWAqOpaAytq70Xyvp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4rBg1C9byytF8wAwpGxHLAoghzJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sJfozlaXNicbVzHWgvmk3u9SqYo.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 25,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "153657",
-    "tmdbId": 153657,
-    "imdbId": "tt14168162",
-    "type": "tv",
-    "title": "Bosch: Legacy",
-    "overview": "Bosch is now making a living as a private investigator two years after he quit the LAPD and finds himself working with one time enemy and top-notch attorney Honey “Money” Chandler. Meanwhile, Bosch's daughter Maddie is venturing into the world of the LAPD.",
-    "year": "2022",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ge5gFKCO6m7MuGyjwjoGvqo2q2m.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uBYyvlqcOi6CxmWdokVrb7JICLg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xfdKl930EvmrLgnb30blQUA85lP.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "155646",
-    "tmdbId": 155646,
-    "imdbId": "tt13587032",
-    "type": "tv",
-    "title": "Yosi, the Regretful Spy",
-    "overview": "An Argentinian intelligence agent goes undercover in the Jewish community to gather information, unwittingly preparing the ground for anti-Semitic terrorist attacks. Years later, he decides to bring the truth to light.",
-    "year": "2022",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/x6UcbvUNkyokH1egt6KabLXVuU7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mLVlVbFiTbPkrIhdYRIjd8bS0T9.jpg",
-    "logoUrl": null,
-    "certificate": "TV-MA",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
   }
 ]
