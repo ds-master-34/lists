@@ -2562,6 +2562,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215471",
+    "tmdbId": 215471,
+    "imdbId": "tt26228312",
+    "type": "tv",
+    "title": "Call It Love",
+    "overview": "When her family becomes suddenly homeless, Woojoo decides on revenge for all the injustices she has been put through. However, her supposed foe, Dongjin, is a heart-wrenchingly lonely and gentle soul.",
+    "year": "2023",
+    "rating": 8.167,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m7xiLb8mLyHHgThJICIPCsSq1qR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Yi0rIMX6jdst39Wk0jaUzrIxuZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lU2BqJu4sZ7bvJRnLyzultUGYHx.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "232402",
     "tmdbId": 232402,
     "imdbId": "tt36056620",
@@ -8351,6 +8372,27 @@
     "runTimeMinutes": 14,
     "primaryGenre": "Animation",
     "secondaryGenre": "Kids",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "35710",
+    "tmdbId": 35710,
+    "imdbId": "tt3205964",
+    "type": "tv",
+    "title": "Thousand Years of Love",
+    "overview": "It was about 1,400 years ago. The story revolves around Princess Buyeu Ju, the Daughter of last king, general Ari who attempts to reconstruct Bakje for the love of the princess, and general Yu Suk Kim from Shila whos after him. When the princess falls into YuSuks trap, she jumps off the cliff and then, the princess leaps through 1400 years and is brought to modern society in 2003. And meets Inchul (Ari) and Tasuji who have no idea of their past lives and creates love fantasy that overcome time and space. ",
+    "year": "2003",
+    "rating": 2.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hLCJM1EcNKP9GvEaE7A7TgUd9c2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SNoVpKXBsUaMEYekDD0QTUsfQw.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
