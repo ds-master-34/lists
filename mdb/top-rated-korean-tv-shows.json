@@ -63,27 +63,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "64010",
     "tmdbId": 64010,
     "imdbId": "tt5182866",
@@ -147,6 +126,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "276161",
+    "tmdbId": 276161,
+    "imdbId": "tt34809853",
+    "type": "tv",
+    "title": "Teach You a Lesson",
+    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "129888",
     "tmdbId": 129888,
     "imdbId": "tt17513352",
@@ -183,27 +183,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "259837",
-    "tmdbId": 259837,
-    "imdbId": "tt34440854",
-    "type": "tv",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ktnABpWiKbUFJOWpMzR5doMZ9lR.svg",
-    "certificate": "TV-14",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -371,6 +350,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 55,
     "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "259837",
+    "tmdbId": 259837,
+    "imdbId": "tt34440854",
+    "type": "tv",
+    "title": "The WONDERfools",
+    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ktnABpWiKbUFJOWpMzR5doMZ9lR.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
@@ -582,6 +582,27 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "202318",
+    "tmdbId": 202318,
+    "imdbId": "tt24578016",
+    "type": "tv",
+    "title": "Crash Course in Romance",
+    "overview": "The series follows the bittersweet relationship between a banchan shop owner whose daughter enters the war of Korea's college entrance exams, and a top hagwon instructor.",
+    "year": "2023",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/88rQREli2xtoDV6HToJysp71ZL7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x0Lornpp68Qqho1NqmXc3DGnGYk.png",
+    "certificate": "15",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -813,27 +834,6 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "202318",
-    "tmdbId": 202318,
-    "imdbId": "tt24578016",
-    "type": "tv",
-    "title": "Crash Course in Romance",
-    "overview": "The series follows the bittersweet relationship between a banchan shop owner whose daughter enters the war of Korea's college entrance exams, and a top hagwon instructor.",
-    "year": "2023",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/88rQREli2xtoDV6HToJysp71ZL7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/x0Lornpp68Qqho1NqmXc3DGnGYk.png",
-    "certificate": "15",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2226,27 +2226,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "78385",
-    "tmdbId": 78385,
-    "imdbId": "tt8078816",
-    "type": "tv",
-    "title": "Something in the Rain",
-    "overview": "Explore the relationship of two people as they go from being “just acquaintances” to “a genuine couple” — Yoon Jin Ah, a coffee shop  supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.",
-    "year": "2018",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2Lm6n4ojSW4t4rIoiyAF9g9U58e.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9rOoYN4yvXFKoLZugA4HgXKjVs1.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "70813",
     "tmdbId": 70813,
     "imdbId": "tt6824234",
@@ -2661,6 +2640,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "78385",
+    "tmdbId": 78385,
+    "imdbId": "tt8078816",
+    "type": "tv",
+    "title": "Something in the Rain",
+    "overview": "Explore the relationship of two people as they go from being “just acquaintances” to “a genuine couple” — Yoon Jin Ah, a coffee shop  supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.",
+    "year": "2018",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2Lm6n4ojSW4t4rIoiyAF9g9U58e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9rOoYN4yvXFKoLZugA4HgXKjVs1.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4418,7 +4418,7 @@
     "title": "Filing for Love",
     "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6sxEYsm7ciMZYLjE8vABffSwKkj.png",
@@ -5273,6 +5273,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "299365",
+    "tmdbId": 299365,
+    "imdbId": "tt42206645",
+    "type": "tv",
+    "title": "Reborn Rookie",
+    "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mI3fpKc3ztK7FRfFXcjksMu3whn.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "64548",
     "tmdbId": 64548,
     "imdbId": "tt4741110",
@@ -5414,27 +5435,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "299365",
-    "tmdbId": 299365,
-    "imdbId": "tt42206645",
-    "type": "tv",
-    "title": "Reborn Rookie",
-    "overview": "After a powerful conglomerate chairman is betrayed by his children and wakes up in the body of a young soccer player, he uses his business genius and athletic physique to seek ultimate revenge against his family.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kPHv37XVpyWCsae3gtHujw1wPyW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mI3fpKc3ztK7FRfFXcjksMu3whn.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -6344,6 +6344,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "221102",
+    "tmdbId": 221102,
+    "imdbId": "tt27116521",
+    "type": "tv",
+    "title": "Our Dating Sim",
+    "overview": "Lee Wan and Shin Ki Tae were best friends in school, but Lee Wan harbored romantic feelings for Shin Ki Tae and confessed them, causing the two to part on unhappy terms. Seven years later, they're both navigating the job market, with Shin Ki Tae working as a programming ace at a gaming startup and Lee Wan pursuing his passion for illustration. When Shin Ki Tae's company starts looking for an illustrator for a new dating-themed game, Lee Wan applies for the job, raising the possibility of a second chance at romance.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t01f39og3yxan93TbeJ6P4aUtMN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sz5pZZ6z5B5gNW1mHuL0Dy0HrFq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jjgyTjdnMKkYxtqMI2ffSCft5mO.png",
+    "certificate": "12",
+    "runTimeMinutes": 18,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "203164",
     "tmdbId": 203164,
     "imdbId": "tt29225198",
@@ -6680,6 +6701,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "278113",
+    "tmdbId": 278113,
+    "imdbId": "tt37253311",
+    "type": "tv",
+    "title": "Gold Land",
+    "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qhbwTTeSnIGctR4CEmHc9RQBwtT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoJgqEYpxRWd58gNQKNwYlPUFeZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b6K8twKCjo0y7sNmPcvqoVnvzT3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "4734",
     "tmdbId": 4734,
     "imdbId": "tt0978061",
@@ -6737,27 +6779,6 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "278113",
-    "tmdbId": 278113,
-    "imdbId": "tt37253311",
-    "type": "tv",
-    "title": "Gold Land",
-    "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qhbwTTeSnIGctR4CEmHc9RQBwtT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoJgqEYpxRWd58gNQKNwYlPUFeZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/b6K8twKCjo0y7sNmPcvqoVnvzT3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -7325,6 +7346,27 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "218099",
+    "tmdbId": 218099,
+    "imdbId": "tt26085372",
+    "type": "tv",
+    "title": "HeartBeat",
+    "overview": "A thrilling romance between a vampire who desires to experience heart-throbbing love, and a cold-blooded woman.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wRrvEw3OCK9aiwe6YbcpsqkEwIW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lGYw3DiXzOS9bUMaHa9DfuMNoxC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8qys71O1pHDrSMOaC2sMyGrFODu.png",
+    "certificate": "15",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8234,6 +8276,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "220521",
+    "tmdbId": 220521,
+    "imdbId": "tt27116507",
+    "type": "tv",
+    "title": "A Shoulder to Cry On",
+    "overview": "Hate slowly turns to love after a misunderstanding at school brings two very different students together in the most unlikely way.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hs5yd9eB5quvK4x6eS9NI6hB0Ko.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1Xf6hagtyMPbslcxRlbwjMXZSFQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2oacXhz8rSujFZOCeu0gMFyGEem.png",
+    "certificate": "15",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "246473",
     "tmdbId": 246473,
     "imdbId": "tt33298903",
@@ -8333,69 +8396,6 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "135894",
-    "tmdbId": 135894,
-    "imdbId": "tt18265192",
-    "type": "tv",
-    "title": "Grid",
-    "overview": "In 1997, a mysterious ghost saved humankind and then disappeared. The mysterious ghost appears again 24 years later and helps a serial killer escape. Kim Sae-ha, Jung Sae-byeok  and Song Eo-jin pursue the ghost for different reasons.",
-    "year": "2022",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rlC29GLbjwkwezeNGqyLrnuQUpb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/w3jA7mvNW2TjrnNCe2MmTzV7rtY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ysUsimahSKNU9zVVmsmcZJaAVht.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "112486",
-    "tmdbId": 112486,
-    "imdbId": "tt17329616",
-    "type": "tv",
-    "title": "Big Bet",
-    "overview": "Cha Moosik runs a casino bar, only to flee to the Philippines due to a crackdown by the National Tax Service. He launches a full-fledged casino business, and strategizes winning over the political and business circles in the Philippines. However, he is suddenly framed as a suspect in Min Seokjun's death, and is tracked by Oh Seunghoon of the Korean Desk. Betrayal is rampant in the presence of money.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9GEGH8kT7XK8iUXl76cWsCt8e46.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9OpU8wamgFVmXmLCLofXlnf8g7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eiljm09V82t4E4wq8cgmtEAxpQK.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "218476",
-    "tmdbId": 218476,
-    "imdbId": "tt26340363",
-    "type": "tv",
-    "title": "In the Name of God: A Holy Betrayal",
-    "overview": "This docuseries examining the chilling true stories of four Korean leaders claiming to be prophets exposes the dark side of unquestioning belief.",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/srGzplt2VmQqpLSRytAqkPr8pVI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rbFFGCzq50YQm13L3d9eSOWohmY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dUf7Iv5uOexrdFPlDlhHRm8bwdI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],

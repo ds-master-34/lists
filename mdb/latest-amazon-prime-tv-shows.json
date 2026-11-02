@@ -7,7 +7,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -49,7 +49,7 @@
     "title": "Carrie",
     "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
@@ -158,7 +158,7 @@
     "title": "A Love Other Than Yours",
     "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
@@ -2871,6 +2871,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "215636",
+    "tmdbId": 215636,
+    "imdbId": "tt19518732",
+    "type": "tv",
+    "title": "Killer Coaster",
+    "overview": "Summer 1998. Palavas-les-Flots. While the World Cup is in full swing, Sandrine Laplace, a bumbling contract worker who thinks she's a CIA agent, decides to investigate a mysterious accident that happened on the ghost train at the local fair. Incompetent but reckless, Sandrine infiltrates a brutal world - made up of clan wars, cotton candy and bumper cars - and will have to form an alliance with Carmen and Yvane, two showmen who are completely opposite. What if there was a murderer in the carnival?",
+    "year": "2023",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3aXQHY6SZ8M6IAzCgP4Wn3b3Sqs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7BfiGBpSoDqHMQzJZGDn787hpJk.jpg",
+    "logoUrl": null,
+    "certificate": "M18",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "234015",
     "tmdbId": 234015,
     "imdbId": "tt28305617",
@@ -3068,7 +3089,7 @@
     "title": "Club Hooligans",
     "overview": "After vicious infighting, two brothers are expelled of their beloved team’s gang. Alone, without money or political protection, they start a war that puts their brotherhood to the test.",
     "year": "2023",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rNbl3TLlzmFE3DHP7lX0jAv53aO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mYzSzFHWhiiyplNpw0ZycK4Zr5Z.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/zg81W38w5hnRpNjxNLbwyZ1QWgb.png",
@@ -4196,26 +4217,5 @@
       "AR"
     ],
     "originalLanguage": "es"
-  },
-  {
-    "id": "195819",
-    "tmdbId": 195819,
-    "imdbId": "tt11181824",
-    "type": "tv",
-    "title": "Ten Percent",
-    "overview": "A London talent agency’s employees must scramble to keep their star clients happy and their business afloat after the sudden death of their founder.",
-    "year": "2022",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9TN1ZA6VMz1hBGiIHVj2F3dR69R.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iSDwNPz14sbq1zYQmIC6niQbbJI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oixWtDYwkAyngreY6ufyhaeJIQZ.png",
-    "certificate": "15",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
   }
 ]

@@ -28,7 +28,7 @@
     "title": "VisionQuest",
     "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
@@ -124,6 +124,27 @@
       "AR"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "298168",
+    "tmdbId": 298168,
+    "imdbId": "tt27543562",
+    "type": "tv",
+    "title": "The Shards",
+    "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lGMA0PAKUgrgpbJiOAmoSqqQgDW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "287238",
@@ -1167,7 +1188,7 @@
     "title": "Washington Black",
     "overview": "11-year-old George Washington \"Wash\" Black embarks on a globe-trotting journey of identity after fleeing a Barbados sugar plantation aboard a flying machine in the company of his master’s eccentric inventor brother.",
     "year": "2025",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/vapoYt08nte9AnFPSGADNau8C6I.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yt12eYrDUfBA2ZRV2ltiDIR9dBT.png",
@@ -1839,7 +1860,7 @@
     "title": "Shared Custody",
     "overview": "Cris and Diego just broke up and agree they want to stay friends. But that gets tricky when they move back in with their parents. The grandparents are eager to treat them like kids again. It doesn't matter that Cris and Diego are over forty years old, or have a five-year-old daughter, Cloe.",
     "year": "2025",
-    "rating": 6.2,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bfzyaXdeZQvPU0e85WkgoxItQmV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/r7TxmY1QQ6sJl356cmoPsSpNdG0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/r6NABKfX7vVxSyNDy63h3IwNvbp.png",
@@ -3747,6 +3768,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "229785",
+    "tmdbId": 229785,
+    "imdbId": "tt21955564",
+    "type": "tv",
+    "title": "The Three Detectives",
+    "overview": "Kim, Franzi, and Marie have what other girls can only dream of: their very own detective club!",
+    "year": "2023",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1u1N2YbmF5i4bnRmXhjrzZlTfm0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xTyQFxn3R0shdY0XqTpd4LrKOSy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ickqr2AnxBIduyMcxMUgysQwTe1.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "114461",
     "tmdbId": 114461,
     "imdbId": "tt13622776",
@@ -4063,6 +4105,27 @@
     "originalLanguage": "pt"
   },
   {
+    "id": "202998",
+    "tmdbId": 202998,
+    "imdbId": "tt20674124",
+    "type": "tv",
+    "title": "Star Wars: Young Jedi Adventures",
+    "overview": "Set during the High Republic era and the prime of the Jedi Order, follow Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need, and learn valuable skills needed to become Jedi along the way.",
+    "year": "2023",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bC2Mix1WPUiY6pldh77oiFl1MvI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7SJctp269UEMvRGt9d3eddSpcLL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s0vbcrqvi5bzHVoynbsQWqsVXy5.png",
+    "certificate": "TV-Y",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Kids",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "218194",
     "tmdbId": 218194,
     "imdbId": "tt17372734",
@@ -4145,68 +4208,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "203554",
-    "tmdbId": 203554,
-    "imdbId": "tt20869432",
-    "type": "tv",
-    "title": "Tiny Beautiful Things",
-    "overview": "A floundering writer becomes a revered advice columnist while her own life is falling apart.",
-    "year": "2023",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/s8azffnsMN5MTctwlb9cU2SzTvF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eMck5oCFXSZ8OS3TrhONCAXez1k.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8dXjEoLuOf0euJo1w6AwFiIKU58.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 29,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "119064",
-    "tmdbId": 119064,
-    "imdbId": "tt14206696",
-    "type": "tv",
-    "title": "The Good Mothers",
-    "overview": "The true story of three courageous women inside the notorious Calabrian ‘Ndrangheta mafia, working with newly-minted female prosecutor, Alessandra Cerreti, to bring down down the criminal empire.",
-    "year": "2023",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1WwKoGbQETx7erXfh5w1OW0BHEC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jrrvfU9wFqi4Ha2FiprTfv4EvOp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aFQyIwSB1203M6GiBjxbjIgi1Sf.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IT"
-    ],
-    "originalLanguage": "it"
-  },
-  {
-    "id": "223768",
-    "tmdbId": 223768,
-    "imdbId": "tt24141700",
-    "type": "tv",
-    "title": "Pretty Baby: Brooke Shields",
-    "overview": "Actor, model, and global superstar Brooke Shields’ journey from a sexualized young girl to a woman who embraces her identity and voice.",
-    "year": "2023",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sgEzuz9UPdJz9Eu5fl6LMA1J2Gm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dTsSD3ww6PNfkiX4Fo7wdSJKaSc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hsOfHLfzIgKvGhStErt0afaFEfn.png",
-    "certificate": "18+",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
