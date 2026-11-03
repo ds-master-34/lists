@@ -3600,6 +3600,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "210391",
+    "tmdbId": 210391,
+    "imdbId": "tt15658008",
+    "type": "tv",
+    "title": "Killer Vacation",
+    "overview": "At the end of a year full of competitions, a group of young athletes decides to spend their last vacation together on an island paradise. Far from their families and isolated from the world, it seemed like the perfect trip. But when the body of one of them is found lifeless in the sea, friendships are tested and secrets come to light in a breathtaking thriller where each and every one is a suspect.",
+    "year": "2023",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ps1n9t7KCUqEIH9dV2kDzxzBOyS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mONo2ZQcGT9VQPWy1Jd7qklPWM2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4zHpNnSZHyaEyNRqWEmZyIDdobJ.png",
+    "certificate": "NR",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "230225",
     "tmdbId": 230225,
     "imdbId": "tt15475330",
@@ -3871,6 +3892,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "226511",
+    "tmdbId": 226511,
+    "imdbId": "tt28347811",
+    "type": "tv",
+    "title": "A Town Without Seasons",
+    "overview": "It follows a group of people who are still living in temporary housing 12 years after a natural disaster called \"Nani\" destroyed their town.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mkFp6eRDhUwpPWqi6QGHIDp8qy3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7nKv4DXAWilpNk4q6R3GHJmMBuL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bh35gqcfYeGZgm42te0am5SXpbh.png",
+    "certificate": "12",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "206817",
@@ -4166,47 +4208,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "202998",
-    "tmdbId": 202998,
-    "imdbId": "tt20674124",
-    "type": "tv",
-    "title": "Star Wars: Young Jedi Adventures",
-    "overview": "Set during the High Republic era and the prime of the Jedi Order, follow Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need, and learn valuable skills needed to become Jedi along the way.",
-    "year": "2023",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bC2Mix1WPUiY6pldh77oiFl1MvI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7SJctp269UEMvRGt9d3eddSpcLL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/s0vbcrqvi5bzHVoynbsQWqsVXy5.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 26,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Kids",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "218194",
-    "tmdbId": 218194,
-    "imdbId": "tt17372734",
-    "type": "tv",
-    "title": "Saint X",
-    "overview": "A young woman's mysterious death during an idyllic Caribbean vacation creates a traumatic ripple effect that eventually pulls her surviving sister into a dangerous pursuit of the truth.",
-    "year": "2023",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wViKoQ7njLujruFWBMY5NUzj7EV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oSXHFbQN7QPE3WYlGm3rdNB3Qju.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bBI18Wn9NQclqj11Hch4Mh3Blir.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
