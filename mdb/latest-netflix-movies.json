@@ -21,6 +21,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "1789549",
+    "tmdbId": 1789549,
+    "imdbId": "tt38999812",
+    "type": "movie",
+    "title": "The Birthday​ Gift​",
+    "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+    "year": "2026",
+    "rating": 7.038,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pYyr6Lf3dDt0rAvFgdvZFKahJYz.png",
+    "certificate": "R",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "1541477",
     "tmdbId": 1541477,
     "imdbId": "tt38504402",
@@ -355,6 +376,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1257147",
+    "tmdbId": 1257147,
+    "imdbId": "tt37458193",
+    "type": "movie",
+    "title": "My Best Friend",
+    "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+    "logoUrl": null,
+    "certificate": "12",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
   },
   {
     "id": "1752159",
@@ -4168,47 +4210,5 @@
       "DK"
     ],
     "originalLanguage": "da"
-  },
-  {
-    "id": "1446358",
-    "tmdbId": 1446358,
-    "imdbId": "tt35713227",
-    "type": "movie",
-    "title": "Groom & Two Brides",
-    "overview": "Adam is allergic to love, but somehow ends up engaged to both his boss's daughter and his first love. Now he must try to keep his double life a secret.",
-    "year": "2025",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5ixetxYF75iikkNZ3gImKEjVJNH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vWMt9uu77fJP5PU6MfYXANSH4Cs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xDoxTHNAdXZNJNK9kC1wMadKg6G.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KW"
-    ],
-    "originalLanguage": "ar"
-  },
-  {
-    "id": "1576287",
-    "tmdbId": 1576287,
-    "imdbId": "tt38906516",
-    "type": "movie",
-    "title": "Frankenstein: The Anatomy Lesson",
-    "overview": "Go deep behind the scenes with visionary filmmaker Guillermo del Toro and the \"Frankenstein\" cast and crew as they give new life to the classic tale.",
-    "year": "2025",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/l1F9EIwShcQX7kmnqucIBsXUG5S.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/16pzCxNJ6pV6kI9hvM1eLn0KtuO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zxYeHJ9uu7C2wtcJfvz0elEPbOM.png",
-    "certificate": "A",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
