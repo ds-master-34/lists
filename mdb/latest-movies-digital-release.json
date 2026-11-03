@@ -2766,47 +2766,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1285669",
-    "tmdbId": 1285669,
-    "imdbId": "tt32135632",
-    "type": "movie",
-    "title": "LifeHack",
-    "overview": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
-    "year": "2026",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cBAD1QuROoDQTjLxvvLKxfEahln.png",
-    "certificate": "R",
-    "runTimeMinutes": 97,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "874860",
-    "tmdbId": 874860,
-    "imdbId": "tt8080418",
-    "type": "movie",
-    "title": "Storm Rider: Legend of Hammerhead",
-    "overview": "Centuries after the Great Flood, riders compete in death races on the water to secure shelter for their people behind the walls of Argos. Rebellious storm riders Neb and Ana look to uncover hidden truths by breaking through the storm.",
-    "year": "2026",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uTgR40KTd72HEMbjma7JvIfVxUV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s6Lv7Md2KvZiqmA8pkKk5kvEoE6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dne3qE96053Sa8aTBHyPMHZRWEc.png",
-    "certificate": "15",
-    "runTimeMinutes": 105,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "HR"
-    ],
-    "originalLanguage": "en"
   }
 ]
