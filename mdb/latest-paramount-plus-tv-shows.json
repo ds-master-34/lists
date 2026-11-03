@@ -820,27 +820,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "240828",
-    "tmdbId": 240828,
-    "imdbId": "tt23187098",
-    "type": "tv",
-    "title": "Classified",
-    "overview": "Suddenly forced to leave her mother in the US to join her father's stepfamily in South Africa, Ella is swept up in a whole new reality as an expat.",
-    "year": "2023",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aGJQETzGsYSXid1Ra2qOUteOkZp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/41AHEg53nI4hS3Hizek8ycDTozX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2on3kpDJL8KyaUEmK1WrpxzlsFu.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "ZA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "220073",
     "tmdbId": 220073,
     "imdbId": "tt27554366",
@@ -1442,6 +1421,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/a82550ZgeyuMY2jPSgaMGpJnvLu.png",
     "certificate": "TV-14",
     "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "124271",
+    "tmdbId": 124271,
+    "imdbId": "tt14218674",
+    "type": "tv",
+    "title": "NCIS: Hawaiʻi",
+    "overview": "Jane Tennant, the first female Special Agent in Charge of NCIS Pearl Harbor, and her unwavering team of specialists balance duty to family and country while investigating high-stakes crimes involving military personnel, national security and the mysteries of the sun-drenched island paradise itself.",
+    "year": "2021",
+    "rating": 7.746,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4R8xtDx2ge0GjEOnEwoR8V8X82q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5j8IF8gWOTw2WgxYYvrAlGf9eJ6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6fqcWYqRmd40qYPhxcEmFArwEyg.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 44,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
     "originCountries": [
