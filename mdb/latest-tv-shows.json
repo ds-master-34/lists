@@ -21,6 +21,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "336240",
+    "tmdbId": 336240,
+    "imdbId": "tt42767924",
+    "type": "tv",
+    "title": "A Couple of Lies",
+    "overview": "A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.",
+    "year": "2026",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1k8bldCgOvWk9IDaMqokUE78qaX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": "sv"
+  },
+  {
     "id": "292741",
     "tmdbId": 292741,
     "imdbId": "tt26598805",
@@ -548,6 +569,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "334151",
+    "tmdbId": 334151,
+    "imdbId": "tt37196425",
+    "type": "tv",
+    "title": "Pierre",
+    "overview": "West London duty solicitor Pierre is a force of nature: charming and funny, a glamorous character in an unglamorous profession, juggling the pressures of his job, a fragile personal life and just keeping his head above water financially.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lj7oMz6fvrGPRuJ2pv5S4Io60kZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dZUAdtSFcIC5g1V385nfl68H2Mz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vPhYJ0R5sorUNULTCCgz55t9WUR.png",
+    "certificate": "",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "231801",
     "tmdbId": 231801,
     "imdbId": "tt33406999",
@@ -757,6 +799,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "310133",
+    "tmdbId": 310133,
+    "imdbId": "tt39379365",
+    "type": "tv",
+    "title": "4 Blocks Zero",
+    "overview": "Travel back to 1990s Berlin and discover the story of a family caught between bureaucracy, politics, and social exclusion, determined to build a new life in Germany.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g7fDor1DkI6tNBvzTXbaWy5lRJu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wwh0QUv1FU5GHn13bc5cNZLHGRL.png",
+    "certificate": "",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
   },
   {
     "id": "305357",
@@ -2064,6 +2127,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "316657",
+    "tmdbId": 316657,
+    "imdbId": "tt42344158",
+    "type": "tv",
+    "title": "Paris is Always a Good Idea",
+    "overview": "Career-driven nonprofit executive Chelsea Martin travels to Paris with her confident rival-turned-ally, Jason Knightly to secure a major donation but a heartfelt message from her late mother – and a loving push from her sister Annabelle – sends her on an unexpected journey to reconnect with the three great loves she once left behind. From the rolling hills of Ireland to the magic of Paris and the sun-kissed vineyards of Spain, Chelsea retraces old footsteps and discovers that sometimes moving forward means first looking back.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7ojPrmpoUUdD8XotcKwEWdb9rJv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vsevYkSAXBvlSue8N8fQ3btjcsn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h2Tqcw7P3WLVmUIMGr5yN60dfck.png",
+    "certificate": "",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "328804",
@@ -4124,89 +4208,5 @@
       "FR"
     ],
     "originalLanguage": "fr"
-  },
-  {
-    "id": "305866",
-    "tmdbId": 305866,
-    "imdbId": "tt38141577",
-    "type": "tv",
-    "title": "Kees Flodder",
-    "overview": "Kees Flodder unexpectedly appears on the doorstep of her daughter, Kees junior.",
-    "year": "2026",
-    "rating": 5.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/j9esbIkOrN9N7wHqdxH3sh4ey8n.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fSaijC00RwkVyoyV77zYvp2CdIq.jpg",
-    "logoUrl": null,
-    "certificate": "12",
-    "runTimeMinutes": 27,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "NL"
-    ],
-    "originalLanguage": "nl"
-  },
-  {
-    "id": "320430",
-    "tmdbId": 320430,
-    "imdbId": "tt36460202",
-    "type": "tv",
-    "title": "You're Killing Me",
-    "overview": "In a quaint New England town, bestselling novelist Allie forms an unlikely alliance with aspiring writer and podcaster Andi to find the killer of a close friend.",
-    "year": "2026",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wKSZnV70x2oZ20BPWAfPepOn0OH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cUIsQ1kIfDM8stZDx7y6wcHZ3Oq.png",
-    "certificate": "",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "286069",
-    "tmdbId": 286069,
-    "imdbId": "tt36626294",
-    "type": "tv",
-    "title": "The Air",
-    "overview": "When a violent coup erupts back home, Princess Catherine Blew De Laina becomes an assassination target while visiting Thailand. Her survival falls entirely on Lieutenant 'Lom' Vayo Watinwanich, a sharp female marine police officer assigned as her underground protector. Forced off the grid, the two women must navigate relentless tactical hits and political betrayal. As duty and survival blur, their isolation sparks an intense, undeniable magnetic attraction—a forbidden love defying rigid military protocol and royal expectations. Amidst constant gunfire, Blew finds safety in Lom's embrace, while Lom discovers a kindred spirit beneath the royal exterior. In a world where everyone has a price, their fierce devotion becomes both their ultimate liability and their only way out. Together, they must dismantle the conspiracy before the assassins close in.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nvkFkBXCmaLS8N1S7IcSi2Oh9cB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2CJ6zdoGEwq2h2R029dpBlVkNnM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/z0HSKMbmAL1SjJ2oGJ8ourmQTsO.png",
-    "certificate": "",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
-  },
-  {
-    "id": "259837",
-    "tmdbId": 259837,
-    "imdbId": "tt34440854",
-    "type": "tv",
-    "title": "The WONDERfools",
-    "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ktnABpWiKbUFJOWpMzR5doMZ9lR.svg",
-    "certificate": "TV-14",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]

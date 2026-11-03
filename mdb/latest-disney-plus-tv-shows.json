@@ -3768,6 +3768,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "211020",
+    "tmdbId": 211020,
+    "imdbId": "tt28090631",
+    "type": "tv",
+    "title": "Han River Police",
+    "overview": "Han Dujin and his team investigate a criminal conspiracy in order to protect the Han River.",
+    "year": "2023",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ejuVj9BHwDxAYQiVtdpKn3R6sS1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2UU92Ici62q3IimDTUBWjdOF3qY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9p5f50MFBq08TOHtqz2GTO5xqDB.png",
+    "certificate": "14",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "231311",
     "tmdbId": 231311,
     "imdbId": "tt28550655",
@@ -4187,26 +4208,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "220372",
-    "tmdbId": 220372,
-    "imdbId": "tt21835886",
-    "type": "tv",
-    "title": "Sam: A Saxon",
-    "overview": "Based on the true story of Sam Meffire’s rise and fall in East Germany, this miniseries follows Sam’s desperate search for a place he can call home, as he fights for recognition and justice. Sam goes from being the first Black cop in the GDR to media celebrity, and finally a criminal in the wild years following German reunification.",
-    "year": "2023",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zUnor1KuGGtQfa4bAKGympgy7fK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iluTG3UT2f0guDZR6GNAvYUKZvq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dZMFSsSVaBGZPgq45A1LOyOQ0WG.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
-    "originalLanguage": "de"
   }
 ]
