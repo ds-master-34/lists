@@ -91,7 +91,7 @@
     "title": "A Story of Derry",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cujdalUVXeFNfgGpzk3kdNF4DMQ.png",
@@ -617,7 +617,7 @@
     "title": "Matchbox the Movie",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
     "year": "2026",
-    "rating": 5.7,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
@@ -2317,6 +2317,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1257147",
+    "tmdbId": 1257147,
+    "imdbId": "tt37458193",
+    "type": "movie",
+    "title": "My Best Friend",
+    "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+    "logoUrl": null,
+    "certificate": "12",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "118340",
     "tmdbId": 118340,
     "imdbId": "tt2015381",
@@ -2429,7 +2450,7 @@
     "title": "Baththa",
     "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
     "year": "2026",
-    "rating": 8.8,
+    "rating": 8.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/n8Df1H1TmcmZfjGgWh5uQyRFzHy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5sBnZMT1aJ6cBvehKOzOOLdI6bz.jpg",
     "logoUrl": null,
@@ -2711,6 +2732,27 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1893",
+    "tmdbId": 1893,
+    "imdbId": "tt0120915",
+    "type": "movie",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "year": "1999",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ng7NyKidNO3tpngil1jW6DNMPVx.png",
+    "certificate": "PG",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
@@ -3369,6 +3411,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1242898",
+    "tmdbId": 1242898,
+    "imdbId": "tt31227572",
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "year": "2025",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vipn5ZZ4QLWwCOjYiBaKFKKFCoK.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "76492",
     "tmdbId": 76492,
     "imdbId": "tt0837562",
@@ -3601,6 +3664,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "269149",
+    "tmdbId": 269149,
+    "imdbId": "tt2948356",
+    "type": "movie",
+    "title": "Zootopia",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bHIwMS8fSIM6kYfXdS7bD0mNYsq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "259316",
     "tmdbId": 259316,
     "imdbId": "tt3183660",
@@ -3743,6 +3827,27 @@
     "runTimeMinutes": 127,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "950396",
+    "tmdbId": 950396,
+    "imdbId": "tt13654226",
+    "type": "movie",
+    "title": "The Gorge",
+    "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+    "year": "2025",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iuCgpPWt4TZF1rwWyhHBK0XRycV.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Science Fiction",
     "originCountries": [
       "US"
     ],
@@ -3959,6 +4064,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "58",
+    "tmdbId": 58,
+    "imdbId": "tt0383574",
+    "type": "movie",
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "overview": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+    "year": "2006",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vEQROv1sAh6K2RWN1J59ZM7HduQ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 151,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "324857",
     "tmdbId": 324857,
     "imdbId": "tt4633694",
@@ -3995,6 +4121,27 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "150540",
+    "tmdbId": 150540,
+    "imdbId": "tt2096673",
+    "type": "movie",
+    "title": "Inside Out",
+    "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+    "year": "2015",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rm7EZqB4AupYzoj0yPPMpyhsOO0.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -4107,6 +4254,69 @@
     "originalLanguage": "en"
   },
   {
+    "id": "383498",
+    "tmdbId": 383498,
+    "imdbId": "tt5463162",
+    "type": "movie",
+    "title": "Deadpool 2",
+    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "year": "2018",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gyfPKfFYcVW54MoqhYlwwDDIfJR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png",
+    "certificate": "A",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "12",
+    "tmdbId": 12,
+    "imdbId": "tt0266543",
+    "type": "movie",
+    "title": "Finding Nemo",
+    "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+    "year": "2003",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gRweHvOoM7hKg3q8iExsXzAhsBv.png",
+    "certificate": "G",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8587",
+    "tmdbId": 8587,
+    "imdbId": "tt0110357",
+    "type": "movie",
+    "title": "The Lion King",
+    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "year": "1994",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4ldICpAouQAhuT4z3A6tXYMR4Kz.png",
+    "certificate": "G",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "745",
     "tmdbId": 745,
     "imdbId": "tt0167404",
@@ -4191,6 +4401,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "285",
+    "tmdbId": 285,
+    "imdbId": "tt0449088",
+    "type": "movie",
+    "title": "Pirates of the Caribbean: At World's End",
+    "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+    "year": "2007",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qxtGuZEnRXT1uqWe0Xsmxgsj8Hy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1198994",
     "tmdbId": 1198994,
     "imdbId": "tt8036976",
@@ -4254,6 +4485,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "146233",
+    "tmdbId": 146233,
+    "imdbId": "tt1392214",
+    "type": "movie",
+    "title": "Prisoners",
+    "overview": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.",
+    "year": "2013",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aKZAoC9PYqAu6auDHhi9iryj6D5.png",
+    "certificate": "A",
+    "runTimeMinutes": 153,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "574475",
     "tmdbId": 574475,
     "imdbId": "tt9619824",
@@ -4269,6 +4521,48 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1244523",
+    "tmdbId": 1244523,
+    "imdbId": "tt10377864",
+    "type": "movie",
+    "title": "Beware Boiúna",
+    "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tXwK1k2mQNQWFoliXDXoUhzT55m.png",
+    "certificate": "R",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "11",
+    "tmdbId": 11,
+    "imdbId": "tt0076759",
+    "type": "movie",
+    "title": "Star Wars",
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "year": "1977",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fai0rspsNeJCS69wHNjOdWxcI7P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vswPivs3yuUsk5aW6DbnyeNQ4GX.png",
+    "certificate": "U",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
@@ -4401,6 +4695,27 @@
     "originalLanguage": "fr"
   },
   {
+    "id": "10681",
+    "tmdbId": 10681,
+    "imdbId": "tt0910970",
+    "type": "movie",
+    "title": "WALL·E",
+    "overview": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "year": "2008",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rgD6xUFYfQqfI28ZbqtvDPRwzck.png",
+    "certificate": "G",
+    "runTimeMinutes": 98,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "363088",
     "tmdbId": 363088,
     "imdbId": "tt5095030",
@@ -4422,6 +4737,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "19995",
+    "tmdbId": 19995,
+    "imdbId": "tt0499549",
+    "type": "movie",
+    "title": "Avatar",
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "year": "2009",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eYBa9fpSvZEYOl88ulP5fnRoCIi.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "98",
+    "tmdbId": 98,
+    "imdbId": "tt0172495",
+    "type": "movie",
+    "title": "Gladiator",
+    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "year": "2000",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/liF6t2gp6C5JTCvfF3biCCqFDx9.png",
+    "certificate": "R",
+    "runTimeMinutes": 155,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "49051",
     "tmdbId": 49051,
     "imdbId": "tt0903624",
@@ -4437,6 +4794,48 @@
     "runTimeMinutes": 169,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "350",
+    "tmdbId": 350,
+    "imdbId": "tt0458352",
+    "type": "movie",
+    "title": "The Devil Wears Prada",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "year": "2006",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9spnkfdCZumIxLYD6C7sJ1DK5EO.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "772",
+    "tmdbId": 772,
+    "imdbId": "tt0104431",
+    "type": "movie",
+    "title": "Home Alone 2: Lost in New York",
+    "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+    "year": "1992",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9AlbXXx5wmHdQRv6hPT1antQhy1.png",
+    "certificate": "PG",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -4485,6 +4884,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "329865",
+    "tmdbId": 329865,
+    "imdbId": "tt2543164",
+    "type": "movie",
+    "title": "Arrival",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "year": "2016",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
+    "certificate": "UA",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "76600",
+    "tmdbId": 76600,
+    "imdbId": "tt1630029",
+    "type": "movie",
+    "title": "Avatar: The Way of Water",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "year": "2022",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r5gjwzikHYWw6MC2Loq77ZDYCeP.png",
+    "certificate": "UA",
+    "runTimeMinutes": 192,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "862",
     "tmdbId": 862,
     "imdbId": "tt0114709",
@@ -4499,6 +4940,27 @@
     "certificate": "G",
     "runTimeMinutes": 81,
     "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "809",
+    "tmdbId": 809,
+    "imdbId": "tt0298148",
+    "type": "movie",
+    "title": "Shrek 2",
+    "overview": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of ever-faithful Donkey, Shrek takes on the potion-brewing Fairy Godmother, pompous Prince Charming, and infamous ogre-killer Puss In Boots.",
+    "year": "2004",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3xIgLhQhqQOeRXbYIOi4rYkFulH.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "US"

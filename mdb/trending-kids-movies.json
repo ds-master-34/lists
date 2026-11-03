@@ -1,5 +1,26 @@
 [
   {
+    "id": "791523",
+    "tmdbId": 791523,
+    "imdbId": "tt2056785",
+    "type": "movie",
+    "title": "Wildwood",
+    "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of talking animals, bandits, and powerful figures driven by grief and ambition. As the pair is drawn into a conflict threatening the balance of the forest itself, Prue must discover the strength and belief she never knew she possessed.",
+    "year": "2026",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g9MoyXHtNgaR1UC2MoztL80iZl3.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10439",
     "tmdbId": 10439,
     "imdbId": "tt0107120",
@@ -4058,6 +4079,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "260514",
+    "tmdbId": 260514,
+    "imdbId": "tt3606752",
+    "type": "movie",
+    "title": "Cars 3",
+    "overview": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen finds himself pushed to the brink—and suddenly, the champion who once ruled the track is fighting just to stay in the race. With his career hanging in the balance, McQueen must turn to an ambitious young race technician with a plan of her own, draw strength from the legacy of the late Fabulous Hudson Hornet, and risk everything on one last shot at glory.",
+    "year": "2017",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q37qU7jFpx43z60n04gVoZMqIAv.png",
+    "certificate": "G",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "18360",
     "tmdbId": 18360,
     "imdbId": "tt1078912",
@@ -4094,6 +4136,48 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4032",
+    "tmdbId": 4032,
+    "imdbId": "tt0102492",
+    "type": "movie",
+    "title": "My Girl",
+    "overview": "Vada Sultenfuss is obsessed with death. Her mother is dead, and her father runs a funeral parlor. She is also in love with her English teacher, and joins a poetry class over the summer just to impress him. Thomas J., her best friend, is \"allergic to everything\", and sticks with Vada despite her hangups. When Vada's father hires Shelly, and begins to fall for her, things take a turn to the worse...",
+    "year": "1991",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vSd89kiENYeFa6mPHzsM5BgliPm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pO0X0hcsnwf00tjEx8ZfJpq4kGn.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "12222",
+    "tmdbId": 12222,
+    "imdbId": "tt0451079",
+    "type": "movie",
+    "title": "Horton Hears a Who!",
+    "overview": "An imaginative elephant named Horton hears a faint cry for help coming from a tiny speck of dust floating through the air. Horton suspects there may be life on that speck and despite a surrounding community, who thinks he has lost his mind, he is determined to save the tiny particle.",
+    "year": "2008",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Nfwmdxl2EDvVVE4An18Lio6tSx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/NUMKtqdZZW6paoUrsTEaun5RQH.png",
+    "certificate": "G",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],

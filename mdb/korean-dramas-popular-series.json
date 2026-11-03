@@ -49,7 +49,7 @@
     "title": "100 Days of Deception",
     "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
@@ -217,7 +217,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -259,7 +259,7 @@
     "title": "The Perfect Lie",
     "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
     "year": "2026",
-    "rating": 8.1,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
@@ -1960,7 +1960,7 @@
     "title": "Dive into You",
     "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
@@ -3507,6 +3507,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "236356",
+    "tmdbId": 236356,
+    "imdbId": "tt31510539",
+    "type": "tv",
+    "title": "Family Matters",
+    "overview": "A group of people with supernatural powers form a surrogate family to protect themselves from a criminal syndicate.",
+    "year": "2024",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h5OFsjZCPyoTjLyWarFyPzMrZQp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kLv2yxi2Zj6ZsHssvCR4GvVKWK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yxYSGwIvkZPGZP7Y8IUlSlNtr6Q.png",
+    "certificate": "19",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "239005",
     "tmdbId": 239005,
     "imdbId": "tt29872951",
@@ -4011,6 +4032,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "200794",
+    "tmdbId": 200794,
+    "imdbId": "tt27712331",
+    "type": "tv",
+    "title": "The Witch",
+    "overview": "The story of a woman who is kicked out of her village and called a \"witch\" when the men that she likes get hurt or die, and a man who risks his life to try to save her from the law of death.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AeBzGdbXlSm0FQyhKyYvfr0ugZl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eMNbpi34w4PJTR6mWDqVF8aZzxj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/15z29su1YxFzy0mgU3vaGzHDa4M.png",
+    "certificate": "16",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "276472",
     "tmdbId": 276472,
     "imdbId": "tt40108629",
@@ -4291,7 +4333,7 @@
     "title": "Our Universe",
     "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vFFP8pU2zkywEhBk84loUAC9SQJ.png",
@@ -4515,6 +4557,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "210218",
+    "tmdbId": 210218,
+    "imdbId": "tt27368102",
+    "type": "tv",
+    "title": "Delightfully Deceitful",
+    "overview": "After a decade behind bars, a brilliant con artist teams up with an empathetic lawyer — and together, they dig into the case that changed her life.",
+    "year": "2023",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bsGHK1Hf3vdD56XPe0d5N7HRa15.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lCdiBW0x73zYvTArT82M6JDoeyL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gHlZl3JVsqBx1vNZtxdRGiI4aq3.png",
+    "certificate": "15",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "223326",
     "tmdbId": 223326,
     "imdbId": "tt27368147",
@@ -4533,6 +4596,27 @@
     "originCountries": [
       "KR",
       "US"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "124426",
+    "tmdbId": 124426,
+    "imdbId": "tt14023192",
+    "type": "tv",
+    "title": "Mine",
+    "overview": "Encaged in a gold-clad life of secrets and lies, two women in a conglomerate family seek to topple all that stands in their way of finding true joy.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r5kJZl10lE2gbIuY92gPaQHYEa4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/56qeHhntZQJAlQNOcKSuAGtmj3S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tPJmG09eqPaTPEuX0VSMrPa0HcD.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
     ],
     "originalLanguage": "ko"
   },
@@ -7797,7 +7881,7 @@
     "title": "I Need Romance",
     "overview": "Revolves around three thirty-something career women and their complicated love lives.",
     "year": "2011",
-    "rating": 7.1,
+    "rating": 7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qrzOhySHUnOzFOcWcDCSvqOkbVS.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/h4PXSsvGGHxZ3VYMUTrzuSSdF6B.jpg",
     "logoUrl": null,
