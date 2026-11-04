@@ -1209,7 +1209,7 @@
     "title": "Washington Black",
     "overview": "11-year-old George Washington \"Wash\" Black embarks on a globe-trotting journey of identity after fleeing a Barbados sugar plantation aboard a flying machine in the company of his master’s eccentric inventor brother.",
     "year": "2025",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/vapoYt08nte9AnFPSGADNau8C6I.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yt12eYrDUfBA2ZRV2ltiDIR9dBT.png",
@@ -4042,6 +4042,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "226675",
+    "tmdbId": 226675,
+    "imdbId": "tt21308714",
+    "type": "tv",
+    "title": "The Search",
+    "overview": "Nisan, an unhappy, sick, lost woman trapped in the hustle of city life, discovers a shady cult in her search for her friend who disappeared after a healing session they attended together. Despite all her doubts, Nisan can't turn a blind eye to the cult's promises, and follows a mysterious man, Tufan, into an adventure full of unknowns.",
+    "year": "2023",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h7rFo3iJa47HmqjkcawMsAJGb0Q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/FwDq4ZDYzO7Od62bVo1YJNy4dv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/41AanBuWl8INt5ZYpXqRn0KkfNQ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": "tr"
+  },
+  {
     "id": "224773",
     "tmdbId": 224773,
     "imdbId": "tt14107656",
@@ -4112,7 +4133,7 @@
     "title": "The Clearing",
     "overview": "When a local girl goes missing, a woman is forced to face the demons from her traumatic childhood.",
     "year": "2023",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iqJpQPAKZq73wIex5f0bSZkYfoT.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/bvqNRMMl1gXYceHhpe5FHqYHr4d.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/sXq0XA0hBgd5djLyafnvPzqZn3f.png",
@@ -4187,26 +4208,5 @@
       "BR"
     ],
     "originalLanguage": "pt"
-  },
-  {
-    "id": "215472",
-    "tmdbId": 215472,
-    "imdbId": "tt27476655",
-    "type": "tv",
-    "title": "RACE",
-    "overview": "With little on her resume but full of passion, Park Yoonjo manages to get hired by a top company through an unbiased recruitment project. Proving her value at work is hard, but she powers through life with her old friend and colleague Ryu Jaemin, role model Goo Yijung, and best supporter Seo Donghoon.",
-    "year": "2023",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yQShXAwquNCE2nyHOOSJCf3IoIb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rbM4Yqr7lKvmujN7eWu2whpK3Tn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oxk06oiFHGLzIvZn5Yx9tYMo9Ve.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   }
 ]

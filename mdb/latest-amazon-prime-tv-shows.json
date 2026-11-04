@@ -28,7 +28,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -179,7 +179,7 @@
     "title": "A Love Other Than Yours",
     "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
     "year": "2026",
-    "rating": 6.2,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
@@ -3587,6 +3587,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "221483",
+    "tmdbId": 221483,
+    "imdbId": "tt14136806",
+    "type": "tv",
+    "title": "Luden",
+    "overview": "Inspired by true events, the gangster epic LUDEN tells the rise of the Nutella Gang, the most famous pimp cartel in Hamburg's legendary Reeperbahn during the 1980s. The unusual cartel turns the rough red-light district in St. Pauli into a glamourous place, but it is also the beginning of a power struggle with the established pimps of the GMBH.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mGpnSPcWVa7ynIwdNmuwdGWseRh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/geJZ0jAwNmr1VTEZE58YnfujOIn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/s6EipNaGztXKfTdud7U7Y7gvfqj.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "139099",
     "tmdbId": 139099,
     "imdbId": "tt16152716",
@@ -4192,27 +4213,6 @@
     "runTimeMinutes": 40,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "120911",
-    "tmdbId": 120911,
-    "imdbId": "tt11743610",
-    "type": "tv",
-    "title": "The Terminal List",
-    "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-    "year": "2022",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/29glkftEea1IEUG8WcNq017mCAr.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],

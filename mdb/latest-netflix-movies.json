@@ -70,7 +70,7 @@
     "title": "Surviving Hurricane Otis",
     "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
     "year": "2026",
-    "rating": 5,
+    "rating": 5.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/tNfFbBOuyBbKl4WhKXCbUOwI8Tb.png",
@@ -385,7 +385,7 @@
     "title": "My Best Friend",
     "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
     "year": "2026",
-    "rating": 7,
+    "rating": 6.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
     "logoUrl": null,
@@ -1196,6 +1196,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1705390",
+    "tmdbId": 1705390,
+    "imdbId": "tt43279365",
+    "type": "movie",
+    "title": "Project Baby",
+    "overview": "The story follows Sandy, a 30-something advertising executive who, fearing her biological clock is ticking, launches \"Project Baby\"—a step-by-step mission to conceive a child on her own terms with a no-strings-attached donor. She selects Migo, a sensitive artist, but quickly realizes that meticulous plans can't account for human emotion.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cPVgsUuwKXYiAGk7IPjYeWIYlsA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fIPpdk1QvQZhS2w694RXo7Pqc4s.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iD0mRCjJx0JloNObdKgbN38tvwe.png",
+    "certificate": "R-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": "tl"
   },
   {
     "id": "1250512",
@@ -4189,26 +4210,5 @@
       "ID"
     ],
     "originalLanguage": "id"
-  },
-  {
-    "id": "1426792",
-    "tmdbId": 1426792,
-    "imdbId": "tt33293169",
-    "type": "movie",
-    "title": "Mango",
-    "overview": "An ambitious hotelier and her reluctant daughter take a trip to Málaga, where they find what they've been craving in a farmer's idyllic mango orchard.",
-    "year": "2025",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8aTla8ofmtJdfhInKyLTyZifA3k.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
-    "logoUrl": null,
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 96,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "DK"
-    ],
-    "originalLanguage": "da"
   }
 ]

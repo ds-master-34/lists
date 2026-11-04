@@ -155,7 +155,7 @@
     "title": "Forgotten Island",
     "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/barJMlk3d6jiiMy3AbqjhBPH0Yw.png",
@@ -219,7 +219,7 @@
     "title": "Sense and Sensibility",
     "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/eVS7HIjPjPHeCmTfkQTNQFCqbAg.png",
@@ -577,7 +577,7 @@
     "title": "Matchbox the Movie",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
     "year": "2026",
-    "rating": 5.6,
+    "rating": 5.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
@@ -1902,27 +1902,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1404304",
-    "tmdbId": 1404304,
-    "imdbId": "tt35051162",
-    "type": "movie",
-    "title": "The Isolate Thief",
-    "overview": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
-    "year": "2026",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/akAMlG5opOMPhWyZRUv7ZssYS5M.png",
-    "certificate": "15",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Western",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1480574",
     "tmdbId": 1480574,
     "imdbId": "tt36948232",
@@ -2827,6 +2806,27 @@
     "secondaryGenre": "Thriller",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1285669",
+    "tmdbId": 1285669,
+    "imdbId": "tt32135632",
+    "type": "movie",
+    "title": "LifeHack",
+    "overview": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cBAD1QuROoDQTjLxvvLKxfEahln.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   }
