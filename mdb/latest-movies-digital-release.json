@@ -1,5 +1,26 @@
 [
   {
+    "id": "1294189",
+    "tmdbId": 1294189,
+    "imdbId": "tt13611778",
+    "type": "movie",
+    "title": "The Mongoose",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qpZRdwryEhQ9XsRuS8PgZVuEF1V.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1244523",
     "tmdbId": 1244523,
     "imdbId": "tt10377864",
@@ -42,6 +63,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1403676",
+    "tmdbId": 1403676,
+    "imdbId": "tt30850718",
+    "type": "movie",
+    "title": "April X",
+    "overview": "When his twin sister April (Lilly Krug) goes missing, Bax (Connor Storrie) searches every corner of their futuristic, post-Soviet cityscape to find her. Ultimately descending into a violent criminal underworld and madness, Bax is forced to confront the cost of identity, love, and survival.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/koNUflGEz6Fdy1GCqpvqBOcIaTP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/e5HtlJjrEJDoRZOkM6UDXbSokH6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t5q9XUGsvy9cagLFKWhIpuNzwVa.png",
+    "certificate": "NR",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "RO"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1423191",
     "tmdbId": 1423191,
     "imdbId": "tt35538033",
@@ -57,6 +99,27 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Horror",
     "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1437396",
+    "tmdbId": 1437396,
+    "imdbId": "tt35856037",
+    "type": "movie",
+    "title": "Your Mother Your Mother Your Mother",
+    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vTWwAyfrTYFLHDD4vF94JzBBBpB.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],
@@ -2763,70 +2826,6 @@
     "secondaryGenre": "Science Fiction",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1284016",
-    "tmdbId": 1284016,
-    "imdbId": "tt32267691",
-    "type": "movie",
-    "title": "Power Ballad",
-    "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-    "year": "2026",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/57Yt83bu3ritQnJIxW1rCMIOUj1.png",
-    "certificate": "R",
-    "runTimeMinutes": 99,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Music",
-    "originCountries": [
-      "IE",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1382832",
-    "tmdbId": 1382832,
-    "imdbId": "tt34494076",
-    "type": "movie",
-    "title": "Hungry",
-    "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
-    "year": "2026",
-    "rating": 4.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dZpQnSut6wnGeQMZLlJzBpfbsdC.png",
-    "certificate": "16",
-    "runTimeMinutes": 93,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1285669",
-    "tmdbId": 1285669,
-    "imdbId": "tt32135632",
-    "type": "movie",
-    "title": "LifeHack",
-    "overview": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
-    "year": "2026",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cBAD1QuROoDQTjLxvvLKxfEahln.png",
-    "certificate": "R",
-    "runTimeMinutes": 97,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }
