@@ -70,7 +70,7 @@
     "title": "A Story of Derry",
     "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cujdalUVXeFNfgGpzk3kdNF4DMQ.png",
@@ -133,7 +133,7 @@
     "title": "Ali G: Who Iz I?",
     "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
     "year": "2026",
-    "rating": 5.1,
+    "rating": 5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/i5A8UZtgyduV5yhRl4RaIrKkmi8.png",
@@ -154,7 +154,7 @@
     "title": "Apocalypse Z: New World",
     "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
     "year": "2026",
-    "rating": 5.2,
+    "rating": 5.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/i9qka7Zx7QUvmhhEeR945k4H4iV.png",
@@ -385,7 +385,7 @@
     "title": "Beware Boiúna",
     "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
     "year": "2026",
-    "rating": 6,
+    "rating": 5.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/tXwK1k2mQNQWFoliXDXoUhzT55m.png",
@@ -555,7 +555,7 @@
     "title": "Matchbox the Movie",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
     "year": "2026",
-    "rating": 5.7,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
@@ -651,6 +651,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "1437396",
+    "tmdbId": 1437396,
+    "imdbId": "tt35856037",
+    "type": "movie",
+    "title": "Your Mother Your Mother Your Mother",
+    "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vTWwAyfrTYFLHDD4vF94JzBBBpB.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "1503762",
@@ -799,6 +820,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1381071",
+    "tmdbId": 1381071,
+    "imdbId": "tt34384661",
+    "type": "movie",
+    "title": "Godzilla Minus Zero",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yMJjqWcW5PSpXsj535EsuLp5BWd.png",
+    "certificate": "R",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "1381078",
@@ -998,7 +1040,7 @@
     "title": "The Mongoose",
     "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
     "year": "2026",
-    "rating": 5,
+    "rating": 4.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/qpZRdwryEhQ9XsRuS8PgZVuEF1V.png",
@@ -1938,6 +1980,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1596296",
+    "tmdbId": 1596296,
+    "imdbId": "tt39150234",
+    "type": "movie",
+    "title": "The History of Concrete",
+    "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2GWR1g1VdUNnNpLh6XfAQ6LVfyd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dsyJUsyrl2rBiF0k9RpSKT2YQzL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9PBdT7tXKH07dHDJRvQ4Wiq434U.png",
+    "certificate": "NR",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "12445",
     "tmdbId": 12445,
     "imdbId": "tt1201607",
@@ -2029,7 +2092,7 @@
     "title": "My Best Friend",
     "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
     "logoUrl": null,

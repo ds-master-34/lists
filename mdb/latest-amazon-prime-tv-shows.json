@@ -7,7 +7,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 8,
+    "rating": 7.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -28,7 +28,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -3714,6 +3714,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "202250",
+    "tmdbId": 202250,
+    "imdbId": "tt24013752",
+    "type": "tv",
+    "title": "Dirty Linen",
+    "overview": "To exact vengeance, a young woman infiltrates the household of an influential family as a housemaid to expose their dirty secrets. However, love will get in the way of her revenge plot.",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fiK3u7oQb2Nsi2kuR73RRyIIGDD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mAJ84W6I8I272Da87qplS2Dp9ST.jpg",
+    "logoUrl": null,
+    "certificate": "SPG",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "PH"
+    ],
+    "originalLanguage": "tl"
+  },
+  {
     "id": "112581",
     "tmdbId": 112581,
     "imdbId": "tt14273790",
@@ -4192,27 +4213,6 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "106431",
-    "tmdbId": 106431,
-    "imdbId": "tt10623646",
-    "type": "tv",
-    "title": "Paper Girls",
-    "overview": "It's the day after Halloween in 1988 when four young friends accidentally stumble into an intergalactic battle and find themselves inexplicably transported to the year 2019. When they come face-to-face with their adult selves, each girl discovers her own strengths as together they try to find a way back to the past while saving the world of the future.",
-    "year": "2022",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6eaySyOW29li0CgXHqy7pgb0IUT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/otyDmwl75oagrC01LpVeegUknuP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1zsRN0KEppP1X08FEJJ0gEQat2L.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 40,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "US"
     ],
