@@ -147,6 +147,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "337609",
+    "tmdbId": 337609,
+    "imdbId": "tt48356732",
+    "type": "tv",
+    "title": "Swipe Right on the Devil",
+    "overview": "Revisits the 2017 murder of 24-year-old Sydney Loofe, who disappeared and was later found dead after going on a Tinder date with Bailey Boswell.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6be27XnXM6yNk63W4C4NLkYZmrS.png",
+    "certificate": "M18",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "275139",
     "tmdbId": 275139,
     "imdbId": "tt21952924",
@@ -4187,26 +4208,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "287976",
-    "tmdbId": 287976,
-    "imdbId": "tt38776795",
-    "type": "tv",
-    "title": "Summer '36",
-    "overview": "Nice, 1936. As workers enjoy their first paid holidays, four very different women become entangled in the murder of a prosecutor at the Riviera hotel.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ijMbSFhBd0m8TFuaALtOQp5kLwM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8KDxgfQ4JHgnEozwToRQaUgNAmP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6u1mNbvRowht7cwtCljc0f7vdI1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": "fr"
   }
 ]
