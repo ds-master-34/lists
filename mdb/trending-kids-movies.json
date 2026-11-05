@@ -616,7 +616,7 @@
     "title": "Ray Gunn",
     "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yzDKOxdMbb7eioRYtuQKSnH1GKT.png",
@@ -2060,6 +2060,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "43274",
+    "tmdbId": 43274,
+    "imdbId": "tt0131620",
+    "type": "movie",
+    "title": "Tower of Terror",
+    "overview": "A disgraced reporter investigates an abandoned luxury hotel where five people mysteriously disappeared sixty years earlier.",
+    "year": "1997",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eZ17PwwacUBMMGWiQUGjwkag5sy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/logfMF9jvC1qq9Y3pgOneFs74nr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qcbymLhFKqh5YxeMVjy3HnTjGuB.png",
+    "certificate": "PG",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "585083",
     "tmdbId": 585083,
     "imdbId": "tt9848626",
@@ -3375,6 +3396,27 @@
     "posterUrl": "https://image.tmdb.org/t/p/w500/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/Y50RfoNVKIj9dSJavE8uBdN377.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/wS3oONEfs0hIzEnw2ApX1A5rgSw.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "360920",
+    "tmdbId": 360920,
+    "imdbId": "tt2709692",
+    "type": "movie",
+    "title": "The Grinch",
+    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
+    "year": "2018",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5R0uZzsm7wyYJqGTN9gpN25kg0X.png",
     "certificate": "PG",
     "runTimeMinutes": 85,
     "primaryGenre": "Animation",

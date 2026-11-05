@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "305551",
+    "tmdbId": 305551,
+    "imdbId": "tt38937897",
+    "type": "tv",
+    "title": "Merry Berry Love",
+    "overview": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aOz2lRcVTkYZpz1dGIGtJsirvsu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3M9kWY5xcXED7kBKg3ucysbZvwp.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "307106",
     "tmdbId": 307106,
     "imdbId": "tt39087958",
@@ -49,7 +70,7 @@
     "title": "Between Steps",
     "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
@@ -2827,7 +2848,7 @@
     "title": "The Beauty Queen Killer: 9 Days of Terror",
     "overview": "In 1984, 16-year-old Tina Risico is kidnapped by a killer who takes her on a hellish road trip – and forces her to participate in a brutal crime.",
     "year": "2024",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/yhNy1GMLvZrd7Ozc7LGJJ4yqyRl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/673N8Nu1sxD8rmrrz0NvOlvcPVX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/zMg7YW9xCnL5R4pXvUSSllKXJNL.png",
@@ -3451,6 +3472,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "196308",
+    "tmdbId": 196308,
+    "imdbId": "tt16225592",
+    "type": "tv",
+    "title": "Aruna's Magic",
+    "overview": "In search of her place, Mima, a teenager afraid to own up to her power, awakens three witches from the past, who set her on a journey to recover Aruna, a particle capable of reactivating magic and restoring solar balance to the world.",
+    "year": "2023",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mDQC8R4GO2m2V4JUFR03pCtJUIx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/osgj05fXUMJPbbZN94PsfuNSWVm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jYqvEp9nQIvppqKvgh2IicZMPdO.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "206689",
     "tmdbId": 206689,
     "imdbId": "tt29569080",
@@ -3978,6 +4020,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "226645",
+    "tmdbId": 226645,
+    "imdbId": "tt27995624",
+    "type": "tv",
+    "title": "548 Days: Abducted Online",
+    "overview": "Young Patricia Aguilar disappears, leaving her family devastated. Weeks of anguish ensue until they regain hope when Patricia shows signs of life, but she speaks and acts strangely, as if controlled by someone else.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yqoJ698uVgN056N2dCRqRyPPJyx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gDPqbmCGSSZKFShYTM2YNvD7q5e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9eRGH5KAcrFVoT2qdIynpa8fgwo.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "210702",
     "tmdbId": 210702,
     "imdbId": "tt22263470",
@@ -4145,68 +4208,5 @@
       "AU"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "223430",
-    "tmdbId": 223430,
-    "imdbId": "tt27331314",
-    "type": "tv",
-    "title": "The Secrets of Hillsong",
-    "overview": "With fresh reporting and analysis from journalists, historians and policymakers, go beyond the sensational headlines and behind the velvet rope to examine the church's long pattern of covering up misconduct to protect itself.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nEQUKQ4R8gkQ1Tlah52pkCuGhYd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uN5onDK4R4Tram53ToAS55pl5kY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7lh7rknOg5Hu2lLR3CMgQuDhVHh.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "127948",
-    "tmdbId": 127948,
-    "imdbId": "tt14903834",
-    "type": "tv",
-    "title": "Class of '09",
-    "overview": "Set in three distinct points in time, follow a class of FBI agents who grapple with immense changes as the U.S. criminal justice system is altered by artificial intelligence.",
-    "year": "2023",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zhUA4iMufUZFaQmqGWXiwRUnld5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/d5RaxD8LSv08KzObMJJ1a11ySkN.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 38,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "154114",
-    "tmdbId": 154114,
-    "imdbId": "tt15523440",
-    "type": "tv",
-    "title": "Time Switch",
-    "overview": "Paz is a self-centered influencer who arrives in the town of Água-Marinha, where she clashes with a local activist and is “canceled” for offensive insults. One hundred years earlier, in 1922, Cecília is facing a forced marriage — a life she doesn't want — in Água-Marinha after her parents’ death. Mysteriously, the universe gives the two women an exit as they are swapped into each other’s bodies.",
-    "year": "2023",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tE0Xe0vlXXqEEVYIYOUkGVjB0pe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uybUp9LNqsl54FYtFJSCab7TOha.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oGAX7MpdaFcNSC5Up2f2ISuYHTX.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 41,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": "pt"
   }
 ]

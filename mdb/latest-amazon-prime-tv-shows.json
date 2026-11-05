@@ -28,7 +28,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -804,27 +804,6 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "285770",
-    "tmdbId": 285770,
-    "imdbId": "tt37506062",
-    "type": "tv",
-    "title": "Nice to Not Meet You",
-    "overview": "A hateful romance between a professional detective actor who wants to become a melodrama master and a female reporter who was demoted from a political reporter who won the Reporter of the Year award to the entertainment department.",
-    "year": "2025",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/h14bGZcVxYQzLoxC8KYqUVWvYfU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xiWu9f9jP2NSmXu2hWzrtafrpQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/z7iW16RfnwvB957rxLZOQ4oCS8V.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   },
   {
     "id": "248488",
@@ -2724,6 +2703,48 @@
     "originalLanguage": "sv"
   },
   {
+    "id": "241063",
+    "tmdbId": 241063,
+    "imdbId": "tt30426197",
+    "type": "tv",
+    "title": "Escort Boys",
+    "overview": "In Camargue, four guys in dire straits turn to escorting to save their childhood beekeeping estate. Coached by the group's little sister who manages this unique 'business' in the region, they will have to service women and, through their desires... learn to be men of today.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tGJFRIpTU8jwarl6fN85BA7blkJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gwysYz3d9SvcsLsz2XV3DRHaBmL.jpg",
+    "logoUrl": null,
+    "certificate": "18",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
+    "id": "241918",
+    "tmdbId": 241918,
+    "imdbId": "tt26255952",
+    "type": "tv",
+    "title": "Fading Gigolo",
+    "overview": "When his father Giacomo comes back into his life after a heart attack, Alfonso has to cope with a life-changing truth: his father is a gigolo. After a series of unfortunate events, Alfonso is forced to follow in his father's footsteps.",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8SkdF5LfnLqbrdkxryD2ScRxEab.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f3zENdUcPqvFgGFCBgl1kxyNIkU.jpg",
+    "logoUrl": null,
+    "certificate": "M18",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
     "id": "218230",
     "tmdbId": 218230,
     "imdbId": "tt26225038",
@@ -3332,6 +3353,27 @@
       "DE"
     ],
     "originalLanguage": "de"
+  },
+  {
+    "id": "206619",
+    "tmdbId": 206619,
+    "imdbId": "tt27646485",
+    "type": "tv",
+    "title": "All That We Loved",
+    "overview": "A love story that covers adolescent teenagers having trouble deciding the gravity of love and friendship.",
+    "year": "2023",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pioZKN9PG3LJIcDrU4wfrMwotPF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sIhx1HwIxTSjJ7chmACsCnMSxb3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g7ReADXk6npyqm26TfQFTNcw5ZN.png",
+    "certificate": "15",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "114922",
@@ -4174,48 +4216,5 @@
       "JP"
     ],
     "originalLanguage": "ja"
-  },
-  {
-    "id": "195821",
-    "tmdbId": 195821,
-    "imdbId": "tt9845070",
-    "type": "tv",
-    "title": "Last Light",
-    "overview": "Separated across continents, petro-chemist Andy Yeats and his family must survive the deadly effects of a sudden global oil crisis and find the mastermind behind it all.",
-    "year": "2022",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f7IxKWg4isIIsR1kC4EjgVE7GU4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/R7vh8jZzXrxYApS8S5JW7kP1Zz.png",
-    "certificate": "14",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "AU",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "84773",
-    "tmdbId": 84773,
-    "imdbId": "tt7631058",
-    "type": "tv",
-    "title": "The Lord of the Rings: The Rings of Power",
-    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-    "year": "2022",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o2wg8QiSCQrhj91tBfxunE3O5Ba.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fA1eS6rfYjS9W8AZbBVG0fpxXn1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]

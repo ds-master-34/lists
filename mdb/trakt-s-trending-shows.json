@@ -450,7 +450,7 @@
     "title": "Nocturne",
     "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/z2BkRiYGf48g6OwfpPY0GcZKzfx.png",
@@ -523,6 +523,27 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "255055",
+    "tmdbId": 255055,
+    "imdbId": "tt26748321",
+    "type": "tv",
+    "title": "Doc",
+    "overview": "Dr. Amy Larsen must navigate an unfamiliar world after a brain injury erases the last eight years of her life. She can rely only on her estranged 17-year-old daughter, whom she remembers as a 9-year-old, and a handful of devoted friends, as she struggles to continue practicing medicine, despite having lost nearly a decade of knowledge and experience.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qx3EbpqSb2ITeqLISFWhZbW5omf.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -746,7 +767,7 @@
     "title": "St. Denis Medical",
     "overview": "An eclectic group of underfunded yet dedicated doctors and nurses navigates caring for patients — and each other — while keeping it all together at an Oregon hospital.",
     "year": "2024",
-    "rating": 7.2,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iwnF4lZKBdHoCICtdIcXQdbuc2f.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/n4NK2M3mvQfMjIYeTv67liQg6ZQ.png",
@@ -1895,6 +1916,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "258742",
+    "tmdbId": 258742,
+    "imdbId": "tt30291387",
+    "type": "tv",
+    "title": "All's Fair",
+    "overview": "A team of female divorce attorneys leave a male-dominated firm to open their own powerhouse practice. Fierce, brilliant, and emotionally complicated, they navigate high-stakes breakups, scandalous secrets, and shifting allegiances—both in the courtroom and within their own ranks. In a world where money talks and love is a battleground, these women don't just play the game—they change it.",
+    "year": "2025",
+    "rating": 3.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yJ9ju2U0yHyKIJFnayT9lh5MwHv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1429",
     "tmdbId": 1429,
     "imdbId": "tt2560140",
@@ -2028,7 +2070,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 8.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3x6c9ybt0762idyzIifUZeTD5MZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -2140,6 +2182,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 52,
     "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "14808",
+    "tmdbId": 14808,
+    "imdbId": "tt1191056",
+    "type": "tv",
+    "title": "The Real Housewives of New York City",
+    "overview": "A fast-paced reality show that follows several incredibly busy and ambitious Manhattan women. Watch as they balance envious social calendars, challenging careers, and motherhood, with the hustle and bustle of the big city all around.",
+    "year": "2008",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t664cIE1pEVDJj0KAMefmvZNQac.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kQ7i9d8c7egG0natUkycngBV6hJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i04lsaW0a2qXWTtWFTCyzFfXbLT.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Reality",
     "secondaryGenre": "",
     "originCountries": [
       "US"
@@ -2301,7 +2364,7 @@
     "title": "American Hostage",
     "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/azITiQL9UBQVK9z95UQipLoWHkB.png",
@@ -2343,7 +2406,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -2385,7 +2448,7 @@
     "title": "Cupertino",
     "overview": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/70AhJpOqU2oKyQF2paJA764CSje.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/rWpDBJIePBvmMD2GQk0BHRw8xgr.png",
@@ -2588,6 +2651,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "98410",
+    "tmdbId": 98410,
+    "imdbId": "tt11617414",
+    "type": "tv",
+    "title": "1000-lb Sisters",
+    "overview": "The Slaton sisters averaging over a thousand pounds, have always depended on each other for support. Now in their 30s, Amy wants to have children, but cannot due to her weight, while her elder sister Tammy is near bedridden.",
+    "year": "2020",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yHsnlkzfHAxyzRFxKLbdLkPFL4o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pwqOrFWZBo2h9YNeorLh4dydRYM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5vCxSAKZqxx4FisPPkUrLFRJre9.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "549",
     "tmdbId": 549,
     "imdbId": "tt0098844",
@@ -2763,7 +2847,7 @@
     "title": "YAGA",
     "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lVCFOjUDlZLMvTJxQ2t78MjTIqL.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/csAe6BpoxRFQoaZpETzOYuxUS2b.svg",
@@ -2819,6 +2903,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "321518",
+    "tmdbId": 321518,
+    "imdbId": "tt43691408",
+    "type": "tv",
+    "title": "The World's Strongest Witch",
+    "overview": "Cast out by her aristocratic family after manifesting a seemingly useless skill, Lorna discovers her ability, “Internet,” is an SSS-rank cheat that grants her access to the entirety of the world’s knowledge. All Lorna wants is a peaceful life, but as she collects rare gear and potent items, the “world’s weakest witch” suddenly becomes very powerful, landing in one chaotic adventure after another.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kiEzCgnCMTiYP5nhgcv2njstWTf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dJV02YybQWx1RhhEwZdTLOPy1FB.png",
+    "certificate": "12",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "321221",
     "tmdbId": 321221,
     "imdbId": "tt42220724",
@@ -2847,7 +2952,7 @@
     "title": "Bass X Machina",
     "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/2QuNyg8OaRxhBs395xAn0UdcoEa.png",
@@ -2859,6 +2964,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "134667",
+    "tmdbId": 134667,
+    "imdbId": "tt15483602",
+    "type": "tv",
+    "title": "Reincarnated as a Sword",
+    "overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
+    "year": "2022",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n7zVxzyhaB2vLdyF5XwwynrgcXO.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "333533",
@@ -3260,6 +3386,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "230050",
+    "tmdbId": 230050,
+    "imdbId": "tt28313387",
+    "type": "tv",
+    "title": "A Returner's Magic Should Be Special",
+    "overview": "In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?",
+    "year": "2023",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/svwCvfLCUqc5tn85lijkKqTXQLF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ah6wYzvs50YeR5PpMUjWKCknako.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "273247",
     "tmdbId": 273247,
     "imdbId": "tt31289994",
@@ -3363,6 +3510,27 @@
       "FR"
     ],
     "originalLanguage": "fr"
+  },
+  {
+    "id": "1554",
+    "tmdbId": 1554,
+    "imdbId": "tt0380136",
+    "type": "tv",
+    "title": "QI",
+    "overview": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
+    "year": "2003",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9zWVsauqP7GM9E1N9WDYVf9CWe3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bqTWF42k2WHlqfn2KKXuiGN6G9S.png",
+    "certificate": "15",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Talk",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "226285",
@@ -3638,6 +3806,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "308963",
+    "tmdbId": 308963,
+    "imdbId": "tt39369819",
+    "type": "tv",
+    "title": "Habeas Corpus",
+    "overview": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f60R5ThzUTBiozmRZgYYrHSwlRO.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "1911",
     "tmdbId": 1911,
     "imdbId": "tt0460627",
@@ -3762,6 +3951,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "290115",
+    "tmdbId": 290115,
+    "imdbId": "tt36601237",
+    "type": "tv",
+    "title": "Ruído",
+    "overview": "In dystopic times, after a law that prohibits laughter was approved, people live in an environment of fear and mistrust. The freedom to express any kind of joy in public no longer exists. As part of the resistance, a group of actors and scriptwriters decide to create a clandestine movement allowing people to laugh in secret. Everything else is noise.",
+    "year": "2025",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/snqlVbVA8LYzZcyYLAYJ2ygQhLH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNWjT534QpvVmAUzUpTrvHa7SgY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4GqYavkcUrYszqah9cEVSUqmljc.png",
+    "certificate": "16",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "PT"
+    ],
+    "originalLanguage": "pt"
   },
   {
     "id": "18347",
@@ -4584,6 +4794,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "336240",
+    "tmdbId": 336240,
+    "imdbId": "tt42767924",
+    "type": "tv",
+    "title": "A Couple of Lies",
+    "overview": "A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1k8bldCgOvWk9IDaMqokUE78qaX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": "sv"
+  },
+  {
+    "id": "62649",
+    "tmdbId": 62649,
+    "imdbId": "tt4477976",
+    "type": "tv",
+    "title": "Superstore",
+    "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
+    "year": "2015",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A2ogFsUOqMPh1oUixYXJsJ2L8ji.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gDp3S0CZEFYwv2tQlLaO2UR9jRf.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "46648",
     "tmdbId": 46648,
     "imdbId": "tt2356777",
@@ -4633,7 +4885,7 @@
     "title": "The Drop: A Snowfall Saga",
     "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/43wNg4tLfZFtiAYkzw7NoTa9Odp.png",
@@ -4641,6 +4893,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "63174",
+    "tmdbId": 63174,
+    "imdbId": "tt4052886",
+    "type": "tv",
+    "title": "Lucifer",
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vI2mH4P2qiaRD9cxPSBWyU7PawL.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
@@ -4731,6 +5004,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "245927",
+    "tmdbId": 245927,
+    "imdbId": "tt27444205",
+    "type": "tv",
+    "title": "Paradise",
+    "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+    "year": "2025",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "157741",
     "tmdbId": 157741,
     "imdbId": "tt14186672",
@@ -4752,6 +5046,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "70523",
+    "tmdbId": 70523,
+    "imdbId": "tt5753856",
+    "type": "tv",
+    "title": "Dark",
+    "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+    "year": "2017",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bV2DiPOCGj3VYtxTK3qS2N6PePI.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "60574",
     "tmdbId": 60574,
     "imdbId": "tt2442560",
@@ -4771,6 +5086,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "209867",
+    "tmdbId": 209867,
+    "imdbId": "tt22248376",
+    "type": "tv",
+    "title": "Frieren: Beyond Journey's End",
+    "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+    "year": "2023",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yQuc8JcBxRWXfRHrNUSM47gCXOo.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "44217",
@@ -4834,5 +5170,26 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "206630",
+    "tmdbId": 206630,
+    "imdbId": "tt27524116",
+    "type": "tv",
+    "title": "Sasaki and Peeps",
+    "overview": "Sasaki is a middle-aged office worker living in Japan. Feeling drained by the vapid corporate world, he heads to the pet shop in search of a new companion. There he finds an adorable bird named Peeps and takes him home. But Sasaki quickly learns that Peeps isn’t your average bird…he’s a powerful mage from another world! Together, they embark on a magical adventure filled with swords and sorcery.",
+    "year": "2024",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kVp4PsyB8V839mGQjkn6kevBwKV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wtdVpvYlnwARmdJesDEk88IQh8M.png",
+    "certificate": "6+",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   }
 ]

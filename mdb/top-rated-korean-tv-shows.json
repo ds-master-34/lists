@@ -847,7 +847,7 @@
     "title": "We Are All Trying Here",
     "overview": "An aspiring director hits rock bottom after 20 years chasing his debut — until he meets an overwhelmed producer who helps him rediscover his self-worth.",
     "year": "2026",
-    "rating": 8.4,
+    "rating": 8.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nfCOKDJHo3yOtiPP37LBcelrYs2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/8ivvIzb7zE8DSCV8bAORR7nmazR.png",
@@ -1141,7 +1141,7 @@
     "title": "Tomorrow",
     "overview": "Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
     "year": "2022",
-    "rating": 8.1,
+    "rating": 8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3SFVIdXXQ2DrAOARBdf1knqG7Pw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2lQ1PwGFZKM9EakCw1j4NShEuuj.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/kpo9Ff9DYBwxQVrEmbDFGGbPX7b.png",
@@ -5909,7 +5909,7 @@
     "title": "Cashero",
     "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
     "year": "2025",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
@@ -6246,7 +6246,7 @@
     "title": "A Bona Fide Killer",
     "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
@@ -7604,6 +7604,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "201019",
     "tmdbId": 201019,
     "imdbId": "tt27329405",
@@ -7806,6 +7827,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/yuXuRIReuqyM3iY6qpB13dKWqpl.png",
     "certificate": "15",
     "runTimeMinutes": 49,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -8353,27 +8395,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 77,
     "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "258707",
-    "tmdbId": 258707,
-    "imdbId": "tt32889672",
-    "type": "tv",
-    "title": "Romance in the House",
-    "overview": "After his business crashes, a man disappears from his family for 11 years. But when he makes a return as their wealthy landlord, a messy reunion ensues.",
-    "year": "2024",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/A79XDQ6XCk0xVkp4IAooAHMtBpD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rksm7zN5ltuayGz1db7jV1TBVIA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wxmEF1KLTmKq35EUOZ94nfIB9pi.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Family",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
