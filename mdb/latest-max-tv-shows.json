@@ -2507,6 +2507,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "236537",
+    "tmdbId": 236537,
+    "imdbId": "tt29277419",
+    "type": "tv",
+    "title": "Candy Cruz",
+    "overview": "Candy Cruz, who has a natural gift for cooking, thanks to which she will live one of the most unforgettable experiences of her life by participating in a TV contest that will bring her fame.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hB5lEYzhXFVqyhT4bxmKwaoY7Gp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/RMBeelXAoqWt9htdvVvHzfevFi.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "236809",
     "tmdbId": 236809,
     "imdbId": "tt29456947",
@@ -2631,6 +2652,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "231505",
+    "tmdbId": 231505,
+    "imdbId": "tt28642799",
+    "type": "tv",
+    "title": "I Love You, and It Hurts",
+    "overview": "The story of Juan Gris and Lola Robles, two young people from parallel universes who will find themselves on the way to give rise to a world and a new version of themselves, and who, together with their friends, will pursue their dreams while seeking to discover who they are.",
+    "year": "2023",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3vkLoub7HsZZj9e6YOlgQrxyITS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rXK9jnsuHspis01ymwv7ei1i7Hn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7OcP05i1qs4J3bXJPyGu56rNKbW.png",
+    "certificate": "16",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "231396",
@@ -4160,48 +4202,6 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "127716",
-    "tmdbId": 127716,
-    "imdbId": "tt11958610",
-    "type": "tv",
-    "title": "Trigger Point",
-    "overview": "For London's bomb disposal experts, no day is ever the same as they risk their lives protecting the city from harm.",
-    "year": "2022",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cjMpwyWL0l1n0EkNw88QyzWRsHW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vG3U8t5OKHO2xHap9QqclincYl5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8EIXkSc1Pj588g6NnwADkV6n8hL.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "106308",
-    "tmdbId": 106308,
-    "imdbId": "tt12759100",
-    "type": "tv",
-    "title": "Somebody Somewhere",
-    "overview": "Sam is a true Kansan on the surface but beneath it all struggles to fit the hometown mold. As she grapples with loss and acceptance, singing is Sam’s saving grace and leads her on a journey to discover herself and a community of outsiders that don’t fit in but don’t give up, showing that finding your people, and finding your voice, is possible. Anywhere. Somewhere.",
-    "year": "2022",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1GkoExnlnyTcyGWIoHA4YG8mysc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/thu4Jh90HdLmI0QXrGlMwyC3bUP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jO3SC8MvqBqPAqAcbyCT9rEXHMw.png",
-    "certificate": "NR",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
