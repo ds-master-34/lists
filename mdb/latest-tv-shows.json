@@ -147,6 +147,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "334470",
+    "tmdbId": 334470,
+    "imdbId": "tt35926686",
+    "type": "tv",
+    "title": "It Gets Worse",
+    "overview": "Three best friends from college face eviction in London. As they scatter across the city, they navigate friendship, dating disasters, and adulting - all while the world crumbles around them.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vdvHHnAzYGt4OEhTmUdErjZIGBG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oDCgEryrnOVeygypH6gj99H1D7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aFMyQvWsWmmLaMlf6b9RpYvSSRx.png",
+    "certificate": "",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "337609",
     "tmdbId": 337609,
     "imdbId": "tt48356732",
@@ -374,6 +395,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "336418",
+    "tmdbId": 336418,
+    "imdbId": "tt46683025",
+    "type": "tv",
+    "title": "The Pet Cemetery Murders: A Ghost Story",
+    "overview": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.",
+    "year": "2026",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n7Gw1vYb2vBLaBzdXbzAhYhIKX4.png",
+    "certificate": "16",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -2738,6 +2780,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "326445",
+    "tmdbId": 326445,
+    "imdbId": "tt43618445",
+    "type": "tv",
+    "title": "Peach and Me",
+    "overview": "After their wedding, Thee and Peach embrace the joys and chaos of married life while finding their own rhythm together.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/af9uPoollWKPT7L4uv4mnaopXgb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4LV2UcsHXxJXjjp8ryeP0qijrl2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAVdMJyRHi9jsVAn4O7Wu9N8EvU.png",
+    "certificate": "18+",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "322570",
     "tmdbId": 322570,
     "imdbId": "tt43639297",
@@ -4145,68 +4208,5 @@
       "ES"
     ],
     "originalLanguage": "es"
-  },
-  {
-    "id": "285404",
-    "tmdbId": 285404,
-    "imdbId": "tt35946742",
-    "type": "tv",
-    "title": "Maximum Pleasure Guaranteed",
-    "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eGsNDA6RN0rJuvZEOfa3qEDZ71z.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 38,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "287168",
-    "tmdbId": 287168,
-    "imdbId": "tt35725229",
-    "type": "tv",
-    "title": "Falling",
-    "overview": "A nun and priest, each dedicated to their religious calling, unexpectedly fall in love and must confront what this means for their vows and faith.",
-    "year": "2026",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cez4OCwBHziwIYKuOJtlMxLkTGo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jya3vumEb5uQKdH87EDoGunPbdd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mDPvV4RXYV0qGmfaCUut6JgCisJ.png",
-    "certificate": "",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "321960",
-    "tmdbId": 321960,
-    "imdbId": "tt42670541",
-    "type": "tv",
-    "title": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
-    "overview": "When allegations of abuse irrevocably fracture a Utah family, a bitter custody battle ensues. After the court orders the children into a controversial reunification program, Ty and Bryn take matters into their own hands by barricading themselves in a bedroom for 54 days, livestreaming their protest, and turning an intimate family crisis into a national viral reckoning.",
-    "year": "2026",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ijUqXJ8SpOyZo3BvfXqooHyQb7S.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7RbMokpQPPIXQbZuBlHxjYLWoL8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uHQoyZppTsbjBFYKPm7epn2PVxc.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]

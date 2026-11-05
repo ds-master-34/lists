@@ -1791,6 +1791,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1233413",
+    "tmdbId": 1233413,
+    "imdbId": "tt31193180",
+    "type": "movie",
+    "title": "Sinners",
+    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kPUKvxsGgQBZMThi8VbMrTeznX0.png",
+    "certificate": "A",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "131634",
     "tmdbId": 131634,
     "imdbId": "tt1951266",
@@ -2466,6 +2487,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "315635",
+    "tmdbId": 315635,
+    "imdbId": "tt2250912",
+    "type": "movie",
+    "title": "Spider-Man: Homecoming",
+    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "year": "2017",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lAsr1ytUq0ATWdCbcjf59pupPFy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dBuI6v9X484QeG3fb4oH8RJ7021.png",
+    "certificate": "UA",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10138",
     "tmdbId": 10138,
     "imdbId": "tt1228705",
@@ -2550,6 +2592,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1265609",
+    "tmdbId": 1265609,
+    "imdbId": "tt15940132",
+    "type": "movie",
+    "title": "War Machine",
+    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/blz9cHsWGjt4abdqKDdZLQEczN8.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "271110",
+    "tmdbId": 271110,
+    "imdbId": "tt3498820",
+    "type": "movie",
+    "title": "Captain America: Civil War",
+    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "year": "2016",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1ZLhVffmmKDGoB8Oi0MdlQTw6m.png",
+    "certificate": "UA",
+    "runTimeMinutes": 147,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "447365",
     "tmdbId": 447365,
     "imdbId": "tt6791350",
@@ -2565,6 +2649,27 @@
     "runTimeMinutes": 150,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "360920",
+    "tmdbId": 360920,
+    "imdbId": "tt2709692",
+    "type": "movie",
+    "title": "The Grinch",
+    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
+    "year": "2018",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5R0uZzsm7wyYJqGTN9gpN25kg0X.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -2592,6 +2697,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "22",
+    "tmdbId": 22,
+    "imdbId": "tt0325980",
+    "type": "movie",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+    "year": "2003",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o0s0xqUcaWWv0Kh3QYmfxSQjmPD.png",
+    "certificate": "UA",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1118031",
     "tmdbId": 1118031,
     "imdbId": "tt27599851",
@@ -2611,6 +2737,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "245891",
+    "tmdbId": 245891,
+    "imdbId": "tt2911666",
+    "type": "movie",
+    "title": "John Wick",
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "year": "2014",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eVXvH6j4qM8ZEqZfw5bZ6JGQxqZ.png",
+    "certificate": "A",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "68721",
@@ -2655,6 +2802,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "808",
+    "tmdbId": 808,
+    "imdbId": "tt0126029",
+    "type": "movie",
+    "title": "Shrek",
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "year": "2001",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mEtAnquVJzgMwmBeZNw4fhccj2s.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1433367",
     "tmdbId": 1433367,
     "imdbId": "tt37853455",
@@ -2670,6 +2838,27 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "283995",
+    "tmdbId": 283995,
+    "imdbId": "tt3896198",
+    "type": "movie",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+    "year": "2017",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/767C9dyjI9FMq6emsDE0rY6K8Nc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -2711,6 +2900,90 @@
     "certificate": "U/A 16+",
     "runTimeMinutes": 101,
     "primaryGenre": "Adventure",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "550",
+    "tmdbId": 550,
+    "imdbId": "tt0137523",
+    "type": "movie",
+    "title": "Fight Club",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "year": "1999",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7Uqhv24pGJs4Ns31NoOPWFJGWNG.png",
+    "certificate": "A",
+    "runTimeMinutes": 139,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "106646",
+    "tmdbId": 106646,
+    "imdbId": "tt0993846",
+    "type": "movie",
+    "title": "The Wolf of Wall Street",
+    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "year": "2013",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mCn3JT0FHgUaDpud79djjfF9wnX.png",
+    "certificate": "A",
+    "runTimeMinutes": 180,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1242898",
+    "tmdbId": 1242898,
+    "imdbId": "tt31227572",
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "year": "2025",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vipn5ZZ4QLWwCOjYiBaKFKKFCoK.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1382832",
+    "tmdbId": 1382832,
+    "imdbId": "tt34494076",
+    "type": "movie",
+    "title": "Hungry",
+    "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+    "year": "2026",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dZpQnSut6wnGeQMZLlJzBpfbsdC.png",
+    "certificate": "16",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
     "originCountries": [
       "US"

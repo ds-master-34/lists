@@ -903,6 +903,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215720",
+    "tmdbId": 215720,
+    "imdbId": "tt27668559",
+    "type": "tv",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rtYUutWaNOO0IfWQWhegTUw0ERo.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "126485",
     "tmdbId": 126485,
     "imdbId": "tt24640580",
@@ -3318,6 +3339,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "259288",
+    "tmdbId": 259288,
+    "imdbId": "tt35683421",
+    "type": "tv",
+    "title": "Friendly Rivalry",
+    "overview": "A high-teen mystery thriller about a close relationship between teenage girls in a harsher survival competition than entrance examinations.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qBQl7x6qSqeuYdgq7rkctm1L4gW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z1MKvQJVVMbt1svoV3zjh6cRUTv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lPXXSz7033u4rb5CLn9gvP5cQeX.png",
+    "certificate": "19",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "220074",
     "tmdbId": 220074,
     "imdbId": "tt30413181",
@@ -3885,6 +3927,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "203164",
+    "tmdbId": 203164,
+    "imdbId": "tt29225198",
+    "type": "tv",
+    "title": "Strong Girl Nam-soon",
+    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
+    "year": "2023",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gJtulJRPQpPgSG5bdG5ybudLnqd.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "90814",
     "tmdbId": 90814,
     "imdbId": "tt10262630",
@@ -4431,6 +4494,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "271309",
+    "tmdbId": 271309,
+    "imdbId": "tt33398245",
+    "type": "tv",
+    "title": "Buried Hearts",
+    "overview": "Seo Dong-ju, who hacked a political slush fund worth two trillion won, risks it all for revenge.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vJMoMgjavkgkaUBDGQVVv4OjTjf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9gA91H4j8f3c7kGv6wZSWQ3Gn1O.png",
+    "certificate": "15",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "243964",
     "tmdbId": 243964,
     "imdbId": "tt35450649",
@@ -4446,6 +4530,27 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "97970",
+    "tmdbId": 97970,
+    "imdbId": "tt14518692",
+    "type": "tv",
+    "title": "Narco-Saints",
+    "overview": "An ordinary entrepreneur joins a secret government mission to capture a Korean drug lord operating in South America.",
+    "year": "2022",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8ivM3YptVuFgumcZMjCMi28k2EF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/haIqIHTTZPebqPTz3ktte1VEUDL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cCk45zKj7k0a3VSlpEGdXWf5zgg.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4620,6 +4725,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "119773",
+    "tmdbId": 119773,
+    "imdbId": "tt13885336",
+    "type": "tv",
+    "title": "Law School",
+    "overview": "Following the case of the murder of a professor at South Korea's top prestigious law school, professors and students become suspects in the murder.",
+    "year": "2021",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/52LCQBgB9Lu0djjIU24p6YI5sQk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/17yvu1IGd1sTLugw2yXO1i2R3cT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hemDwBY0IgOP4aXZq7susI9aAo.png",
+    "certificate": "15",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "223326",
     "tmdbId": 223326,
     "imdbId": "tt27368147",
@@ -4638,6 +4764,27 @@
     "originCountries": [
       "KR",
       "US"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "209502",
+    "tmdbId": 209502,
+    "imdbId": "tt29006388",
+    "type": "tv",
+    "title": "A Good Day to be a Dog",
+    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
     ],
     "originalLanguage": "ko"
   },
@@ -4678,6 +4825,27 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "275989",
+    "tmdbId": 275989,
+    "imdbId": "tt35451747",
+    "type": "tv",
+    "title": "Love Me",
+    "overview": "An OB-GYN who seems to have it all hides the pain of running away from her family after a tragic accident, until a man who sees through her loneliness enters her life and changes everything.",
+    "year": "2025",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pxBwhSet1WZ7wRd0AuVhrFXBzWF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6VYRfXF9XjdQyJlYjsJ4LQOcssZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sT8YlpJHNMW4uG4xC2Hb15oVQ3.png",
+    "certificate": "15",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8225,132 +8393,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61048",
-    "tmdbId": 61048,
-    "imdbId": "tt3284102",
-    "type": "tv",
-    "title": "The Prime Minister and I",
-    "overview": "A tabloid reporter and a widowed prime minister enter a contract marriage, navigating politics, family, and unexpected romance.",
-    "year": "2013",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dTIpXvBzzbqHxkigHkovjt9zxqz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eMJFY3NpQHh4bgheStnRKKLUTgN.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dMATWkgqDpRf0zSDsqEBBt9YPZE.png",
-    "certificate": "15",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "13946",
-    "tmdbId": 13946,
-    "imdbId": "tt1765453",
-    "type": "tv",
-    "title": "Thank You",
-    "overview": "Gi Seo is a renowned doctor at the top of his profession, but he’s racked with guilt because he wasn’t able to save his girlfriend, Ji Min, who was HIV-positive. He escapes to work on a small island and fulfill Ji Min’s dying wish: to find a little girl named Bom who she accidentally infected with HIV while she was a medical intern. Bom lives on the island with her single mom Young Shin and grandfather, who has dementia. Gi Seo grows increasingly fond of the family and finds a reason to live again, discovering beautiful miracles on the island.",
-    "year": "2007",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aMKRuLrevCd4lsZx2HBJq6QtVPd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kCEMckVuZL83oTT1YxnmSLkFks2.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "63618",
-    "tmdbId": 63618,
-    "imdbId": "tt5074306",
-    "type": "tv",
-    "title": "The Virtual Bride",
-    "overview": "In an attempt to regain her popularity, former idol star In Young goes on a TV Show where she clashes with her on-screen mother-in-law, Yang Choon Ja. However, the tension is increasingly worse off-set when In Young starts dating Choon Ja's real son!",
-    "year": "2015",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8Qv6rRJTwjCoxhnWDJb1XLRKM5I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5hfjNPP3pVAixAvsjnBhFwci3lN.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "68882",
-    "tmdbId": 68882,
-    "imdbId": "tt6342372",
-    "type": "tv",
-    "title": "Love is Drop By Drop",
-    "overview": "Eun Bang Wool falls in love with Park Woo Hyuk who received a heart transplant from her ex-boyfriend.",
-    "year": "2016",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wz1uiNrmvzHG6Wlg0RHEFvbp6sM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/71uFU7ODHv0CwbYUFUt1MbTn9Gh.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 35,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61934",
-    "tmdbId": 61934,
-    "imdbId": "tt3715044",
-    "type": "tv",
-    "title": "Big Man",
-    "overview": "Kim Ji Hyuk (Kang Ji Hwan) lives a hard knocked life, but when the orphan meets the modest restaurateur Hong Dal Sook (Song Ok Suk), he gains a mother figure and works hard to open his own restaurant one day. Then suddenly, the family behind Korea's most powerful corporation claims that he is their long lost son. When Ji Hyeok discovers the Hyunsung family's ulterior motives, he swears to bring down the company that destroyed the life he worked so hard to build.",
-    "year": "2014",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vmkEZd4jAo5ThTb3ZyENj6qizwp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tYRZ9tOerxbi4ZQXdhYB4kacZzM.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "18618",
-    "tmdbId": 18618,
-    "imdbId": "tt3444304",
-    "type": "tv",
-    "title": "Family Outing",
-    "overview": "Family Outing Season 1 was a South Korean variety show; a part of SBS's Good Sunday lineup, along with Gold Miss is Coming. It was first aired on June 15, 2008, and was one of the top rated programs on Sunday Korean television. In each episode, the \"Family\" travels to different parts of South Korea and takes care of the house of an elderly family while that family goes on a vacation. The \"Family\" then accomplishes the tasks left for them by the house's owners. The first season ended on February 14, 2010, and a second season featuring a brand new cast, production team, and concept, aired until July 11, 2010.",
-    "year": "2008",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xeRfAINpyyFp4A0NbKInfcbrrBe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dd4hzWB9uhxa3fgsznIIzQ54Wsj.jpg",
-    "logoUrl": null,
-    "certificate": "12",
-    "runTimeMinutes": 90,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Reality",
     "originCountries": [
       "KR"
     ],

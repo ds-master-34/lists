@@ -2786,5 +2786,48 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1227877",
+    "tmdbId": 1227877,
+    "imdbId": "tt30827810",
+    "type": "movie",
+    "title": "I Love Boosters",
+    "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fBZ9cWUI1yB9Fcs2eoYZ4mmMUmI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bffuNBl0nUHIoMo4nq7pFxuzUbB.png",
+    "certificate": "R",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1284016",
+    "tmdbId": 1284016,
+    "imdbId": "tt32267691",
+    "type": "movie",
+    "title": "Power Ballad",
+    "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/57Yt83bu3ritQnJIxW1rCMIOUj1.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Music",
+    "originCountries": [
+      "IE",
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]

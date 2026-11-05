@@ -4160,5 +4160,47 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "10555",
+    "tmdbId": 10555,
+    "imdbId": "tt0307453",
+    "type": "movie",
+    "title": "Shark Tale",
+    "overview": "Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.",
+    "year": "2004",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ZmZxar3bYORcl0TPA4oceyxcaE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ktpElNu4lHM4H3aO2EpB0TUgkgi.svg",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33217",
+    "tmdbId": 33217,
+    "imdbId": "tt1196141",
+    "type": "movie",
+    "title": "Diary of a Wimpy Kid",
+    "overview": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
+    "year": "2010",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hCjoIDVSxR2j1qEXKso385v9JgS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rvIPOWt87wJMn0WEXf5t8bWjccd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]
