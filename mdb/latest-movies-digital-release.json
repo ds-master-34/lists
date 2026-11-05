@@ -126,6 +126,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1813355",
+    "tmdbId": 1813355,
+    "imdbId": "tt50389959",
+    "type": "movie",
+    "title": "A Story of Derry",
+    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cujdalUVXeFNfgGpzk3kdNF4DMQ.png",
+    "certificate": "R",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1727734",
     "tmdbId": 1727734,
     "imdbId": "tt43655467",
@@ -1478,6 +1499,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1291829",
+    "tmdbId": 1291829,
+    "imdbId": "tt5265480",
+    "type": "movie",
+    "title": "& Sons",
+    "overview": "A world-renowned but reclusive novelist, believing he is about to die, summons his estranged sons to his home. But instead of seeking forgiveness for their shattered family, he tells them a wild and unbelievable secret that could rewrite their past.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/slE4Q17nZe3Bd7PFCrgXXLm6reL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u05oHCf0dcGVwi9LT7iwvjEfdN8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uMyoszuFW58tlgD7E7hnKCSWgpx.png",
+    "certificate": "M",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1361982",
     "tmdbId": 1361982,
     "imdbId": "tt7265638",
@@ -2513,27 +2555,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1705729",
-    "tmdbId": 1705729,
-    "imdbId": "tt34584846",
-    "type": "movie",
-    "title": "Man of War",
-    "overview": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
-    "year": "2026",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qA0vLsX9A9kcDE2gQlRfYvje8SA.png",
-    "certificate": "R",
-    "runTimeMinutes": 111,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1725116",
     "tmdbId": 1725116,
     "imdbId": "tt43140642",
@@ -2804,27 +2825,6 @@
     "secondaryGenre": "Family",
     "originCountries": [
       "GB",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1227877",
-    "tmdbId": 1227877,
-    "imdbId": "tt30827810",
-    "type": "movie",
-    "title": "I Love Boosters",
-    "overview": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price — what they call 'fashion-forward philanthropy'.",
-    "year": "2026",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fBZ9cWUI1yB9Fcs2eoYZ4mmMUmI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bffuNBl0nUHIoMo4nq7pFxuzUbB.png",
-    "certificate": "R",
-    "runTimeMinutes": 113,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Science Fiction",
-    "originCountries": [
       "US"
     ],
     "originalLanguage": "en"

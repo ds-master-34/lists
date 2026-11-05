@@ -1,5 +1,26 @@
 [
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "320406",
     "tmdbId": 320406,
     "imdbId": "tt43619121",
@@ -7429,27 +7450,6 @@
     "certificate": "",
     "runTimeMinutes": 0,
     "primaryGenre": "",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "205319",
-    "tmdbId": 205319,
-    "imdbId": "tt26258202",
-    "type": "tv",
-    "title": "Daily Dose of Sunshine",
-    "overview": "A kind-hearted nurse working in psychiatry goes above and beyond to be a ray of light for those under her care, despite the challenges coming her way.",
-    "year": "2023",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d9hIiomaPXu6W9qATzPSqHgxze8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bhCUn6Z509qTV4eBJZtjtQ4ennL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1M1uTLRNZD9Yjdo5iXFXshPaQXq.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
