@@ -507,27 +507,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1796883",
-    "tmdbId": 1796883,
-    "imdbId": "tt49166238",
-    "type": "movie",
-    "title": "Biohazard",
-    "overview": "Ethan Winters, while searching for his missing wife, finds himself trapped by the Baker family - a deadly, unstoppable force driven to violence under the influence of a mysterious infection...",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3FqLdOQdX4VBk3dB663CCA8CAMS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oCsX2XMv5iJ5ClvnjYjBwXDqcov.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 19,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1302904",
     "tmdbId": 1302904,
     "imdbId": "tt32588798",
@@ -1495,27 +1474,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1291829",
-    "tmdbId": 1291829,
-    "imdbId": "tt5265480",
-    "type": "movie",
-    "title": "& Sons",
-    "overview": "A world-renowned but reclusive novelist, believing he is about to die, summons his estranged sons to his home. But instead of seeking forgiveness for their shattered family, he tells them a wild and unbelievable secret that could rewrite their past.",
-    "year": "2026",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/slE4Q17nZe3Bd7PFCrgXXLm6reL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u05oHCf0dcGVwi9LT7iwvjEfdN8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uMyoszuFW58tlgD7E7hnKCSWgpx.png",
-    "certificate": "M",
-    "runTimeMinutes": 119,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   },
