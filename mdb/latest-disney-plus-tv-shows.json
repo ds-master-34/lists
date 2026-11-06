@@ -105,27 +105,6 @@
     "originalLanguage": "fr"
   },
   {
-    "id": "332401",
-    "tmdbId": 332401,
-    "imdbId": "tt32642114",
-    "type": "tv",
-    "title": "City of Blood",
-    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
-    "year": "2026",
-    "rating": 4.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/b8CBU6tFHbR2ioQ21qDUjXtyp2X.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "",
-    "originCountries": [
-      "DE"
-    ],
-    "originalLanguage": "de"
-  },
-  {
     "id": "325755",
     "tmdbId": 325755,
     "imdbId": "tt37439410",
@@ -4206,6 +4185,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "223430",
+    "tmdbId": 223430,
+    "imdbId": "tt27331314",
+    "type": "tv",
+    "title": "The Secrets of Hillsong",
+    "overview": "With fresh reporting and analysis from journalists, historians and policymakers, go beyond the sensational headlines and behind the velvet rope to examine the church's long pattern of covering up misconduct to protect itself.",
+    "year": "2023",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nEQUKQ4R8gkQ1Tlah52pkCuGhYd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uN5onDK4R4Tram53ToAS55pl5kY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7lh7rknOg5Hu2lLR3CMgQuDhVHh.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   }
