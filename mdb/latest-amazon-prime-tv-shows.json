@@ -2766,6 +2766,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "225283",
+    "tmdbId": 225283,
+    "imdbId": "tt21278506",
+    "type": "tv",
+    "title": "Los Farad",
+    "overview": "The day Oskar, a typical local boy, crosses paths with the mysterious and wealthy Farad family, his life changes forever. Oskar enters a winner-take-all game, the world of international arms trafficking. In Marbella where the Farads live, luxury, adrenaline and intense emotions await him... But also a backside of violence and cynicism that tests his will.",
+    "year": "2023",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t2aNPWte1XmVbFL2HMppoQK3PG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4SHmUxCWfqJTNKXSvB44ndczdCN.jpg",
+    "logoUrl": null,
+    "certificate": "M18",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "155040",
     "tmdbId": 155040,
     "imdbId": "tt30241060",
@@ -3544,6 +3565,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "222913",
+    "tmdbId": 222913,
+    "imdbId": "tt26749347",
+    "type": "tv",
+    "title": "Induk Gajah",
+    "overview": "Tired of being forced to be thin and constantly being matched for an arranged marriage, Ira decides to pretend to accept her mother's offer to approach Marsel, the son of one of her mother's church friends. Both of them don't want an arranged marriage. On the pretext of getting to know each other, they ask for time of three months. This conspiracy to save each other leads them to unexpected things, including finding love.",
+    "year": "2023",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4REHahiSsuNnGitKGCAgRdZpfkZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nwluMJtmGnbjMWlEz2cqAX5DcF1.jpg",
+    "logoUrl": null,
+    "certificate": "PG",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ID"
+    ],
+    "originalLanguage": "id"
+  },
+  {
     "id": "211564",
     "tmdbId": 211564,
     "imdbId": "tt21064598",
@@ -4174,47 +4216,5 @@
       "JP"
     ],
     "originalLanguage": "ja"
-  },
-  {
-    "id": "212262",
-    "tmdbId": 212262,
-    "imdbId": "tt15530436",
-    "type": "tv",
-    "title": "Doomsday",
-    "overview": "In the Chertanovo area, known for periodic invasions and attractions, the Prince of Darkness himself suddenly appears. He has grandiose plans, but to implement them, he needs the help of his son, a supermarket cashier, who has a lot of questions for his father from hell. The all-powerful Prince of Darkness will have to build relationships with earthly relatives in order to carry out his plans and teach humanity a lesson.",
-    "year": "2022",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zgNsC620Qnkcl33tsgwfoOOatT9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBUHP2W5Upno8ETqVI59N0UDNuX.jpg",
-    "logoUrl": null,
-    "certificate": "18+",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "RU"
-    ],
-    "originalLanguage": "ru"
-  },
-  {
-    "id": "95403",
-    "tmdbId": 95403,
-    "imdbId": "tt8291284",
-    "type": "tv",
-    "title": "The Peripheral",
-    "overview": "Stuck in a small Appalachian town, a young woman’s only escape from the daily grind is playing advanced video games. She is such a good player that a company sends her a new video game system to test…but it has a surprise in store. It unlocks all of her dreams of finding a purpose, romance, and glamour in what seems like a game…but it also puts her and her family in real danger.",
-    "year": "2022",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2e5NNQu9B1fXBNllRj8fzysCguP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hIZFG7MK4leU4axRFKJWqrjhmxZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/r2BI1eFKLqsDF9GaecYcHkPSaWl.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
