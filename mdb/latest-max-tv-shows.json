@@ -3998,6 +3998,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "99145",
+    "tmdbId": 99145,
+    "imdbId": "tt11558684",
+    "type": "tv",
+    "title": "The Thaw",
+    "overview": "Set in Szczecin, Poland, the series begins after the body of a young woman is discovered under the melting ice. It asks ‘Who was she? Why did she die? Who did she leave behind?",
+    "year": "2022",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pgrdtzrel0eypTQpP1BXi8VcrOV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Gmqi22GyK9HuYjHVnvOKAFgLd0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Uxd86wcsM7RL1Fa3vABmuSJBRE.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": "pl"
+  },
+  {
     "id": "116761",
     "tmdbId": 116761,
     "imdbId": "tt10975574",
@@ -4180,27 +4201,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 58,
     "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "81723",
-    "tmdbId": 81723,
-    "imdbId": "tt4406178",
-    "type": "tv",
-    "title": "The Gilded Age",
-    "overview": "It’s 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lBsDmxBI4ELLmgF5uhUCvjgpQxh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jPcQlhoJ3LrOfKwCvGD58P8rC5b.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aSeR1gVhhDQRPDpAu0tB44gXw79.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "US"

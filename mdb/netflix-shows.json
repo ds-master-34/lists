@@ -3498,6 +3498,27 @@
     "originalLanguage": "th"
   },
   {
+    "id": "245159",
+    "tmdbId": 245159,
+    "imdbId": "tt31116964",
+    "type": "tv",
+    "title": "Shine",
+    "overview": "In 1969 Bangkok, idealistic economist Trin meets carefree musician Tanwa amid political unrest, sparking a forbidden romance that tests their beliefs.",
+    "year": "2025",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wRVei6yluFs8JrA1yP8FrEG5djy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bnsm6aeVDxXRg39uJZLjDhQvxyz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7ggCcji5McEF4bwXMmiHdFuHPDi.png",
+    "certificate": "น 15+",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "281004",
     "tmdbId": 281004,
     "imdbId": "tt37660730",
@@ -6295,27 +6316,6 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "AU"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "246246",
-    "tmdbId": 246246,
-    "imdbId": "tt31260386",
-    "type": "tv",
-    "title": "Beauty in Black",
-    "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
-    "year": "2024",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3T9SX0tA6VqIrQCNuO5B7gGxyF5.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }

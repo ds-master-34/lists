@@ -4032,6 +4032,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "90706",
+    "tmdbId": 90706,
+    "imdbId": "tt10544464",
+    "type": "tv",
+    "title": "Doctor John",
+    "overview": "Cha Yo-Han—an arrogant but genius doctor of anesthesiology—and Kang Shi-Young—a smart, warm resident of anesthesiology—work together to help people with mysterious cases of acute or chronic pain.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2EtZ91FzsFRe3FFtAr29ESgW9QK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s0ZXX7Zr2oX4VDUMHRHXjkXeDeN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qKmMz8AOzSQLCw7j0GEpnGuRu9T.png",
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "95484",
     "tmdbId": 95484,
     "imdbId": "tt11378124",
@@ -4131,6 +4152,27 @@
     "runTimeMinutes": 47,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "93097",
+    "tmdbId": 93097,
+    "imdbId": "tt10826064",
+    "type": "tv",
+    "title": "When the Camellia Blooms",
+    "overview": "Dongbaek is a single mother. When a potential new love enters her life, she finds ways to defy the social stigmas surrounding her.",
+    "year": "2019",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bCrYA7xyHJtPnTWZU60pVBRSFZc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7OCAlRz13R9HZIbXTNUfyEAYyvf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/otNWGx83JdwCUYbJ5VoHKDcHK1K.png",
+    "certificate": "12",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4452,6 +4494,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "214999",
+    "tmdbId": 214999,
+    "imdbId": "tt27042206",
+    "type": "tv",
+    "title": "The Good Bad Mother",
+    "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
+    "year": "2023",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vtDLhvpTk1xcaBCKubSH0if575G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vP4DNFkN1tGidCkHDuHewN5buYM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "296009",
     "tmdbId": 296009,
     "imdbId": "tt39375130",
@@ -4572,6 +4635,27 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "259710",
+    "tmdbId": 259710,
+    "imdbId": "tt37262316",
+    "type": "tv",
+    "title": "Confidence Queen",
+    "overview": "Three con artists with different backgrounds, team up for a daring and adventurous scheme of revenge against the villains of this era.",
+    "year": "2025",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wUCmw1B6MBRiN6TUSbssKHuJnV0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/brugu6L6cGP7I0G1EH7id46brj2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/q86aI1A3YTlenJBcTpSa2seYEFq.png",
+    "certificate": "15",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4719,6 +4803,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "152512",
+    "tmdbId": 152512,
+    "imdbId": "tt19851552",
+    "type": "tv",
+    "title": "Love All Play",
+    "overview": "The hottest sports romance between Park Tae-yang, a passionate professional badminton player, and Park Tae-joon, who treats playing badminton as a job!",
+    "year": "2022",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mjLO7N8N9nudOCMwEGzGYEUHMYk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xc17KU4uoBtzKgjbHnIMxXkqk0X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ae1lG0FGLU4uibaYDnCo2hYQvGI.png",
+    "certificate": "15",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8245,6 +8350,48 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61048",
+    "tmdbId": 61048,
+    "imdbId": "tt3284102",
+    "type": "tv",
+    "title": "The Prime Minister and I",
+    "overview": "A tabloid reporter and a widowed prime minister enter a contract marriage, navigating politics, family, and unexpected romance.",
+    "year": "2013",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dTIpXvBzzbqHxkigHkovjt9zxqz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eMJFY3NpQHh4bgheStnRKKLUTgN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dMATWkgqDpRf0zSDsqEBBt9YPZE.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "13946",
+    "tmdbId": 13946,
+    "imdbId": "tt1765453",
+    "type": "tv",
+    "title": "Thank You",
+    "overview": "Gi Seo is a renowned doctor at the top of his profession, but he’s racked with guilt because he wasn’t able to save his girlfriend, Ji Min, who was HIV-positive. He escapes to work on a small island and fulfill Ji Min’s dying wish: to find a little girl named Bom who she accidentally infected with HIV while she was a medical intern. Bom lives on the island with her single mom Young Shin and grandfather, who has dementia. Gi Seo grows increasingly fond of the family and finds a reason to live again, discovering beautiful miracles on the island.",
+    "year": "2007",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aMKRuLrevCd4lsZx2HBJq6QtVPd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kCEMckVuZL83oTT1YxnmSLkFks2.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

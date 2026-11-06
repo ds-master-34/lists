@@ -970,6 +970,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "270603",
+    "tmdbId": 270603,
+    "imdbId": "tt33334216",
+    "type": "tv",
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "overview": "Born into a prestigious family of master swordsmen, Elymas Edvaughn's future shatters when he awakens the so-called \"defective\" Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the \"weakest\" class.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bADzMfofNWYdxLnlqNuMkO6du34.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cViYa926pHMY1d1u5jkJkgmMugH.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "284833",
     "tmdbId": 284833,
     "imdbId": "tt35854736",
@@ -1557,6 +1578,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "283428",
+    "tmdbId": 283428,
+    "imdbId": "tt39123061",
+    "type": "tv",
+    "title": "The Ramparts of Ice",
+    "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a5okATkpmXxAClSnAjGP4ums77c.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "218344",
@@ -2311,6 +2353,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "92611",
+    "tmdbId": 92611,
+    "imdbId": "tt9780442",
+    "type": "tv",
+    "title": "RuPaul's Drag Race UK",
+    "overview": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+    "year": "2019",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7fsT1NnmNbden0mptoVinBNp4ih.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3NRuvrpZb2J26jnGHatzrqmo31z.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   },
@@ -3198,6 +3261,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "311648",
+    "tmdbId": 311648,
+    "imdbId": "tt47661704",
+    "type": "tv",
+    "title": "Make Me Tingle",
+    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "2370",
     "tmdbId": 2370,
     "imdbId": "tt0437005",
@@ -3301,6 +3385,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "317326",
+    "tmdbId": 317326,
+    "imdbId": "tt47983833",
+    "type": "tv",
+    "title": "Fool in Love",
+    "overview": "A powerful heir uses business to pursue an aristocrat, only to become hopelessly entangled in a romantic trap of his own making.",
+    "year": "2026",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tE5gpl1mUEnyyGS0KpaOqs042Z9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hlspaGaavZx1iIwhWbrKU8gH2XU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f9079w2qmvWTFgsQPfqmdrxpxSe.png",
+    "certificate": "น 18+",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
   },
   {
     "id": "333101",
@@ -3576,6 +3681,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "200777",
+    "tmdbId": 200777,
+    "imdbId": "tt25531288",
+    "type": "tv",
+    "title": "The Iceblade Sorcerer Shall Rule the World",
+    "overview": "The Arnold Academy of Magic is a school for the elite...and Ray White is just your ordinary guy. In fact, he doesn't seem particularly skilled with magic at all, and is a bit of a klutz. Which is why he has nothing to do with the rumor that one of the great magicians, the Iceblade Sorcerer, is a member of the incoming class...right?",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u2KOdIKAr7XsZjbi6Ku8POnAcIu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oL459mgvcnc3jL90K7zkfvXQu0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8OsfCGXIj6dc65ln2Cr567zh2sj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "200875",
     "tmdbId": 200875,
     "imdbId": "tt19244304",
@@ -3786,6 +3912,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "203489",
+    "tmdbId": 203489,
+    "imdbId": "tt20859904",
+    "type": "tv",
+    "title": "Mike Judge's Beavis and Butt-Head",
+    "overview": "Two teenage heavy-metal music fans occasionally do idiotic things because they're bored. For them, everything is \"cool\" or \"sucks.\"",
+    "year": "2022",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/75am8jsmRHHcpIPkm4RyrMn851A.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rAUxCUyroOvjbTYZDXaRLJRoVHr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/caRCqMwsn7vJTvlo3u4FSv59KEl.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "4629",
     "tmdbId": 4629,
     "imdbId": "tt0118480",
@@ -3932,6 +4079,27 @@
       "JP"
     ],
     "originalLanguage": "ja"
+  },
+  {
+    "id": "298469",
+    "tmdbId": 298469,
+    "imdbId": "tt36933520",
+    "type": "tv",
+    "title": "99 to Beat",
+    "overview": "100 players compete in unique, funny games. Last-place finishers get eliminated each round. Don't finish last to stay in. Last contestant standing wins $1,000,000.",
+    "year": "2025",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/32wgp1TirfeV0wjQ7Fn0JuZzGKm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3zpScPAgn0Z9ddfxKwvkRasKyf0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kgkqH3f0wH47fD2PWfWE8YHoZfp.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "85552",
@@ -4096,6 +4264,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Comedy",
     "secondaryGenre": "News",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "254514",
+    "tmdbId": 254514,
+    "imdbId": "tt32374361",
+    "type": "tv",
+    "title": "Harry Potter: Wizards of Baking",
+    "overview": "Pairs of professional bakers compete to create spellbinding edible showpieces on the actual sets where the Harry Potter films were made.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yHBttKi9pU9A1FdAKL1CMACBzIp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9mDlwBdCu501924dXnzz2Gtc8XI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6UyNPkN149yMyLANdSnYTvvIczI.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -4354,6 +4543,69 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "91555",
+    "tmdbId": 91555,
+    "imdbId": "tt10691888",
+    "type": "tv",
+    "title": "All Elite Wrestling: Dynamite",
+    "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+    "year": "2019",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2xAAC0Hwm9yxMn9ukgglfIuABc1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3abhCrdeZn5tm2YQHoAlkwSPVRV.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2122",
+    "tmdbId": 2122,
+    "imdbId": "tt0118375",
+    "type": "tv",
+    "title": "King of the Hill",
+    "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+    "year": "1997",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7vRr20jKrykPlOa8cEeqi12Zyp0.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "249023",
+    "tmdbId": 249023,
+    "imdbId": "tt27370649",
+    "type": "tv",
+    "title": "North of North",
+    "overview": "A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won't be easy in a small Arctic town where everybody knows your business.",
+    "year": "2025",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h1gTM6eEsXqlTh4RykSgM22gIG9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sDxHU2H98qa7DSpQ0mylVNlRj7X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qSfDIMfqjpNpANFpXTMBReFWzAG.png",
+    "certificate": "14+",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "241609",
     "tmdbId": 241609,
     "imdbId": "tt30459041",
@@ -4480,6 +4732,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "336240",
+    "tmdbId": 336240,
+    "imdbId": "tt42767924",
+    "type": "tv",
+    "title": "A Couple of Lies",
+    "overview": "A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1k8bldCgOvWk9IDaMqokUE78qaX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": "sv"
+  },
+  {
     "id": "1409",
     "tmdbId": 1409,
     "imdbId": "tt1124373",
@@ -4501,6 +4774,69 @@
     "originalLanguage": "en"
   },
   {
+    "id": "194583",
+    "tmdbId": 194583,
+    "imdbId": "tt18546730",
+    "type": "tv",
+    "title": "The Walking Dead: Dead City",
+    "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ybJWS5ax2iJjfJ22SwYEYXDXWrB.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "228026",
+    "tmdbId": 228026,
+    "imdbId": "tt27954448",
+    "type": "tv",
+    "title": "Law & Order Toronto: Criminal Intent",
+    "overview": "An elite squad of detectives investigate high-profile crime and corruption in metro Toronto.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hZ23aFezga9SlsOsZlKGbq0xP8w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zR5heBBqrKcx4TO2LwLD5Pg2H4c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zxMi43DtThzaQhPb4qn9nXSC0GA.png",
+    "certificate": "14+",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "44217",
+    "tmdbId": 44217,
+    "imdbId": "tt2306299",
+    "type": "tv",
+    "title": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "year": "2013",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g4t8s34ONUnxLm7AfgOI82t4ozu.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1419",
     "tmdbId": 1419,
     "imdbId": "tt1219024",
@@ -4518,6 +4854,27 @@
     "secondaryGenre": "Crime",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "61662",
+    "tmdbId": 61662,
+    "imdbId": "tt3526078",
+    "type": "tv",
+    "title": "Schitt's Creek",
+    "overview": "Formerly filthy rich video store magnate Johnny Rose, his soap star wife Moira, and their two kids, über-hipster son David and socialite daughter Alexis, suddenly find themselves broke and forced to live in Schitt's Creek, a small depressing town they once bought as a joke.",
+    "year": "2015",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ftNmVV8LuNVmtB8mzoUTucozVKE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1VUHjXi1kaw58X2e53lWqSltjQ6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
     ],
     "originalLanguage": "en"
   },
@@ -4728,6 +5085,69 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83867",
+    "tmdbId": 83867,
+    "imdbId": "tt9253284",
+    "type": "tv",
+    "title": "Andor",
+    "overview": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+    "year": "2022",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/quCeAmVQHfsdcYkicbxZWVauCVb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2vyPbpZVYkYAzU8QqyGi6EmawB5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "15260",
+    "tmdbId": 15260,
+    "imdbId": "tt1305826",
+    "type": "tv",
+    "title": "Adventure Time",
+    "overview": "Young Finn and his shape-shifting dog buddy, Jake, go on a series of surreal adventures as they journey through the postapocalyptic Land of Ooo.",
+    "year": "2010",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d8rse1RgMzXwmZvBpDvcG1VUO2Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rIi0lY2UftYuKDJ4OlIefDdijve.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "260458",
+    "tmdbId": 260458,
+    "imdbId": "tt33049767",
+    "type": "tv",
+    "title": "Adults",
+    "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h8GrwttOjjQEoQJ72W9ugkyIVaB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vlcQQkQUm66RVJgwVwdASAcgbEN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },

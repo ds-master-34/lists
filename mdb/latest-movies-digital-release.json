@@ -2808,5 +2808,26 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1382832",
+    "tmdbId": 1382832,
+    "imdbId": "tt34494076",
+    "type": "movie",
+    "title": "Hungry",
+    "overview": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+    "year": "2026",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4uNhvGxBDiO0mU5UhxuXBsJwKF3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dZpQnSut6wnGeQMZLlJzBpfbsdC.png",
+    "certificate": "16",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]

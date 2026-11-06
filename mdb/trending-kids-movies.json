@@ -3154,6 +3154,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "888",
+    "tmdbId": 888,
+    "imdbId": "tt0109813",
+    "type": "movie",
+    "title": "The Flintstones",
+    "overview": "Modern Stone Age family the Flintstones hit the big screen in this live-action version of the classic cartoon. Fred helps Barney adopt a child. Barney sees an opportunity to repay him when Slate Mining tests its employees to find a new executive. But no good deed goes unpunished.",
+    "year": "1994",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qbojLbbpSaNSerWa2moIrt0C8hy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4byUSbNrjqCSjqVYrJU6AxqyZYr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2dOGnbK4MsCZtOTWV7UpvI2W1ks.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10865",
     "tmdbId": 10865,
     "imdbId": "tt0230011",
