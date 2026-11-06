@@ -189,27 +189,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "316702",
     "tmdbId": 316702,
     "imdbId": "tt49692512",
@@ -231,27 +210,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "127529",
-    "tmdbId": 127529,
-    "imdbId": "tt26315487",
-    "type": "tv",
-    "title": "Bloodhounds",
-    "overview": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice and protect their loved ones.",
-    "year": "2023",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/luUqD7PtUpwo51qG8rpXcecaO4b.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 75,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "307478",
     "tmdbId": 307478,
     "imdbId": "tt47657141",
@@ -267,6 +225,27 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "127529",
+    "tmdbId": 127529,
+    "imdbId": "tt26315487",
+    "type": "tv",
+    "title": "Bloodhounds",
+    "overview": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice and protect their loved ones.",
+    "year": "2023",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/luUqD7PtUpwo51qG8rpXcecaO4b.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -1071,27 +1050,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "229891",
-    "tmdbId": 229891,
-    "imdbId": "tt30293074",
-    "type": "tv",
-    "title": "Can This Love Be Translated?",
-    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rvOcj4iGF5aMfvNVwQTtWN6rGuU.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "212204",
     "tmdbId": 212204,
     "imdbId": "tt27446493",
@@ -1296,6 +1254,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "229891",
+    "tmdbId": 229891,
+    "imdbId": "tt30293074",
+    "type": "tv",
+    "title": "Can This Love Be Translated?",
+    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rvOcj4iGF5aMfvNVwQTtWN6rGuU.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1533,27 +1512,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "208825",
-    "tmdbId": 208825,
-    "imdbId": "tt21874396",
-    "type": "tv",
-    "title": "Parasyte: The Grey",
-    "overview": "When unidentified parasites violently take over human hosts and gain power, humanity must rise to combat the growing threat.",
-    "year": "2024",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/byAIvItLVh7ggG7jvl9O3LwKzAz.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "303143",
     "tmdbId": 303143,
     "imdbId": "tt38828946",
@@ -1569,6 +1527,27 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "208825",
+    "tmdbId": 208825,
+    "imdbId": "tt21874396",
+    "type": "tv",
+    "title": "Parasyte: The Grey",
+    "overview": "When unidentified parasites violently take over human hosts and gain power, humanity must rise to combat the growing threat.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9UPneQ4NF7g6WDNSFE5qyt88wJn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p4rJTY1rvQrffoh2P09sty5cz8B.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/byAIvItLVh7ggG7jvl9O3LwKzAz.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -2163,6 +2142,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "198004",
+    "tmdbId": 198004,
+    "imdbId": "tt26693803",
+    "type": "tv",
+    "title": "King the Land",
+    "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
+    "year": "2023",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Ay4fPiG6MUwEJMoIIrUou276xm.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "215001",
     "tmdbId": 215001,
     "imdbId": "tt27974068",
@@ -2310,27 +2310,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "287011",
-    "tmdbId": 287011,
-    "imdbId": "tt39387440",
-    "type": "tv",
-    "title": "Sold Out on You",
-    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kOveERxl0qVsyiZtJOf2v632GWb.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "116612",
     "tmdbId": 116612,
     "imdbId": "tt13634872",
@@ -2367,27 +2346,6 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "198004",
-    "tmdbId": 198004,
-    "imdbId": "tt26693803",
-    "type": "tv",
-    "title": "King the Land",
-    "overview": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.",
-    "year": "2023",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8Ay4fPiG6MUwEJMoIIrUou276xm.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2436,6 +2394,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "126035",
+    "tmdbId": 126035,
+    "imdbId": "tt14518284",
+    "type": "tv",
+    "title": "Nevertheless,",
+    "overview": "The intoxicating charm of a flirtatious art school classmate pulls a reluctant love cynic into a friends-with-benefits relationship.",
+    "year": "2021",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pWIcIhpQibR1eDU0As4HRZeb8EL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cPLtnxTlFpCIyH6AkGNuGCluvY1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fDsFgLql4MBm3pebGfqB4L4fOWZ.png",
+    "certificate": "19",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233100",
     "tmdbId": 233100,
     "imdbId": "tt34730468",
@@ -2449,27 +2428,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/nYRQResgBR8fnBgj7aEplyb9zVa.png",
     "certificate": "PG13",
     "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "99048",
-    "tmdbId": 99048,
-    "imdbId": "tt12867810",
-    "type": "tv",
-    "title": "Start-Up",
-    "overview": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
-    "year": "2020",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v9Ej3dWhR0nFcLPOtvdPFXC6DN9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/AvhQDybz5p2MIzrjlYXIfz9l5ev.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 81,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -2556,6 +2514,27 @@
     "runTimeMinutes": 46,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "297640",
+    "tmdbId": 297640,
+    "imdbId": "tt39010903",
+    "type": "tv",
+    "title": "Filing for Love",
+    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6sxEYsm7ciMZYLjE8vABffSwKkj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -2940,6 +2919,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "99048",
+    "tmdbId": 99048,
+    "imdbId": "tt12867810",
+    "type": "tv",
+    "title": "Start-Up",
+    "overview": "Young entrepreneurs aspiring to launch virtual dreams into reality compete for success and love in the cutthroat world of Korea's high-tech industry.",
+    "year": "2020",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v9Ej3dWhR0nFcLPOtvdPFXC6DN9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AvhQDybz5p2MIzrjlYXIfz9l5ev.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "229955",
     "tmdbId": 229955,
     "imdbId": "tt29198867",
@@ -2997,27 +2997,6 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "295509",
-    "tmdbId": 295509,
-    "imdbId": "tt38626513",
-    "type": "tv",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qe82pEsB0ubb7ZKxRmJPd7oDFm4.png",
-    "certificate": "15",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3360,6 +3339,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "287011",
+    "tmdbId": 287011,
+    "imdbId": "tt39387440",
+    "type": "tv",
+    "title": "Sold Out on You",
+    "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kOveERxl0qVsyiZtJOf2v632GWb.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "137872",
     "tmdbId": 137872,
     "imdbId": "tt18970038",
@@ -3501,27 +3501,6 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "126035",
-    "tmdbId": 126035,
-    "imdbId": "tt14518284",
-    "type": "tv",
-    "title": "Nevertheless,",
-    "overview": "The intoxicating charm of a flirtatious art school classmate pulls a reluctant love cynic into a friends-with-benefits relationship.",
-    "year": "2021",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pWIcIhpQibR1eDU0As4HRZeb8EL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cPLtnxTlFpCIyH6AkGNuGCluvY1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fDsFgLql4MBm3pebGfqB4L4fOWZ.png",
-    "certificate": "19",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3732,27 +3711,6 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "297640",
-    "tmdbId": 297640,
-    "imdbId": "tt39010903",
-    "type": "tv",
-    "title": "Filing for Love",
-    "overview": "A romantic comedy about Joo In-ah, a charismatic audit department head with a secret, and Noh Ki-joon, the department's ace who is suddenly demoted to deal with the company's scandals.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5dgTRxtP5g07RSH5LEOl367Fuwi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6sxEYsm7ciMZYLjE8vABffSwKkj.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4074,21 +4032,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "313289",
-    "tmdbId": 313289,
-    "imdbId": "tt39961100",
+    "id": "95484",
+    "tmdbId": 95484,
+    "imdbId": "tt11378124",
     "type": "tv",
-    "title": "Battle of Fates",
-    "overview": "Is our fate predetermined? And can anyone truly read it? A groundbreaking competition dares to find out. Korea's top 49 top Fate Readers—masters of shamanism, saju, tarot, and face reading—put their pride on the line. Only those who can genuinely read fate will survive. Who will be the winner?",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o4DOGStruvyfrfKhazBO9UbxRhR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hiuzn8JQ4Q0VjA8AaU1qhL5Rjx8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/v7SJ9E34ZFJuLkKZU9MpZ9pUOy8.png",
-    "certificate": "15",
-    "runTimeMinutes": 98,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Reality",
+    "title": "Stove League",
+    "overview": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
+    "year": "2019",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6C69xR1hMM66pZmlEAKeIDXpssh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3sfdTRELhR64w2eueRJagITO609.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4284,27 +4242,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "231749",
-    "tmdbId": 231749,
-    "imdbId": "tt30368332",
-    "type": "tv",
-    "title": "Miss Night and Day",
-    "overview": "A bittersweet romantic comedy about a job seeker who suddenly gets stuck in time as an old-ager one day, and an extraordinary internship with a prosecutor who is caught up in her all day and night.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yfE5kgRsgZD9lXtCS0dnfOz7Kk5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/r2yUQj5vGHLyo7KCjCJLG78CExc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jqdQT8yY21XE1hdi4pkndUfBJym.png",
-    "certificate": "12",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "116045",
     "tmdbId": 116045,
     "imdbId": "tt13670090",
@@ -4368,27 +4305,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "297424",
-    "tmdbId": 297424,
-    "imdbId": "tt39453765",
-    "type": "tv",
-    "title": "Our Universe",
-    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
-    "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vFFP8pU2zkywEhBk84loUAC9SQJ.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "229480",
     "tmdbId": 229480,
     "imdbId": "tt32981987",
@@ -4446,6 +4362,27 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "297424",
+    "tmdbId": 297424,
+    "imdbId": "tt39453765",
+    "type": "tv",
+    "title": "Our Universe",
+    "overview": "Two in-laws forced to raise their orphaned nephew together slowly overcome their misunderstandings, finding personal growth and an unexpected romance through co-parenting under one roof.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d0ZW2r5L8Ma50gvkvSY7BZSE6fb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bHv9tTPd0dxpV2OD3WeDoZOFzPQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vFFP8pU2zkywEhBk84loUAC9SQJ.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4536,21 +4473,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "227192",
-    "tmdbId": 227192,
-    "imdbId": "tt29311421",
+    "id": "295509",
+    "tmdbId": 295509,
+    "imdbId": "tt38626513",
     "type": "tv",
-    "title": "Pyramid Game",
-    "overview": "Every last Thursday of the month at an all-girls high school, the students of Class 2–5 cast their votes in a popularity poll. The results classify them into Grades A, B, C, D, and F. If they fall into Grade F, they become legitimate victims of school violence.",
-    "year": "2024",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pBUERwWNCuO36CPxiVFsoQCPu7W.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dCZ1lUvyItP8z9phfmu871xlFIf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9uMnB5gdANzSe0tFLIDa2irsOEc.png",
-    "certificate": "19",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qe82pEsB0ubb7ZKxRmJPd7oDFm4.png",
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4614,27 +4551,6 @@
     "runTimeMinutes": 53,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "95484",
-    "tmdbId": 95484,
-    "imdbId": "tt11378124",
-    "type": "tv",
-    "title": "Stove League",
-    "overview": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
-    "year": "2019",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6C69xR1hMM66pZmlEAKeIDXpssh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3sfdTRELhR64w2eueRJagITO609.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4780,27 +4696,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/sT8YlpJHNMW4uG4xC2Hb15oVQ3.png",
     "certificate": "15",
     "runTimeMinutes": 61,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "333",
-    "tmdbId": 333,
-    "imdbId": "tt0409546",
-    "type": "tv",
-    "title": "Jewel in the Palace",
-    "overview": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
-    "year": "2003",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8ulaHSy8b76VQM6efkin7bxthfB.png",
-    "certificate": "NR",
-    "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -7572,6 +7467,27 @@
     "certificate": "L",
     "runTimeMinutes": 10,
     "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "333",
+    "tmdbId": 333,
+    "imdbId": "tt0409546",
+    "type": "tv",
+    "title": "Jewel in the Palace",
+    "overview": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
+    "year": "2003",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8ulaHSy8b76VQM6efkin7bxthfB.png",
+    "certificate": "NR",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
