@@ -1,5 +1,26 @@
 [
   {
+    "id": "1102533",
+    "tmdbId": 1102533,
+    "imdbId": "tt27189785",
+    "type": "movie",
+    "title": "ICU",
+    "overview": "Set against the tense backdrop of a hospital's intensive care unit, the story follows a chaotic day marked by a brutal attack and a sudden family emergency that entangles enemies and loved ones alike. As critical decisions unfold under immense pressure, hidden truths, fear, and fate collide.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yptmMlu702EcBldnI9fElgSMd9V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a4IYmygyUzKfm8rg7ztfo5Kmpwh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/36qedKCi7rw9XazI4KkVzrILWqP.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ml"
+  },
+  {
     "id": "1250502",
     "tmdbId": 1250502,
     "imdbId": "tt34284946",
@@ -49,7 +70,7 @@
     "title": "Adinaasam Vellapokkam",
     "overview": "Four students at strict Liberty Engineering College encounter a gangster who sneaks in as a motivational speaker. The stern principal watches everyone closely as events unfold.",
     "year": "2025",
-    "rating": 8,
+    "rating": 7.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rI7Yu92YOdukaaKopASwipGLcXD.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/wSrFXvII1UkkyLq8WmT96r49z4J.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/w9y98WICtHOPMT20FeQwQUy2Jsy.png",
@@ -1393,7 +1414,7 @@
     "title": "Kanimangalam Kovilakam",
     "overview": "A haunted cemetery draws attention away from the real supernatural force lurking in a nearby hostel, where three students become entangled with an unexplained energy.",
     "year": "2026",
-    "rating": 5.2,
+    "rating": 5.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7iCV99rBXcrU34AU8LAeUUOudHu.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/j8eu70oQnqakpKXWNZkV4ZGhDGV.jpg",
     "logoUrl": null,
@@ -2359,7 +2380,7 @@
     "title": "Nidhiyum Bhoothavum",
     "overview": "Three young mechanics move their bike repair workshop to an isolated homestay rumoured to be haunted - only to encounter chilling, unexplained events that soon come to life and cannot be ignored.",
     "year": "2025",
-    "rating": 2.6,
+    "rating": 2.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oS6kVSdNDmZs1KVcnJtpS9ZHjZ4.jpg",
     "backdropUrl": null,
     "logoUrl": null,

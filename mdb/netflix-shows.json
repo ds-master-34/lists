@@ -21,6 +21,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "336240",
+    "tmdbId": 336240,
+    "imdbId": "tt42767924",
+    "type": "tv",
+    "title": "A Couple of Lies",
+    "overview": "A seemingly idyllic home swap between Sicily and Stockholm turns toxic as two wealthy couples go to extremes to protect themselves — and their secrets.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1k8bldCgOvWk9IDaMqokUE78qaX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gHCHx0eC1DoTho3L3yoBnf3RBp3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": "sv"
+  },
+  {
     "id": "333533",
     "tmdbId": 333533,
     "imdbId": "tt44941753",
@@ -2598,7 +2619,7 @@
     "title": "Goddess Bless You from Death",
     "overview": "A gifted young man and a rational detective investigate brutal forest murders, uncovering ancient beliefs and dangers that defy all logic.",
     "year": "2025",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ecoTzXCeyzXEG0G99vUUi8yAz5V.png",
@@ -3084,7 +3105,7 @@
     "title": "Haunted Hotel",
     "overview": "After inheriting a hotel from her late brother, a single mom moves in with his good-natured ghost — and high-maintenance guests who will never check out.",
     "year": "2025",
-    "rating": 7.7,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/4XC9L1t7bobqSJMCqcan3LxA4nu.png",
@@ -6293,27 +6314,6 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "272299",
-    "tmdbId": 272299,
-    "imdbId": "tt33480540",
-    "type": "tv",
-    "title": "This Is the Zodiac Speaking",
-    "overview": "In this true-crime docuseries, a family searching for answers shares clues and eye-opening testimonies about the prime suspect in the Zodiac murders.",
-    "year": "2024",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/crvYcZTN7TTEa85nClY3JqL2F0O.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rissCZ7z06Zm41q1KDc2TDDJRf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lP5l8tiwTN1GSTf5FKFZmhq9gDS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],

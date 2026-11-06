@@ -7,7 +7,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -3145,6 +3145,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "130845",
+    "tmdbId": 130845,
+    "imdbId": "tt16246260",
+    "type": "tv",
+    "title": "Soap Opera",
+    "overview": "Isabel is a promising screenwriter who has dedicated her life to become a writer for a hit telenovela. When she finally gets her chance, her mentor Lauro Valente betrays her. At the premiere, Isabel decides to confront him and magically ends up in his telenovela as the main character. From the inside, she will be able to prove her creativity.",
+    "year": "2023",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/msMIkS6HPRWWXXHLaTa8nQLbnz6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gU2Qr6kIGipMUB3yDKmAAV0xSO8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4DLzsUofdiDdo6Ck7Qb4zHYAANn.png",
+    "certificate": "14",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "217825",
     "tmdbId": 217825,
     "imdbId": "tt9174630",
@@ -3353,6 +3374,27 @@
       "DE"
     ],
     "originalLanguage": "de"
+  },
+  {
+    "id": "226055",
+    "tmdbId": 226055,
+    "imdbId": "tt21132302",
+    "type": "tv",
+    "title": "Safe Home",
+    "overview": "Twenty-something Phoebe leaves her job at a prominent law firm to work at a family violence legal centre. Pressure mounts to save the centre as relationships are tested.",
+    "year": "2023",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iEKeAeyg8P5KCIK6rau9hpQgzUi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6utj6kV9H4MHgl2jl8Kw8gozidI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6kin8gZXaBMTwdRmw5o33aKxQ8N.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "206619",
@@ -3629,6 +3671,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "220670",
+    "tmdbId": 220670,
+    "imdbId": "tt21057886",
+    "type": "tv",
+    "title": "Shelved",
+    "overview": "The eclectic staff and patrons in the underfunded Jameson branch of the Metropolitan Public Library deal with the community and each other’s eccentricities.",
+    "year": "2023",
+    "rating": 5.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mjKpc3RMfWF8u4GO7c15cweq3qy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8OhEqMMAbgvM3sepMoGJMdW4q9n.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rmyNaiJPydJXBFUQKbOhhIczoG6.svg",
+    "certificate": "14+",
+    "runTimeMinutes": 22,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "221483",
     "tmdbId": 221483,
     "imdbId": "tt14136806",
@@ -3796,6 +3859,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "209751",
+    "tmdbId": 209751,
+    "imdbId": "tt23860034",
+    "type": "tv",
+    "title": "Payback: Money and Power",
+    "overview": "Eun Yong, a money business titan and an affluent financial capitalist, has been living a life of a recluse in the pastures of Mongolia. Eun returns to Korea when his nephew Tae-chun and his late benefactor's daughter Joon-gyeong enlists his help. He prepares for war against corrupt powers to protect his beloved family and to avenge the death of a dear old friend.",
+    "year": "2023",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gYMPoSUPI0MQPMKUFPVa32aXxPb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o7RHjxKydqkkzLrFpZtrnBBQUr0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h1geSh2buHe6ED1pU7sQxMQdUab.png",
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "210178",
@@ -4132,89 +4216,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "208061",
-    "tmdbId": 208061,
-    "imdbId": "tt13314510",
-    "type": "tv",
-    "title": "High School",
-    "overview": "A story about finding your own identity—a journey made even more complicated when you have a twin whose own struggle and self-discovery so closely mimics your own. Told through a backdrop of ‘90s grunge and rave culture, the series weaves between parallel and discordant memories of sisters growing up down the hall from one another. Based on the autobiographical book High School by musicians Tegan and Sara.",
-    "year": "2022",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cKasVe3wYtZpfQamxZlRCWYeqgX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tbskwZdd1X9nCxF3GJ1FlfJ5uY6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zkTDlEpSNHZyAVsHpsUoOGp49fF.svg",
-    "certificate": "",
-    "runTimeMinutes": 29,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "210793",
-    "tmdbId": 210793,
-    "imdbId": "tt22309638",
-    "type": "tv",
-    "title": "Filthy Envy",
-    "overview": "Four great friends turn a celebration dinner into a complete nightmare; things turn toxic when friendship and envy sit together at the table.",
-    "year": "2022",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xZ4YjPaYkv57PpwtU8u1EsSkQHV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c25MJlF7KgvC35W8FN8xVrsB9bR.jpg",
-    "logoUrl": null,
-    "certificate": "TV-14",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "CO"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "112321",
-    "tmdbId": 112321,
-    "imdbId": "tt10698534",
-    "type": "tv",
-    "title": "A Private Affair",
-    "overview": "Marina Quiroga, a daring upper-class girl with a detective's soul, sets off to catch the serial killer that has been terrorizing her town with her faithful butler Hector's help.",
-    "year": "2022",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lmGRZEuIQtArmyGjt6Ay5Y74hk2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s42RBJH1I9yyRRSdxlUzYmAPgGH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cVKhvY9oRXKJpcOMzM8hI8Bvidm.svg",
-    "certificate": "16",
-    "runTimeMinutes": 48,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "210374",
-    "tmdbId": 210374,
-    "imdbId": "tt22174292",
-    "type": "tv",
-    "title": "More Than Words",
-    "overview": "Mieko and Makio's youthful friendship with Eiji evolves into love, parenthood, and reunions, painting a bittersweet portrait of growing up.",
-    "year": "2022",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cfDPJLZjlKOdaXsJD4S8HYZgFgE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8N4xiBJ3Ja11iZ1t3oMVIUAIl8W.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vZ0nNPe68qe35CTdgbW98ygxlx.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   }
 ]

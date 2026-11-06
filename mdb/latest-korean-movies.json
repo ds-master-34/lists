@@ -170,6 +170,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "764842",
+    "tmdbId": 764842,
+    "imdbId": "tt26762096",
+    "type": "movie",
+    "title": "Streaming",
+    "overview": "No.1 subscribed live streamer, Woo Sang, specializes in criminal profiling and covering crime-related mystery cases. One day, Woo Sang streams about an unsolved serial murder case and ends up unveiling the truth to some dark secrets through his channel.",
+    "year": "2025",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8P3SNXsCkkayjp1EKLVq2eKLGUY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9Ifb7kDdMH1yCg81oMoYsK7kDj3.jpg",
+    "logoUrl": null,
+    "certificate": "16",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "1321179",
     "tmdbId": 1321179,
     "imdbId": "tt38626703",
@@ -2075,27 +2096,6 @@
     "certificate": "15",
     "runTimeMinutes": 62,
     "primaryGenre": "Fantasy",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "284063",
-    "tmdbId": 284063,
-    "imdbId": "tt3892620",
-    "type": "movie",
-    "title": "Mourning Grave",
-    "overview": "A boy who can see ghosts moves to a small town, where he befriends a female ghost. The two work together to investigate a masked ghost who is murdering students one by one.",
-    "year": "2014",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/etX8PQrO0lak1WXhlBmiJh15CdY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mSVOWQXPq2ZVOkS14xEKm3dX6dL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/o0yFBGTTmpPkHwmNIgRLl1T7m5m.png",
-    "certificate": "15",
-    "runTimeMinutes": 90,
-    "primaryGenre": "Thriller",
     "secondaryGenre": "Horror",
     "originCountries": [
       "KR"
