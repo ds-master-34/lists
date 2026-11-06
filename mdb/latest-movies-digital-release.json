@@ -126,27 +126,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1813355",
-    "tmdbId": 1813355,
-    "imdbId": "tt50389959",
-    "type": "movie",
-    "title": "A Story of Derry",
-    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-    "year": "2026",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cujdalUVXeFNfgGpzk3kdNF4DMQ.png",
-    "certificate": "R",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1727734",
     "tmdbId": 1727734,
     "imdbId": "tt43655467",
