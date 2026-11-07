@@ -1,5 +1,89 @@
 [
   {
+    "id": "307478",
+    "tmdbId": 307478,
+    "imdbId": "tt47657141",
+    "type": "tv",
+    "title": "The Perfect Lie",
+    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "326991",
+    "tmdbId": 326991,
+    "imdbId": "tt44093541",
+    "type": "tv",
+    "title": "A Trap Called Desire",
+    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
+    "certificate": "15",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "311648",
     "tmdbId": 311648,
     "imdbId": "tt47661704",
@@ -42,27 +126,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
-    "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "307106",
     "tmdbId": 307106,
     "imdbId": "tt39087958",
@@ -99,27 +162,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "326991",
-    "tmdbId": 326991,
-    "imdbId": "tt44093541",
-    "type": "tv",
-    "title": "A Trap Called Desire",
-    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
-    "certificate": "15",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -266,48 +308,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 65,
     "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307478",
-    "tmdbId": 307478,
-    "imdbId": "tt47657141",
-    "type": "tv",
-    "title": "The Perfect Lie",
-    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-    "year": "2026",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -6428,27 +6428,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "206686",
-    "tmdbId": 206686,
-    "imdbId": "tt28642797",
-    "type": "tv",
-    "title": "Chicken Nugget",
-    "overview": "A woman steps into an odd machine and becomes... a chicken nugget?! Now, it's up to her father and admirer to embark on a zany quest to bring her back.",
-    "year": "2024",
-    "rating": 5.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9hefpkltcFLcZSKXr65l0mPMRKn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7pg8P17yImSmR7z5QO3nF0d7RB1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yxkg1s9p3tUqG88Rh2ccYZtMoel.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "230779",
     "tmdbId": 230779,
     "imdbId": "tt30293275",
@@ -6464,6 +6443,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "206686",
+    "tmdbId": 206686,
+    "imdbId": "tt28642797",
+    "type": "tv",
+    "title": "Chicken Nugget",
+    "overview": "A woman steps into an odd machine and becomes... a chicken nugget?! Now, it's up to her father and admirer to embark on a zany quest to bring her back.",
+    "year": "2024",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9hefpkltcFLcZSKXr65l0mPMRKn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7pg8P17yImSmR7z5QO3nF0d7RB1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yxkg1s9p3tUqG88Rh2ccYZtMoel.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -7409,27 +7409,6 @@
     "runTimeMinutes": 74,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "229955",
-    "tmdbId": 229955,
-    "imdbId": "tt29198867",
-    "type": "tv",
-    "title": "Evilive",
-    "overview": "A hardworking lawyer who randomly selects prisoners to visit and find jobs for himself meets a former baseball player who is also the second in command of a criminal organization. Will he be able to resist the temptations of evil?",
-    "year": "2023",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hiS3kubWLnsQgLyiP06jXlP7gnz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aHpbsdTA3jvF8fTND8Sgv8hRG30.jpg",
-    "logoUrl": null,
-    "certificate": "19",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
