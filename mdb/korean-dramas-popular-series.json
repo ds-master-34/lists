@@ -70,7 +70,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -133,7 +133,7 @@
     "title": "Make Me Tingle",
     "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
     "year": "2026",
-    "rating": 8.4,
+    "rating": 8.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
@@ -238,7 +238,7 @@
     "title": "The Perfect Lie",
     "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
@@ -2919,6 +2919,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "84464",
+    "tmdbId": 84464,
+    "imdbId": "tt9165992",
+    "type": "tv",
+    "title": "My Strange Hero",
+    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
+    "certificate": "15",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "232510",
     "tmdbId": 232510,
     "imdbId": "tt28682964",
@@ -3024,6 +3045,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "230524",
+    "tmdbId": 230524,
+    "imdbId": "tt29657033",
+    "type": "tv",
+    "title": "Perfect Marriage Revenge",
+    "overview": "Waking from a fatal accident to find herself in the past, Han Yi-joo teams up with Seo Do-guk to take revenge on the family who never loved her.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qi8uqg4GcvP1ge7DjkaUsiBnF30.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9ijZyKSdaRR6zUUe7hhEzNE0Yxm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/125w0o5DQZBkBNz4dtSXUn8AgsL.png",
+    "certificate": "15",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "86830",
     "tmdbId": 86830,
     "imdbId": "tt9674954",
@@ -3102,6 +3144,27 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "281013",
+    "tmdbId": 281013,
+    "imdbId": "tt38353551",
+    "type": "tv",
+    "title": "Dynamite Kiss",
+    "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8M6uxiedTxVj8OWgNletMu0NqHu.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3486,6 +3549,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "201146",
+    "tmdbId": 201146,
+    "imdbId": "tt22189294",
+    "type": "tv",
+    "title": "Love in Contract",
+    "overview": "Contract marriage master Choi Sang-eun's alternate day romance with a long-term mystery client on Monday, Wednesday and Friday and a new superstar client on Tuesday, Thursday and Saturday.",
+    "year": "2022",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g4xiJu2P0ooLQEn8JE3CnU9w0jU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pesQeihnBGcqwfrxjRDSrFpiKtJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xufJSamE9FMLmVBXj6x9z9PUYgS.png",
+    "certificate": "15",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "236356",
     "tmdbId": 236356,
     "imdbId": "tt31510539",
@@ -3732,6 +3816,27 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "234061",
+    "tmdbId": 234061,
+    "imdbId": "tt29311377",
+    "type": "tv",
+    "title": "Dreaming of a Freaking Fairy Tale",
+    "overview": "Shin Jae-rim dreams of becoming a modern-day Cinderella and trading her current boring life for one of luxury and leisure. But landing her Prince Cha-min isn't easy—not only is Moon Cha-min her boss, but he's also engaged to another woman. Can Jae-rim find love with the man of her dreams…or will she discover that the true path to happiness is found within herself?",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ngrKR7Vnb38vzLVKmc63GYnsZh9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clkI3hotqtyRdJibuDzZc4coAyj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aMmcJjeUImsSO7CSH5yNmqT5Et5.png",
+    "certificate": "15",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4095,6 +4200,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "287009",
+    "tmdbId": 287009,
+    "imdbId": "tt39184653",
+    "type": "tv",
+    "title": "Doctor on the Edge",
+    "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7KpvkMnbRsyrAlnrZpbnEWC42AE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "224414",
     "tmdbId": 224414,
     "imdbId": "tt31014107",
@@ -4152,6 +4278,27 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Reality",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "155229",
+    "tmdbId": 155229,
+    "imdbId": "tt22789182",
+    "type": "tv",
+    "title": "Cheer Up",
+    "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
+    "year": "2022",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/agyQFkNKBExKYiIealedXNDIDqn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9BAQpOmx71EWDLbuCAHBc2KSkmf.png",
+    "certificate": "12",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -4368,6 +4515,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215000",
+    "tmdbId": 215000,
+    "imdbId": "tt32380398",
+    "type": "tv",
+    "title": "My Sweet Mobster",
+    "overview": "Once a convict, Ji-hwan is now a successful, albeit overly cautious CEO, who has yet to experience any of life’s more enjoyable pleasures: namely falling in love. But all that changes when fate brings beloved children’s content creator Eun-ha into his life. The unlikely pair find love most unexpectedly but Eun-ha’s longtime fan, Prosecutor Hyun-woo isn’t ready to let her go without a fight.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zlSvVgzBcVPx7cus93c3Amdb4py.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jLDPdyYbwjCGv54yNT3KPS3TkQk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/trNMy9YHnOpvBxBtmpBbSpZURip.png",
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "243964",
     "tmdbId": 243964,
     "imdbId": "tt35450649",
@@ -4452,6 +4620,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "301886",
+    "tmdbId": 301886,
+    "imdbId": "tt39303266",
+    "type": "tv",
+    "title": "To My Beloved Thief",
+    "overview": "Hong Eun Jo leads a double life: a servant and healer by day and a Robin-Hood-like thief named Gil Dong by night. Grand Prince Do Wol, brother to the King, begins to investigate the case. An encounter with a monk leads to them swapping souls, and they are forced to navigate each other's complex worlds.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rovxC2ugTtaMsgo7lOF4R4VBSb9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/enTNCPGiu3dhul8XTBZEJCLZWbI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tq1tYKkRy2MSdNPJVkivEF80M7Y.png",
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "295509",
     "tmdbId": 295509,
     "imdbId": "tt38626513",
@@ -4530,6 +4719,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "243761",
+    "tmdbId": 243761,
+    "imdbId": "tt32840498",
+    "type": "tv",
+    "title": "Good Partner",
+    "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2gQTzAEFafG63vJuXMzl4Jr2pkI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lmr79Dvaa5efF5rtDqUbLWCUfa8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uVb0hTTsJDIPgxG1NAA92aRk5xy.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4698,6 +4908,27 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "258764",
+    "tmdbId": 258764,
+    "imdbId": "tt35839843",
+    "type": "tv",
+    "title": "The Divorce Insurance",
+    "overview": "No Ki-jun, an employee at an insurance company, decides to develop a divorce insurance policy after personally experiencing three divorces that impacted his life and finances. Despite potential biases, he believes divorce is an unforeseen disaster and establishes a team for divorce insurance.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6HAbRWYkX3bouEeHA4bjsUxznKC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kXxiTD8ePVtwqQTtTMdJXqVusmi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yedxd9ntgHib0m15e0UD5C4YgR3.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -7376,7 +7607,7 @@
     "title": "Rooftop Prince",
     "overview": "Crown Prince Yi Gak finds that he has been transported from the Chosun Dynasty to modern-day Seoul. He meets Hong Se Na, who bears a striking resemblance to his dead wife, and is determined to solve the 300-year-old mystery of her death. With his own resemblance to the CEO’s grandson at the company where Se Na works, Gak assumes the identity of the young man to stay close to her. Can the Crown Prince navigate a modern corporation to find clues to his own time period?",
     "year": "2012",
-    "rating": 7.6,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/2bHHzWAMPxIVv7e0FgTQDTYd1y5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kD5fexs7nAoyVprZQzlBUfZtZk0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/9oRt60P9yZMoIEC6K37wOPbPXcW.png",
@@ -8161,132 +8392,6 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "74000",
-    "tmdbId": 74000,
-    "imdbId": "tt7208216",
-    "type": "tv",
-    "title": "20th Century Boy and Girl",
-    "overview": "The heartwarming romantic comedy is about the friendship and love lives of three single virgins born in 1983. Their romantic lives begin when the boy they liked in their youth shows up one day. They live in Oksu-dong in rundown apartments, and the warm human drama will be about neighborly affection, and the meaning of home, family, and friendship.",
-    "year": "2017",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4Wdz7OvRycgYbd9EHFYdVTcBNJ1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Pfg0IZeb5kHP21hhYWqIc558R7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dtmX7PsfDNZvZmybq4cUZljSfMj.png",
-    "certificate": "15",
-    "runTimeMinutes": 35,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "75066",
-    "tmdbId": 75066,
-    "imdbId": "tt7608190",
-    "type": "tv",
-    "title": "Black Knight",
-    "overview": "A successful executive determined to do whatever it takes to protect the woman he loves, meets a travel agent, who may be linked to his past.",
-    "year": "2017",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dONaJyzTAG973ifDGX0StnWMrC4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h3vIGjwFmd7tA1SdbYLivoIosyB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9yz2lLJBYy169CT7B2vMliwOFv3.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "74831",
-    "tmdbId": 74831,
-    "imdbId": "tt7608128",
-    "type": "tv",
-    "title": "Judge vs. Judge",
-    "overview": "An unconventional judge sets out to prove the innocence of her brother, a convict accused of rape and murder, with the help of a fellow justice.",
-    "year": "2017",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7Bc9d4rqvTacG6r64ec1dwXpl88.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z5fr0L3iGz93eKMtSuRztWPDO1o.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "43135",
-    "tmdbId": 43135,
-    "imdbId": "tt2362760",
-    "type": "tv",
-    "title": "A Gentleman's Dignity",
-    "overview": "Four men with complicated love lives refuse to admit they're getting older, and attempt to prove that forty is the new thirty!",
-    "year": "2012",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zdYmI1uYrHsNbw9qMHiWDnGRwXX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9GrOL5cSJ8sz3rt7zNRTK6neWL.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61048",
-    "tmdbId": 61048,
-    "imdbId": "tt3284102",
-    "type": "tv",
-    "title": "The Prime Minister and I",
-    "overview": "A tabloid reporter and a widowed prime minister enter a contract marriage, navigating politics, family, and unexpected romance.",
-    "year": "2013",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dTIpXvBzzbqHxkigHkovjt9zxqz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eMJFY3NpQHh4bgheStnRKKLUTgN.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dMATWkgqDpRf0zSDsqEBBt9YPZE.png",
-    "certificate": "15",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "13946",
-    "tmdbId": 13946,
-    "imdbId": "tt1765453",
-    "type": "tv",
-    "title": "Thank You",
-    "overview": "Gi Seo is a renowned doctor at the top of his profession, but he’s racked with guilt because he wasn’t able to save his girlfriend, Ji Min, who was HIV-positive. He escapes to work on a small island and fulfill Ji Min’s dying wish: to find a little girl named Bom who she accidentally infected with HIV while she was a medical intern. Bom lives on the island with her single mom Young Shin and grandfather, who has dementia. Gi Seo grows increasingly fond of the family and finds a reason to live again, discovering beautiful miracles on the island.",
-    "year": "2007",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aMKRuLrevCd4lsZx2HBJq6QtVPd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kCEMckVuZL83oTT1YxnmSLkFks2.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

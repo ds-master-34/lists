@@ -336,6 +336,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "257445",
+    "tmdbId": 257445,
+    "imdbId": "tt1051904",
+    "type": "movie",
+    "title": "Goosebumps",
+    "overview": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
+    "year": "2015",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6mPe4rBHzDMal2oL6hVgOBkaHz9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3ackLzxS8qDTrmwhwyJWvM11Ahc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "354912",
     "tmdbId": 354912,
     "imdbId": "tt2380307",
@@ -2382,7 +2403,7 @@
     "title": "Descendants: Wicked Wonderland",
     "overview": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
     "year": "2026",
-    "rating": 5.4,
+    "rating": 5.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/55cqo91SyUKwCczFj4y0XckHRns.png",
@@ -4135,6 +4156,48 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "762509",
+    "tmdbId": 762509,
+    "imdbId": "tt13186482",
+    "type": "movie",
+    "title": "Mufasa: The Lion King",
+    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "year": "2024",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uUaNB68Buz6oVErVzs9YTZNpZyC.png",
+    "certificate": "PG",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "961323",
+    "tmdbId": 961323,
+    "imdbId": "tt19500164",
+    "type": "movie",
+    "title": "Nimona",
+    "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yMuiqdlSDyipYQDo6zGoGP6yPta.png",
+    "certificate": "U/A 7+",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
