@@ -1,5 +1,26 @@
 [
   {
+    "id": "1570488",
+    "tmdbId": 1570488,
+    "imdbId": "tt38515310",
+    "type": "movie",
+    "title": "A Dog's Perfect Christmas",
+    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1756307",
     "tmdbId": 1756307,
     "imdbId": "tt44825373",
@@ -313,6 +334,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1483525",
+    "tmdbId": 1483525,
+    "imdbId": "tt37803364",
+    "type": "movie",
+    "title": "Possible Love",
+    "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5jdF6iuVDkZaRObczlKvR5KVd4n.png",
+    "certificate": "R",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "1514863",
@@ -1280,6 +1322,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "1329471",
+    "tmdbId": 1329471,
+    "imdbId": "tt33365126",
+    "type": "movie",
+    "title": "Carolina Caroline",
+    "overview": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the Southeast to find her estranged mother.",
+    "year": "2026",
+    "rating": 6.621,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5dE3rixgMUTXOQLuO3zya4zSFav.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o8mAdF9zI3QfbSTVBGOtxs8UAUe.png",
+    "certificate": "R",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "1358005",
@@ -4142,69 +4205,6 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1117857",
-    "tmdbId": 1117857,
-    "imdbId": "tt27604215",
-    "type": "movie",
-    "title": "In Your Dreams",
-    "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
-    "year": "2025",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hbej5nwCtIHNKYvDIuCjxXfBG5T.png",
-    "certificate": "PG",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1287814",
-    "tmdbId": 1287814,
-    "imdbId": "tt27368237",
-    "type": "movie",
-    "title": "Stone Cold Fox",
-    "overview": "In this '80s-set revenge story, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped.",
-    "year": "2025",
-    "rating": 5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zaL55wDL4bEUhU8pvAO2j1U7WSC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dUUaywuMvBTMG5gKInjqPNLp5RY.png",
-    "certificate": "R",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1214931",
-    "tmdbId": 1214931,
-    "imdbId": "tt29567915",
-    "type": "movie",
-    "title": "Nuremberg",
-    "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/luBcOrF4OM4xZGKpgylTG5I3W7m.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 149,
-    "primaryGenre": "History",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
