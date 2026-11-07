@@ -1040,6 +1040,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "259909",
+    "tmdbId": 259909,
+    "imdbId": "tt33043892",
+    "type": "tv",
+    "title": "Dexter: Resurrection",
+    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+    "year": "2025",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "293691",
     "tmdbId": 293691,
     "imdbId": "tt32810392",
@@ -1437,28 +1458,6 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "247718",
-    "tmdbId": 247718,
-    "imdbId": "tt31510819",
-    "type": "tv",
-    "title": "MobLand",
-    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-    "year": "2025",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": "en"
   },
   {
     "id": "249127",
@@ -3145,6 +3144,27 @@
     "originalLanguage": "pt"
   },
   {
+    "id": "217088",
+    "tmdbId": 217088,
+    "imdbId": "tt26471649",
+    "type": "tv",
+    "title": "The Killing Vote",
+    "overview": "People are busy watching the screen. The person wearing a mysterious mask so called 'Gaetal' appears, and the Killing Vote begins.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b31zFi0ZocmaxxuPCAGxEA6uxGn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5b7VwobdAhp7NFCxxcEXSQNmaNe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/824NaEAzIZQa5oJZp5GnwCNqws4.png",
+    "certificate": "15",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "125816",
     "tmdbId": 125816,
     "imdbId": "tt9174718",
@@ -4191,27 +4211,6 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Drama",
     "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "157061",
-    "tmdbId": 157061,
-    "imdbId": "tt14379784",
-    "type": "tv",
-    "title": "The Devil's Hour",
-    "overview": "Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.",
-    "year": "2022",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6lpHkRGwOjCSyK3P7RvT1djtOhI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "GB"
     ],
