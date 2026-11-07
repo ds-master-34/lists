@@ -42,6 +42,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "276161",
+    "tmdbId": 276161,
+    "imdbId": "tt34809853",
+    "type": "tv",
+    "title": "Teach You a Lesson",
+    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "126485",
     "tmdbId": 126485,
     "imdbId": "tt24640580",
@@ -119,27 +140,6 @@
     "certificate": "TV-14",
     "runTimeMinutes": 74,
     "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -1344,6 +1344,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "279323",
+    "tmdbId": 279323,
+    "imdbId": "tt35051401",
+    "type": "tv",
+    "title": "The East Palace",
+    "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4IqQsKSuavNB92V9uXfNTQOYFPY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "89604",
     "tmdbId": 89604,
     "imdbId": "tt10192576",
@@ -1653,27 +1674,6 @@
     "runTimeMinutes": 48,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279323",
-    "tmdbId": 279323,
-    "imdbId": "tt35051401",
-    "type": "tv",
-    "title": "The East Palace",
-    "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4IqQsKSuavNB92V9uXfNTQOYFPY.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -4621,27 +4621,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300727",
     "tmdbId": 300727,
     "imdbId": "tt43357366",
@@ -4762,6 +4741,27 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5356,6 +5356,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "223440",
+    "tmdbId": 223440,
+    "imdbId": "tt27300087",
+    "type": "tv",
+    "title": "The Eighth Sense",
+    "overview": "A rural freshman and a returning vet face a new kind of challenge: finding meaning in a crowded, fast-moving world.",
+    "year": "2023",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uoHehNNiO8lWpmaKmlx8icDESbm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dNZCo6UVbig6Les5exI6iiMDHOl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3HSlVJEgYA1wZW5ekmg1EcUAiH3.png",
+    "certificate": "19",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "245079",
     "tmdbId": 245079,
     "imdbId": "tt35378081",
@@ -5783,7 +5804,7 @@
     "title": "Rooftop Prince",
     "overview": "Crown Prince Yi Gak finds that he has been transported from the Chosun Dynasty to modern-day Seoul. He meets Hong Se Na, who bears a striking resemblance to his dead wife, and is determined to solve the 300-year-old mystery of her death. With his own resemblance to the CEO’s grandson at the company where Se Na works, Gak assumes the identity of the young man to stay close to her. Can the Crown Prince navigate a modern corporation to find clues to his own time period?",
     "year": "2012",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/2bHHzWAMPxIVv7e0FgTQDTYd1y5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kD5fexs7nAoyVprZQzlBUfZtZk0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/9oRt60P9yZMoIEC6K37wOPbPXcW.png",
@@ -5986,6 +6007,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "287009",
+    "tmdbId": 287009,
+    "imdbId": "tt39184653",
+    "type": "tv",
+    "title": "Doctor on the Edge",
+    "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "292121",
     "tmdbId": 292121,
     "imdbId": "tt39245629",
@@ -6133,21 +6175,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "287009",
-    "tmdbId": 287009,
-    "imdbId": "tt39184653",
+    "id": "294095",
+    "tmdbId": 294095,
+    "imdbId": "tt43616775",
     "type": "tv",
-    "title": "Doctor on the Edge",
-    "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
+    "title": "A Bona Fide Killer",
+    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
     "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -6239,21 +6281,21 @@
     "originalLanguage": "ja"
   },
   {
-    "id": "294095",
-    "tmdbId": 294095,
-    "imdbId": "tt43616775",
+    "id": "282810",
+    "tmdbId": 282810,
+    "imdbId": "tt38973594",
     "type": "tv",
-    "title": "A Bona Fide Killer",
-    "overview": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+    "title": "The Judge Returns",
+    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
     "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e9ziA4Y6md4Ytr62r5y9vRdv4ll.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9AqsMJxuq7NEYJX4Q1vSfKb5CG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6xQDL4hDXOFVaaEaIgFX0gfvXgs.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xWYVlBIWrpdiGnSRfLgZIxf2V11.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/56xJPOg2TEzmWxBtUlfjEKljmgc.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -6422,27 +6464,6 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "282810",
-    "tmdbId": 282810,
-    "imdbId": "tt38973594",
-    "type": "tv",
-    "title": "The Judge Returns",
-    "overview": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xWYVlBIWrpdiGnSRfLgZIxf2V11.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/56xJPOg2TEzmWxBtUlfjEKljmgc.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 75,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -6680,6 +6701,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "201146",
+    "tmdbId": 201146,
+    "imdbId": "tt22189294",
+    "type": "tv",
+    "title": "Love in Contract",
+    "overview": "Contract marriage master Choi Sang-eun's alternate day romance with a long-term mystery client on Monday, Wednesday and Friday and a new superstar client on Tuesday, Thursday and Saturday.",
+    "year": "2022",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g4xiJu2P0ooLQEn8JE3CnU9w0jU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pesQeihnBGcqwfrxjRDSrFpiKtJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xufJSamE9FMLmVBXj6x9z9PUYgS.png",
+    "certificate": "15",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233205",
     "tmdbId": 233205,
     "imdbId": "tt29833806",
@@ -6785,6 +6827,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "217088",
+    "tmdbId": 217088,
+    "imdbId": "tt26471649",
+    "type": "tv",
+    "title": "The Killing Vote",
+    "overview": "People are busy watching the screen. The person wearing a mysterious mask so called 'Gaetal' appears, and the Killing Vote begins.",
+    "year": "2023",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b31zFi0ZocmaxxuPCAGxEA6uxGn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5b7VwobdAhp7NFCxxcEXSQNmaNe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/824NaEAzIZQa5oJZp5GnwCNqws4.png",
+    "certificate": "15",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "80741",
     "tmdbId": 80741,
     "imdbId": "tt8487786",
@@ -6800,6 +6884,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "66560",
+    "tmdbId": 66560,
+    "imdbId": "tt5936884",
+    "type": "tv",
+    "title": "Don't Dare to Dream",
+    "overview": "A weather girl reunites with her old crush, a haughty reporter at her TV station. But this time, she has her eyes on someone else -- his best friend.",
+    "year": "2016",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pLui9BxmOnhn8puzX0lKVKFvKIf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7T84BWtV5s6VjSsPusxWasoOtxF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pC1KDx3iB68xI35HBhIzso6mSEi.png",
+    "certificate": "12",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6995,27 +7100,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "275102",
-    "tmdbId": 275102,
-    "imdbId": "tt36347588",
-    "type": "tv",
-    "title": "The Scandal",
-    "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-    "year": "2026",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i8NWMINx7uTJJlsKZvgPwP9dQll.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 80,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "276472",
     "tmdbId": 276472,
     "imdbId": "tt40108629",
@@ -7052,27 +7136,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "66560",
-    "tmdbId": 66560,
-    "imdbId": "tt5936884",
-    "type": "tv",
-    "title": "Don't Dare to Dream",
-    "overview": "A weather girl reunites with her old crush, a haughty reporter at her TV station. But this time, she has her eyes on someone else -- his best friend.",
-    "year": "2016",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pLui9BxmOnhn8puzX0lKVKFvKIf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7T84BWtV5s6VjSsPusxWasoOtxF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pC1KDx3iB68xI35HBhIzso6mSEi.png",
-    "certificate": "12",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7604,20 +7667,20 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
     "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -7835,27 +7898,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293607",
-    "tmdbId": 293607,
-    "imdbId": "tt39201866",
-    "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "47007",
     "tmdbId": 47007,
     "imdbId": "tt2191746",
@@ -8024,6 +8066,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "84464",
+    "tmdbId": 84464,
+    "imdbId": "tt9165992",
+    "type": "tv",
+    "title": "My Strange Hero",
+    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
+    "certificate": "15",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "155229",
+    "tmdbId": 155229,
+    "imdbId": "tt22789182",
+    "type": "tv",
+    "title": "Cheer Up",
+    "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
+    "year": "2022",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/agyQFkNKBExKYiIealedXNDIDqn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9BAQpOmx71EWDLbuCAHBc2KSkmf.png",
+    "certificate": "12",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "135895",
     "tmdbId": 135895,
     "imdbId": "tt20235634",
@@ -8123,27 +8207,6 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "84464",
-    "tmdbId": 84464,
-    "imdbId": "tt9165992",
-    "type": "tv",
-    "title": "My Strange Hero",
-    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
-    "year": "2018",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
-    "certificate": "15",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8297,6 +8360,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "78797",
+    "tmdbId": 78797,
+    "imdbId": "tt8236528",
+    "type": "tv",
+    "title": "Wok of Love",
+    "overview": "Chef Seo Poong was once a star chef and worked at the best Chinese restaurant. His popularity faded and he eventually wound up working at a small, failing Chinese restaurant. Meanwhile, Doo Chil-Seong is the owner of a building. He is an ex-gang member and he was in jail for 5 yers.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dF0rzADm1dZXeJzKwaI0WSSKp8S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a6ygRrSb5NcQ88RJLTevxOYRQcT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rjkZWviy8Q8qkJfP1iX6hd5Quj4.png",
+    "certificate": "15",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "99477",
     "tmdbId": 99477,
     "imdbId": "tt11885790",
@@ -8310,90 +8394,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/fiQpDjq3yoHdqU3THoWEnROuuAo.png",
     "certificate": "15",
     "runTimeMinutes": 35,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "117896",
-    "tmdbId": 117896,
-    "imdbId": "tt13776460",
-    "type": "tv",
-    "title": "Lovers of the Red Sky",
-    "overview": "Set during the Joseon era, Hong Cheon Ki is a female painter with a genius like painting talent. She is picked as the first female painter of the Dohwaseo. Hong Cheon Ki also has a beautiful appearance and a bright personality. For her, painting is everything. One day, she meets Ha Ram.",
-    "year": "2021",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lzKiEoVUTdhGDOuqNoYoL0Q1FYA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fY7wigRHMritnQiX47wgCEMau5G.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8QkK5ZCKX5OXpzi6d5WniZYXyvP.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "204589",
-    "tmdbId": 204589,
-    "imdbId": "tt26351388",
-    "type": "tv",
-    "title": "My Perfect Stranger",
-    "overview": "Yun Hae Jun is the youngest anchor to ever work at his broadcasting station. He is calm and straightforward as a journalist and kind in his personal life. On the other hand, Baek Yun Yeong dreamed of becoming a writer but wound up working at a publishing company. The two somehow travel back in time to the year 1987. There, Yun Hae Jun tries to find the truth behind a serial murder case, while Baek Yun Yeong attempts to prevent her parents from marrying. They soon realize that their objectives are connected.",
-    "year": "2023",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gYJBz6NMvP4oc2mf181bjPJSgxJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6PwWXSPUiKjjWaGnapfbDGTWNGF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aRE1tM16mDg0PqD42Tjhea0zc9F.png",
-    "certificate": "15",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "139280",
-    "tmdbId": 139280,
-    "imdbId": "tt26350158",
-    "type": "tv",
-    "title": "Queenmaker",
-    "overview": "After a tragic accident, a powerful fixer uses her skills to transform a civil rights lawyer into the next mayor — and take down her former employer.",
-    "year": "2023",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4PLY6WSRgBKMY9Wc7npJA5f28lc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/edZxEXpVvb3A7w2Tc7layhX8Frc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1wcxs36gOGIf1OTZOGnHzp0lGXl.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "220521",
-    "tmdbId": 220521,
-    "imdbId": "tt27116507",
-    "type": "tv",
-    "title": "A Shoulder to Cry On",
-    "overview": "Hate slowly turns to love after a misunderstanding at school brings two very different students together in the most unlikely way.",
-    "year": "2023",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hs5yd9eB5quvK4x6eS9NI6hB0Ko.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1Xf6hagtyMPbslcxRlbwjMXZSFQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2oacXhz8rSujFZOCeu0gMFyGEem.png",
-    "certificate": "15",
-    "runTimeMinutes": 29,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
