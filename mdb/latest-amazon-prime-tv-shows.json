@@ -92,7 +92,7 @@
     "title": "Kill Jackie",
     "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/mcxfMCC7V4xq1fEVyHV4wGe2quY.png",
@@ -1362,7 +1362,7 @@
     "title": "#1 Happy Family USA",
     "overview": "An exploration of the experiences of a Muslim-American family that must learn how to code-switch as they navigate the early 2000s: a time of fear, war, and the rapid expansion of the boy-band industrial complex.",
     "year": "2025",
-    "rating": 6.6,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1EzcDTGhbbvTS27iKK4ompIQjva.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/dc8YYZ5mAwq3n4AafVvV343MKN4.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/fCKQ7B9vOHSuiWsD9Ot7EZmWeFW.png",
@@ -3819,6 +3819,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "202625",
+    "tmdbId": 202625,
+    "imdbId": "tt26228426",
+    "type": "tv",
+    "title": "The Heavenly Idol",
+    "overview": "Rembrary, a priest from a supernatural world, is about to defeat the Evil One, but suddenly finds himself incarnated in the body of a K-pop idol.",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bJCgCO3NkBpRr7KPTVYrtva9daj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/14jnC8s55jqQA0OhlD9h5OifMJm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jlaG7ManvU7MBmha9qDdarK5QpP.png",
+    "certificate": "15",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "220663",
     "tmdbId": 220663,
     "imdbId": "tt26735172",
@@ -4195,26 +4216,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "135822",
-    "tmdbId": 135822,
-    "imdbId": "tt14377480",
-    "type": "tv",
-    "title": "Kamen Rider Black Sun",
-    "overview": "The year is 2022. It is an era of chaos, half a century after the government announced the coexistence of humans and kaijins. Aoi Izumi, a young human rights activist calling for the elimination of discrimination, meets a man named Kotaro Minami, the one called \"Black Sun,\" who is a candidate for the next Creation King.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3OtFY626NJxZvyDpEaXwRgx9Kht.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Pskexd1OLtooVRRS2mEGbfgP7D.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tItfebvp23ni4tzVIsa8TJKyzPm.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   }
 ]
