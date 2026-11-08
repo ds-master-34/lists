@@ -147,6 +147,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "332269",
+    "tmdbId": 332269,
+    "imdbId": "tt50645449",
+    "type": "tv",
+    "title": "Francesca Next Door",
+    "overview": "Woo-ju, a dedicated student preparing for medical school, has his life turned upside down when Na-young, a vampire transfer student from Romania, arrives at his school. As he becomes her keeper and helps her navigate school life, their constant clashes lead to unexpected feelings that leave Na-young questioning whether it's love or simply her vampire instincts.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xiB4NaaTssLxFEIao3IOb9MOHHB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oD8zIQxAkIob0XZXXdkVaQYI67S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5iVPOuefYp9YoHPAc8nkztPqeIO.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "320406",
     "tmdbId": 320406,
     "imdbId": "tt43619121",
