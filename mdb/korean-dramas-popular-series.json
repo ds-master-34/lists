@@ -7,7 +7,7 @@
     "title": "Dead-End Job",
     "overview": "When a debtor is lured by a strange agency with the promise of lucrative gigs, he is soon thrust into a hellish world of terror and unpredictability.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/gbIk1sF9JLQZ1P53k3OaijgiWX1.png",
@@ -133,7 +133,7 @@
     "title": "Make Me Tingle",
     "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
@@ -196,7 +196,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -322,7 +322,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 8.1,
+    "rating": 7.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -1197,6 +1197,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "214582",
+    "tmdbId": 214582,
+    "imdbId": "tt27995115",
+    "type": "tv",
+    "title": "The Devil's Plan",
+    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+    "year": "2023",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/10Tg57d8wtcn6crPWOi1ebx7qIz.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "99489",
     "tmdbId": 99489,
     "imdbId": "tt13067118",
@@ -1638,27 +1659,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "64840",
-    "tmdbId": 64840,
-    "imdbId": "tt5332206",
-    "type": "tv",
-    "title": "Signal",
-    "overview": " Detectives from the present and a detective from the past communicate via walkie-talkie to solve a long-time unsolved case.",
-    "year": "2016",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 89,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "219651",
     "tmdbId": 219651,
     "imdbId": "tt26653824",
@@ -1701,6 +1701,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "89959",
+    "tmdbId": 89959,
+    "imdbId": "tt10613844",
+    "type": "tv",
+    "title": "Strangers from Hell",
+    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
+    "year": "2019",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hWa3eZ1JDpQHZHgyRjUwx49OW2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xH8NKKGb2GQlCMmcxJFukV9droA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zxxvFjV2VJTYxgFv6NhbKZ7YpUH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "68398",
     "tmdbId": 68398,
     "imdbId": "tt6157190",
@@ -1716,6 +1737,27 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "64840",
+    "tmdbId": 64840,
+    "imdbId": "tt5332206",
+    "type": "tv",
+    "title": "Signal",
+    "overview": " Detectives from the present and a detective from the past communicate via walkie-talkie to solve a long-time unsolved case.",
+    "year": "2016",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mTgKdxk3wrh5VoT62OmcT2v2vjy.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 89,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -1947,48 +1989,6 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "135840",
-    "tmdbId": 135840,
-    "imdbId": "tt19115260",
-    "type": "tv",
-    "title": "Our Blues",
-    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
-    "year": "2022",
-    "rating": 8.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nAhIeW3ISZQ7Dkn0PguOaiBMEjN.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "214582",
-    "tmdbId": 214582,
-    "imdbId": "tt27995115",
-    "type": "tv",
-    "title": "The Devil's Plan",
-    "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
-    "year": "2023",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ofFMb0hf4Ve0UPMTzYyFtBRBHEF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/10Tg57d8wtcn6crPWOi1ebx7qIz.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 101,
-    "primaryGenre": "Reality",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -2436,6 +2436,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "135840",
+    "tmdbId": 135840,
+    "imdbId": "tt19115260",
+    "type": "tv",
+    "title": "Our Blues",
+    "overview": "Romance is sweet and bitter — and life riddled with ups and downs — in multiple stories about people who live and work on bustling Jeju island.",
+    "year": "2022",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sT5Mlt5UmKiGfBisccwmD4LnPRD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nAhIeW3ISZQ7Dkn0PguOaiBMEjN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "209110",
     "tmdbId": 209110,
     "imdbId": "tt37218592",
@@ -2562,48 +2583,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "60957",
-    "tmdbId": 60957,
-    "imdbId": "tt3469052",
-    "type": "tv",
-    "title": "My Love from the Star",
-    "overview": "An alien who came to Earth 400 years ago is almost able to return to his own planet, but when he meets a famous actress, he doesn't want to go home.",
-    "year": "2013",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qNekqgLeiCtzsIGIz4Sssxmbrqn.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "89959",
-    "tmdbId": 89959,
-    "imdbId": "tt10613844",
-    "type": "tv",
-    "title": "Strangers from Hell",
-    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
-    "year": "2019",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hWa3eZ1JDpQHZHgyRjUwx49OW2x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xH8NKKGb2GQlCMmcxJFukV9droA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zxxvFjV2VJTYxgFv6NhbKZ7YpUH.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "71349",
     "tmdbId": 71349,
     "imdbId": "tt6720154",
@@ -2625,6 +2604,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "61670",
+    "tmdbId": 61670,
+    "imdbId": "tt4284216",
+    "type": "tv",
+    "title": "Healer",
+    "overview": "A star reporter, a second-rate journalist and a man by the code name \"Healer\" are brought together by a long-buried incident that hides dark truths.",
+    "year": "2014",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aIPsYHFneiLlwrHhe1YX8b8c9qW.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "108284",
     "tmdbId": 108284,
     "imdbId": "tt12879418",
@@ -2640,6 +2640,27 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "66496",
+    "tmdbId": 66496,
+    "imdbId": "tt5646594",
+    "type": "tv",
+    "title": "Hwarang: The Poet Warrior Youth",
+    "overview": "An elite group of young warriors trained in morals and martial arts finds love and friendship in Silla during Korea’s ancient Three Kingdoms period.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sXEiMRfG2IiSpa7gVWY401L6n21.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/col8IFqOjTZH6412I1bjum5MrL8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w5SgfPmGPbhbCcOaU8Igjq1EbJ6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3087,27 +3108,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "61670",
-    "tmdbId": 61670,
-    "imdbId": "tt4284216",
-    "type": "tv",
-    "title": "Healer",
-    "overview": "A star reporter, a second-rate journalist and a man by the code name \"Healer\" are brought together by a long-buried incident that hides dark truths.",
-    "year": "2014",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/too4Zig9bDJOfvnFfU1SaxKmGlR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aIPsYHFneiLlwrHhe1YX8b8c9qW.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "233742",
     "tmdbId": 233742,
     "imdbId": "tt32199328",
@@ -3234,27 +3234,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "78385",
-    "tmdbId": 78385,
-    "imdbId": "tt8078816",
-    "type": "tv",
-    "title": "Something in the Rain",
-    "overview": "Explore the relationship of two people as they go from being “just acquaintances” to “a genuine couple” — Yoon Jin Ah, a coffee shop  supervisor in her 30s, and Seo Joon Hee, a designer at a video game company who has just returned from working abroad.",
-    "year": "2018",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tppqH2ALFKZwzsKI4V3DV9l5E1z.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9rOoYN4yvXFKoLZugA4HgXKjVs1.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "210702",
     "tmdbId": 210702,
     "imdbId": "tt22263470",
@@ -3360,27 +3339,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "232616",
-    "tmdbId": 232616,
-    "imdbId": "tt32166552",
-    "type": "tv",
-    "title": "The Atypical Family",
-    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "261980",
     "tmdbId": 261980,
     "imdbId": "tt36724865",
@@ -3480,6 +3438,27 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "89641",
+    "tmdbId": 89641,
+    "imdbId": "tt9145880",
+    "type": "tv",
+    "title": "Love Alarm",
+    "overview": "Love Alarm is an app that tells you if someone within a 10-meter radius has a crush on you. It quickly becomes a social phenomenon. While everyone talks about it and uses it to test their love and popularity, Jojo is one of the few people who have yet to download the app. However, she soon faces a love triangle situation between Sun-oh whom she starts to have feelings for, and Hye-young, who has had a huge crush on her.",
+    "year": "2019",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hQ8Hobo1RpYuZVQJQOCycNMHAG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jIjhNkmRmxK1UgpD4qMKwVEYgf3.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3612,21 +3591,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "239005",
-    "tmdbId": 239005,
-    "imdbId": "tt29872951",
+    "id": "135652",
+    "tmdbId": 135652,
+    "imdbId": "tt17346230",
     "type": "tv",
-    "title": "Seoul Busters",
-    "overview": "Songwon Police Violent Crimes Unit 2 has the lowest arrest rate in the country. After their chief is demoted, the team is exiled to a closed daycare center. Enter Yubin, their new leader. Despite the team's initial distrust, Yubin and the team start to bond as they solve cases together.",
-    "year": "2024",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nYDvkvutYQNKj2lhQTavGzgUE6L.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vas44Kp1BPca4ou2cBb4orAQ53F.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dwnBXbSHsDau170MY7e5m5wEAxD.png",
-    "certificate": "SAM 16",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
+    "title": "Military Prosecutor Doberman",
+    "overview": "An army prosecutor with ambitions of power and wealth finds his plans disturbed by an unyielding newbie with an agenda of her own.",
+    "year": "2022",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9FICze3QdBj1mJ0eUriroAJDFly.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kjUEbsdm6ivhohLkaL4kYLMd7Hc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bRFhartNt52VWZ5GeIi4EVAeNFu.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3648,27 +3627,6 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Drama",
     "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "89641",
-    "tmdbId": 89641,
-    "imdbId": "tt9145880",
-    "type": "tv",
-    "title": "Love Alarm",
-    "overview": "Love Alarm is an app that tells you if someone within a 10-meter radius has a crush on you. It quickly becomes a social phenomenon. While everyone talks about it and uses it to test their love and popularity, Jojo is one of the few people who have yet to download the app. However, she soon faces a love triangle situation between Sun-oh whom she starts to have feelings for, and Hye-young, who has had a huge crush on her.",
-    "year": "2019",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hQ8Hobo1RpYuZVQJQOCycNMHAG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mXouvrZbn8YpZMURGvw30QK8qfo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jIjhNkmRmxK1UgpD4qMKwVEYgf3.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3885,6 +3843,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "232616",
+    "tmdbId": 232616,
+    "imdbId": "tt32166552",
+    "type": "tv",
+    "title": "The Atypical Family",
+    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "228689",
     "tmdbId": 228689,
     "imdbId": "tt32409807",
@@ -3948,6 +3927,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "239005",
+    "tmdbId": 239005,
+    "imdbId": "tt29872951",
+    "type": "tv",
+    "title": "Seoul Busters",
+    "overview": "Songwon Police Violent Crimes Unit 2 has the lowest arrest rate in the country. After their chief is demoted, the team is exiled to a closed daycare center. Enter Yubin, their new leader. Despite the team's initial distrust, Yubin and the team start to bond as they solve cases together.",
+    "year": "2024",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nYDvkvutYQNKj2lhQTavGzgUE6L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vas44Kp1BPca4ou2cBb4orAQ53F.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dwnBXbSHsDau170MY7e5m5wEAxD.png",
+    "certificate": "SAM 16",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "299365",
     "tmdbId": 299365,
     "imdbId": "tt42206645",
@@ -3963,6 +3963,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "60957",
+    "tmdbId": 60957,
+    "imdbId": "tt3469052",
+    "type": "tv",
+    "title": "My Love from the Star",
+    "overview": "An alien who came to Earth 400 years ago is almost able to return to his own planet, but when he meets a famous actress, he doesn't want to go home.",
+    "year": "2013",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o5EYVYCVtDUdajP4rWfv6q0BTmm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qNekqgLeiCtzsIGIz4Sssxmbrqn.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4263,48 +4284,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "119955",
-    "tmdbId": 119955,
-    "imdbId": "tt15758760",
-    "type": "tv",
-    "title": "Dr. Brain",
-    "overview": "Brilliant brain scientist Sewon suffers a horrific personal tragedy. Desperate to uncover what happened to his family, he conducts \"brain syncs\" with the dead to access their memories for clues.",
-    "year": "2021",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3bYYLQAFWHsTtJyZb0vIReJJv07.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/87IhSzFxzvZIFmLOzfl4HJPe4p2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bQAgNPEoIFqzb3C5IZJEUOUD1Lm.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "116045",
-    "tmdbId": 116045,
-    "imdbId": "tt13670090",
-    "type": "tv",
-    "title": "Hello, Me!",
-    "overview": "Miserable and unsuccessful, a woman thinks she's lost all her spark — until one day, her spunky younger self appears in front of her demanding change.",
-    "year": "2021",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yHqHL1x6y8gyzuPWljpfKe4YakC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ollH7DfG9E0iEX9MsnuGtZYFmvQ.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "262237",
     "tmdbId": 262237,
     "imdbId": "tt37436162",
@@ -4320,6 +4299,27 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "138251",
+    "tmdbId": 138251,
+    "imdbId": "tt20723826",
+    "type": "tv",
+    "title": "Eve",
+    "overview": "The Republic of Korea is overturned by 2 trillion-won divorce scandal of a chaebol caused by one ordinary woman. It is about getting into the truth of the scandal and the top 1% rich couple who made it. Surprisingly, Lee Ra-el, a nobody who's not rich nor famous has caused the divorce. But Ra-el is a charming and intelligent woman who's mastered art, psychology, and even economics. if she wants to, she can get any kind of man with her looks and brain.",
+    "year": "2022",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6xvIRR50lDzFRWLFCAwSzEkoEu3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/79ngeH4ryvoMOvQOTLH176hoHFs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tZDLrStruSwsPLVntrk19QKU3tg.png",
+    "certificate": "13+",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
