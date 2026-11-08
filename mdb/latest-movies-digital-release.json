@@ -1,5 +1,27 @@
 [
   {
+    "id": "1368337",
+    "tmdbId": 1368337,
+    "imdbId": "tt33764258",
+    "type": "movie",
+    "title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kX6ZX4GL7km04332caiOVapR2lb.png",
+    "certificate": "A",
+    "runTimeMinutes": 173,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1294189",
     "tmdbId": 1294189,
     "imdbId": "tt13611778",
@@ -15,6 +37,27 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1570488",
+    "tmdbId": 1570488,
+    "imdbId": "tt38515310",
+    "type": "movie",
+    "title": "A Dog's Perfect Christmas",
+    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],

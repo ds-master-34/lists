@@ -630,6 +630,28 @@
     "originalLanguage": "en"
   },
   {
+    "id": "481084",
+    "tmdbId": 481084,
+    "imdbId": "tt1620981",
+    "type": "movie",
+    "title": "The Addams Family",
+    "overview": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
+    "year": "2019",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/grY5sfuT9YeXWlp4JYCmRZVqjk0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rAzye8dwApe0sGoUFisrvMHgG3Y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "601",
     "tmdbId": 601,
     "imdbId": "tt0083866",
@@ -1008,24 +1030,23 @@
     "originalLanguage": "en"
   },
   {
-    "id": "481084",
-    "tmdbId": 481084,
-    "imdbId": "tt1620981",
+    "id": "34204",
+    "tmdbId": 34204,
+    "imdbId": "tt0816520",
     "type": "movie",
-    "title": "The Addams Family",
-    "overview": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
-    "year": "2019",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/grY5sfuT9YeXWlp4JYCmRZVqjk0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rAzye8dwApe0sGoUFisrvMHgG3Y.png",
-    "certificate": "PG",
-    "runTimeMinutes": 87,
+    "title": "Return to Halloweentown",
+    "overview": "As Halloweentown prepares to celebrate its 1,000th anniversary, Marnie Piper and her brother Dylan return to Witch University, where trouble is in session from the Sinister Sisters and from someone who's plotting to use Marnie's powers for evil.",
+    "year": "2006",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9lkAYfaaUf46lkXKEWq94wuUs3m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3bZ382Oh2KBmoax8Z4xOfIaQIC2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zH43CdVCj2xjWy2SQIq9rR4Jsj5.png",
+    "certificate": "G",
+    "runTimeMinutes": 88,
     "primaryGenre": "Family",
-    "secondaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
     "originCountries": [
-      "US",
-      "CA"
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -1535,6 +1556,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "228326",
+    "tmdbId": 228326,
+    "imdbId": "tt2262227",
+    "type": "movie",
+    "title": "The Book of Life",
+    "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans fantastical worlds where he must face his greatest fears.",
+    "year": "2014",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7bUYGOyVbGXxNQ292cjwYh003vW.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "425",
     "tmdbId": 425,
     "imdbId": "tt0268380",
@@ -1634,27 +1676,6 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "170687",
-    "tmdbId": 170687,
-    "imdbId": "tt0787474",
-    "type": "movie",
-    "title": "The Boxtrolls",
-    "overview": "An orphaned boy raised by underground creatures called Boxtrolls comes up from the sewers and out of his box to save his family and the town from the evil exterminator, Archibald Snatcher.",
-    "year": "2014",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dkBx0XNzsngDDqiWiPG08eMWBm7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kf3dUZaohYujLoLLemiOBYLYvY3.png",
-    "certificate": "PG",
-    "runTimeMinutes": 97,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -1842,6 +1863,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/hrAeReyKsy89ue9bMWKuTJ57GGz.png",
     "certificate": "PG",
     "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "170687",
+    "tmdbId": 170687,
+    "imdbId": "tt0787474",
+    "type": "movie",
+    "title": "The Boxtrolls",
+    "overview": "An orphaned boy raised by underground creatures called Boxtrolls comes up from the sewers and out of his box to save his family and the town from the evil exterminator, Archibald Snatcher.",
+    "year": "2014",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dkBx0XNzsngDDqiWiPG08eMWBm7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kf3dUZaohYujLoLLemiOBYLYvY3.png",
+    "certificate": "PG",
+    "runTimeMinutes": 97,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -2501,29 +2543,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "32657",
-    "tmdbId": 32657,
-    "imdbId": "tt0814255",
-    "type": "movie",
-    "title": "Percy Jackson & the Olympians: The Lightning Thief",
-    "overview": "Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
-    "year": "2010",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bPjSRjigOlEnz1r6H92raaqwhJx.png",
-    "certificate": "PG",
-    "runTimeMinutes": 118,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US",
-      "GB",
-      "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "442062",
     "tmdbId": 442062,
     "imdbId": "tt5664636",
@@ -2839,6 +2858,29 @@
     "originalLanguage": "en"
   },
   {
+    "id": "32657",
+    "tmdbId": 32657,
+    "imdbId": "tt0814255",
+    "type": "movie",
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "overview": "Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
+    "year": "2010",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bPjSRjigOlEnz1r6H92raaqwhJx.png",
+    "certificate": "PG",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "552524",
     "tmdbId": 552524,
     "imdbId": "tt11655566",
@@ -2944,6 +2986,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "73723",
+    "tmdbId": 73723,
+    "imdbId": "tt1482459",
+    "type": "movie",
+    "title": "The Lorax",
+    "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
+    "year": "2012",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uDnH6pbssgi03d1BvHgI630UFF2.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "177572",
     "tmdbId": 177572,
     "imdbId": "tt2245084",
@@ -3043,6 +3106,27 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Family",
     "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9408",
+    "tmdbId": 9408,
+    "imdbId": "tt0423294",
+    "type": "movie",
+    "title": "Surf's Up",
+    "overview": "With a documentary crew in tow, Cody Maverick—a young surfer from Antarctica—travels to the pacific for his first professional competition. Determined to earn respect and live up to his idol, Big Z, Cody pushes himself to the limit. But all that changes when an encounter with a laid-back local forces him to rethink his values.",
+    "year": "2007",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Y50RfoNVKIj9dSJavE8uBdN377.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wS3oONEfs0hIzEnw2ApX1A5rgSw.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -3280,27 +3364,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "508943",
-    "tmdbId": 508943,
-    "imdbId": "tt12801262",
-    "type": "movie",
-    "title": "Luca",
-    "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-    "year": "2021",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1k0lYEyYy60L9yjnzKHHP9b5OIa.png",
-    "certificate": "PG",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "2454",
     "tmdbId": 2454,
     "imdbId": "tt0499448",
@@ -3379,27 +3442,6 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "9408",
-    "tmdbId": 9408,
-    "imdbId": "tt0423294",
-    "type": "movie",
-    "title": "Surf's Up",
-    "overview": "With a documentary crew in tow, Cody Maverick—a young surfer from Antarctica—travels to the pacific for his first professional competition. Determined to earn respect and live up to his idol, Big Z, Cody pushes himself to the limit. But all that changes when an encounter with a laid-back local forces him to rethink his values.",
-    "year": "2007",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Y50RfoNVKIj9dSJavE8uBdN377.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wS3oONEfs0hIzEnw2ApX1A5rgSw.png",
-    "certificate": "PG",
-    "runTimeMinutes": 85,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -3574,21 +3616,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "673309",
-    "tmdbId": 673309,
-    "imdbId": "tt11729298",
+    "id": "12222",
+    "tmdbId": 12222,
+    "imdbId": "tt0451079",
     "type": "movie",
-    "title": "American Underdog",
-    "overview": "The true story of Kurt Warner, who went from a stockboy at a grocery store to a two-time NFL MVP, Super Bowl champion, and Hall of Fame quarterback.",
-    "year": "2021",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bzWkU9E1wUEywduYg3cX6iXGMk9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jUJP67Lqmwc0hyaDeLKBS2WuS5Y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/48RqIlv4vvT9PVcrjXXYNzIKvHK.png",
-    "certificate": "PG",
-    "runTimeMinutes": 112,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
+    "title": "Horton Hears a Who!",
+    "overview": "An imaginative elephant named Horton hears a faint cry for help coming from a tiny speck of dust floating through the air. Horton suspects there may be life on that speck and despite a surrounding community, who thinks he has lost his mind, he is determined to save the tiny particle.",
+    "year": "2008",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Nfwmdxl2EDvVVE4An18Lio6tSx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/NUMKtqdZZW6paoUrsTEaun5RQH.png",
+    "certificate": "G",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -4078,27 +4120,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "12222",
-    "tmdbId": 12222,
-    "imdbId": "tt0451079",
-    "type": "movie",
-    "title": "Horton Hears a Who!",
-    "overview": "An imaginative elephant named Horton hears a faint cry for help coming from a tiny speck of dust floating through the air. Horton suspects there may be life on that speck and despite a surrounding community, who thinks he has lost his mind, he is determined to save the tiny particle.",
-    "year": "2008",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Nfwmdxl2EDvVVE4An18Lio6tSx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/NUMKtqdZZW6paoUrsTEaun5RQH.png",
-    "certificate": "G",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "420818",
     "tmdbId": 420818,
     "imdbId": "tt6105098",
@@ -4176,27 +4197,6 @@
     "certificate": "PG",
     "runTimeMinutes": 96,
     "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "762509",
-    "tmdbId": 762509,
-    "imdbId": "tt13186482",
-    "type": "movie",
-    "title": "Mufasa: The Lion King",
-    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
-    "year": "2024",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uUaNB68Buz6oVErVzs9YTZNpZyC.png",
-    "certificate": "PG",
-    "runTimeMinutes": 118,
-    "primaryGenre": "Adventure",
     "secondaryGenre": "Family",
     "originCountries": [
       "US"

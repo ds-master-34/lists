@@ -399,6 +399,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "1743695",
+    "tmdbId": 1743695,
+    "imdbId": "tt40188247",
+    "type": "movie",
+    "title": "El Club del Pie Izquierdo",
+    "overview": "A forty-year-old office worker of Mexico City, realizes that he has been trapped in a car and a desk for years. He finds a dance academy, enrolls in reggaeton classes with strict teacher Paulina, and finds renewal. Remake of the Japanese film 'Shall We Dance?'",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/v6b6cclN83KM8AM6NLSphumlstO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
+    "logoUrl": null,
+    "certificate": "10",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "1522689",
     "tmdbId": 1522689,
     "imdbId": "tt38061210",
@@ -4182,27 +4203,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/lMBGyK3zgxyeNCHV2EnvDq73hNC.png",
     "certificate": "A",
     "runTimeMinutes": 103,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1081595",
-    "tmdbId": 1081595,
-    "imdbId": "tt26593617",
-    "type": "movie",
-    "title": "Caterpillar",
-    "overview": "Endlessly struggling to feel seen, David becomes infatuated with a mysterious company's promise to transform people's lives by permanently changing the color of their eyes. After traveling to India to get the controversial procedure, he begins to question if this artificial beauty will give him the fulfillment he truly seeks.",
-    "year": "2025",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1J4LaOTB47Sd2HtDyszmHVTRfQs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rAClsKEEyQgKxANB9B6oiGgSlSG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/48l2na92lyVoKeXLPbb9N8fNrme.png",
-    "certificate": "",
-    "runTimeMinutes": 111,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": [
