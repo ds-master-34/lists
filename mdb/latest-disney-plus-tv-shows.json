@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 8,
+    "rating": 8.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -28,7 +28,7 @@
     "title": "Phony",
     "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
     "year": "2026",
-    "rating": 6.8,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/AdFlgN6pKI6C481z2KshrQL204w.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xqc5IeHc6TzT1uvNZ1CCNIiTeNC.png",
@@ -481,27 +481,6 @@
       "AR",
       "CO",
       "US"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "255522",
-    "tmdbId": 255522,
-    "imdbId": "tt32474482",
-    "type": "tv",
-    "title": "If It's Tuesday, It's Murder",
-    "overview": "A diverse group of tourists on an organized trip to Lisbon find themselves investigating a murder after one of them is killed on the first morning.",
-    "year": "2026",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/abWa2F4O0WNAh6xVVwWID7BIDd1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nbTPbquvZHJpL5WM5mF2ArRYBEc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/le6cE71FenbMBdYu4AthQPc5Ht5.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "ES"
     ],
     "originalLanguage": "es"
   },
@@ -4206,6 +4185,27 @@
     "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "202162",
+    "tmdbId": 202162,
+    "imdbId": "tt20259432",
+    "type": "tv",
+    "title": "The Clearing",
+    "overview": "When a local girl goes missing, a woman is forced to face the demons from her traumatic childhood.",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iqJpQPAKZq73wIex5f0bSZkYfoT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bvqNRMMl1gXYceHhpe5FHqYHr4d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sXq0XA0hBgd5djLyafnvPzqZn3f.png",
+    "certificate": "15",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AU"
     ],
     "originalLanguage": "en"
   }

@@ -70,7 +70,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -133,7 +133,7 @@
     "title": "Make Me Tingle",
     "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
     "year": "2026",
-    "rating": 8.5,
+    "rating": 8.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
@@ -238,7 +238,7 @@
     "title": "The Perfect Lie",
     "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
     "year": "2026",
-    "rating": 8.5,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
@@ -322,7 +322,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 8,
+    "rating": 8.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -2646,6 +2646,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "220074",
+    "tmdbId": 220074,
+    "imdbId": "tt30413181",
+    "type": "tv",
+    "title": "Flex X Cop",
+    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "96777",
     "tmdbId": 96777,
     "imdbId": "tt11570202",
@@ -2751,27 +2772,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "237565",
-    "tmdbId": 237565,
-    "imdbId": "tt30365813",
-    "type": "tv",
-    "title": "Family by Choice",
-    "overview": "A youth romance about two men and woman who aren't blood related but treated each other as family during their teens and how they meet again after 10 years.",
-    "year": "2024",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uJZ7WkSUyddxEg4kfiJIrOVaOgi.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "129478",
     "tmdbId": 129478,
     "imdbId": "tt14609428",
@@ -2814,27 +2814,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "253905",
-    "tmdbId": 253905,
-    "imdbId": "tt33503491",
-    "type": "tv",
-    "title": "When the Phone Rings",
-    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
-    "year": "2024",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "248244",
     "tmdbId": 248244,
     "imdbId": "tt33364760",
@@ -2850,6 +2829,27 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "253905",
+    "tmdbId": 253905,
+    "imdbId": "tt33503491",
+    "type": "tv",
+    "title": "When the Phone Rings",
+    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
+    "year": "2024",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -3297,27 +3297,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "220074",
-    "tmdbId": 220074,
-    "imdbId": "tt30413181",
-    "type": "tv",
-    "title": "Flex X Cop",
-    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-    "year": "2024",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "287011",
     "tmdbId": 287011,
     "imdbId": "tt39387440",
@@ -3333,6 +3312,27 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "153496",
+    "tmdbId": 153496,
+    "imdbId": "tt18352538",
+    "type": "tv",
+    "title": "Reborn Rich",
+    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+    "year": "2022",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6vs7qtD5KUwijUhpthuhA6PkwxI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clGOzO82lN4gPI4Fon7wNVXS90i.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oTCBF2Dd6mHUg9Ju8qQwcaYc8qb.png",
+    "certificate": "15",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3501,6 +3501,27 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "223212",
+    "tmdbId": 223212,
+    "imdbId": "tt26693681",
+    "type": "tv",
+    "title": "The Impossible Heir",
+    "overview": "An ambitious boy grows up and joins an intense war of desires to become a star of his own.",
+    "year": "2024",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ksIQrUoJERXBnVcxAxkMQDpzx3l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sXT9JVUznUwwVy3LsYeD4kCwGgv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/efuoQMiEsqWSL3AuxRSRVzRNfCb.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3780,27 +3801,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "153496",
-    "tmdbId": 153496,
-    "imdbId": "tt18352538",
-    "type": "tv",
-    "title": "Reborn Rich",
-    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6vs7qtD5KUwijUhpthuhA6PkwxI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clGOzO82lN4gPI4Fon7wNVXS90i.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oTCBF2Dd6mHUg9Ju8qQwcaYc8qb.png",
-    "certificate": "15",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "156888",
     "tmdbId": 156888,
     "imdbId": "tt26258200",
@@ -4032,27 +4032,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "131305",
-    "tmdbId": 131305,
-    "imdbId": "tt26315488",
-    "type": "tv",
-    "title": "Celebrity",
-    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
-    "year": "2023",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a4bWzz41C0khqh60VXOmygbwPzu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kzv4cgjegGZr259zHm00jrCTEkw.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "90706",
     "tmdbId": 90706,
     "imdbId": "tt10544464",
@@ -4131,27 +4110,6 @@
     "runTimeMinutes": 8,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "218631",
-    "tmdbId": 218631,
-    "imdbId": "tt27368181",
-    "type": "tv",
-    "title": "Gangnam B-Side",
-    "overview": "When Jaehee, a top call girl at a club in Gangnam, goes missing, Detective Kang Dongwoo returns to crack the case. Prosecutor Min Seojin aims to rise in rank, while the notorious pimp, Yoon Gilho becomes a prime suspect. They unravel a web of secrets and connections behind the case.",
-    "year": "2024",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5oo7JW9BYPGOD9Tco6NobEUuRXk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wMVtQXh4gAmPnZ6QuIL2xA9xCmd.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4599,6 +4557,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "131305",
+    "tmdbId": 131305,
+    "imdbId": "tt26315488",
+    "type": "tv",
+    "title": "Celebrity",
+    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
+    "year": "2023",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a4bWzz41C0khqh60VXOmygbwPzu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kzv4cgjegGZr259zHm00jrCTEkw.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "296009",
     "tmdbId": 296009,
     "imdbId": "tt39375130",
@@ -4656,6 +4635,27 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "218631",
+    "tmdbId": 218631,
+    "imdbId": "tt27368181",
+    "type": "tv",
+    "title": "Gangnam B-Side",
+    "overview": "When Jaehee, a top call girl at a club in Gangnam, goes missing, Detective Kang Dongwoo returns to crack the case. Prosecutor Min Seojin aims to rise in rank, while the notorious pimp, Yoon Gilho becomes a prime suspect. They unravel a web of secrets and connections behind the case.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5oo7JW9BYPGOD9Tco6NobEUuRXk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wMVtQXh4gAmPnZ6QuIL2xA9xCmd.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7607,7 +7607,7 @@
     "title": "Rooftop Prince",
     "overview": "Crown Prince Yi Gak finds that he has been transported from the Chosun Dynasty to modern-day Seoul. He meets Hong Se Na, who bears a striking resemblance to his dead wife, and is determined to solve the 300-year-old mystery of her death. With his own resemblance to the CEO’s grandson at the company where Se Na works, Gak assumes the identity of the young man to stay close to her. Can the Crown Prince navigate a modern corporation to find clues to his own time period?",
     "year": "2012",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/2bHHzWAMPxIVv7e0FgTQDTYd1y5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kD5fexs7nAoyVprZQzlBUfZtZk0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/9oRt60P9yZMoIEC6K37wOPbPXcW.png",

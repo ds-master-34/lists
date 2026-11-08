@@ -28,7 +28,7 @@
     "title": "WAR",
     "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
@@ -734,6 +734,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "301551",
+    "tmdbId": 301551,
+    "imdbId": "tt38119635",
+    "type": "tv",
+    "title": "Jesse & Joy: What We Never Said Before",
+    "overview": "Jesse & Joy reveal the most intimate side of their story and the conflicts that shaped their identity and their music.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yaMGBUFQVRvVvtMZVQ5MG1jluKR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s489338xSwM8VFzq1NwAuvkxTTV.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "228305",
@@ -2556,7 +2577,7 @@
     "title": "Jessica's Big Little World",
     "overview": "Jessica navigates her way through a world where everything seems much bigger than she is; inspired by the grown-ups around her, she persists in conquering monumental children's tasks.",
     "year": "2023",
-    "rating": 6.2,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zrpQmt7Qtas0PkSfJOVzMMtzD96.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/rr4VeT9lAb7g47VsCXgMhx6Uv7m.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/syw6Cx6EwVMf89KweRzMn7bVpQ4.png",
@@ -4181,27 +4202,6 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "158534",
-    "tmdbId": 158534,
-    "imdbId": "tt18332840",
-    "type": "tv",
-    "title": "Gaming Wall St",
-    "overview": "Kieran Culkin narrates this docuseries exploring the historic 2021 short squeeze of GameStop, and how a group of armchair investors and online vigilantes ultimately helped expose the dark underbelly of Wall Street.",
-    "year": "2022",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3x2hDJmwAo1kxv8WVZYSJSDpwvC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9R2iysyWgqkMsxuZE7AXco42OKF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/r6a2Hj9wWsxdrzBk7pgCM5UiHMs.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
