@@ -315,6 +315,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1757386",
+    "tmdbId": 1757386,
+    "imdbId": "tt23148884",
+    "type": "movie",
+    "title": "Funny Money: The Dane Cook Story",
+    "overview": "At the height of his career, Dane Cook wasn't just selling out arenas; he was redefining what a stand-up comedian could be. Then, in a shocking betrayal, the person he trusted most stole millions of dollars, forever changing his life. FUNNY MONEY: THE DANECOOK STORY is a gripping documentary about fame, family, greed, and survival, revealing the extraordinary true story behind one of comedy's biggest icons.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kvLuZbJiJWta9YvEf6ow7f3R3Lx.png",
+    "certificate": "NR",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1492640",
     "tmdbId": 1492640,
     "imdbId": "tt6933238",
@@ -1007,6 +1028,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "1476682",
+    "tmdbId": 1476682,
+    "imdbId": "tt36834010",
+    "type": "movie",
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "overview": "After her fiance sleeps with his celebrity crush, Kansas hairdresser Gail heads to Hollywood to even the score with her own famous fantasy — Jon Hamm.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7Mmzdcq0NDPlIt79WwtUMYa1zjI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l8v0vBTZ6hLp0W94Gtio7GSJcon.png",
+    "certificate": "R",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "1710008",
@@ -4167,47 +4209,5 @@
       "PH"
     ],
     "originalLanguage": "tl"
-  },
-  {
-    "id": "1564346",
-    "tmdbId": 1564346,
-    "imdbId": "tt38772659",
-    "type": "movie",
-    "title": "Eloá the Hostage: Live on TV",
-    "overview": "A tragic hostage case from 2008 Brazil unfolds through unseen diary entries, family interviews, and media coverage, as a 15-year-old girl is held captive by her ex-boyfriend for 100 hours while TV networks broadcast it live.",
-    "year": "2025",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zhDxIfVMmcEE4g7sx5gCcuJYzad.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/190eSIqQgXLg9gbr9EjulBV7rR6.jpg",
-    "logoUrl": null,
-    "certificate": "R",
-    "runTimeMinutes": 85,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": "pt"
-  },
-  {
-    "id": "1426518",
-    "tmdbId": 1426518,
-    "imdbId": "tt35627915",
-    "type": "movie",
-    "title": "Being Eddie",
-    "overview": "From teen comedian to Hollywood legend, Eddie Murphy revisits his extraordinary showbiz ride with raw honesty and humor.",
-    "year": "2025",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9w6883OlULmjwLA0H0Zo4XYhZSR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lMBGyK3zgxyeNCHV2EnvDq73hNC.png",
-    "certificate": "A",
-    "runTimeMinutes": 103,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
