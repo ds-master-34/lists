@@ -1,5 +1,26 @@
 [
   {
+    "id": "303044",
+    "tmdbId": 303044,
+    "imdbId": "tt39943756",
+    "type": "tv",
+    "title": "Campus Drivers",
+    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yIZq5hr4ztF5ntlGv1QsgwgvBfT.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "338684",
     "tmdbId": 338684,
     "imdbId": "tt43681696",
@@ -16,6 +37,28 @@
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
     "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "314271",
+    "tmdbId": 314271,
+    "imdbId": "tt39957390",
+    "type": "tv",
+    "title": "Bass X Machina",
+    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2QuNyg8OaRxhBs395xAn0UdcoEa.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "KR",
       "US"
     ],
     "originalLanguage": "en"
@@ -925,6 +968,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "288385",
+    "tmdbId": 288385,
+    "imdbId": "tt40407840",
+    "type": "tv",
+    "title": "Paolo",
+    "overview": "Follow working-class Paolo's unsettling intrusion into the life of Téophane Tolbiac, a young and up-and-coming politician.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5arYNSnKiCWxdwdrzjvP5vokPkV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
   },
   {
     "id": "290720",
@@ -2885,6 +2949,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "326445",
+    "tmdbId": 326445,
+    "imdbId": "tt43618445",
+    "type": "tv",
+    "title": "Peach and Me",
+    "overview": "After their wedding, Thee and Peach embrace the joys and chaos of married life while finding their own rhythm together.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/af9uPoollWKPT7L4uv4mnaopXgb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4LV2UcsHXxJXjjp8ryeP0qijrl2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAVdMJyRHi9jsVAn4O7Wu9N8EvU.png",
+    "certificate": "18+",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "322570",
     "tmdbId": 322570,
     "imdbId": "tt43639297",
@@ -4122,90 +4207,6 @@
     "secondaryGenre": "Mystery",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "316992",
-    "tmdbId": 316992,
-    "imdbId": "tt40385200",
-    "type": "tv",
-    "title": "World War II with Tom Hanks",
-    "overview": "Explores WWII from Germany's invasion of Poland through the atomic age, examining pivotal battles, wartime leaders like Churchill and Roosevelt, and the human cost of total war.",
-    "year": "2026",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/MPN0glmZV3JnZfmXtKF32SRhDD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xVN8rq2VM9cvFmM0grv1AFnhO6d.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xlzUtRkWIjD5RRupq1kR3G3lUCQ.png",
-    "certificate": "16",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "322419",
-    "tmdbId": 322419,
-    "imdbId": "tt42667822",
-    "type": "tv",
-    "title": "Camatarii",
-    "overview": "One of the most feared clans in Romania tells its inside story for the first time. This is not just the history of a clan. It is the story of a transition, of a Romania that paid dearly for the price of freedom.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/m2N08g1l1nniOQX993EEKuv2R9N.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Th6XtrJikv3fg2PlYJWMkmz2bB.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "RO"
-    ],
-    "originalLanguage": "ro"
-  },
-  {
-    "id": "321598",
-    "tmdbId": 321598,
-    "imdbId": "tt41978418",
-    "type": "tv",
-    "title": "The Many Lives of Benjaman Kyle",
-    "overview": "The producers set out to help amnesiac Benjaman Kyle but uncover mob ties, twisted lies, and a sinister plan. He claims memory loss, but as the story unfolds, he turns on them. They soon learn he may be a hitman and a possible murderer.",
-    "year": "2026",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oVYZZpAz7CC4DJF8b0xJKkY5WaE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qrpL5eSoubDrDGo12NK3SvDuJpI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lJKgUs46hcO2p6TIronNLRAP8RC.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "284022",
-    "tmdbId": 284022,
-    "imdbId": "tt36118374",
-    "type": "tv",
-    "title": "Two Weeks in August",
-    "overview": "A Greek holiday with friends to relax and reconnect. But when Zoe acts on her desires, heaven quickly turns into hell. Witty, painfully relatable drama starring Jessica Raine.",
-    "year": "2026",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xjkR648bH8FzQVKG9RvQtNCVVDa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lZwwE5GjEOobKhKpLn9j5UxIZ8E.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xIePPdcQLMsVv8VpHfURoDzu7Pb.png",
-    "certificate": "16",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }
