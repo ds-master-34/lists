@@ -3620,6 +3620,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "209493",
+    "tmdbId": 209493,
+    "imdbId": "tt11883886",
+    "type": "tv",
+    "title": "The Forgotten Valley",
+    "overview": "A group of youngsters get lost while hiking in the woods and are suddenly attacked. Wounded and with one of them have being captured, they find shelter in an eerie village shrouded in an eternal mist, a place from where no one can escape.",
+    "year": "2022",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gFqV774B19cDRzpXa7eLJXZ2ZzB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k9EYrWZIhfuvC1dq4fD54GbSFaC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rB1TfZPqUF28M5v2QtoXB2zc6Tw.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "210475",
     "tmdbId": 210475,
     "imdbId": "tt22183824",
@@ -3886,6 +3907,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 58,
     "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "202884",
+    "tmdbId": 202884,
+    "imdbId": "tt20202860",
+    "type": "tv",
+    "title": "Murdaugh Murders: Deadly Dynasty",
+    "overview": "The powerful Murdaugh family has held sway over the South Carolina “low country” for a century—until now. Alleged murder, corruption, and deception are revealed. Meanwhile Alex Murdaugh, 4th generation of the legal dynasty, stands accused of enough financial crimes to sentence him to more than 700 years in prison…and the saga continues.",
+    "year": "2022",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gNoW1zrSB7Jp2Kh0hvxrnlGDKF0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wm1zDVH6bTbarAluxDzwb0P1awe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uEJl7ILjvHYvWDrjXFRp5ufMP1B.png",
+    "certificate": "12",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
     "originCountries": [
       "US"
@@ -4160,48 +4202,6 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135387",
-    "tmdbId": 135387,
-    "imdbId": "tt17593100",
-    "type": "tv",
-    "title": "Oh Hell!",
-    "overview": "Follow Helene, who is in her mid-twenties and who is not nicknamed “Hell” for nothing. Her life is anything but relaxed, Helen jumps from one job to the next and privately she keeps stumbling into big and small blunders. Sometimes she wishes she were like her best friend Maike, who travels the world and has already had some success professionally. When she meets the cello teacher Oskar, something like consistency seems to develop for the first time. But can \"Hell\" lead a quiet and happy life - and does she even want it?",
-    "year": "2022",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o0EI6nLIOEnOLsAw9g0mNO6CV2v.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gBWsHaNXVT4UmQ71QfYxKjF8E5x.jpg",
-    "logoUrl": null,
-    "certificate": "TV-MA",
-    "runTimeMinutes": 37,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "DE"
-    ],
-    "originalLanguage": "de"
-  },
-  {
-    "id": "158320",
-    "tmdbId": 158320,
-    "imdbId": "tt17036612",
-    "type": "tv",
-    "title": "Phoenix Rising",
-    "overview": "Actress and activist Evan Rachel Wood takes her experience as a survivor of domestic violence and pursues justice, heals generational wounds, and reclaims her story. Almost a decade after escaping a dangerous relationship, Wood co-authors and successfully lobbies for passage of The Phoenix Act, legislation that extends the statute of limitations for domestic violence cases in California.",
-    "year": "2022",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/y400KxI6wZiWEHwZBYxyfGU58E7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j7VWVJLVxEWEdteqyDkEMFVD2Q0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yvrny9F2obX89UBvSrIryqANTY0.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
