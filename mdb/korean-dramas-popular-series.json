@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -3717,6 +3717,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "224030",
+    "tmdbId": 224030,
+    "imdbId": "tt32499943",
+    "type": "tv",
+    "title": "High School Return of a Gangster",
+    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
+    "year": "2024",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/maFcTYK9k0TugmW7b8nISFObkL4.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "301412",
     "tmdbId": 301412,
     "imdbId": "tt39028251",
@@ -4110,6 +4131,27 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "81821",
+    "tmdbId": 81821,
+    "imdbId": "tt8199972",
+    "type": "tv",
+    "title": "100 Days My Prince",
+    "overview": "Lee Yool falls off a cliff and nearly dies in an attempted assassination. He loses his memory, and wanders for 100 days under a new name and personality. During this period, he meets Hong Sim, head of the first detective agency in Joseon.",
+    "year": "2018",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5GoF6fZGqEycUqgcCNmBCN3OdWM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qK4wHkIaq2qnJs1iOUJES8wDY5X.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d3lcAlCXTsPG2lx72Vphn8vfIpF.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -8350,27 +8392,6 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "80965",
-    "tmdbId": 80965,
-    "imdbId": "tt8689936",
-    "type": "tv",
-    "title": "Witch's Love",
-    "overview": "A landlord threatens to expose three generations of witches hiding their magical world from unsuspecting eyes.",
-    "year": "2018",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2dUE6bTv4sL9khs2mBMl5qn8sno.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7w72d9776KDNvjVaEDeVSJCmJ8d.jpg",
-    "logoUrl": null,
-    "certificate": "12",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

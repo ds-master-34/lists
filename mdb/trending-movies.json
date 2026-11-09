@@ -407,7 +407,7 @@
     "title": "Your Mother Your Mother Your Mother",
     "overview": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vTWwAyfrTYFLHDD4vF94JzBBBpB.png",
@@ -470,7 +470,7 @@
     "title": "A Dog's Perfect Christmas",
     "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
@@ -639,7 +639,7 @@
     "title": "Matchbox the Movie",
     "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
     "year": "2026",
-    "rating": 5.6,
+    "rating": 5.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
@@ -1757,7 +1757,7 @@
     "title": "My Best Friend",
     "overview": "When empty nest syndrome hits, two BFFs follow their teen daughters to Portugal and find love, fun and a whole new meaning of friendship along the way.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/qd6Kwx2J36FGDsyqKaDhlQKshFp.png",
@@ -1862,7 +1862,7 @@
     "title": "The 12 Dates of Christmas",
     "overview": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/1K1mVHef4LIiuDQ3VdPcNS8Tk6G.png",
@@ -2515,7 +2515,7 @@
     "title": "WWE Crown Jewel 2026",
     "overview": "The 2026 Crown Jewel, also promoted as Crown Jewel: Riyadh, was a professional wrestling premium live event produced by the American company WWE. It was the eighth Crown Jewel and took place on Saturday, November 7, 2026, at the ANB Arena in Riyadh, Saudi Arabia, as part of Riyadh Season. This was the 16th event that WWE held in Saudi Arabia under a 10-year partnership in support of Saudi Vision 2030.",
     "year": "2026",
-    "rating": 6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/610Cv9gRQLAmwm2a0iCfEWGNFtG.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/irsNq76wDa5owrff1h8ddRJxDc0.jpg",
     "logoUrl": null,
@@ -2620,7 +2620,7 @@
     "title": "Unprotected: Murder in Galicia",
     "overview": "Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Verín. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.",
     "year": "2026",
-    "rating": 6.1,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/15Ei7xpsEDTZXstqjFV4790811e.png",
@@ -3560,6 +3560,69 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "502356",
+    "tmdbId": 502356,
+    "imdbId": "tt6718170",
+    "type": "movie",
+    "title": "The Super Mario Bros. Movie",
+    "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sst2kO7ySyAm3z5haWXUszOVWi2.png",
+    "certificate": "U",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "616037",
+    "tmdbId": 616037,
+    "imdbId": "tt10648342",
+    "type": "movie",
+    "title": "Thor: Love and Thunder",
+    "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "year": "2022",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/y0UqCw8KfQrhKiZ5Ys84qyzCpWN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "745",
+    "tmdbId": 745,
+    "imdbId": "tt0167404",
+    "type": "movie",
+    "title": "The Sixth Sense",
+    "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+    "year": "1999",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lrkzMNWdbk2o0ddLyqSxN3GSjRd.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10719",
     "tmdbId": 10719,
     "imdbId": "tt0319343",
@@ -3617,6 +3680,27 @@
     "runTimeMinutes": 121,
     "primaryGenre": "Action",
     "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1061474",
+    "tmdbId": 1061474,
+    "imdbId": "tt5950044",
+    "type": "movie",
+    "title": "Superman",
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7gQc9y2EORn9pZhGtAEdlEbpcpz.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 130,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -3785,6 +3869,27 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "425",
+    "tmdbId": 425,
+    "imdbId": "tt0268380",
+    "type": "movie",
+    "title": "Ice Age",
+    "overview": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+    "year": "2002",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tyVAGH1vw9JDgxPyTUQPn91nIYc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o2dJGLPODV3jz9rWsX1hERFAh7X.png",
+    "certificate": "U",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -4022,6 +4127,28 @@
     "originalLanguage": "en"
   },
   {
+    "id": "49026",
+    "tmdbId": 49026,
+    "imdbId": "tt1345836",
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "certificate": "UA",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "383498",
     "tmdbId": 383498,
     "imdbId": "tt5463162",
@@ -4100,6 +4227,27 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Horror",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1560520",
+    "tmdbId": 1560520,
+    "imdbId": "tt32333324",
+    "type": "movie",
+    "title": "Batman: Knightfall Part 1: Knightfall",
+    "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
+    "certificate": "R",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
@@ -4295,6 +4443,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "129",
+    "tmdbId": 129,
+    "imdbId": "tt0245429",
+    "type": "movie",
+    "title": "Spirited Away",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "year": "2001",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
+    "certificate": "PG",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
+    "id": "1895",
+    "tmdbId": 1895,
+    "imdbId": "tt0121766",
+    "type": "movie",
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "overview": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+    "year": "2005",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqVHXsqPzsLyq1M4xfsglaZSN7l.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1198994",
     "tmdbId": 1198994,
     "imdbId": "tt8036976",
@@ -4401,6 +4591,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "505642",
+    "tmdbId": 505642,
+    "imdbId": "tt9114286",
+    "type": "movie",
+    "title": "Black Panther: Wakanda Forever",
+    "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/79cW38WVrj8RjT8U5FczODCYTDs.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "350",
+    "tmdbId": 350,
+    "imdbId": "tt0458352",
+    "type": "movie",
+    "title": "The Devil Wears Prada",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "year": "2006",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9spnkfdCZumIxLYD6C7sJ1DK5EO.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1402181",
     "tmdbId": 1402181,
     "imdbId": "tt38192494",
@@ -4485,6 +4717,69 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1893",
+    "tmdbId": 1893,
+    "imdbId": "tt0120915",
+    "type": "movie",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "year": "1999",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ng7NyKidNO3tpngil1jW6DNMPVx.png",
+    "certificate": "PG",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "122917",
+    "tmdbId": 122917,
+    "imdbId": "tt2310332",
+    "type": "movie",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+    "year": "2014",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g0qdP2Sy1OodciNtrhcPECwR5DC.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 144,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "NZ"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "98",
+    "tmdbId": 98,
+    "imdbId": "tt0172495",
+    "type": "movie",
+    "title": "Gladiator",
+    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "year": "2000",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/liF6t2gp6C5JTCvfF3biCCqFDx9.png",
+    "certificate": "R",
+    "runTimeMinutes": 155,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "569094",
     "tmdbId": 569094,
     "imdbId": "tt9362722",
@@ -4506,6 +4801,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "14160",
+    "tmdbId": 14160,
+    "imdbId": "tt1049413",
+    "type": "movie",
+    "title": "Up",
+    "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+    "year": "2009",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xi23eSwoibr5XeuZWBkTIBcA8O2.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "497698",
     "tmdbId": 497698,
     "imdbId": "tt3480822",
@@ -4521,6 +4837,48 @@
     "runTimeMinutes": 134,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1366",
+    "tmdbId": 1366,
+    "imdbId": "tt0075148",
+    "type": "movie",
+    "title": "Rocky",
+    "overview": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+    "year": "1976",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1mcJmdbRLusxhoSGjFI3pbEboXt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4ZMlbEpP1gY7QkW5UdeoVwk814x.png",
+    "certificate": "U",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1159559",
+    "tmdbId": 1159559,
+    "imdbId": "tt27047903",
+    "type": "movie",
+    "title": "Scream 7",
+    "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+    "year": "2026",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2JRh8uPqNGlZC72vJawAGHToOnk.png",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "US"
     ],
@@ -4611,6 +4969,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "269149",
+    "tmdbId": 269149,
+    "imdbId": "tt2948356",
+    "type": "movie",
+    "title": "Zootopia",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bHIwMS8fSIM6kYfXdS7bD0mNYsq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "324552",
     "tmdbId": 324552,
     "imdbId": "tt4425200",
@@ -4653,6 +5032,70 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1022789",
+    "tmdbId": 1022789,
+    "imdbId": "tt22022452",
+    "type": "movie",
+    "title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h40hblm8J1if7T2CBMjCD85HwuD.png",
+    "certificate": "U",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "280",
+    "tmdbId": 280,
+    "imdbId": "tt0103064",
+    "type": "movie",
+    "title": "Terminator 2: Judgment Day",
+    "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "year": "1991",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tMfwlEvwqKUgM9gTt7rATnB78Eh.png",
+    "certificate": "A",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US",
+      "FR"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57158",
+    "tmdbId": 57158,
+    "imdbId": "tt1170358",
+    "type": "movie",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+    "year": "2013",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7UoXlY5JNFr0NepyDeuEAsWwKMz.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 161,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1184918",
     "tmdbId": 1184918,
     "imdbId": "tt29623480",
@@ -4674,6 +5117,111 @@
     "originalLanguage": "en"
   },
   {
+    "id": "285",
+    "tmdbId": 285,
+    "imdbId": "tt0449088",
+    "type": "movie",
+    "title": "Pirates of the Caribbean: At World's End",
+    "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+    "year": "2007",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qxtGuZEnRXT1uqWe0Xsmxgsj8Hy.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1165369",
+    "tmdbId": 1165369,
+    "imdbId": "tt35856133",
+    "type": "movie",
+    "title": "De Gaulle: Liberté",
+    "overview": "Part two of a two-part biopic following French army officer Charles De Gaulle's life and political commitment between 1940 and 1945, and trace his development towards a political career.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/297x0HIqSCp19pN9wlduK9PONRv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wHdq0odV5ppfXvCYQQ8vlzBpmDH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cB0VdC4Y9wZVtdiPMimnQD2hdGZ.png",
+    "certificate": "NR",
+    "runTimeMinutes": 159,
+    "primaryGenre": "History",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
+    "id": "1780005",
+    "tmdbId": 1780005,
+    "imdbId": "tt37961714",
+    "type": "movie",
+    "title": "Surviving Hurricane Otis",
+    "overview": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
+    "year": "2026",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tNfFbBOuyBbKl4WhKXCbUOwI8Tb.png",
+    "certificate": "R",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX"
+    ],
+    "originalLanguage": "es"
+  },
+  {
+    "id": "680",
+    "tmdbId": 680,
+    "imdbId": "tt0110912",
+    "type": "movie",
+    "title": "Pulp Fiction",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "year": "1994",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kpuNKsIzVbK3LDVo4iOJDAY0y7d.png",
+    "certificate": "R",
+    "runTimeMinutes": 154,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "284054",
+    "tmdbId": 284054,
+    "imdbId": "tt1825683",
+    "type": "movie",
+    "title": "Black Panther",
+    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hhSZl284wdgX7nY3lJXGS1e0sAL.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "68721",
     "tmdbId": 68721,
     "imdbId": "tt1300854",
@@ -4689,6 +5237,27 @@
     "runTimeMinutes": 130,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "277834",
+    "tmdbId": 277834,
+    "imdbId": "tt3521164",
+    "type": "movie",
+    "title": "Moana",
+    "overview": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.",
+    "year": "2016",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oexzU1HUcq6Bzza4KMeU4MbzGza.png",
+    "certificate": "U",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],

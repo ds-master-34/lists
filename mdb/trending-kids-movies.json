@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1570488",
+    "tmdbId": 1570488,
+    "imdbId": "tt38515310",
+    "type": "movie",
+    "title": "A Dog's Perfect Christmas",
+    "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "9479",
     "tmdbId": 9479,
     "imdbId": "tt0107688",
@@ -63,6 +84,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1697911",
+    "tmdbId": 1697911,
+    "imdbId": "tt10098420",
+    "type": "movie",
+    "title": "Drummer Boy",
+    "overview": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family search for freedom. Through battle and loss, music carries hope in a deeply human story of faith and forgiveness.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5KF459N6jOfRV7kV9XV7ZQdCLKK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bx056S0x0dp7qt5HSQFx5Sc0KAc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 129,
+    "primaryGenre": "War",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1117898",
     "tmdbId": 1117898,
     "imdbId": "tt2321555",
@@ -70,7 +112,7 @@
     "title": "The Cat in the Hat",
     "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/f6uRbYmnEl4XGW2P4WGbnQcl6iT.png",
@@ -1773,7 +1815,7 @@
     "title": "The Halloween Tree",
     "overview": "Four children learn the origins of Halloween customs while trying to save the life of their friend.",
     "year": "1993",
-    "rating": 6.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/phcM1B7neu6g7ysw9CmIo35Qida.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/bbDbM6ucn7TSpARZhWGvmMr1lto.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/o6BmCYpkN5PgGpDFi5yPDbcRx0h.png",
@@ -3133,6 +3175,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "11846",
+    "tmdbId": 11846,
+    "imdbId": "tt0101862",
+    "type": "movie",
+    "title": "Father of the Bride",
+    "overview": "George Banks is an ordinary, middle-class man whose 22 year-old daughter Annie has decided to marry a man from an upper-class family, but George can't think of what life would be like without his daughter. His wife tries to make him happy for Annie, but when the wedding takes place at their home and a foreign wedding planner takes over the ceremony, he becomes slightly insane.",
+    "year": "1991",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hWUUxtDEhbmii3vrcnPmP5eehPS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wgRG3Vrpcnahbu6KLvkJyPxHi0y.png",
+    "certificate": "PG",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "82690",
     "tmdbId": 82690,
     "imdbId": "tt1772341",
@@ -3371,7 +3434,7 @@
     "title": "High School Musical",
     "overview": "A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.",
     "year": "2006",
-    "rating": 6.543,
+    "rating": 5.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2p1nyBVSEBiCTrrZeVSV9nIsqHr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/v9xLpBvzsvMBGDN6O5BHV1knTB2.png",
