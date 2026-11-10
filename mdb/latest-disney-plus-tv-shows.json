@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 8,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -2820,27 +2820,6 @@
     "originalLanguage": "de"
   },
   {
-    "id": "254586",
-    "tmdbId": 254586,
-    "imdbId": "tt32381491",
-    "type": "tv",
-    "title": "The Beauty Queen Killer: 9 Days of Terror",
-    "overview": "In 1984, 16-year-old Tina Risico is kidnapped by a killer who takes her on a hellish road trip – and forces her to participate in a brutal crime.",
-    "year": "2024",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yhNy1GMLvZrd7Ozc7LGJJ4yqyRl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/673N8Nu1sxD8rmrrz0NvOlvcPVX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zMg7YW9xCnL5R4pXvUSSllKXJNL.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "209173",
     "tmdbId": 209173,
     "imdbId": "tt21936640",
@@ -4206,6 +4185,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "223430",
+    "tmdbId": 223430,
+    "imdbId": "tt27331314",
+    "type": "tv",
+    "title": "The Secrets of Hillsong",
+    "overview": "With fresh reporting and analysis from journalists, historians and policymakers, go beyond the sensational headlines and behind the velvet rope to examine the church's long pattern of covering up misconduct to protect itself.",
+    "year": "2023",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nEQUKQ4R8gkQ1Tlah52pkCuGhYd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uN5onDK4R4Tram53ToAS55pl5kY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7lh7rknOg5Hu2lLR3CMgQuDhVHh.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   }

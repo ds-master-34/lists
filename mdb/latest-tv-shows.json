@@ -28,7 +28,7 @@
     "title": "Taken: Natalee Holloway",
     "overview": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hJCaMOD67FhOGsgmnss9iaJdwnk.png",
@@ -83,6 +83,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "300755",
+    "tmdbId": 300755,
+    "imdbId": "tt36832423",
+    "type": "tv",
+    "title": "The Traitor Within",
+    "overview": "The series follows the young and ambitious Henry Rinnan, and how his personal demons and narcissistic need for recognition drove him from a failed salesman to Norway’s most notorious traitor.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6uFaEHVmoP88w0RxIOYAjWq2A7W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/MPr8r8gdkoVDR9rQf57VORhfMQ.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "NO"
+    ],
+    "originalLanguage": "no"
   },
   {
     "id": "336240",
@@ -239,7 +260,7 @@
     "title": "It Gets Worse",
     "overview": "Three best friends from college face eviction in London. As they scatter across the city, they navigate friendship, dating disasters, and adulting - all while the world crumbles around them.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/vdvHHnAzYGt4OEhTmUdErjZIGBG.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oDCgEryrnOVeygypH6gj99H1D7.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/aFMyQvWsWmmLaMlf6b9RpYvSSRx.png",
@@ -302,7 +323,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -470,7 +491,7 @@
     "title": "Dustfall",
     "overview": "Seasoned detective Tig returns to her hometown of North Gap after years in the city, and uncovers a string of drink-spiking assaults, the case is turned on its head when a primary suspect is found murdered.",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/a7LdXshL4vuCA3LWB2gNNckBIpO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/q7VXA2jZ88Dvp7TPbqNVWwR94ik.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/dUOZrvruwxhvTtfYKDK1CEoLHgd.png",
@@ -617,7 +638,7 @@
     "title": "Doctor X: Mafia in White",
     "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
@@ -914,7 +935,7 @@
     "title": "Private Eyes West Coast",
     "overview": "Now leading different lives from their Toronto crime-fighting days, private investigators Matt Shade and Angie Everett encounter a world of different cases along with a new group of friends while solving cases in Victoria, British Columbia.",
     "year": "2026",
-    "rating": 6.7,
+    "rating": 6.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6eulJ8STxOjTkIpBMAcJBOPuKOw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/j5t8hJRdsxwnovaXRAWWy8WmPvH.jpg",
     "logoUrl": null,
@@ -977,7 +998,7 @@
     "title": "Paolo",
     "overview": "Follow working-class Paolo's unsettling intrusion into the life of Téophane Tolbiac, a young and up-and-coming politician.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5arYNSnKiCWxdwdrzjvP5vokPkV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
     "logoUrl": null,
@@ -1040,7 +1061,7 @@
     "title": "4 Blocks Zero",
     "overview": "Travel back to 1990s Berlin and discover the story of a family caught between bureaucracy, politics, and social exclusion, determined to build a new life in Germany.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/g7fDor1DkI6tNBvzTXbaWy5lRJu.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/wwh0QUv1FU5GHn13bc5cNZLHGRL.png",
@@ -1568,7 +1589,7 @@
     "title": "Pls Love",
     "overview": "Cold and seemingly-perfect business heiress Peem reunites with Parn, a woman she once shared a fleeting seaside romance with–now working as a hostess at a luxury club in Bangkok. Determined to keep her close, Peem hires her as a personal assistant, forcing them to confront unresolved feelings, pride, and painful misunderstandings. As secrets and class differences threaten to pull them apart, both women must decide if they are brave enough to trust and love each other without judgement.",
     "year": "2026",
-    "rating": 8.5,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4wCj3cqVJUi2lmNVe05YaPj5ys8.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/51eUZbANuBk9KBA4V3PALGEGs2k.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/uHl5K8yLMMCtljDovx8fDR3cWk.png",
@@ -1769,6 +1790,27 @@
       "MX"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "330784",
+    "tmdbId": 330784,
+    "imdbId": "tt43644041",
+    "type": "tv",
+    "title": "Salty Coffee",
+    "overview": "The daughters of the İpekli and Kutaygil families—sworn enemies for years—unknowingly find themselves crossing paths with two sons from the same family. While Selin and Murat are busy preparing for their wedding, Murat’s older brother, Mehmet—who has just returned from America—crosses paths with Derin. Derin, who was preparing to marry Hakan, ends her relationship upon discovering his betrayal, and an unexpected bond begins to form between her and Mehmet. Thus, amidst a deep-seated feud from the past, the destinies of these two young women become intertwined with the lives of two brothers from the Aydınoğlu family.",
+    "year": "2026",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AnjYaW4K3kPOP6p2XbkwC1vZBeC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kE9deMn2l3czaLEjAZJRyNHGsRX.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "TR"
+    ],
+    "originalLanguage": "tr"
   },
   {
     "id": "333058",
@@ -2977,7 +3019,7 @@
     "title": "Until the T-Shirt Dries",
     "overview": "A sudden summer accident shatters the peaceful lives of two couples, dragging a happily married editor into a web of grief, human selfishness, and her husband's hidden secrets.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xVZvNASRqY91hD09g1cXHpErhGX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/84eyOn4Fxb5rU0PC7HnfrFAAnSB.png",
@@ -4167,47 +4209,5 @@
       "HU"
     ],
     "originalLanguage": "hu"
-  },
-  {
-    "id": "304597",
-    "tmdbId": 304597,
-    "imdbId": "tt38821531",
-    "type": "tv",
-    "title": "My 2 Cents",
-    "overview": "When his friend Wild Boar lands himself in hot water with organized crime, Zero and the gang unite to save him while barely coping with their own lives.",
-    "year": "2026",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ezu9oAG68yRoFRsx5qzb1yt5MMJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/paQMPDcFDbuHT5noXwJsmIflHYN.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5Npjx9Hx9qCJvgbNROEQDOHkVoL.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "IT"
-    ],
-    "originalLanguage": "it"
-  },
-  {
-    "id": "220102",
-    "tmdbId": 220102,
-    "imdbId": "tt30460310",
-    "type": "tv",
-    "title": "Spider-Noir",
-    "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/o2D8loRUDlEuOf7BMRgulerNJ6p.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]

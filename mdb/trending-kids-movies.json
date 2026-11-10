@@ -91,7 +91,7 @@
     "title": "Drummer Boy",
     "overview": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family search for freedom. Through battle and loss, music carries hope in a deeply human story of faith and forgiveness.",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5KF459N6jOfRV7kV9XV7ZQdCLKK.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/bx056S0x0dp7qt5HSQFx5Sc0KAc.png",
@@ -420,6 +420,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1228710",
+    "tmdbId": 1228710,
+    "imdbId": "tt30825738",
+    "type": "movie",
+    "title": "The Mandalorian and Grogu",
+    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "257445",
     "tmdbId": 257445,
     "imdbId": "tt1051904",
@@ -567,27 +588,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1228710",
-    "tmdbId": 1228710,
-    "imdbId": "tt30825738",
-    "type": "movie",
-    "title": "The Mandalorian and Grogu",
-    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-    "year": "2026",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 132,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1226863",
     "tmdbId": 1226863,
     "imdbId": "tt28650488",
@@ -630,6 +630,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "10588",
+    "tmdbId": 10588,
+    "imdbId": "tt0312528",
+    "type": "movie",
+    "title": "The Cat in the Hat",
+    "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+    "year": "2003",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gN7otp6ZA6762W3QB2ScWJYJI6i.png",
+    "certificate": "PG",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "531219",
     "tmdbId": 531219,
     "imdbId": "tt0805647",
@@ -645,27 +666,6 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "9340",
-    "tmdbId": 9340,
-    "imdbId": "tt0089218",
-    "type": "movie",
-    "title": "The Goonies",
-    "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
-    "year": "1985",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/niIPlU1vq2O5tZDo0oburaPiS0d.svg",
-    "certificate": "PG",
-    "runTimeMinutes": 114,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -757,6 +757,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "324857",
+    "tmdbId": 324857,
+    "imdbId": "tt4633694",
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "certificate": "U",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "601",
     "tmdbId": 601,
     "imdbId": "tt0083866",
@@ -841,6 +862,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1327819",
+    "tmdbId": 1327819,
+    "imdbId": "tt26443616",
+    "type": "movie",
+    "title": "Hoppers",
+    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fl1x8jxKs38eFQyQndApSPX6Fux.png",
+    "certificate": "U/A 7+",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "585",
     "tmdbId": 585,
     "imdbId": "tt0198781",
@@ -855,6 +897,27 @@
     "certificate": "G",
     "runTimeMinutes": 92,
     "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9340",
+    "tmdbId": 9340,
+    "imdbId": "tt0089218",
+    "type": "movie",
+    "title": "The Goonies",
+    "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
+    "year": "1985",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/niIPlU1vq2O5tZDo0oburaPiS0d.svg",
+    "certificate": "PG",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
@@ -1003,27 +1066,6 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "324857",
-    "tmdbId": 324857,
-    "imdbId": "tt4633694",
-    "type": "movie",
-    "title": "Spider-Man: Into the Spider-Verse",
-    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
-    "year": "2018",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
-    "certificate": "U",
-    "runTimeMinutes": 117,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
@@ -1262,27 +1304,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1327819",
-    "tmdbId": 1327819,
-    "imdbId": "tt26443616",
-    "type": "movie",
-    "title": "Hoppers",
-    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fl1x8jxKs38eFQyQndApSPX6Fux.png",
-    "certificate": "U/A 7+",
-    "runTimeMinutes": 104,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "940009",
     "tmdbId": 940009,
     "imdbId": "tt18270542",
@@ -1290,7 +1311,7 @@
     "title": "Ray Gunn",
     "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yzDKOxdMbb7eioRYtuQKSnH1GKT.png",
@@ -1319,27 +1340,6 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "10588",
-    "tmdbId": 10588,
-    "imdbId": "tt0312528",
-    "type": "movie",
-    "title": "The Cat in the Hat",
-    "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
-    "year": "2003",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gN7otp6ZA6762W3QB2ScWJYJI6i.png",
-    "certificate": "PG",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -1739,6 +1739,27 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1022789",
+    "tmdbId": 1022789,
+    "imdbId": "tt22022452",
+    "type": "movie",
+    "title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h40hblm8J1if7T2CBMjCD85HwuD.png",
+    "certificate": "U",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -2270,27 +2291,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "9444",
-    "tmdbId": 9444,
-    "imdbId": "tt0118617",
-    "type": "movie",
-    "title": "Anastasia",
-    "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
-    "year": "1997",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gUodgTmgSLS7N8ZpOivnvEoWXxF.png",
-    "certificate": "G",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "508442",
     "tmdbId": 508442,
     "imdbId": "tt2948372",
@@ -2453,6 +2453,27 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "10386",
+    "tmdbId": 10386,
+    "imdbId": "tt0129167",
+    "type": "movie",
+    "title": "The Iron Giant",
+    "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+    "year": "1999",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aRDVgsUm92eSqq0ANujZFo7hkvr.png",
+    "certificate": "PG",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
@@ -2669,6 +2690,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "939243",
+    "tmdbId": 939243,
+    "imdbId": "tt18259086",
+    "type": "movie",
+    "title": "Sonic the Hedgehog 3",
+    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6eq5WtD9e4Oh2KzCu14x9hQaFc9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10674",
     "tmdbId": 10674,
     "imdbId": "tt0120762",
@@ -2711,6 +2753,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "9016",
+    "tmdbId": 9016,
+    "imdbId": "tt0133240",
+    "type": "movie",
+    "title": "Treasure Planet",
+    "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
+    "year": "2002",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gq5U32W6ohl1j3hhwzDzOwIMz6K.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "13466",
+    "tmdbId": 13466,
+    "imdbId": "tt0132477",
+    "type": "movie",
+    "title": "October Sky",
+    "overview": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+    "year": "1999",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/umWrXCIWdcYPf764ruvMRCpG3cA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fWR17sUVcv3VVXDB9G7nTGwdoBU.png",
+    "certificate": "PG",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "772",
     "tmdbId": 772,
     "imdbId": "tt0104431",
@@ -2747,27 +2831,6 @@
     "runTimeMinutes": 98,
     "primaryGenre": "Animation",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "211672",
-    "tmdbId": 211672,
-    "imdbId": "tt2293640",
-    "type": "movie",
-    "title": "Minions",
-    "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
-    "year": "2015",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gKFonD8ImIFYHykBCyvNBYPcMKH.png",
-    "certificate": "PG",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],
@@ -2837,27 +2900,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "10386",
-    "tmdbId": 10386,
-    "imdbId": "tt0129167",
-    "type": "movie",
-    "title": "The Iron Giant",
-    "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
-    "year": "1999",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aRDVgsUm92eSqq0ANujZFo7hkvr.png",
-    "certificate": "PG",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "62211",
     "tmdbId": 62211,
     "imdbId": "tt1453405",
@@ -2871,6 +2913,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/1G9iQzjuClydDqrJyuw0Vt1Kxut.png",
     "certificate": "G",
     "runTimeMinutes": 104,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9444",
+    "tmdbId": 9444,
+    "imdbId": "tt0118617",
+    "type": "movie",
+    "title": "Anastasia",
+    "overview": "Ten years after she was separated from her family, an eighteen-year-old orphan with vague memories of the past sets out to Paris in hopes of reuniting with her grandmother. She is accompanied by two con men, who intend to pass her off as the Grand Duchess Anastasia to the Dowager Empress for a reward.",
+    "year": "1997",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bppGWGA8zq1sRvTdDJnUzVW9GcH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h6VshReCGaGQoaGZwT2wqiqrcZW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gUodgTmgSLS7N8ZpOivnvEoWXxF.png",
+    "certificate": "G",
+    "runTimeMinutes": 94,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
     "originCountries": [
@@ -3007,27 +3070,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "939243",
-    "tmdbId": 939243,
-    "imdbId": "tt18259086",
-    "type": "movie",
-    "title": "Sonic the Hedgehog 3",
-    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "year": "2024",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6eq5WtD9e4Oh2KzCu14x9hQaFc9.png",
-    "certificate": "PG",
-    "runTimeMinutes": 110,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "57800",
     "tmdbId": 57800,
     "imdbId": "tt1667889",
@@ -3133,21 +3175,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1022789",
-    "tmdbId": 1022789,
-    "imdbId": "tt22022452",
+    "id": "519182",
+    "tmdbId": 519182,
+    "imdbId": "tt7510222",
     "type": "movie",
-    "title": "Inside Out 2",
-    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
     "year": "2024",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/h40hblm8J1if7T2CBMjCD85HwuD.png",
-    "certificate": "U",
-    "runTimeMinutes": 97,
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/89h1vVNsvFejMxhbrxPO9raMnbl.png",
+    "certificate": "PG",
+    "runTimeMinutes": 94,
     "primaryGenre": "Animation",
-    "secondaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -3232,6 +3274,48 @@
     "runTimeMinutes": 85,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49013",
+    "tmdbId": 49013,
+    "imdbId": "tt1216475",
+    "type": "movie",
+    "title": "Cars 2",
+    "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+    "year": "2011",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/robYRZk9LxJTwD7GlZCginji5k.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xSDu2zGuG0Ji2sEAZZNmyhQtaiU.png",
+    "certificate": "G",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "839033",
+    "tmdbId": 839033,
+    "imdbId": "tt14824600",
+    "type": "movie",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+    "year": "2024",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dP5SyBPleX9ieesbHPy2oeZMRZY.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
     "originCountries": [
       "US"
     ],
@@ -3658,21 +3742,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "49013",
-    "tmdbId": 49013,
-    "imdbId": "tt1216475",
+    "id": "211672",
+    "tmdbId": 211672,
+    "imdbId": "tt2293640",
     "type": "movie",
-    "title": "Cars 2",
-    "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
-    "year": "2011",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/robYRZk9LxJTwD7GlZCginji5k.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xSDu2zGuG0Ji2sEAZZNmyhQtaiU.png",
-    "certificate": "G",
-    "runTimeMinutes": 106,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
+    "title": "Minions",
+    "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+    "year": "2015",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gKFonD8ImIFYHykBCyvNBYPcMKH.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],
@@ -3889,48 +3973,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "9016",
-    "tmdbId": 9016,
-    "imdbId": "tt0133240",
-    "type": "movie",
-    "title": "Treasure Planet",
-    "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
-    "year": "2002",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gq5U32W6ohl1j3hhwzDzOwIMz6K.png",
-    "certificate": "PG",
-    "runTimeMinutes": 96,
-    "primaryGenre": "Science Fiction",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "839033",
-    "tmdbId": 839033,
-    "imdbId": "tt14824600",
-    "type": "movie",
-    "title": "The Lord of the Rings: The War of the Rohirrim",
-    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
-    "year": "2024",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dP5SyBPleX9ieesbHPy2oeZMRZY.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 134,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1175942",
     "tmdbId": 1175942,
     "imdbId": "tt30017619",
@@ -3952,23 +3994,24 @@
     "originalLanguage": "en"
   },
   {
-    "id": "13466",
-    "tmdbId": 13466,
-    "imdbId": "tt0132477",
+    "id": "1129104",
+    "tmdbId": 1129104,
+    "imdbId": "tt11662534",
     "type": "movie",
-    "title": "October Sky",
-    "overview": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
-    "year": "1999",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/umWrXCIWdcYPf764ruvMRCpG3cA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fWR17sUVcv3VVXDB9G7nTGwdoBU.png",
+    "title": "Flavia",
+    "overview": "The adventures of 11-year-old Flavia de Luce, who is both an amateur detective and a master poisoner. When she discovers a dead body in her family’s decaying British manor house and her father is accused of the murder, Flavia launches her own investigation to uncover family secrets and bring the true murderer to justice.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6t9nSqZpD1mlT9DLugyZNmC3SsQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tEA9enzRGfGm3oAgU1PgobJArzr.png",
     "certificate": "PG",
-    "runTimeMinutes": 107,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Adventure",
     "originCountries": [
-      "US"
+      "US",
+      "GB"
     ],
     "originalLanguage": "en"
   },
@@ -4036,6 +4079,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "950",
+    "tmdbId": 950,
+    "imdbId": "tt0438097",
+    "type": "movie",
+    "title": "Ice Age: The Meltdown",
+    "overview": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+    "year": "2006",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uUrf35PJ25ySkkfc2PwpIxkutbc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "417859",
+    "tmdbId": 417859,
+    "imdbId": "tt0448694",
+    "type": "movie",
+    "title": "Puss in Boots",
+    "overview": "Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.",
+    "year": "2011",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/spVw88D0TlLSopfjmgxDukk6Iow.png",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "4523",
     "tmdbId": 4523,
     "imdbId": "tt0461770",
@@ -4078,59 +4163,17 @@
     "originalLanguage": "en"
   },
   {
-    "id": "8355",
-    "tmdbId": 8355,
-    "imdbId": "tt1080016",
+    "id": "1011985",
+    "tmdbId": 1011985,
+    "imdbId": "tt21692408",
     "type": "movie",
-    "title": "Ice Age: Dawn of the Dinosaurs",
-    "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
-    "year": "2009",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/Ah3FPcKZKe8jMU4G58fuVrxIz7m.png",
-    "certificate": "PG",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "417859",
-    "tmdbId": 417859,
-    "imdbId": "tt0448694",
-    "type": "movie",
-    "title": "Puss in Boots",
-    "overview": "Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.",
-    "year": "2011",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/spVw88D0TlLSopfjmgxDukk6Iow.png",
-    "certificate": "PG",
-    "runTimeMinutes": 90,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "519182",
-    "tmdbId": 519182,
-    "imdbId": "tt7510222",
-    "type": "movie",
-    "title": "Despicable Me 4",
-    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "title": "Kung Fu Panda 4",
+    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
     "year": "2024",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/89h1vVNsvFejMxhbrxPO9raMnbl.png",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3ffPx9jqg0yj9y1KWeagT7D20CB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/QeAYsp12oO1o9vc1CTBDxxKgJk.png",
     "certificate": "PG",
     "runTimeMinutes": 94,
     "primaryGenre": "Animation",
@@ -4156,48 +4199,6 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Animation",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "810",
-    "tmdbId": 810,
-    "imdbId": "tt0413267",
-    "type": "movie",
-    "title": "Shrek the Third",
-    "overview": "After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.",
-    "year": "2007",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lRgOOb2EpGYTA9DvANfUPeQO5VA.png",
-    "certificate": "PG",
-    "runTimeMinutes": 93,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "13156",
-    "tmdbId": 13156,
-    "imdbId": "tt0327137",
-    "type": "movie",
-    "title": "Secondhand Lions",
-    "overview": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
-    "year": "2003",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ithoU8bcAj5dIaKkhN4ybiiWhyK.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1VfvvYHNwxNPthwAPZFbJF8CKzi.png",
-    "certificate": "PG",
-    "runTimeMinutes": 111,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
