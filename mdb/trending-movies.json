@@ -2550,6 +2550,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "118340",
+    "tmdbId": 118340,
+    "imdbId": "tt2015381",
+    "type": "movie",
+    "title": "Guardians of the Galaxy",
+    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "year": "2014",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tikZxXefORICSFaRxEJ01YEfOu1.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "808",
     "tmdbId": 808,
     "imdbId": "tt0126029",
@@ -3077,6 +3098,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1616419",
+    "tmdbId": 1616419,
+    "imdbId": "tt39453578",
+    "type": "movie",
+    "title": "The Good Lawyer",
+    "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+    "logoUrl": null,
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
+    "id": "284053",
+    "tmdbId": 284053,
+    "imdbId": "tt3501632",
+    "type": "movie",
+    "title": "Thor: Ragnarok",
+    "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+    "year": "2017",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qmlvTIqxZMb4ED9WB91UuwRSGw.png",
+    "certificate": "UA",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "335984",
     "tmdbId": 335984,
     "imdbId": "tt1856101",
@@ -3092,6 +3155,48 @@
     "runTimeMinutes": 164,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1400837",
+    "tmdbId": 1400837,
+    "imdbId": "tt36586020",
+    "type": "movie",
+    "title": "Other Mommy",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "year": "2026",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ucJJl3ddTi83DqXgGEoblci3uBg.png",
+    "certificate": "R",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "283995",
+    "tmdbId": 283995,
+    "imdbId": "tt3896198",
+    "type": "movie",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+    "year": "2017",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/767C9dyjI9FMq6emsDE0rY6K8Nc.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -3203,6 +3308,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "597",
+    "tmdbId": 597,
+    "imdbId": "tt0120338",
+    "type": "movie",
+    "title": "Titanic",
+    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "year": "1997",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 194,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Romance",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "109445",
     "tmdbId": 109445,
     "imdbId": "tt2294629",
@@ -3224,6 +3350,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1311031",
+    "tmdbId": 1311031,
+    "imdbId": "tt32820897",
+    "type": "movie",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "year": "2025",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w3H7PDwwss5SLuMQ8UBrAProasG.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 156,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "1118031",
     "tmdbId": 1118031,
     "imdbId": "tt27599851",
@@ -3243,6 +3390,48 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "271110",
+    "tmdbId": 271110,
+    "imdbId": "tt3498820",
+    "type": "movie",
+    "title": "Captain America: Civil War",
+    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "year": "2016",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w1ZLhVffmmKDGoB8Oi0MdlQTw6m.png",
+    "certificate": "UA",
+    "runTimeMinutes": 147,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "238",
+    "tmdbId": 238,
+    "imdbId": "tt0068646",
+    "type": "movie",
+    "title": "The Godfather",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "year": "1972",
+    "rating": 9.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kysDTCloxUPJ1BILI4f8gs74fcr.png",
+    "certificate": "R",
+    "runTimeMinutes": 175,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "1891",
@@ -3325,6 +3514,27 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "SA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1286656",
+    "tmdbId": 1286656,
+    "imdbId": "tt11995650",
+    "type": "movie",
+    "title": "I Play Rocky",
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hN2wGKbEOmWSduRIdgT05CGVZ8m.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   }

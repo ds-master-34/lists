@@ -6049,6 +6049,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "158865",
+    "tmdbId": 158865,
+    "imdbId": "tt21631058",
+    "type": "tv",
+    "title": "Blind",
+    "overview": "After the culprit in the Joker Murder Case, Jeong Man-chun is killed post-trial, jurors start dying. Detective Ryu Sung-jun, suspected of the crime, seeks the true killer with his brother and a juror.",
+    "year": "2022",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qHoH58my1xhHc0jYpvPcDFXZrsf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9eEu31KfGdDDYtAgtClEgAvVV4C.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cINahR253DQfLN9BR85cs7Ejjvj.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "287009",
     "tmdbId": 287009,
     "imdbId": "tt39184653",
@@ -7877,6 +7898,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "70957",
+    "tmdbId": 70957,
+    "imdbId": "tt6530396",
+    "type": "tv",
+    "title": "Queen of Mystery",
+    "overview": "Yoo Seol-Ok liked mystery novels and wanted to become a detective, but she gave up her dream after marrying. Now, she is a housewife with a husband who works as a prosecutor. She meets Ha Wan-Seung. He is a passionate detective and they decide to collaborate to solve cases.",
+    "year": "2017",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iKso3ijkzh0OZT5IO5cFPu8E3A7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AmrefGuj8on1lAkMvuTX3Oi9MJx.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "152512",
     "tmdbId": 152512,
     "imdbId": "tt19851552",
@@ -7913,6 +7955,27 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "196268",
+    "tmdbId": 196268,
+    "imdbId": "tt21146902",
+    "type": "tv",
+    "title": "Anna",
+    "overview": "The story of a woman who ends up living a completely different life due to a petty lie.",
+    "year": "2022",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2Dq9A4l5KaoBz1LerrDcBVgHdJm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hg3TdQbcvh0LKjeg6WkJANj0aKM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/moBE4HtSTM0YCNhDBNYYEX3Sf1h.svg",
+    "certificate": "18",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8333,69 +8396,6 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "62644",
-    "tmdbId": 62644,
-    "imdbId": "tt4612922",
-    "type": "tv",
-    "title": "The Producers",
-    "overview": "A rookie producer joins the Korean Broadcasting System to be near his secret crush and enters the madcap world of network TV, where ratings rule.",
-    "year": "2015",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wtOMeQS4Yoeu1LdGf89XEk5XJ6l.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mmAaQ3xSfUaZZ0Lt074YuCmGA90.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zgZBvRqrIkTM4rI0WEo73SXINdN.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 106,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "155040",
-    "tmdbId": 155040,
-    "imdbId": "tt30241060",
-    "type": "tv",
-    "title": "My Man Is Cupid",
-    "overview": "Star-crossed love story between a love fairy and a human girl. For humans and fairies aren’t meant to be, when he accidentally shoots himself and falls in love, their fate takes a wrong turn. The two reconnect after centuries of reincarnation. Where will this story lead?",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ij2dlIzdEJa09Am7nxEoJbEjYcN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vm1XKRtPkHmyTy9IXL1jDqROCIf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2RrrnG15wa0X6RVj2tzzfSexGpo.png",
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "246473",
-    "tmdbId": 246473,
-    "imdbId": "tt33298903",
-    "type": "tv",
-    "title": "Made in Korea",
-    "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-    "year": "2025",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2yEXTvaCPUe9In5MZJBLFwiq0NL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sYnPiZTw8VqB2gOyncrgusDNQCI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],

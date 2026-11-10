@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "314271",
     "tmdbId": 314271,
     "imdbId": "tt39957390",
@@ -251,6 +272,27 @@
       "CA"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "335535",
+    "tmdbId": 335535,
+    "imdbId": "tt39387986",
+    "type": "tv",
+    "title": "Fading Grandeur",
+    "overview": "Desperate to sell his crumbling mansion, a fallen marquis tries to make a quick deal with a charming yet mysterious millionaire who has her own agenda.",
+    "year": "2026",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 33,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "334470",
@@ -693,6 +735,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "308570",
+    "tmdbId": 308570,
+    "imdbId": "tt39216741",
+    "type": "tv",
+    "title": "The Castle",
+    "overview": "Gerardo Liesa is a young police inspector who has recently joined the UCRIF (the Central Unit for the Fight against Illegal Immigration Networks and Document Forgery). He and his colleague, Carmen Osés, sense that something is changing in brothels across Spain. Suizo and his associates run several brothels, sexually exploiting sex workers from all over the world. One of these women is Claudia. Aged 18, she has a young son in Colombia and has just arrived in Spain in search of a better future.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Inj1tjKLEywuVGbxW1GQBCjWT2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mCj3LbCPZo1ZMSKWSyjIJ8iQqsM.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "313630",
@@ -1580,6 +1643,27 @@
       "US"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "282326",
+    "tmdbId": 282326,
+    "imdbId": "tt32500958",
+    "type": "tv",
+    "title": "Against the Current",
+    "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rQZBBKsTg0Ztzofr5lFmNZvli9t.png",
+    "certificate": "",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
   },
   {
     "id": "316241",
@@ -4125,89 +4209,5 @@
       "TH"
     ],
     "originalLanguage": "th"
-  },
-  {
-    "id": "292532",
-    "tmdbId": 292532,
-    "imdbId": "tt37041010",
-    "type": "tv",
-    "title": "Brazil '70: The Third Star",
-    "overview": "In 1970, the Brazilian national team took the field with big dreams and an even bigger challenge: to become the first three-time world champions.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jccQakK5TaHYzi7IA0pPDEskl7P.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ujqAF7GHrWo6K0fd896CDieGuP1.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": "pt"
-  },
-  {
-    "id": "252107",
-    "tmdbId": 252107,
-    "imdbId": "tt32140872",
-    "type": "tv",
-    "title": "Star City",
-    "overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qIjt4TPsnmr6uPakkEjwGNZfmmu.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "319910",
-    "tmdbId": 319910,
-    "imdbId": "tt43029507",
-    "type": "tv",
-    "title": "Make That Movie",
-    "overview": "Make That Movie follows a hotshot director, played by stand-up comedian and actor Sam Campbell, scouring the country for everyday people who have an idea for a feature film. Sam and his team then race against the clock as they attempt to transform the idea into a film in just three days.",
-    "year": "2026",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7guFs3oa3vgVl9BvgqtvdqIgZiz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a1mtLESCMDFiPRzXHSEGTIo9rgB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/caDXinVdCJUPrsqnb38nWDbrm9a.png",
-    "certificate": "",
-    "runTimeMinutes": 23,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "313737",
-    "tmdbId": 313737,
-    "imdbId": "tt42669045",
-    "type": "tv",
-    "title": "The Empire",
-    "overview": "The series was inspired by the adult film industry of the 1990s and its well-known stars. It focuses not on the behind-the-scenes drama, but on people’s lives and the decisions they make. The new series from the creators of *The King* tells a story inspired by real events and wild fantasies.",
-    "year": "2026",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/h2PPKwJbrTgYHQJoY9fT0qr4MJr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g6o9CSgEXO7qdQYNYsC3JQqL60O.jpg",
-    "logoUrl": null,
-    "certificate": "18",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "HU"
-    ],
-    "originalLanguage": "hu"
   }
 ]

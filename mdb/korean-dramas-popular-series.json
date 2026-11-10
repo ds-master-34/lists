@@ -3171,6 +3171,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "62266",
+    "tmdbId": 62266,
+    "imdbId": "tt4339192",
+    "type": "tv",
+    "title": "Kill Me, Heal Me",
+    "overview": "A billionaire struggles with dissociative identity disorder after a traumatic childhood – can a newbie psychiatrist help him unite his alters?",
+    "year": "2015",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1RkBC4VkJ7TS4nSvKMc5QooaUQu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3nqI6FimqPqxXPLPKy2kutAjUAS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bk2n50MvQSPRlgBeLKmZTGlAqSU.png",
+    "certificate": "14",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "287011",
     "tmdbId": 287011,
     "imdbId": "tt39387440",
@@ -3654,6 +3675,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "112833",
+    "tmdbId": 112833,
+    "imdbId": "tt15553922",
+    "type": "tv",
+    "title": "Juvenile Justice",
+    "overview": "A tough judge balances her aversion to minor offenders with firm beliefs on justice and punishment as she tackles complex cases inside a juvenile court.",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eMkuXy9Y9QGEXeFCMbga6AyRw1a.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "301412",
     "tmdbId": 301412,
     "imdbId": "tt39028251",
@@ -3711,6 +3753,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "83941",
+    "tmdbId": 83941,
+    "imdbId": "tt8769260",
+    "type": "tv",
+    "title": "Encounter",
+    "overview": "Following a chance encounter overseas, a woman with much to lose and a man with little to his name meet again as employer and employee.",
+    "year": "2018",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6jACbQPR1GZq1wZ93uS9wOMYmKs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zumJNuQP60nMgfZyyJbRuGlIFXI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/adltQTwrTjxx26PMFjIBFjWWTaC.png",
+    "certificate": "PG",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3837,6 +3900,27 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "238458",
+    "tmdbId": 238458,
+    "imdbId": "tt30413044",
+    "type": "tv",
+    "title": "Cashero",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4053,6 +4137,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "158865",
+    "tmdbId": 158865,
+    "imdbId": "tt21631058",
+    "type": "tv",
+    "title": "Blind",
+    "overview": "After the culprit in the Joker Murder Case, Jeong Man-chun is killed post-trial, jurors start dying. Detective Ryu Sung-jun, suspected of the crime, seeks the true killer with his brother and a juror.",
+    "year": "2022",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qHoH58my1xhHc0jYpvPcDFXZrsf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9eEu31KfGdDDYtAgtClEgAvVV4C.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cINahR253DQfLN9BR85cs7Ejjvj.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "287009",
     "tmdbId": 287009,
     "imdbId": "tt39184653",
@@ -4152,6 +4257,27 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "229958",
+    "tmdbId": 229958,
+    "imdbId": "tt29059394",
+    "type": "tv",
+    "title": "Aema",
+    "overview": "In 1980s Korea, a movie star and a starlet defy male-dominated industry rules and backstage corruption while filming the provocative \"Madame Aema.\"",
+    "year": "2025",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jD8uwm1fvt6y2yxjSO6R9IOFwQQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Kl07j8DsHfAwkODBblg81mjcGc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tadjX73LSpvRGNAjSVu47xoVxq5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4593,6 +4719,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "273418",
+    "tmdbId": 273418,
+    "imdbId": "tt37260466",
+    "type": "tv",
+    "title": "Law and the City",
+    "overview": "Story of a lawyer who is known for his good appearance and straightforward personality and is working with Gyeongmin Law Firm for 9 years.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nZcF5itd412f50krz3WLWDDcB7o.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uPnkEWAt0LRFeyvf9IB9yy6yjB2.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8224,6 +8371,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "80965",
+    "tmdbId": 80965,
+    "imdbId": "tt8689936",
+    "type": "tv",
+    "title": "Witch's Love",
+    "overview": "A landlord threatens to expose three generations of witches hiding their magical world from unsuspecting eyes.",
+    "year": "2018",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2dUE6bTv4sL9khs2mBMl5qn8sno.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7w72d9776KDNvjVaEDeVSJCmJ8d.jpg",
+    "logoUrl": null,
+    "certificate": "12",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

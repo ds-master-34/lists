@@ -189,6 +189,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1381221",
+    "tmdbId": 1381221,
+    "imdbId": "tt34385184",
+    "type": "movie",
+    "title": "Misty Green",
+    "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
+    "year": "2026",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1487317",
     "tmdbId": 1487317,
     "imdbId": "tt37027309",
@@ -4188,26 +4209,5 @@
       "TH"
     ],
     "originalLanguage": "th"
-  },
-  {
-    "id": "1509573",
-    "tmdbId": 1509573,
-    "imdbId": "tt35929110",
-    "type": "movie",
-    "title": "Meet, Greet & Bye",
-    "overview": "A mother, who loves watching K-dramas, decides to stop her chemo treatment after losing hope of getting better. Her only dream before dying is to meet her ultimate K-drama idol, who is visiting Manila for a series of events. Her four children agree to work together with the condition that once their mother meets their idol, she will undergo therapy before her time runs out.",
-    "year": "2025",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7gEBNzmaTiBVG3g0eUDPU3kPbcc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iCUYNsFbNnbiUzOA7MeFOfV8DYX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rvSsLy3Xi8m34cZZDfcyLLYiMVD.png",
-    "certificate": "NR",
-    "runTimeMinutes": 107,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "PH"
-    ],
-    "originalLanguage": "tl"
   }
 ]
