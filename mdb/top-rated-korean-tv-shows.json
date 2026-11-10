@@ -966,6 +966,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "70649",
+    "tmdbId": 70649,
+    "imdbId": "tt6256484",
+    "type": "tv",
+    "title": "While You Were Sleeping",
+    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
+    "year": "2017",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uN1uvzg4ekww9TFIxfHMwBsQ0FA.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "68398",
     "tmdbId": 68398,
     "imdbId": "tt6157190",
@@ -1421,27 +1442,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 68,
     "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "70649",
-    "tmdbId": 70649,
-    "imdbId": "tt6256484",
-    "type": "tv",
-    "title": "While You Were Sleeping",
-    "overview": "Nam Hong Ju, endowed with the ability to foresee events, resides with her widowed mother who runs a small restaurant. Despite her gift, she often finds herself powerless to change the outcomes. On the other side of the street, Jung Jae Chan, a rookie prosecutor, and his younger brother Seung Won become their new neighbors. An unusual dream involving Hong Ju, ruthless attorney Lee Yu Beom, and a life-saving intervention leads Jae Chan to realize their destinies are intertwined, as they begin sharing dreams and connecting in mysterious ways.",
-    "year": "2017",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wFp7pVJbB5aD5y0A0AEBP4vmzCg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rS3hmIjYfzqPye1nWyTgrwfDnC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uN1uvzg4ekww9TFIxfHMwBsQ0FA.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 29,
-    "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -2709,27 +2709,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "72548",
-    "tmdbId": 72548,
-    "imdbId": "tt7817966",
-    "type": "tv",
-    "title": "Are You Human?",
-    "overview": "Nam Shin is a son from a family who runs a large company. After an unexpected accident, he falls into a coma. His mother Oh Ro-Ra is an authority on brain science and artificial intelligence. She creates an android named Nam Shin III which looks like just like her son Nam Shin. The android pretends to be Nam Shin and he has a bodyguard So-Bong.",
-    "year": "2018",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oVjRu96T5T68hoVwqPd8QZQo5Sp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oFF9NaK63iTGtsCm65hnyKYhTgc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fJOKGxC4ILotKAZ8nf0vrkY8I9m.png",
-    "certificate": "15",
-    "runTimeMinutes": 33,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "90721",
     "tmdbId": 90721,
     "imdbId": "tt10406128",
@@ -2940,27 +2919,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "233686",
-    "tmdbId": 233686,
-    "imdbId": "tt29921070",
-    "type": "tv",
-    "title": "Karma",
-    "overview": "A fateful accident intertwines six lives in a thrilling tale of karma and crime, where each must face their own dark truths and connections.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nZ7SFBgEhgSCaQFFActjcBQeIV1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kqy7XGzkHovjEr9373rR8gPU9GC.png",
-    "certificate": "M18",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "241454",
     "tmdbId": 241454,
     "imdbId": "tt30446769",
@@ -3144,6 +3102,27 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "72548",
+    "tmdbId": 72548,
+    "imdbId": "tt7817966",
+    "type": "tv",
+    "title": "Are You Human?",
+    "overview": "Nam Shin is a son from a family who runs a large company. After an unexpected accident, he falls into a coma. His mother Oh Ro-Ra is an authority on brain science and artificial intelligence. She creates an android named Nam Shin III which looks like just like her son Nam Shin. The android pretends to be Nam Shin and he has a bodyguard So-Bong.",
+    "year": "2018",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oVjRu96T5T68hoVwqPd8QZQo5Sp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oFF9NaK63iTGtsCm65hnyKYhTgc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fJOKGxC4ILotKAZ8nf0vrkY8I9m.png",
+    "certificate": "15",
+    "runTimeMinutes": 33,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4389,6 +4368,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "233686",
+    "tmdbId": 233686,
+    "imdbId": "tt29921070",
+    "type": "tv",
+    "title": "Karma",
+    "overview": "A fateful accident intertwines six lives in a thrilling tale of karma and crime, where each must face their own dark truths and connections.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nZ7SFBgEhgSCaQFFActjcBQeIV1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kqy7XGzkHovjEr9373rR8gPU9GC.png",
+    "certificate": "M18",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "227192",
     "tmdbId": 227192,
     "imdbId": "tt29311421",
@@ -4449,6 +4449,27 @@
     "originCountries": [
       "KR",
       "US"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
     ],
     "originalLanguage": "ko"
   },
@@ -4636,27 +4657,6 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5839,6 +5839,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "238458",
+    "tmdbId": 238458,
+    "imdbId": "tt30413044",
+    "type": "tv",
+    "title": "Cashero",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "year": "2025",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "43152",
     "tmdbId": 43152,
     "imdbId": "tt2401162",
@@ -5980,27 +6001,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "238458",
-    "tmdbId": 238458,
-    "imdbId": "tt30413044",
-    "type": "tv",
-    "title": "Cashero",
-    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-    "year": "2025",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6995,6 +6995,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "224414",
+    "tmdbId": 224414,
+    "imdbId": "tt31014107",
+    "type": "tv",
+    "title": "You and Everything Else",
+    "overview": "From teen years to adulthood, two friends linked by warmth and tension grow apart — until one is asked to accompany the other through her final days.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bFHooGj9D87pMp7xQK8VhSAfUo8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3KIo7Iq0hsXme6LDisiAR3WAMcw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "80741",
     "tmdbId": 80741,
     "imdbId": "tt8487786",
@@ -7199,27 +7220,6 @@
     "runTimeMinutes": 47,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "224414",
-    "tmdbId": 224414,
-    "imdbId": "tt31014107",
-    "type": "tv",
-    "title": "You and Everything Else",
-    "overview": "From teen years to adulthood, two friends linked by warmth and tension grow apart — until one is asked to accompany the other through her final days.",
-    "year": "2025",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bFHooGj9D87pMp7xQK8VhSAfUo8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5Ia4bJ0GuAn84H98CCtWMRVCTAF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3KIo7Iq0hsXme6LDisiAR3WAMcw.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
