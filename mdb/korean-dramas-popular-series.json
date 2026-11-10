@@ -147,27 +147,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "311648",
-    "tmdbId": 311648,
-    "imdbId": "tt47661704",
-    "type": "tv",
-    "title": "Make Me Tingle",
-    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
-    "certificate": "15",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "289423",
     "tmdbId": 289423,
     "imdbId": "tt37737331",
@@ -210,21 +189,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "316702",
-    "tmdbId": 316702,
-    "imdbId": "tt49692512",
+    "id": "311648",
+    "tmdbId": 311648,
+    "imdbId": "tt47661704",
     "type": "tv",
-    "title": "Final Table",
-    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "title": "Make Me Tingle",
+    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
     "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
+    "certificate": "15",
+    "runTimeMinutes": 50,
     "primaryGenre": "Drama",
-    "secondaryGenre": "",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -246,6 +225,27 @@
     "runTimeMinutes": 45,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "316702",
+    "tmdbId": 316702,
+    "imdbId": "tt49692512",
+    "type": "tv",
+    "title": "Final Table",
+    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -693,27 +693,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "238084",
-    "tmdbId": 238084,
-    "imdbId": "tt27898511",
-    "type": "tv",
-    "title": "Trigger",
-    "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
-    "year": "2025",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ojCikA8B5Cclian3h06K5SBiyS3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 41,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "289424",
     "tmdbId": 289424,
     "imdbId": "tt36732944",
@@ -897,6 +876,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "238084",
+    "tmdbId": 238084,
+    "imdbId": "tt27898511",
+    "type": "tv",
+    "title": "Trigger",
+    "overview": "As illegal firearms flood into a gun-free South Korea, a resolute cop and a mysterious partner join forces to stop the chaos from sweeping the nation.",
+    "year": "2025",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ojCikA8B5Cclian3h06K5SBiyS3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1491,27 +1491,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "233219",
-    "tmdbId": 233219,
-    "imdbId": "tt34622123",
-    "type": "tv",
-    "title": "ONE: High School Heroes",
-    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yuXuRIReuqyM3iY6qpB13dKWqpl.png",
-    "certificate": "15",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "303143",
     "tmdbId": 303143,
     "imdbId": "tt38828946",
@@ -1737,27 +1716,6 @@
     "runTimeMinutes": 89,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "154887",
-    "tmdbId": 154887,
-    "imdbId": "tt15146130",
-    "type": "tv",
-    "title": "My Liberation Notes",
-    "overview": "Three siblings, exhausted by the monotony of day-to-day adulthood, seek to find fulfillment and freedom from their unremarkable lives.",
-    "year": "2022",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/olmfFeKZyQoTwj9Zo3Y5IUaioPB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2gXm6JK2r0KYEaInX3sWr5WwD6H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tTjv03N60XTlKRhS6YCpQZ6njAS.png",
-    "certificate": "15",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -1995,6 +1953,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "154887",
+    "tmdbId": 154887,
+    "imdbId": "tt15146130",
+    "type": "tv",
+    "title": "My Liberation Notes",
+    "overview": "Three siblings, exhausted by the monotony of day-to-day adulthood, seek to find fulfillment and freedom from their unremarkable lives.",
+    "year": "2022",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/olmfFeKZyQoTwj9Zo3Y5IUaioPB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2gXm6JK2r0KYEaInX3sWr5WwD6H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tTjv03N60XTlKRhS6YCpQZ6njAS.png",
+    "certificate": "15",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "217553",
     "tmdbId": 217553,
     "imdbId": "tt28106730",
@@ -2031,6 +2010,27 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "96102",
+    "tmdbId": 96102,
+    "imdbId": "tt11769304",
+    "type": "tv",
+    "title": "Hospital Playlist",
+    "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
+    "year": "2020",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl6scQy8Klx9MEXNCLE86vhs24U.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jWi6kxpHKwRhxeNPhMHDQQSecDm.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2113,27 +2113,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/8Ay4fPiG6MUwEJMoIIrUou276xm.png",
     "certificate": "TV-14",
     "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "96102",
-    "tmdbId": 96102,
-    "imdbId": "tt11769304",
-    "type": "tv",
-    "title": "Hospital Playlist",
-    "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
-    "year": "2020",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gl6scQy8Klx9MEXNCLE86vhs24U.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jWi6kxpHKwRhxeNPhMHDQQSecDm.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 122,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -2247,21 +2226,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "232402",
-    "tmdbId": 232402,
-    "imdbId": "tt36056620",
+    "id": "116386",
+    "tmdbId": 116386,
+    "imdbId": "tt13669128",
     "type": "tv",
-    "title": "S Line",
-    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
-    "year": "2025",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nqDGidN6ENZuLiW8p8R3UqdafyZ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
+    "title": "Doom at Your Service",
+    "overview": "A woman with only a short time to live and a man with the supernatural power to bring the world to an end discover the true meaning of life and love.",
+    "year": "2021",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ylh0MYLCp8qDHjbIuGP3fZhaXFg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uMLihaxfbeCvraDmER37t2jTNKi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nUkpzvanVTdV6Br7DTmLtL5p71O.png",
+    "certificate": "15",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -2436,6 +2415,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "233219",
+    "tmdbId": 233219,
+    "imdbId": "tt34622123",
+    "type": "tv",
+    "title": "ONE: High School Heroes",
+    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yuXuRIReuqyM3iY6qpB13dKWqpl.png",
+    "certificate": "15",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "209110",
     "tmdbId": 209110,
     "imdbId": "tt37218592",
@@ -2472,27 +2472,6 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "116386",
-    "tmdbId": 116386,
-    "imdbId": "tt13669128",
-    "type": "tv",
-    "title": "Doom at Your Service",
-    "overview": "A woman with only a short time to live and a man with the supernatural power to bring the world to an end discover the true meaning of life and love.",
-    "year": "2021",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ylh0MYLCp8qDHjbIuGP3fZhaXFg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uMLihaxfbeCvraDmER37t2jTNKi.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nUkpzvanVTdV6Br7DTmLtL5p71O.png",
-    "certificate": "15",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -2577,27 +2556,6 @@
     "runTimeMinutes": 23,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "71349",
-    "tmdbId": 71349,
-    "imdbId": "tt6720154",
-    "type": "tv",
-    "title": "Suspicious Partner",
-    "overview": "Noh Ji-Wook is a prosecutor in the Central District Prosecutors’ Office who ends up switching professions to a private attorney. He harbors a trauma stemming from an event in his childhood involving his parents and his first love. Eun Bong-Hee, a Taekwondo athlete in her youth, is a prosecutor trainee who has become a murder suspect. Eun Bong-Hee and Noh Ji-Wook both find themselves being the focus of a killer.",
-    "year": "2017",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kCxkfGu1QYQx5wZRKlZK41Tif9Q.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yTJdBwr7ksO6LeXB801wXmfHWwF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uKZvTHXQ6SRsNnxAUtKn9WNzzNv.png",
-    "certificate": "15",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -2730,27 +2688,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "205082",
-    "tmdbId": 205082,
-    "imdbId": "tt27458539",
-    "type": "tv",
-    "title": "Vigilante",
-    "overview": "Kim Ji-yong leads a double life as a Korean National Police University student by day and the Vigilante by night, personally punishing criminals who evade the law. He is surrounded by people who all possess different ulterior motives.",
-    "year": "2023",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fVT9DouwnGPWwSlJZTFRzxmeY8W.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "259015",
     "tmdbId": 259015,
     "imdbId": "tt33320428",
@@ -2772,21 +2709,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "248244",
-    "tmdbId": 248244,
-    "imdbId": "tt33364760",
+    "id": "71349",
+    "tmdbId": 71349,
+    "imdbId": "tt6720154",
     "type": "tv",
-    "title": "Undercover High School",
-    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
-    "year": "2025",
+    "title": "Suspicious Partner",
+    "overview": "Noh Ji-Wook is a prosecutor in the Central District Prosecutors’ Office who ends up switching professions to a private attorney. He harbors a trauma stemming from an event in his childhood involving his parents and his first love. Eun Bong-Hee, a Taekwondo athlete in her youth, is a prosecutor trainee who has become a murder suspect. Eun Bong-Hee and Noh Ji-Wook both find themselves being the focus of a killer.",
+    "year": "2017",
     "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/g35Ne9cwGLnIdsg2M32KG0thI2x.png",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kCxkfGu1QYQx5wZRKlZK41Tif9Q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yTJdBwr7ksO6LeXB801wXmfHWwF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uKZvTHXQ6SRsNnxAUtKn9WNzzNv.png",
     "certificate": "15",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Comedy",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -2808,27 +2745,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "232557",
-    "tmdbId": 232557,
-    "imdbId": "tt37841222",
-    "type": "tv",
-    "title": "Walking on Thin Ice",
-    "overview": "Eun-soo is a housewife, who struggles to pay for her husband's medical expenses. He is terminally ill. Eun-soo becomes entangled in a bag of drugs with a teacher named Yi-kyeong. He is a mysterious figure. Eun-soo and Yi-kyeong are chased by veteran detective Tae-gu.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/n1ayYBVKw63GxU9npXQtNjHY81C.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f1cFxXqDw1NDDleOtaQks4cELk2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uXtHxVbyh9oRxXB5WG9iT9agwqA.png",
-    "certificate": "15",
-    "runTimeMinutes": 79,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -2940,6 +2856,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "229480",
+    "tmdbId": 229480,
+    "imdbId": "tt32981987",
+    "type": "tv",
+    "title": "No Gain No Love",
+    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/olqgBrhl1WvstIRpYwswltmApdm.png",
+    "certificate": "15",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "70649",
     "tmdbId": 70649,
     "imdbId": "tt6256484",
@@ -3018,6 +2955,27 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61611",
+    "tmdbId": 61611,
+    "imdbId": "tt4201628",
+    "type": "tv",
+    "title": "Pinocchio",
+    "overview": "In-ha and Ha-myeong become reporters for different reasons: one aspires to follow in her mother's footsteps and the other seeks to do honest news.",
+    "year": "2014",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zVdHTEYEruxU8lis7OdY5tRg0UF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o6B99QzQLiv8BWI05djH1e8TNHP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nb5GTlmnVf9Ct01HSPpJWpTVMhV.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3318,48 +3276,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "261980",
-    "tmdbId": 261980,
-    "imdbId": "tt36724865",
-    "type": "tv",
-    "title": "Our Unwritten Seoul",
-    "overview": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
-    "year": "2025",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4wnCkk4HmIzBuyyFGpcGxPKsyjI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iTD3at9uOHUD3szzXqxRNccv50M.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "258025",
-    "tmdbId": 258025,
-    "imdbId": "tt37146661",
-    "type": "tv",
-    "title": "Head Over Heels",
-    "overview": "A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful first love that defies darkness and reclaims hope.",
-    "year": "2025",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nw4mJvd4GfFobytCsGtyeYZhGBs.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "227191",
     "tmdbId": 227191,
     "imdbId": "tt29927351",
@@ -3458,6 +3374,27 @@
     "certificate": "15",
     "runTimeMinutes": 83,
     "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "258025",
+    "tmdbId": 258025,
+    "imdbId": "tt37146661",
+    "type": "tv",
+    "title": "Head Over Heels",
+    "overview": "A teenage shaman determined to change fate sets out to save a mysterious boy destined to die. As danger looms, their fated encounter sparks a powerful first love that defies darkness and reclaims hope.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kL42DhVhqjO3NxlB0oNg2Z4TAWP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nw4mJvd4GfFobytCsGtyeYZhGBs.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -3675,21 +3612,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "281004",
-    "tmdbId": 281004,
-    "imdbId": "tt37660730",
+    "id": "205082",
+    "tmdbId": 205082,
+    "imdbId": "tt27458539",
     "type": "tv",
-    "title": "Beyond the Bar",
-    "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
-    "year": "2025",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xV8qwkkJFSsToqmAeVTYmsIaue2.png",
+    "title": "Vigilante",
+    "overview": "Kim Ji-yong leads a double life as a Korean National Police University student by day and the Vigilante by night, personally punishing criminals who evade the law. He is surrounded by people who all possess different ulterior motives.",
+    "year": "2023",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fVT9DouwnGPWwSlJZTFRzxmeY8W.png",
     "certificate": "TV-MA",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -3795,27 +3732,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "156888",
-    "tmdbId": 156888,
-    "imdbId": "tt26258200",
-    "type": "tv",
-    "title": "Mask Girl",
-    "overview": "An office worker who is insecure about her looks becomes a masked internet personality by night — until a chain of ill-fated events overtakes her life.",
-    "year": "2023",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sfagVOgXVONyDAOI4BjnofLcYpv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2OHDQ9GgzaGqQU9sVNQCYpGA8Q.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4452,27 +4368,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "229480",
-    "tmdbId": 229480,
-    "imdbId": "tt32981987",
-    "type": "tv",
-    "title": "No Gain No Love",
-    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
-    "year": "2024",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/olqgBrhl1WvstIRpYwswltmApdm.png",
-    "certificate": "15",
-    "runTimeMinutes": 78,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "271309",
     "tmdbId": 271309,
     "imdbId": "tt33398245",
@@ -4662,6 +4557,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "322723",
+    "tmdbId": 322723,
+    "imdbId": "tt48409707",
+    "type": "tv",
+    "title": "Boy, with Caution",
+    "overview": "A disgraced teacher finds comfort in an anonymous chat partner, unaware the troubled student behind the messages is growing closer to him.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AonnClm8SEfKt1S5MNYrqGnKpD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AnaPwTBGbjHcqlQXB7G29GRbiL8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7ecDtHJHT2U0iM79EnwgyukIixS.png",
+    "certificate": "19",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "233221",
+    "tmdbId": 233221,
+    "imdbId": "tt36912546",
+    "type": "tv",
+    "title": "Oh My Ghost Clients",
+    "overview": "No Mu-jin is a labor attorney who happens to see ghosts. After coming back from the brink of death, he begins solving labor problems requested by ghosts.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ysc63ghJEM5mXBd9qWEgB0ohWTy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ttJ2Wqvh22RQdMjLoVouSgdaDBW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tIdongmpEidXxyIIhLSvjWRYFA0.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "296009",
     "tmdbId": 296009,
     "imdbId": "tt39375130",
@@ -4803,6 +4740,69 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "248244",
+    "tmdbId": 248244,
+    "imdbId": "tt33364760",
+    "type": "tv",
+    "title": "Undercover High School",
+    "overview": "Ace NIS agent Jung Hae-seong is demoted after a mission failure. He goes undercover at a high school to locate King Gojong's missing gold, meeting his teacher Oh Soo-ah, who sees him as her lost first love, stirring old heartbreak.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vXAWUI1pYrBvZoUarGxWj1mtlXp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lAOiaHI5OoY1t4L5rcmwaf1HkLs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g35Ne9cwGLnIdsg2M32KG0thI2x.png",
+    "certificate": "15",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "156888",
+    "tmdbId": 156888,
+    "imdbId": "tt26258200",
+    "type": "tv",
+    "title": "Mask Girl",
+    "overview": "An office worker who is insecure about her looks becomes a masked internet personality by night — until a chain of ill-fated events overtakes her life.",
+    "year": "2023",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sfagVOgXVONyDAOI4BjnofLcYpv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2OHDQ9GgzaGqQU9sVNQCYpGA8Q.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "281004",
+    "tmdbId": 281004,
+    "imdbId": "tt37660730",
+    "type": "tv",
+    "title": "Beyond the Bar",
+    "overview": "A young, rookie lawyer with a strong sense of justice joins a top law firm — navigating the complex legal world under a cold, demanding mentor.",
+    "year": "2025",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xV8qwkkJFSsToqmAeVTYmsIaue2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4956,27 +4956,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "124426",
-    "tmdbId": 124426,
-    "imdbId": "tt14023192",
-    "type": "tv",
-    "title": "Mine",
-    "overview": "Encaged in a gold-clad life of secrets and lies, two women in a conglomerate family seek to topple all that stands in their way of finding true joy.",
-    "year": "2021",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/r5kJZl10lE2gbIuY92gPaQHYEa4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/56qeHhntZQJAlQNOcKSuAGtmj3S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tPJmG09eqPaTPEuX0VSMrPa0HcD.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "275989",
     "tmdbId": 275989,
     "imdbId": "tt35451747",
@@ -5032,6 +5011,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/ae1lG0FGLU4uibaYDnCo2hYQvGI.png",
     "certificate": "15",
     "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "119466",
+    "tmdbId": 119466,
+    "imdbId": "tt14166666",
+    "type": "tv",
+    "title": "Youth of May",
+    "overview": "A budding love story between a medical student and a nurse takes place in May 1980, during a time of civil unrest and military oppression in Gwangju.",
+    "year": "2021",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7tRetA8rEAvmslMiNvNLuMOVGZ9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/y9coHbOtWuzKsVIWGdBhujmtNn6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gyOhIbNSt3wczNthYoKlDlTyXuA.png",
+    "certificate": "15",
+    "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -6034,7 +6034,7 @@
     "title": "I am Your Teacher",
     "overview": "I am Sam is a 2007 South Korean television series starring Yang Dong-geun, Park Min-young, Park Joon-gyu, Son Tae-young, and T.O.P in his acting debut. It aired on KBS2 from August 6 to October 2, 2007 on Mondays and Tuesdays at 21:55 for 16 episodes. Based on the Japanese comic series Very Private Lesson, Yang plays a geeky, straight-arrowed, under-qualified high school teacher who becomes a live-in tutor for the troublemaking daughter of a notorious gangster, in exchange for one million won. The drama received average ratings of around 6.5%.\n\nThe title is a word play since sam in Korean roughly translates to \"teacher\" in slang, thus the international title, I am Your Teacher.",
     "year": "2007",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ayhMUx7mVh1ILppxNZ98ssVRqs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/7eFz12VfZOvz8KKEAcHXrJUjVZf.jpg",
     "logoUrl": null,
