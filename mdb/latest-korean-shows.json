@@ -105,6 +105,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "313738",
+    "tmdbId": 313738,
+    "imdbId": "tt50776122",
+    "type": "tv",
+    "title": "One of a Kind Romance",
+    "overview": "A romance driven by personal desire that unfolds when top actor Tak Mu-i and idol Ryu Min enter the ordinary daily life of job seeker Gong Yu-il.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pSsJ2qQypNVzLNYKV6ixORDW7kM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/flSN0asy52nuiG04Lo8AuwME7tU.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "316702",
     "tmdbId": 316702,
     "imdbId": "tt49692512",
