@@ -42,27 +42,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "126485",
     "tmdbId": 126485,
     "imdbId": "tt24640580",
@@ -140,6 +119,27 @@
     "certificate": "TV-14",
     "runTimeMinutes": 74,
     "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "276161",
+    "tmdbId": 276161,
+    "imdbId": "tt34809853",
+    "type": "tv",
+    "title": "Teach You a Lesson",
+    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -246,6 +246,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "96571",
+    "tmdbId": 96571,
+    "imdbId": "tt11052470",
+    "type": "tv",
+    "title": "Move to Heaven",
+    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
+    "year": "2021",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qXZmSOeeS0JtEUc2imQW0TjRLe9.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -966,6 +987,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "280945",
+    "tmdbId": 280945,
+    "imdbId": "tt37600136",
+    "type": "tv",
+    "title": "Bon Appétit, Your Majesty",
+    "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/exUXEOierAwZ597010TLQka9TFy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/a0P7mQkEqaFrYJwTL14eUbU5Tke.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "70649",
     "tmdbId": 70649,
     "imdbId": "tt6256484",
@@ -1023,27 +1065,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "96571",
-    "tmdbId": 96571,
-    "imdbId": "tt11052470",
-    "type": "tv",
-    "title": "Move to Heaven",
-    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
-    "year": "2021",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qXZmSOeeS0JtEUc2imQW0TjRLe9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -1674,27 +1695,6 @@
     "runTimeMinutes": 48,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "280945",
-    "tmdbId": 280945,
-    "imdbId": "tt37600136",
-    "type": "tv",
-    "title": "Bon Appétit, Your Majesty",
-    "overview": "After time traveling to the Joseon era, a talented chef meets a tyrant king. Her modern dishes captivate his palate, but royal challenges await her.",
-    "year": "2025",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/exUXEOierAwZ597010TLQka9TFy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/a0P7mQkEqaFrYJwTL14eUbU5Tke.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 83,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -2499,6 +2499,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "209110",
+    "tmdbId": 209110,
+    "imdbId": "tt37218592",
+    "type": "tv",
+    "title": "The Price of Confession",
+    "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kgqzwaOzgkaAj12XLYxgK5wB7XA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cM4j7ngo5DnS8pLZKlYIiffd45h.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "229480",
     "tmdbId": 229480,
     "imdbId": "tt32981987",
@@ -2556,6 +2577,27 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "295509",
+    "tmdbId": 295509,
+    "imdbId": "tt38626513",
+    "type": "tv",
+    "title": "The Legend of Kitchen Soldier",
+    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qe82pEsB0ubb7ZKxRmJPd7oDFm4.png",
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2940,6 +2982,28 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "249054",
+    "tmdbId": 249054,
+    "imdbId": "tt32524691",
+    "type": "tv",
+    "title": "Romantics Anonymous",
+    "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR",
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "258025",
     "tmdbId": 258025,
     "imdbId": "tt37146661",
@@ -2976,27 +3040,6 @@
     "runTimeMinutes": 36,
     "primaryGenre": "Mystery",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "295509",
-    "tmdbId": 295509,
-    "imdbId": "tt38626513",
-    "type": "tv",
-    "title": "The Legend of Kitchen Soldier",
-    "overview": "A plastic-spoon man is on his way to becoming a legendary army cook—uncovering dark secrets within the base through his cooking skills.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nmYgPJiZebWUtL6D72D0Qp9ce0H.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9lQZ18CYk5n3YNbOfmSjkiBrfrk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qe82pEsB0ubb7ZKxRmJPd7oDFm4.png",
-    "certificate": "15",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3186,27 +3229,6 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "209110",
-    "tmdbId": 209110,
-    "imdbId": "tt37218592",
-    "type": "tv",
-    "title": "The Price of Confession",
-    "overview": "Accused of killing her husband, a woman is offered a way out by a mysterious stranger: in exchange for a confession in her place, she must commit murder.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kgqzwaOzgkaAj12XLYxgK5wB7XA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cM4j7ngo5DnS8pLZKlYIiffd45h.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3780,6 +3802,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "61148",
+    "tmdbId": 61148,
+    "imdbId": "tt3322566",
+    "type": "tv",
+    "title": "Empress Ki",
+    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
+    "year": "2013",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/om2oOFMZqTv41HkS9faNm0VWoPo.png",
+    "certificate": "NR",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "74829",
     "tmdbId": 74829,
     "imdbId": "tt7521898",
@@ -3837,6 +3880,27 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "82237",
+    "tmdbId": 82237,
+    "imdbId": "tt8801708",
+    "type": "tv",
+    "title": "The Beauty Inside",
+    "overview": "The love story between a top actress and an airline director who each suffers an unusual phenomenon. He suffers from prosopagnosia, while every month she transforms into someone else for a week.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u3UGsVYD0nxsucvN7NHLzXP0FHu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/raoz5xNPjFijXtvloEOKwGIfCqV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sRaroaCOEwYlsDXmq0XuzLOFaci.png",
+    "certificate": "15",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4116,27 +4180,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "82237",
-    "tmdbId": 82237,
-    "imdbId": "tt8801708",
-    "type": "tv",
-    "title": "The Beauty Inside",
-    "overview": "The love story between a top actress and an airline director who each suffers an unusual phenomenon. He suffers from prosopagnosia, while every month she transforms into someone else for a week.",
-    "year": "2018",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/u3UGsVYD0nxsucvN7NHLzXP0FHu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/raoz5xNPjFijXtvloEOKwGIfCqV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sRaroaCOEwYlsDXmq0XuzLOFaci.png",
-    "certificate": "15",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "81821",
     "tmdbId": 81821,
     "imdbId": "tt8199972",
@@ -4319,6 +4362,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 63,
     "primaryGenre": "Crime",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "194797",
+    "tmdbId": 194797,
+    "imdbId": "tt24245988",
+    "type": "tv",
+    "title": "Doona!",
+    "overview": "A college student navigates life and school while dealing with a unique predicament — he's living with a beautiful former K-pop sensation.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1aBYcDp9CVbwU4h6mOYkkUgMPEl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jA6yOnSocxcCpaFHGaNl09GYTRF.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
@@ -4621,6 +4685,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "224819",
+    "tmdbId": 224819,
+    "imdbId": "tt27554348",
+    "type": "tv",
+    "title": "Dear Hongrang",
+    "overview": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ymApSy7nyGtRQlPqtJuCyGGqz1c.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "259015",
     "tmdbId": 259015,
     "imdbId": "tt33320428",
@@ -4657,27 +4742,6 @@
     "runTimeMinutes": 56,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "300727",
-    "tmdbId": 300727,
-    "imdbId": "tt43357366",
-    "type": "tv",
-    "title": "The Apartment Job",
-    "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
-    "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4768,21 +4832,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "224819",
-    "tmdbId": 224819,
-    "imdbId": "tt27554348",
+    "id": "300727",
+    "tmdbId": 300727,
+    "imdbId": "tt43357366",
     "type": "tv",
-    "title": "Dear Hongrang",
-    "overview": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ymApSy7nyGtRQlPqtJuCyGGqz1c.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
+    "title": "The Apartment Job",
+    "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 63,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4865,27 +4929,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/fDsFgLql4MBm3pebGfqB4L4fOWZ.png",
     "certificate": "19",
     "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "194797",
-    "tmdbId": 194797,
-    "imdbId": "tt24245988",
-    "type": "tv",
-    "title": "Doona!",
-    "overview": "A college student navigates life and school while dealing with a unique predicament — he's living with a beautiful former K-pop sensation.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1aBYcDp9CVbwU4h6mOYkkUgMPEl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jA6yOnSocxcCpaFHGaNl09GYTRF.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -5125,6 +5168,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "210781",
+    "tmdbId": 210781,
+    "imdbId": "tt27203727",
+    "type": "tv",
+    "title": "My Lovely Liar",
+    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
+    "year": "2023",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dn8IwNeeqhYYDC3UeRkZyJDaqk4.png",
+    "certificate": "15",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "78796",
     "tmdbId": 78796,
     "imdbId": "tt8160178",
@@ -5251,27 +5315,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "210781",
-    "tmdbId": 210781,
-    "imdbId": "tt27203727",
-    "type": "tv",
-    "title": "My Lovely Liar",
-    "overview": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.",
-    "year": "2023",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lDxDrALYgBFKyr2xTY9EHZ7GaW6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pxjR0Wds0gkwY8pYDYExf6DuLoL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dn8IwNeeqhYYDC3UeRkZyJDaqk4.png",
-    "certificate": "15",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "270420",
     "tmdbId": 270420,
     "imdbId": "tt33429144",
@@ -5287,6 +5330,27 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -5350,27 +5414,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61148",
-    "tmdbId": 61148,
-    "imdbId": "tt3322566",
-    "type": "tv",
-    "title": "Empress Ki",
-    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
-    "year": "2013",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/om2oOFMZqTv41HkS9faNm0VWoPo.png",
-    "certificate": "NR",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
     "originCountries": [
       "KR"
     ],
@@ -5684,27 +5727,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/DRWwaSrBhtQRCWmydmzGPjkXkc.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 84,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "226527",
-    "tmdbId": 226527,
-    "imdbId": "tt27763561",
-    "type": "tv",
-    "title": "Hierarchy",
-    "overview": "The top 0.01% of students control law and order at Jooshin High School, but a secretive transfer student chips a crack in their indomitable world.",
-    "year": "2024",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9VPNHVHT3d3FzLQiHO4cq4Ysl3r.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5LvraKw02mZEQfy8dPBZql5KRgH.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 75,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -6070,6 +6092,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "226527",
+    "tmdbId": 226527,
+    "imdbId": "tt27763561",
+    "type": "tv",
+    "title": "Hierarchy",
+    "overview": "The top 0.01% of students control law and order at Jooshin High School, but a secretive transfer student chips a crack in their indomitable world.",
+    "year": "2024",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9VPNHVHT3d3FzLQiHO4cq4Ysl3r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5LvraKw02mZEQfy8dPBZql5KRgH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "287009",
     "tmdbId": 287009,
     "imdbId": "tt39184653",
@@ -6106,6 +6149,27 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6238,27 +6302,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "285278",
     "tmdbId": 285278,
     "imdbId": "tt39068875",
@@ -6362,28 +6405,6 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "249054",
-    "tmdbId": 249054,
-    "imdbId": "tt32524691",
-    "type": "tv",
-    "title": "Romantics Anonymous",
-    "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
-    "year": "2025",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR",
-      "JP"
-    ],
-    "originalLanguage": "ja"
   },
   {
     "id": "282810",
@@ -6596,6 +6617,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "314784",
     "tmdbId": 314784,
     "imdbId": "tt41090249",
@@ -6716,27 +6758,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6890,27 +6911,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293607",
-    "tmdbId": 293607,
-    "imdbId": "tt39201866",
-    "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "year": "2026",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "4734",
     "tmdbId": 4734,
     "imdbId": "tt0978061",
@@ -7010,6 +7010,27 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "211261",
+    "tmdbId": 211261,
+    "imdbId": "tt23635250",
+    "type": "tv",
+    "title": "The First Responders",
+    "overview": "A police station and a fire station adjoining each other cooperate in combating crime and fire in the most brutal and tragic cases.",
+    "year": "2022",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ccEYx9NoZvDJRw8Ji2E7yJYLXwt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bnEDaINpzWGBsE8IjA3TsU4FWeJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hUnzgjLKWgqJvgI8sj7qHLlTpWx.png",
+    "certificate": "19",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -7178,27 +7199,6 @@
     "runTimeMinutes": 36,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "211261",
-    "tmdbId": 211261,
-    "imdbId": "tt23635250",
-    "type": "tv",
-    "title": "The First Responders",
-    "overview": "A police station and a fire station adjoining each other cooperate in combating crime and fire in the most brutal and tragic cases.",
-    "year": "2022",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ccEYx9NoZvDJRw8Ji2E7yJYLXwt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bnEDaINpzWGBsE8IjA3TsU4FWeJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hUnzgjLKWgqJvgI8sj7qHLlTpWx.png",
-    "certificate": "19",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -7898,27 +7898,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "70957",
-    "tmdbId": 70957,
-    "imdbId": "tt6530396",
-    "type": "tv",
-    "title": "Queen of Mystery",
-    "overview": "Yoo Seol-Ok liked mystery novels and wanted to become a detective, but she gave up her dream after marrying. Now, she is a housewife with a husband who works as a prosecutor. She meets Ha Wan-Seung. He is a passionate detective and they decide to collaborate to solve cases.",
-    "year": "2017",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iKso3ijkzh0OZT5IO5cFPu8E3A7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AmrefGuj8on1lAkMvuTX3Oi9MJx.jpg",
-    "logoUrl": null,
-    "certificate": "NR",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "152512",
     "tmdbId": 152512,
     "imdbId": "tt19851552",
@@ -8396,6 +8375,27 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "62644",
+    "tmdbId": 62644,
+    "imdbId": "tt4612922",
+    "type": "tv",
+    "title": "The Producers",
+    "overview": "A rookie producer joins the Korean Broadcasting System to be near his secret crush and enters the madcap world of network TV, where ratings rule.",
+    "year": "2015",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wtOMeQS4Yoeu1LdGf89XEk5XJ6l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mmAaQ3xSfUaZZ0Lt074YuCmGA90.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zgZBvRqrIkTM4rI0WEo73SXINdN.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
