@@ -1,20 +1,20 @@
 [
   {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
+    "id": "326991",
+    "tmdbId": 326991,
+    "imdbId": "tt44093541",
     "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "title": "A Trap Called Desire",
+    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
     "year": "2026",
     "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
+    "certificate": "15",
     "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -63,27 +63,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "326991",
-    "tmdbId": 326991,
-    "imdbId": "tt44093541",
-    "type": "tv",
-    "title": "A Trap Called Desire",
-    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
-    "certificate": "15",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "335951",
     "tmdbId": 335951,
     "imdbId": "tt47596978",
@@ -99,6 +78,27 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
+    "type": "tv",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
     "originCountries": [
       "KR"
     ],
@@ -7367,48 +7367,6 @@
     "runTimeMinutes": 31,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "206693",
-    "tmdbId": 206693,
-    "imdbId": "tt26228190",
-    "type": "tv",
-    "title": "My Dearest",
-    "overview": "A love-story between a noblewoman and a mysterious man who shows up in her hometown set in the 1600s during the Qing invasion.",
-    "year": "2023",
-    "rating": 8.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d00uWx8T84ZRsguQTqITl3HnFJO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3MkrzqX1jog9ItFux72MvYyYfuT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3rhzHkWbZQlqvh8JK0wP4zHQ6GT.png",
-    "certificate": "15",
-    "runTimeMinutes": 90,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "217088",
-    "tmdbId": 217088,
-    "imdbId": "tt26471649",
-    "type": "tv",
-    "title": "The Killing Vote",
-    "overview": "People are busy watching the screen. The person wearing a mysterious mask so called 'Gaetal' appears, and the Killing Vote begins.",
-    "year": "2023",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/b31zFi0ZocmaxxuPCAGxEA6uxGn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5b7VwobdAhp7NFCxxcEXSQNmaNe.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/824NaEAzIZQa5oJZp5GnwCNqws4.png",
-    "certificate": "15",
-    "runTimeMinutes": 75,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
