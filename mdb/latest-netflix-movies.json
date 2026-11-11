@@ -196,7 +196,7 @@
     "title": "Misty Green",
     "overview": "Years after her Hollywood breakthrough, a talented actress whose career has stalled fights for her second act.",
     "year": "2026",
-    "rating": 5.5,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
@@ -385,7 +385,7 @@
     "title": "Possible Love",
     "overview": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 7.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/5jdF6iuVDkZaRObczlKvR5KVd4n.png",
@@ -441,6 +441,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "1616419",
+    "tmdbId": 1616419,
+    "imdbId": "tt39453578",
+    "type": "movie",
+    "title": "The Good Lawyer",
+    "overview": "After a courtroom overdose lands him in rehab, a lawyer has one week to save his career and prepare for his own trial, with the help of a dogged intern.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2JUDkgPWIUSITOBpYmPiFamPb5e.png",
+    "certificate": "R",
+    "runTimeMinutes": 121,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "1743695",
     "tmdbId": 1743695,
     "imdbId": "tt40188247",
@@ -469,7 +490,7 @@
     "title": "Why Did I Get Married Again?",
     "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
     "year": "2026",
-    "rating": 5.4,
+    "rating": 5.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/opsE1rUAgCy29Bdv6EbXnP1e5PO.png",
@@ -511,7 +532,7 @@
     "title": "My Best Friend",
     "overview": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abroad.",
     "year": "2026",
-    "rating": 6.2,
+    "rating": 6.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
     "logoUrl": null,
@@ -848,7 +869,7 @@
     "title": "A Child of My Own",
     "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
     "year": "2026",
-    "rating": 6.1,
+    "rating": 6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kH2SrPtJY2GS8V3JuRc4QluNdlK.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/giInkuo6FN06fAmYOt1X7hEOLDU.png",
@@ -4188,26 +4209,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1429738",
-    "tmdbId": 1429738,
-    "imdbId": "tt35669044",
-    "type": "movie",
-    "title": "Tee Yai: Born to Be Bad",
-    "overview": "In 1980s Bangkok, a wily thief stages a series of daring heists, baffling the authorities and the public — until one cop sets out to take him down.",
-    "year": "2025",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ig00LBM2rv4fmCJOPATyRWOJnlL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xmnqFHhGNYHf5JFy4GSfiIEG0ly.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/85XMO9a80rldr98BGB7kQy3Xfgo.png",
-    "certificate": "A",
-    "runTimeMinutes": 117,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
   }
 ]

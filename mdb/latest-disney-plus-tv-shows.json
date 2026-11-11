@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -70,7 +70,7 @@
     "title": "Merry Berry Love",
     "overview": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aOz2lRcVTkYZpz1dGIGtJsirvsu.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/3M9kWY5xcXED7kBKg3ucysbZvwp.png",
@@ -91,7 +91,7 @@
     "title": "Between Steps",
     "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
@@ -124,6 +124,27 @@
       "FR"
     ],
     "originalLanguage": "fr"
+  },
+  {
+    "id": "332401",
+    "tmdbId": 332401,
+    "imdbId": "tt32642114",
+    "type": "tv",
+    "title": "City of Blood",
+    "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+    "year": "2026",
+    "rating": 4.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b8CBU6tFHbR2ioQ21qDUjXtyp2X.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
   },
   {
     "id": "325755",
@@ -702,7 +723,7 @@
     "title": "The Eighth Family",
     "overview": "With their invention of bulletproof thermal underwear, the Basmacıgil Family earns the title of the Eighth Family, one of the ruling forces of the world. Yet, as six very different siblings attempt to run the family business, their well-meaning but ineffective efforts leave their father Erol convinced that “no outside enemy is necessary.\"",
     "year": "2025",
-    "rating": 5.5,
+    "rating": 5.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y8NmGRfD3GuhhR8bTj7rXWkOMqk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/rMIcPgTdi3lB7J0iZEyHFDAZDCT.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/rbUpX9SAR7GqYZIuQClTgVw0ws8.png",
@@ -1881,7 +1902,7 @@
     "title": "Shared Custody",
     "overview": "Cris and Diego just broke up and agree they want to stay friends. But that gets tricky when they move back in with their parents. The grandparents are eager to treat them like kids again. It doesn't matter that Cris and Diego are over forty years old, or have a five-year-old daughter, Cloe.",
     "year": "2025",
-    "rating": 6.2,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bfzyaXdeZQvPU0e85WkgoxItQmV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/r7TxmY1QQ6sJl356cmoPsSpNdG0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/r6NABKfX7vVxSyNDy63h3IwNvbp.png",
@@ -4185,27 +4206,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "AU"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "223430",
-    "tmdbId": 223430,
-    "imdbId": "tt27331314",
-    "type": "tv",
-    "title": "The Secrets of Hillsong",
-    "overview": "With fresh reporting and analysis from journalists, historians and policymakers, go beyond the sensational headlines and behind the velvet rope to examine the church's long pattern of covering up misconduct to protect itself.",
-    "year": "2023",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nEQUKQ4R8gkQ1Tlah52pkCuGhYd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uN5onDK4R4Tram53ToAS55pl5kY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7lh7rknOg5Hu2lLR3CMgQuDhVHh.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }

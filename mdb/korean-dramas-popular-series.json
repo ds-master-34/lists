@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -70,7 +70,7 @@
     "title": "100 Days of Deception",
     "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 8.2,
+    "rating": 8.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
@@ -91,7 +91,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -154,7 +154,7 @@
     "title": "Make Me Tingle",
     "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
     "year": "2026",
-    "rating": 8.2,
+    "rating": 8.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
@@ -658,7 +658,7 @@
     "title": "Between Steps",
     "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
     "year": "2026",
-    "rating": 7.8,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
@@ -700,7 +700,7 @@
     "title": "We Are All Trying Here",
     "overview": "An aspiring director hits rock bottom after 20 years chasing his debut — until he meets an overwhelmed producer who helps him rediscover his self-worth.",
     "year": "2026",
-    "rating": 8.4,
+    "rating": 8.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nfCOKDJHo3yOtiPP37LBcelrYs2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/8ivvIzb7zE8DSCV8bAORR7nmazR.png",
@@ -1170,6 +1170,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "318634",
+    "tmdbId": 318634,
+    "imdbId": "tt48409766",
+    "type": "tv",
+    "title": "Twisted Tie",
+    "overview": "A rookie falls for his intimidating boss after a stormy night together, but a rival's arrival turns their secret office romance into a tangled game.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3Xl69rVjSgY9oDFkGnZhXUpdDgp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4AK4wvNoBtqkpJ7oC3EZlYn96td.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nH2KxUbwoMEk74aUeJBPoLa2EpZ.png",
+    "certificate": "19",
+    "runTimeMinutes": 19,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -1918,7 +1939,7 @@
     "title": "Dive into You",
     "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
@@ -4137,6 +4158,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "62933",
+    "tmdbId": 62933,
+    "imdbId": "tt4803738",
+    "type": "tv",
+    "title": "Hello Monster",
+    "overview": "A top detective is reunited with a childhood friend who has since become a leading criminal profiler. Can they join forces to stop a serial killer?",
+    "year": "2015",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t1f0EKjQGCd5ip8TLJzDFOEDDdK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2RyoO9g8UskEfl2J27Am7l8Nnjx.jpg",
+    "logoUrl": null,
+    "certificate": "16",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "126484",
     "tmdbId": 126484,
     "imdbId": "tt17473062",
@@ -4431,6 +4473,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "63767",
+    "tmdbId": 63767,
+    "imdbId": "tt5045900",
+    "type": "tv",
+    "title": "She Was Pretty",
+    "overview": "A former ugly duckling tries to track down his childhood first love. But what will happen when a case of false identities backfires?",
+    "year": "2015",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sIsUgKIFYAASpvvV5Aaip2xa7Zd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5auQnyJ0jQfiYlg88lsW0pCLBRJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ynRugwIRAwdMLwpncJhjWol87ke.png",
+    "certificate": "NR",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "97970",
     "tmdbId": 97970,
     "imdbId": "tt14518692",
@@ -4488,6 +4551,27 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "117896",
+    "tmdbId": 117896,
+    "imdbId": "tt13776460",
+    "type": "tv",
+    "title": "Lovers of the Red Sky",
+    "overview": "Set during the Joseon era, Hong Cheon Ki is a female painter with a genius like painting talent. She is picked as the first female painter of the Dohwaseo. Hong Cheon Ki also has a beautiful appearance and a bright personality. For her, painting is everything. One day, she meets Ha Ram.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lzKiEoVUTdhGDOuqNoYoL0Q1FYA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fY7wigRHMritnQiX47wgCEMau5G.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8QkK5ZCKX5OXpzi6d5WniZYXyvP.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -5215,7 +5299,7 @@
     "title": "New Heart",
     "overview": "Cardiac surgery is one of the most demanding and difficult forms of surgery, and it's not as lucrative as other medical careers, so when Lee Eun Seung and Nam Hye Suk are the only applicants to apply for a residency, they are accepted easily. Dr. Choi Kang Gook, the new head of Cardiovascular Surgery, has his doubts. Eun Seung has always dreamed of becoming a great cardiac specialist, but as an orphan coming from a small-town medical school, his skills are basic. Hye Suk, on the other hand, graduated from an elite medical school with top marks, but possesses an inflexible personality. Gradually, as they work together, a mutual respect dawns, and Eun Seung begins to be attracted to Hye Suk. But things get complicated when famous actor Lee Dong Gwon is admitted to the hospital, who has a romantic past with Hye Suk and aims to win her heart once more.",
     "year": "2007",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/fw3u0HxRVtNu4VlCk42XQbDmBlj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/aH6OZRJCk2dmhbNAAxltMmjP1hE.jpg",
     "logoUrl": null,
@@ -5383,7 +5467,7 @@
     "title": "Secret Door",
     "overview": "A re-imagining of the legendary tale of the troubled father-son relationship between King Yeongjo and his only son Prince Sado. While his father insists on a strong and centralized government, Crown Prince Sado promotes social justice and equality throughout the kingdom. Throughout eight fateful years, the strain on their relationship — both familial and political — eventually evolves into a total breakdown, ending with one of the most tragic stories in Joseon history.",
     "year": "2014",
-    "rating": 7.2,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4XAt4Kv21qhdd6niXdLRr2kLxpl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/75TpHbSORP8v29FLv9wxtUEOUlN.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/aBg5iRZi6aEg9Rgcpao3PkFXEj4.png",
@@ -8308,48 +8392,6 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "68426",
-    "tmdbId": 68426,
-    "imdbId": "tt6898470",
-    "type": "tv",
-    "title": "You Are a Gift",
-    "overview": "Costume designer Kong Hyun Soo fights against trials and hardships in order to succeed and find her happiness.",
-    "year": "2016",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fQClevg2uVc8FE4QtnWtQoKUyQT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fIQ19YQ0P6oZWBc9kfCEur8fr5.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "80965",
-    "tmdbId": 80965,
-    "imdbId": "tt8689936",
-    "type": "tv",
-    "title": "Witch's Love",
-    "overview": "A landlord threatens to expose three generations of witches hiding their magical world from unsuspecting eyes.",
-    "year": "2018",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2dUE6bTv4sL9khs2mBMl5qn8sno.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7w72d9776KDNvjVaEDeVSJCmJ8d.jpg",
-    "logoUrl": null,
-    "certificate": "12",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
