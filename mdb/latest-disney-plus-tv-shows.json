@@ -2841,6 +2841,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "254586",
+    "tmdbId": 254586,
+    "imdbId": "tt32381491",
+    "type": "tv",
+    "title": "The Beauty Queen Killer: 9 Days of Terror",
+    "overview": "In 1984, 16-year-old Tina Risico is kidnapped by a killer who takes her on a hellish road trip – and forces her to participate in a brutal crime.",
+    "year": "2024",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yhNy1GMLvZrd7Ozc7LGJJ4yqyRl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/673N8Nu1sxD8rmrrz0NvOlvcPVX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zMg7YW9xCnL5R4pXvUSSllKXJNL.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "209173",
     "tmdbId": 209173,
     "imdbId": "tt21936640",
@@ -4185,27 +4206,6 @@
     "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "202162",
-    "tmdbId": 202162,
-    "imdbId": "tt20259432",
-    "type": "tv",
-    "title": "The Clearing",
-    "overview": "When a local girl goes missing, a woman is forced to face the demons from her traumatic childhood.",
-    "year": "2023",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iqJpQPAKZq73wIex5f0bSZkYfoT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bvqNRMMl1gXYceHhpe5FHqYHr4d.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sXq0XA0hBgd5djLyafnvPzqZn3f.png",
-    "certificate": "15",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AU"
     ],
     "originalLanguage": "en"
   }
