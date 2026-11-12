@@ -1124,27 +1124,6 @@
     "originalLanguage": "zh"
   },
   {
-    "id": "259909",
-    "tmdbId": 259909,
-    "imdbId": "tt33043892",
-    "type": "tv",
-    "title": "Dexter: Resurrection",
-    "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-    "year": "2025",
-    "rating": 9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8vN1JzNMVIVuyhEyGkKwr0NhMPh.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "293691",
     "tmdbId": 293691,
     "imdbId": "tt32810392",
@@ -2765,6 +2744,27 @@
     "originalLanguage": "it"
   },
   {
+    "id": "241206",
+    "tmdbId": 241206,
+    "imdbId": "tt29363617",
+    "type": "tv",
+    "title": "The Lonely Warrior",
+    "overview": "The rape and murder suspect dies in the interrogation room due to being beaten up by the crowd earlier. The three teams responsible for this case are also imprisoned together, while the other suspect is still at large. After being released from prison, the three teams, led by their captain Cheng, track down their whereabouts. They pursue the culprit for twelve years.",
+    "year": "2023",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/55akiT10951gxxaRuCEzgXNzznF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8PkKQcA53Zb9fEojItVfpeDLxsX.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
     "id": "218230",
     "tmdbId": 218230,
     "imdbId": "tt26225038",
@@ -3312,6 +3312,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "207004",
+    "tmdbId": 207004,
+    "imdbId": "tt28100864",
+    "type": "tv",
+    "title": "Destined",
+    "overview": "Forced into marriage with a notorious playboy, merchant’s daughter Liu Yuru learns business to build her own strength and unexpectedly discovers her husband’s sincerity beneath his reckless facade. As they weather danger, rebuild their lives, and work to ease the burdens of the people, the pair rise together to create a more prosperous era.",
+    "year": "2023",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/w9qxGcmroBrYqUS6nyDn8M2BoZb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7XO5iQaEvrqfMzDVpjTWYfI6OH5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4CGtjaU6izzKWwmyn92FFV2isqW.png",
+    "certificate": "15",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
     "id": "208935",
     "tmdbId": 208935,
     "imdbId": "tt21911406",
@@ -3583,6 +3604,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "211927",
+    "tmdbId": 211927,
+    "imdbId": "tt27477567",
+    "type": "tv",
+    "title": "Thirteen Years of Dust",
+    "overview": "The special homicide case that was unsolved in 1997 resurfaced 13 years later. Criminal policeman Wei Zhengrong, who wasn't able to find out the real murderer that year was traumatised and left the front line. The once fledgling new policeman Lu Xingzhi grown from his innocence and has become a meticulous criminal investigation expert. The many coincidences of the case brought the master and apprentice together again to hunt down the real culprit.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uPGPeWo7v65HePODxE9vQQd1Z94.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n7F79xjSkhJJp7IIXGEtmqBFdcS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/67iaFjHJuqFZARsWbih9EbeqLnA.png",
+    "certificate": "",
+    "runTimeMinutes": 38,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
   },
   {
     "id": "95558",
@@ -4070,6 +4112,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "138289",
+    "tmdbId": 138289,
+    "imdbId": "tt23788802",
+    "type": "tv",
+    "title": "Wild Bloom",
+    "overview": "During the 1990s, Xu Ban Xia is a woman with vision and strength who overcomes many obstacles in the male-dominated steel industry to carve out a place for herself. Xu Ban Xia's mother died during childbirth while her father never cared for her. In spite of this, Xu Ban Xia has grown tough, proud and fearless in the face of challenges.  Xu Ban Xia and her good friends Xiao Chen and Tong Xiao Qi venture into the transport of scrap steel. In an industry where men have an absolute advantage, Xu Ban Xia relies on her adventurous spirit and pragmatic attitude to weather many untold hardships and even survives death. She eventually opens up an international steel import business. Xu Banxia develops a keen sense for the market to gradually expands their business, pushing herself to grow in her field while also finding love.",
+    "year": "2022",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h8rC5JOmnlCb41sqYnSVM9toecf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8nxdy7sqAk7zjUPBXrhLcSux4po.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "215229",
+    "tmdbId": 215229,
+    "imdbId": "tt23826450",
+    "type": "tv",
+    "title": "Forest of the Missing",
+    "overview": "Near the Franco-German border, in the heart of the Black Forest and the binational military base; 12 bodies are found in a mass grave. All the victims are men, both French and German.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jabfaK4MIOLWIi2Uwqp5XNnfyU4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7RyoFunDebsPC2mipGeaGhUUMDy.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "BE"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "215069",
     "tmdbId": 215069,
     "imdbId": "tt23569850",
@@ -4131,89 +4215,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "211855",
-    "tmdbId": 211855,
-    "imdbId": "tt21814948",
-    "type": "tv",
-    "title": "The End of Love",
-    "overview": "After a reunion with her past, Tamara - a Jewish ex-orthodox turned feminist rocker - separates from her boyfriend, rebelling against romantic love and monogamy to embark on a path of exploration in search of her own desire.",
-    "year": "2022",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/x9Tq1h4SI8f4BGd3f0XUNbEY1sl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mmle3isEoxAhXWwJsoQKXrMNGJq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wJ3PMIbLlXERAWt3TCY3n5NdcME.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "93870",
-    "tmdbId": 93870,
-    "imdbId": "tt10405370",
-    "type": "tv",
-    "title": "SAS Rogue Heroes",
-    "overview": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
-    "year": "2022",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fTUyb5oLR6ess2EOek34Z9ePmZU.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "157061",
-    "tmdbId": 157061,
-    "imdbId": "tt14379784",
-    "type": "tv",
-    "title": "The Devil's Hour",
-    "overview": "Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.",
-    "year": "2022",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/31XWoLd3AHW6MLy9i2DSbFZOPuH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6lpHkRGwOjCSyK3P7RvT1djtOhI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135822",
-    "tmdbId": 135822,
-    "imdbId": "tt14377480",
-    "type": "tv",
-    "title": "Kamen Rider Black Sun",
-    "overview": "The year is 2022. It is an era of chaos, half a century after the government announced the coexistence of humans and kaijins. Aoi Izumi, a young human rights activist calling for the elimination of discrimination, meets a man named Kotaro Minami, the one called \"Black Sun,\" who is a candidate for the next Creation King.",
-    "year": "2022",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3OtFY626NJxZvyDpEaXwRgx9Kht.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Pskexd1OLtooVRRS2mEGbfgP7D.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tItfebvp23ni4tzVIsa8TJKyzPm.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   }
 ]
