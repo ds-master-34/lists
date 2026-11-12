@@ -827,6 +827,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "285770",
+    "tmdbId": 285770,
+    "imdbId": "tt37506062",
+    "type": "tv",
+    "title": "Nice to Not Meet You",
+    "overview": "A hateful romance between a professional detective actor who wants to become a melodrama master and a female reporter who was demoted from a political reporter who won the Reporter of the Year award to the entertainment department.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h14bGZcVxYQzLoxC8KYqUVWvYfU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xiWu9f9jP2NSmXu2hWzrtafrpQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/z7iW16RfnwvB957rxLZOQ4oCS8V.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "248488",
     "tmdbId": 248488,
     "imdbId": "tt31536241",
@@ -1080,6 +1101,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "259823",
+    "tmdbId": 259823,
+    "imdbId": "tt33083565",
+    "type": "tv",
+    "title": "Zero Day Attack",
+    "overview": "Post-election tensions rise as the acting president provokes China, leading to PLA drills and looming invasion. As Zero Day nears, the president must choose war, and the island faces a critical choice for its future.",
+    "year": "2025",
+    "rating": 4.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aPAO85TnHDt70g5c0hcLfJGgstm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7vPFxPkRUDy3JHt2Bh74kO8Ox30.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 54,
+    "primaryGenre": "War & Politics",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "TW"
+    ],
+    "originalLanguage": "zh"
   },
   {
     "id": "259909",
@@ -4173,47 +4215,5 @@
       "JP"
     ],
     "originalLanguage": "ja"
-  },
-  {
-    "id": "212262",
-    "tmdbId": 212262,
-    "imdbId": "tt15530436",
-    "type": "tv",
-    "title": "Doomsday",
-    "overview": "In the Chertanovo area, known for periodic invasions and attractions, the Prince of Darkness himself suddenly appears. He has grandiose plans, but to implement them, he needs the help of his son, a supermarket cashier, who has a lot of questions for his father from hell. The all-powerful Prince of Darkness will have to build relationships with earthly relatives in order to carry out his plans and teach humanity a lesson.",
-    "year": "2022",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zgNsC620Qnkcl33tsgwfoOOatT9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBUHP2W5Upno8ETqVI59N0UDNuX.jpg",
-    "logoUrl": null,
-    "certificate": "18+",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "RU"
-    ],
-    "originalLanguage": "ru"
-  },
-  {
-    "id": "95403",
-    "tmdbId": 95403,
-    "imdbId": "tt8291284",
-    "type": "tv",
-    "title": "The Peripheral",
-    "overview": "Stuck in a small Appalachian town, a young woman’s only escape from the daily grind is playing advanced video games. She is such a good player that a company sends her a new video game system to test…but it has a surprise in store. It unlocks all of her dreams of finding a purpose, romance, and glamour in what seems like a game…but it also puts her and her family in real danger.",
-    "year": "2022",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2e5NNQu9B1fXBNllRj8fzysCguP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hIZFG7MK4leU4axRFKJWqrjhmxZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/r2BI1eFKLqsDF9GaecYcHkPSaWl.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]

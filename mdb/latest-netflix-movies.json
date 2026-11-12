@@ -420,6 +420,29 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1764166",
+    "tmdbId": 1764166,
+    "imdbId": "tt41007422",
+    "type": "movie",
+    "title": "Thomas & Friends: Really Helpful Engines",
+    "overview": "When Gordon needs help, Thomas takes on extra work alone to prove himself. But a busy day on Sodor shows that even useful engines need their friends.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/L01WT5wecMjDY874MIosElgaOJ.png",
+    "certificate": "0",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "TV Movie",
+    "originCountries": [
+      "US",
+      "IE",
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1558568",
     "tmdbId": 1558568,
     "imdbId": "tt38616652",
@@ -2587,6 +2610,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1367642",
+    "tmdbId": 1367642,
+    "imdbId": "tt33714084",
+    "type": "movie",
+    "title": "Reminders of Him",
+    "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uhfAjjjgrgaYkyogahWJxSWV4GX.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1633264",
     "tmdbId": 1633264,
     "imdbId": "tt39792948",
@@ -4167,47 +4211,5 @@
       "TR"
     ],
     "originalLanguage": "tr"
-  },
-  {
-    "id": "1548092",
-    "tmdbId": 1548092,
-    "imdbId": "tt31226985",
-    "type": "movie",
-    "title": "The Follies",
-    "overview": "Six women share a common 'friend': madness. It visits us all, pushes us to decide reality, to make daring decisions and to transform our lives.",
-    "year": "2025",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gVGV5fXrG1NSZvhzhPCxxRk9ap9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nI0AZlFksZ5oIRhSohUag45Fp6H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sC4aPDKDlqDNWCvCwnQjkaKIMjf.png",
-    "certificate": "14",
-    "runTimeMinutes": 121,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "MX"
-    ],
-    "originalLanguage": "es"
-  },
-  {
-    "id": "1401318",
-    "tmdbId": 1401318,
-    "imdbId": "tt34992378",
-    "type": "movie",
-    "title": "A Merry Little Ex-Mas",
-    "overview": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
-    "year": "2025",
-    "rating": 5.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dABu64hzd9eyjDjZgvj0tagOjgs.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
