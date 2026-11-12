@@ -1,5 +1,26 @@
 [
   {
+    "id": "1215889",
+    "tmdbId": 1215889,
+    "imdbId": "tt32634611",
+    "type": "movie",
+    "title": "Daayra",
+    "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mt73cFV80OjWu0M50xOoY0d3LIV.png",
+    "certificate": "A",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "hi"
+  },
+  {
     "id": "1493572",
     "tmdbId": 1493572,
     "imdbId": "tt37200939",
