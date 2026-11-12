@@ -4139,5 +4139,68 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "38055",
+    "tmdbId": 38055,
+    "imdbId": "tt1001526",
+    "type": "movie",
+    "title": "Megamind",
+    "overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+    "year": "2010",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yrAoauYfjyyVvnQII2x7EU2EaRq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9325",
+    "tmdbId": 9325,
+    "imdbId": "tt0061852",
+    "type": "movie",
+    "title": "The Jungle Book",
+    "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+    "year": "1967",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/epbYsbU2LptWv1C5JQxO5SHeNrk.png",
+    "certificate": "NR",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "10545",
+    "tmdbId": 10545,
+    "imdbId": "tt0116583",
+    "type": "movie",
+    "title": "The Hunchback of Notre Dame",
+    "overview": "Isolated in the bell tower of Notre Dame, Quasimodo longs to experience the world beyond the cathedral walls, despite the wishes of his stern guardian, the Judge of Paris Claude Frollo. His first venture into the city leads him to Esmeralda, a fearless Romani woman whose defiance of Frollo's tyranny draws her—and Quasimodo—into his dangerous obsession.",
+    "year": "1996",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dmMBtXuFzZzLYgeQXkOkg98w2Ak.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2lnnMDR00wnbMqpDowBGEB3vxK7.png",
+    "certificate": "G",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "id": "922673",
+    "tmdbId": 922673,
+    "imdbId": "tt27512908",
+    "type": "movie",
+    "title": "The Third Murder",
+    "overview": "When businessman Boban is murdered in the same manner as drug peddler Justin, DYSP Christy brings in ex-cop Swamy, an expert in serial killer cases. Their investigation leads to Aditya, a troubled teenager caught in conflict with his eccentric father, as hidden motives emerge and a deadly hunt begins to stop a third murder.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jNKwDvLdx81UqY4KVl0KybtSTqo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7UDUfWg5l3gvwO12yYLrPwGOals.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/22taJs1QIOo1tCn0Jz3AOlOyudN.png",
+    "certificate": "UA",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "ml"
+  },
+  {
     "id": "1102533",
     "tmdbId": 1102533,
     "imdbId": "tt27189785",

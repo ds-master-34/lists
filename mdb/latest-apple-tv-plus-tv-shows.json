@@ -1832,28 +1832,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "118534",
-    "tmdbId": 118534,
-    "imdbId": "tt14014144",
-    "type": "tv",
-    "title": "Jane",
-    "overview": "Budding environmentalist Jane is a 9-year-old on a quest to save endangered animals. Using her powerful imagination, Jane takes her best friends David and Greybeard the chimpanzee on epic adventures to help protect wild animals all around the world.",
-    "year": "2023",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9EuDaqFRui2nVqE4CixB7Umx9AO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bCBHnlLIZbIrjoADGqGWZeK0RUw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pXxVgZ3py8yocZtcfyQGSCt5pbw.png",
-    "certificate": "TV-G",
-    "runTimeMinutes": 28,
-    "primaryGenre": "Kids",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "CA",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "194704",
     "tmdbId": 194704,
     "imdbId": "tt14761860",
