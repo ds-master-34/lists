@@ -63,6 +63,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "288385",
+    "tmdbId": 288385,
+    "imdbId": "tt40407840",
+    "type": "tv",
+    "title": "Paolo",
+    "overview": "Follow working-class Paolo's unsettling intrusion into the life of Téophane Tolbiac, a young and up-and-coming politician.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5arYNSnKiCWxdwdrzjvP5vokPkV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+    "logoUrl": null,
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
+  },
+  {
     "id": "285418",
     "tmdbId": 285418,
     "imdbId": "tt35949226",
@@ -406,7 +427,7 @@
     "title": "Portobello",
     "overview": "In the early '80s, Enzo Tortora is one of the most beloved figures on Italian television. But in the midst of Italy's war against organized crime, Enzo's life is upended when he's falsely connected to the notorious Camorra criminal ring.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4A49Sw7HfwPC9EqIZAehtitGJqZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/lrcKwwOEEf02MG2vUZYA1qvvP5Z.png",
@@ -1797,7 +1818,7 @@
     "title": "Baby Assassins Everyday!",
     "overview": "Two socially awkward young women live a seemingly laid-back life in a shared house with others - when they're not working as elite assassins.",
     "year": "2024",
-    "rating": 7.8,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aqNpIMxxDIomyyJy9lYjDRHQ2op.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/zWzQGSZJzbtZUFkJ9iTAp81BwGG.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/jGTfCgAJCuY46CbI2pJG2rosFiu.png",
@@ -3515,6 +3536,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "214646",
+    "tmdbId": 214646,
+    "imdbId": "tt24222834",
+    "type": "tv",
+    "title": "The Tetris Murders",
+    "overview": "September 22, 1998, Vladimir Pokhilko, who was involved with the development of TETRIS, was found dead alongside his wife and their young son in their Palo Alto, California, home. Now, more than two decades later, the Palo Alto Police Department homicide investigators who were first on the scene revisit the haunting crime. What was once thought to be a murder-suicide in 1998 is now revealed to be something much more sinister.",
+    "year": "2022",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qc4njG2bqKBG9tPzinN1fu3ZJ2W.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i5dIVF1eCX9n87SsM5MI9LcxfUy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fdvhLpKRPnR98wCpHFkagXoBQhG.png",
+    "certificate": "12",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "125118",
     "tmdbId": 125118,
     "imdbId": "tt14599306",
@@ -3681,6 +3723,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "209489",
+    "tmdbId": 209489,
+    "imdbId": "tt22022560",
+    "type": "tv",
+    "title": "Saving the King",
+    "overview": "A story of spies and silent pacts, this fascinating docuseries, told in first person by witnesses and experts, exposes how the machinery of the state is keen to protect the former King of Spain, Juan Carlos I, and conceal his scandals.",
+    "year": "2022",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bFkr9zHVYqACkNu60JjIYP8AW7a.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o3C3mOQHCronjtvbEooI1PwV46S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2YdnODqwL5tUkc1ABt2wJRBS6MN.png",
+    "certificate": "16",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "207836",
@@ -4143,68 +4206,5 @@
       "PL"
     ],
     "originalLanguage": "pl"
-  },
-  {
-    "id": "116761",
-    "tmdbId": 116761,
-    "imdbId": "tt10975574",
-    "type": "tv",
-    "title": "Julia",
-    "overview": "Through Julia Child’s life and her singular joie de vivre, the series explores a pivotal time in American history – the emergence of public television as a new social institution, feminism and the women's movement, the nature of celebrity and America's cultural evolution.",
-    "year": "2022",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ebXgoq33gsIC3ULeX53gZKN86No.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ilczgkeb22nEBxTCOEyegetJbue.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/m1YUPzxpIwtRVnVlvO7L560Fdk2.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "157829",
-    "tmdbId": 157829,
-    "imdbId": "tt16304142",
-    "type": "tv",
-    "title": "Hillsong: A Megachurch Exposed",
-    "overview": "Featuring interviews with Hillsong insiders, megachurch experts, and Ranin Karim – the woman whose five-month affair with celebrity senior pastor Carl Lentz led to his downfall – the series explores the high-profile, star-studded church’s alleged exploitation, abuse, and cover-ups.",
-    "year": "2022",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xGcEAKGCjmSKiMLJBn2a5qSpioF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zS9XOWsXQYj0orBLvY7mDk32kry.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gXZR0TD6Qw91u9ByHcFXYrnUoYn.png",
-    "certificate": "12",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "113566",
-    "tmdbId": 113566,
-    "imdbId": "tt11057226",
-    "type": "tv",
-    "title": "DMZ",
-    "overview": "In the near future after a bitter civil war leaves Manhattan a demilitarized zone (DMZ), destroyed and isolated from the rest of the world, fierce medic Alma Ortega sets out on a harrowing journey to find the son she lost in the evacuation of New York City at the onset of the conflict. Standing in her way are gangs, militias, demagogues and warlords, including Parco Delgado, the popular — and deadly — leader of one of the most powerful gangs in the DMZ.",
-    "year": "2022",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wnug9DhsenurS5dWCypjZSRFnH6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fUjATGfykF0EU57DhMDkIXqQlc5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2MQMwcso5hLiHxzl9DtbvzOJJvv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
