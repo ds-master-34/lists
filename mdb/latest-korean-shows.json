@@ -21,6 +21,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "307106",
     "tmdbId": 307106,
     "imdbId": "tt39087958",
@@ -288,27 +309,6 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -7325,48 +7325,6 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Crime",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "203164",
-    "tmdbId": 203164,
-    "imdbId": "tt29225198",
-    "type": "tv",
-    "title": "Strong Girl Nam-soon",
-    "overview": "Gifted with superhuman strength, a young woman returns to Korea to find her birth family — only to be entangled in a drug case that could test her power.",
-    "year": "2023",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rjkHORZvB5bnz7kH1PufFCKsX4I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6gyJwBbgFD0MYap1AFWQKOkve6D.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gJtulJRPQpPgSG5bdG5ybudLnqd.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "223489",
-    "tmdbId": 223489,
-    "imdbId": "tt26626068",
-    "type": "tv",
-    "title": "High Cookie",
-    "overview": "With just one bite, a mysterious homemade cookie turns dreams into reality, but it takes over the elite high school, and deadly consequences await.",
-    "year": "2023",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/maXlHKlAkXc7PoYHvfE035sBUMQ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wJUofdoKLU6UG1zk0P3hJVatQZv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/d4POeSQ62mcr5pQEq9q8zDpCxQ1.png",
-    "certificate": "19",
-    "runTimeMinutes": 31,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
