@@ -3071,6 +3071,27 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "200777",
+    "tmdbId": 200777,
+    "imdbId": "tt25531288",
+    "type": "tv",
+    "title": "The Iceblade Sorcerer Shall Rule the World",
+    "overview": "The Arnold Academy of Magic is a school for the elite...and Ray White is just your ordinary guy. In fact, he doesn't seem particularly skilled with magic at all, and is a bit of a klutz. Which is why he has nothing to do with the rumor that one of the great magicians, the Iceblade Sorcerer, is a member of the incoming class...right?",
+    "year": "2023",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u2KOdIKAr7XsZjbi6Ku8POnAcIu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oL459mgvcnc3jL90K7zkfvXQu0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8OsfCGXIj6dc65ln2Cr567zh2sj.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "18165",
     "tmdbId": 18165,
     "imdbId": "tt1405406",
@@ -3113,6 +3134,27 @@
     "originalLanguage": "th"
   },
   {
+    "id": "46923",
+    "tmdbId": 46923,
+    "imdbId": "tt2396135",
+    "type": "tv",
+    "title": "Shetland",
+    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+    "year": "2013",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t3YeSQyOIrQquSBrEQfeWkAuaM0.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "79792",
     "tmdbId": 79792,
     "imdbId": "tt8467296",
@@ -3130,6 +3172,27 @@
     "secondaryGenre": "",
     "originCountries": [
       "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "254630",
+    "tmdbId": 254630,
+    "imdbId": "tt32375763",
+    "type": "tv",
+    "title": "12 12 12",
+    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -3596,6 +3659,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "335981",
+    "tmdbId": 335981,
+    "imdbId": "tt47021035",
+    "type": "tv",
+    "title": "Cunk on Cinema",
+    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/YC6FrtGixdxrvub3ECPloVuG6q.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fTwv1284ZfYBwpvhk5eFUjoPiMH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 29,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "254514",
     "tmdbId": 254514,
     "imdbId": "tt32374361",
@@ -3804,6 +3888,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "298469",
+    "tmdbId": 298469,
+    "imdbId": "tt36933520",
+    "type": "tv",
+    "title": "99 to Beat",
+    "overview": "100 players compete in unique, funny games. Last-place finishers get eliminated each round. Don't finish last to stay in. Last contestant standing wins $1,000,000.",
+    "year": "2025",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/32wgp1TirfeV0wjQ7Fn0JuZzGKm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3zpScPAgn0Z9ddfxKwvkRasKyf0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kgkqH3f0wH47fD2PWfWE8YHoZfp.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "208569",
@@ -4289,6 +4394,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "65942",
+    "tmdbId": 65942,
+    "imdbId": "tt5607616",
+    "type": "tv",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "year": "2016",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5cfRiR2U7m3DuCTRRwB7LeJYte8.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "243360",
     "tmdbId": 243360,
     "imdbId": "tt27846061",
@@ -4457,6 +4583,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "94664",
+    "tmdbId": 94664,
+    "imdbId": "tt13293588",
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+    "year": "2021",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lDS7WuWrq6i1XC1AaKlf9qvJBVi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pfgndj46RLPVJRWkUSCJBgLJ93w.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8GxsDBWNSH7yMbXMWTq9HtTGORO.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "4608",
@@ -4690,6 +4837,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "124101",
+    "tmdbId": 124101,
+    "imdbId": "tt11815682",
+    "type": "tv",
+    "title": "Hacks",
+    "overview": "Explore a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+    "year": "2021",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bbAR4qKxjnjyKAt4YMrL725Mtfw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Lp4TuZ5nm0plfWPI3jRB7ERCOk.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "387",
     "tmdbId": 387,
     "imdbId": "tt0206512",
@@ -4709,6 +4877,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "311842",
+    "tmdbId": 311842,
+    "imdbId": "tt43119470",
+    "type": "tv",
+    "title": "FX Fighter Kurumi-chan",
+    "overview": "Buy! Sell! Profit...or lose it all! University student Kurumi Fukuga jumps into the fast-moving world of foreign exchange trading to recover the 20 million yen her late mother lost. Together with fellow FX enthusiasts Mochiko, Mebuki, and Yasuko, she’ll battle volatile markets where every decision can lead to fortune—or disaster!",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/deXU3vulNCrUHp4EGPbI91hWBDF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8Obg1bImnamzDmhSaUATI4eKN80.png",
+    "certificate": "",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "202555",
@@ -4732,6 +4921,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "2122",
+    "tmdbId": 2122,
+    "imdbId": "tt0118375",
+    "type": "tv",
+    "title": "King of the Hill",
+    "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+    "year": "1997",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g3brCzb5D9hE7StLiA69rt6pUeW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7vRr20jKrykPlOa8cEeqi12Zyp0.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "239618",
     "tmdbId": 239618,
     "imdbId": "tt30051064",
@@ -4749,6 +4959,27 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "44217",
+    "tmdbId": 44217,
+    "imdbId": "tt2306299",
+    "type": "tv",
+    "title": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "year": "2013",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/g4t8s34ONUnxLm7AfgOI82t4ozu.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
     ],
     "originalLanguage": "en"
   },
@@ -4816,6 +5047,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "312006",
+    "tmdbId": 312006,
+    "imdbId": "tt38681812",
+    "type": "tv",
+    "title": "Anaesthesia",
+    "overview": "After a bold but unsuccessful surgery, a talented doctor swaps a prestigious clinic for a local hospital as he tries to get his life back on track.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lKINFJTnN78ykv91wcIwAwjBmMI.png",
+    "certificate": "R21",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": "pl"
+  },
+  {
     "id": "1705",
     "tmdbId": 1705,
     "imdbId": "tt1119644",
@@ -4875,6 +5127,27 @@
     "secondaryGenre": "Crime",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "42009",
+    "tmdbId": 42009,
+    "imdbId": "tt2085059",
+    "type": "tv",
+    "title": "Black Mirror",
+    "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+    "year": "2011",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   },

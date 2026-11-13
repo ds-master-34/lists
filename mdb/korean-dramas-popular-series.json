@@ -3339,6 +3339,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "112836",
+    "tmdbId": 112836,
+    "imdbId": "tt13696452",
+    "type": "tv",
+    "title": "Money Heist: Korea - Joint Economic Area",
+    "overview": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
+    "year": "2022",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aXU95xI8h3DN1pa6CgYDW5m1p80.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "245079",
     "tmdbId": 245079,
     "imdbId": "tt35378081",
@@ -3440,6 +3461,28 @@
     "secondaryGenre": "",
     "originCountries": [
       "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "223326",
+    "tmdbId": 223326,
+    "imdbId": "tt27368147",
+    "type": "tv",
+    "title": "Tempest",
+    "overview": "Seo Munju, a highly accomplished diplomat and former ambassador to the United Nations, and Sanho, an international special agent shrouded in a veil of secrets, race to uncover the truth behind an attack that threatens the future stability of the Korean peninsula.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cCSOw482P0el3ioDnZEDhggrQoj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wyCQovekJ10HnmqCE3lPNaoGDde.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vV4uwMo7JSu81wAnXd7km4lUHMi.png",
+    "certificate": "15",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR",
+      "US"
     ],
     "originalLanguage": "ko"
   },
@@ -4005,6 +4048,27 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "314784",
+    "tmdbId": 314784,
+    "imdbId": "tt41090249",
+    "type": "tv",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jHWTQk7okdJ2hIhqlKItPwPxxv4.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8266,6 +8330,69 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "43236",
+    "tmdbId": 43236,
+    "imdbId": "tt3340752",
+    "type": "tv",
+    "title": "I Need Romance",
+    "overview": "Revolves around three thirty-something career women and their complicated love lives.",
+    "year": "2011",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qrzOhySHUnOzFOcWcDCSvqOkbVS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h4PXSsvGGHxZ3VYMUTrzuSSdF6B.jpg",
+    "logoUrl": null,
+    "certificate": "18+",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "80959",
+    "tmdbId": 80959,
+    "imdbId": "tt8586046",
+    "type": "tv",
+    "title": "Your Honor",
+    "overview": "Han Soo-Ho and Han Kang-Ho were born as identical twins, but they live totally different lives. Han Soo-Ho works as a judge and he is guided by principles. Han Kang-Ho's extensive criminal record contains 5 different arrests. One day, Han Soo-Ho suddenly disappears. Han Kang-Ho secretly takes his brother's place as a judge. Han Kang-Ho, who was once considered trash, becomes \"Dear Judge\" and highly respected.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lYcz1334alOCTzIB9zJAFLCoSeT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eLArd2GWMBcPvk7Gj8gBO2dWrAx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w0EsjFWo7dbjGiLNnS5zVolUE5Y.png",
+    "certificate": "15",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "34000",
+    "tmdbId": 34000,
+    "imdbId": "tt1807208",
+    "type": "tv",
+    "title": "The Fugitive: Plan B",
+    "overview": "During the Korean War, a vast amount of money disappeared. Now, some 60 years later, the money has reappeared, leading to a frantic chase across the globe.",
+    "year": "2010",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iNqgLydWVqJ7hdVcyLKZb1Azkra.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gR3OKQzxYM4fXhXAa6282KYtILt.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
