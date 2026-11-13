@@ -1,5 +1,47 @@
 [
   {
+    "id": "1772904",
+    "tmdbId": 1772904,
+    "imdbId": "tt42655940",
+    "type": "movie",
+    "title": "Happy Journey",
+    "overview": "A group of seven women across generations set off on a spontaneous European getaway, leaving their everyday lives behind. Amid the chaos, laughter and picturesque landscapes, the journey becomes an unexpected celebration of freedom and friendship.",
+    "year": "2026",
+    "rating": 9.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z5LNU5zbxDDTlhEzhubUXPXgio.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yWAivHCmKgwXzoEmWrtghl5moVB.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
+    "id": "1389379",
+    "tmdbId": 1389379,
+    "imdbId": "tt32324552",
+    "type": "movie",
+    "title": "Ranabaali",
+    "overview": "Set in 19th-century British India, a fierce leader rises from a drought-stricken land to fight colonial oppression and atrocities.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cXaCyYYbafVyMrs8rwKmxezBYPJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/txncnENTxlo8W8Ujn4Br0UV9i2k.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 179,
+    "primaryGenre": "History",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
     "id": "1690876",
     "tmdbId": 1690876,
     "imdbId": "tt41221277",
@@ -6287,7 +6329,7 @@
     "title": "Sarangadhariya",
     "overview": "Krishna's family deals with sons' unemployment, daughter's marriage prospects. A hidden secret emerges, challenging their unity. They navigate this crisis while reflecting societal issues.",
     "year": "2024",
-    "rating": 8.3,
+    "rating": 8.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8KWEOKyewUzA2jCUKirF9XqUO8p.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/bs5JrzKUX2HHyLwL5qs69PihoGd.jpg",
     "logoUrl": null,

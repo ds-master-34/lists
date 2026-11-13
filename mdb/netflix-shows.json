@@ -91,7 +91,7 @@
     "title": "Minimum Wage",
     "overview": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/AeLoyQxyQnw2v5roiFxxvkxAJqQ.png",
@@ -4595,27 +4595,6 @@
     "originalLanguage": "sv"
   },
   {
-    "id": "288935",
-    "tmdbId": 288935,
-    "imdbId": "tt32475225",
-    "type": "tv",
-    "title": "The Feud",
-    "overview": "Neighbours on an idyllic suburban street have a falling-out over one family's plan to build an extension to their house.",
-    "year": "2025",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/n2H3ilYhBb7f9XcmdIoI2t7w9l.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jEqsLaqvjV96sUQ4GCFDyd1TiJu.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "235355",
     "tmdbId": 235355,
     "imdbId": "tt31171500",
@@ -5381,7 +5360,7 @@
     "title": "The Trauma Code: Heroes on Call",
     "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
     "year": "2025",
-    "rating": 8.4,
+    "rating": 8.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oIv4k70HpwFuRf2vD2L1GZZqWpe.png",
@@ -6264,7 +6243,7 @@
     "title": "Mistletoe Murders",
     "overview": "Emily Lane is a good-natured Christmas shop owner with a secret past. When local murders begin to pop up in Fletcher’s Grove, Emily can’t help but to use her unique talents from her past life to help solve murders that affect people in her new life. She crosses paths with Detective Sam Wilner who she starts to make a connection with, until he comes to learn there is more to Emily than meets the eye.",
     "year": "2024",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8W9zyufl0IkIbOQchORIPqOPi69.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nOTLXRPFcjI8fpCebRTfy6TPJZ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6pw3u1e9LNN6iLp9YzG6ehyb0B9.png",
@@ -6318,5 +6297,26 @@
       "PL"
     ],
     "originalLanguage": "pl"
+  },
+  {
+    "id": "272494",
+    "tmdbId": 272494,
+    "imdbId": "tt33506347",
+    "type": "tv",
+    "title": "The Manhattan Alien Abduction",
+    "overview": "A woman claims to have been abducted from her bedroom in Manhattan. This docuseries explores whether it was an elaborate hoax — or proof of alien life.",
+    "year": "2024",
+    "rating": 5.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nzaoEzVNU6nOEigbbZzUXavduuX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/penATy4gVAKlLHN0fnxUKRkAdPb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b5Rp6JoB7BRYozfZPAZN3JscCxF.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]

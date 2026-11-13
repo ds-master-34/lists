@@ -1,5 +1,26 @@
 [
   {
+    "id": "1666787",
+    "tmdbId": 1666787,
+    "imdbId": "tt41593493",
+    "type": "movie",
+    "title": "Avedon",
+    "overview": "Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/foMbscDoteXo61z5MqktNkUvexZ.png",
+    "certificate": "R",
+    "runTimeMinutes": 104,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1570488",
     "tmdbId": 1570488,
     "imdbId": "tt38515310",
@@ -7,7 +28,7 @@
     "title": "A Dog's Perfect Christmas",
     "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
@@ -70,7 +91,7 @@
     "title": "The Birthday​ Gift​",
     "overview": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
     "year": "2026",
-    "rating": 4.9,
+    "rating": 5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/pYyr6Lf3dDt0rAvFgdvZFKahJYz.png",
@@ -343,7 +364,7 @@
     "title": "Funny Money: The Dane Cook Story",
     "overview": "At the height of his career, Dane Cook wasn't just selling out arenas; he was redefining what a stand-up comedian could be. Then, in a shocking betrayal, the person he trusted most stole millions of dollars, forever changing his life. FUNNY MONEY: THE DANECOOK STORY is a gripping documentary about fame, family, greed, and survival, revealing the extraordinary true story behind one of comedy's biggest icons.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/kvLuZbJiJWta9YvEf6ow7f3R3Lx.png",
@@ -492,7 +513,7 @@
     "title": "El Club del Pie Izquierdo",
     "overview": "A forty-year-old office worker of Mexico City, realizes that he has been trapped in a car and a desk for years. He finds a dance academy, enrolls in reggaeton classes with strict teacher Paulina, and finds renewal. Remake of the Japanese film 'Shall We Dance?'",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/v6b6cclN83KM8AM6NLSphumlstO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
     "logoUrl": null,
@@ -913,7 +934,7 @@
     "title": "A Child of My Own",
     "overview": "Desperate for a baby and burdened by family and societal expectations, a woman fakes a pregnancy and gets tangled in a crime.",
     "year": "2026",
-    "rating": 6,
+    "rating": 6.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kH2SrPtJY2GS8V3JuRc4QluNdlK.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/giInkuo6FN06fAmYOt1X7hEOLDU.png",
@@ -4190,26 +4211,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1386792",
-    "tmdbId": 1386792,
-    "imdbId": "tt34433451",
-    "type": "movie",
-    "title": "Lefter: The Story of the Ordinarius",
-    "overview": "A football prodigy rises to fame, battling prejudice and inner turmoil on his quest for greatness. Based on the life of Turkish legend, Lefter.",
-    "year": "2025",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8ECv9LSLwRnisxoTAmCZBBl8E6k.jpg",
-    "logoUrl": null,
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "TR"
-    ],
-    "originalLanguage": "tr"
   }
 ]
