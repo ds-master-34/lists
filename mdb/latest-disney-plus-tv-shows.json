@@ -506,6 +506,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "255522",
+    "tmdbId": 255522,
+    "imdbId": "tt32474482",
+    "type": "tv",
+    "title": "If It's Tuesday, It's Murder",
+    "overview": "A diverse group of tourists on an organized trip to Lisbon find themselves investigating a murder after one of them is killed on the first morning.",
+    "year": "2026",
+    "rating": 7.529,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/abWa2F4O0WNAh6xVVwWID7BIDd1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nbTPbquvZHJpL5WM5mF2ArRYBEc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/le6cE71FenbMBdYu4AthQPc5Ht5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "218274",
     "tmdbId": 218274,
     "imdbId": "tt26351133",
@@ -4183,27 +4204,6 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135615",
-    "tmdbId": 135615,
-    "imdbId": "tt15552018",
-    "type": "tv",
-    "title": "American Born Chinese",
-    "overview": "Average teenager Jin Wang juggles his high school social life with his immigrant home life. When he meets a new foreign student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cwTYt6DKuMY6RSmQ269fpYH9ELN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n5StTpznGP2zuagcZlQ3qUWZsrX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/d8J0ASaxu2kpqrofDHdp5PMFarv.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
