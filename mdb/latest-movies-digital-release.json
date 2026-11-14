@@ -175,7 +175,7 @@
     "title": "Beware Boiúna",
     "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
     "year": "2026",
-    "rating": 5.7,
+    "rating": 5.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/tXwK1k2mQNQWFoliXDXoUhzT55m.png",
@@ -2759,6 +2759,27 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1422138",
+    "tmdbId": 1422138,
+    "imdbId": "tt32261856",
+    "type": "movie",
+    "title": "She's the He!",
+    "overview": "To protect their reputations before graduation, two friends pretend to be trans women—only for a comedic stunt to turn into a profound journey of self-discovery when one of them realizes her truth.",
+    "year": "2026",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4pfjoDOoRfJHsK6AwfqUQ6gdauo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sJzinZsksOJpEWVOsT6p7HZYf67.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iKoTOfnkcqIrucZEwUJy6fsAV9s.png",
+    "certificate": "NR",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],

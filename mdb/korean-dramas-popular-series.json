@@ -91,7 +91,7 @@
     "title": "Love in Disguise",
     "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
     "year": "2026",
-    "rating": 7.9,
+    "rating": 8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
@@ -154,7 +154,7 @@
     "title": "Make Me Tingle",
     "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
     "year": "2026",
-    "rating": 8.1,
+    "rating": 8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
@@ -238,7 +238,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -616,7 +616,7 @@
     "title": "Between Steps",
     "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
@@ -3346,7 +3346,7 @@
     "title": "Dive into You",
     "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/63LIvsishvTM8Zves4LrC0NQenk.png",
@@ -3907,6 +3907,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "229915",
+    "tmdbId": 229915,
+    "imdbId": "tt29899652",
+    "type": "tv",
+    "title": "Night Has Come",
+    "overview": "Trapped in a deadly cursed Mafia game, the students of Yoo-il High must play the game to survive while unraveling the mysteries behind the curse.",
+    "year": "2023",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ah8TT3algh20oiQUWUgxbqX35bn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/w5ICY18bp2i8vvXeHYL2jkuSvoD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gJLKUo5y7N4MGuASLLCAG3GuVVN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "301412",
     "tmdbId": 301412,
     "imdbId": "tt39028251",
@@ -3977,7 +3998,7 @@
     "title": "Cashero",
     "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
     "year": "2025",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
@@ -4579,6 +4600,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "310800",
+    "tmdbId": 310800,
+    "imdbId": "tt39303992",
+    "type": "tv",
+    "title": "Siren's Kiss",
+    "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dWSR0GpWsgnLZCEe6bGZZIzw8YP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3Z8kcFjYf2eSz89QrihhnXv36jl.png",
+    "certificate": "15+",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "254389",
     "tmdbId": 254389,
     "imdbId": "tt36455912",
@@ -4972,6 +5014,27 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "280946",
+    "tmdbId": 280946,
+    "imdbId": "tt36856846",
+    "type": "tv",
+    "title": "Typhoon Family",
+    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o7CPRoPXTogJuiz7UcPHYzNpXC9.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8328,27 +8391,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/ux3Shia6giSfctKB0Fw1EabUV2X.png",
     "certificate": "15",
     "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "12539",
-    "tmdbId": 12539,
-    "imdbId": "tt0395057",
-    "type": "tv",
-    "title": "Winter Sonata",
-    "overview": "A woman, who is about to marry her longtime lover, encounters a man who looks just like her first love.",
-    "year": "2002",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ndfE3cCEeNVzEW7gVacQOlq31TM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zREcbBw8AqpJTyPsqvMECuThcXc.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
