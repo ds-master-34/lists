@@ -1,23 +1,22 @@
 [
   {
-    "id": "1153576",
-    "tmdbId": 1153576,
-    "imdbId": "tt27419420",
+    "id": "1772726",
+    "tmdbId": 1772726,
+    "imdbId": "tt46082332",
     "type": "movie",
-    "title": "Street Fighter",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+    "title": "Confession",
+    "overview": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
     "year": "2026",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qoyIWgvedhBFmoRFSoCPIFF3as8.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 120,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Fantasy",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kPId5qdaCPVOSeZYHaYXFYQmEFy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kLs8iYrujY0IhTSag1wkiiAFpKl.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
-      "US",
-      "JP"
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -1393,28 +1392,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1514682",
-    "tmdbId": 1514682,
-    "imdbId": "tt37603783",
-    "type": "movie",
-    "title": "Above & Below",
-    "overview": "A group of friends' dream diving vacation turns into a fight for survival when brutal criminals attack their boat in open waters.",
-    "year": "2026",
-    "rating": 4.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/j5f6yg5SdxdKGqqdrGf7qLFxv1H.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US",
-      "ES"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1108427",
     "tmdbId": 1108427,
     "imdbId": "tt27419466",
@@ -1731,27 +1708,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1462861",
-    "tmdbId": 1462861,
-    "imdbId": "tt22406048",
-    "type": "movie",
-    "title": "Spider Island",
-    "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
-    "year": "2026",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4pI6OChyJlCpXcUKOpEosSMz6dw.png",
-    "certificate": "NR",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Horror",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "860508",
     "tmdbId": 860508,
     "imdbId": "tt11561116",
@@ -1790,6 +1746,27 @@
     "secondaryGenre": "Action",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1462861",
+    "tmdbId": 1462861,
+    "imdbId": "tt22406048",
+    "type": "movie",
+    "title": "Spider Island",
+    "overview": "A group of social media influencers go to the launch of a new hotel on a tropical island, where they find deadly spiders.",
+    "year": "2026",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gZt1KXQRawEg3CTqzTamXYkniT4.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4pI6OChyJlCpXcUKOpEosSMz6dw.png",
+    "certificate": "NR",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Horror",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   },
@@ -1874,6 +1851,28 @@
     "secondaryGenre": "Horror",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1514682",
+    "tmdbId": 1514682,
+    "imdbId": "tt37603783",
+    "type": "movie",
+    "title": "Above & Below",
+    "overview": "A group of friends' dream diving vacation turns into a fight for survival when brutal criminals attack their boat in open waters.",
+    "year": "2026",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/j5f6yg5SdxdKGqqdrGf7qLFxv1H.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US",
+      "ES"
     ],
     "originalLanguage": "en"
   },
@@ -2781,48 +2780,6 @@
     "runTimeMinutes": 109,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1422138",
-    "tmdbId": 1422138,
-    "imdbId": "tt32261856",
-    "type": "movie",
-    "title": "She's the He!",
-    "overview": "To protect their reputations before graduation, two friends pretend to be trans women—only for a comedic stunt to turn into a profound journey of self-discovery when one of them realizes her truth.",
-    "year": "2026",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4pfjoDOoRfJHsK6AwfqUQ6gdauo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sJzinZsksOJpEWVOsT6p7HZYf67.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iKoTOfnkcqIrucZEwUJy6fsAV9s.png",
-    "certificate": "NR",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1431804",
-    "tmdbId": 1431804,
-    "imdbId": "tt33219707",
-    "type": "movie",
-    "title": "40 Dates and 40 Nights",
-    "overview": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
-    "year": "2026",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uU9Eipwra99WXreysMgYGIo9B4w.png",
-    "certificate": "16",
-    "runTimeMinutes": 101,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
     "originCountries": [
       "US"
     ],

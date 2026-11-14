@@ -1,5 +1,26 @@
 [
   {
+    "id": "291507",
+    "tmdbId": 291507,
+    "imdbId": "tt8014982",
+    "type": "tv",
+    "title": "The Body",
+    "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c7PCh5wDlXODksBXElQHiotV9M5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "303044",
     "tmdbId": 303044,
     "imdbId": "tt39943756",
@@ -127,27 +148,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "300755",
-    "tmdbId": 300755,
-    "imdbId": "tt36832423",
-    "type": "tv",
-    "title": "The Traitor Within",
-    "overview": "The series follows the young and ambitious Henry Rinnan, and how his personal demons and narcissistic need for recognition drove him from a failed salesman to Norway’s most notorious traitor.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6uFaEHVmoP88w0RxIOYAjWq2A7W.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/MPr8r8gdkoVDR9rQf57VORhfMQ.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "NO"
-    ],
-    "originalLanguage": "no"
-  },
-  {
     "id": "336240",
     "tmdbId": 336240,
     "imdbId": "tt42767924",
@@ -185,6 +185,28 @@
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
     "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "338689",
+    "tmdbId": 338689,
+    "imdbId": "tt49250618",
+    "type": "tv",
+    "title": "The Fall of El Mayo",
+    "overview": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1beQmgltEXGALQj5gxJQspTP1GL.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "MX",
       "US"
     ],
     "originalLanguage": "en"
@@ -2003,27 +2025,6 @@
     "originalLanguage": "es"
   },
   {
-    "id": "330540",
-    "tmdbId": 330540,
-    "imdbId": "tt38876221",
-    "type": "tv",
-    "title": "Dalliance",
-    "overview": "Billy, a former cameraman, encounters Dani on a Sydney Harbour ferry as their different worlds intersect.",
-    "year": "2026",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8Ye9jv4Ibo5xK6GgWihsec8M94A.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zZvkrkfeAhgtBJCSDSKbTAsAx4V.png",
-    "certificate": "14",
-    "runTimeMinutes": 48,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AU"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "275224",
     "tmdbId": 275224,
     "imdbId": "tt39278978",
@@ -2508,27 +2509,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "316657",
-    "tmdbId": 316657,
-    "imdbId": "tt42344158",
-    "type": "tv",
-    "title": "Paris is Always a Good Idea",
-    "overview": "Career-driven nonprofit executive Chelsea Martin travels to Paris with her confident rival-turned-ally, Jason Knightly to secure a major donation but a heartfelt message from her late mother – and a loving push from her sister Annabelle – sends her on an unexpected journey to reconnect with the three great loves she once left behind. From the rolling hills of Ireland to the magic of Paris and the sun-kissed vineyards of Spain, Chelsea retraces old footsteps and discovers that sometimes moving forward means first looking back.",
-    "year": "2026",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7ojPrmpoUUdD8XotcKwEWdb9rJv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vsevYkSAXBvlSue8N8fQ3btjcsn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/h2Tqcw7P3WLVmUIMGr5yN60dfck.png",
-    "certificate": "",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "328804",
     "tmdbId": 328804,
     "imdbId": "tt38683025",
@@ -2905,6 +2885,27 @@
       "SE"
     ],
     "originalLanguage": "sv"
+  },
+  {
+    "id": "325549",
+    "tmdbId": 325549,
+    "imdbId": "tt38689352",
+    "type": "tv",
+    "title": "The F Ward",
+    "overview": "Failed medical interns get their last shot at Sydney’s underfunded Pines Hospital, where they battle to overcome personal shortcomings and past mistakes in the hope of finally becoming doctors.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7OGSrmR4U1cRwj9rNYVac8qVg5C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jldm5aI2QHjDXAuDVoGw1TCVAqt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Aae0cHQNX4RZ33swzpAtA5zPrHx.png",
+    "certificate": "MA 15+",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "241882",

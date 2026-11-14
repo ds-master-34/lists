@@ -126,6 +126,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "308767",
+    "tmdbId": 308767,
+    "imdbId": "tt39086382",
+    "type": "tv",
+    "title": "Handsome Devil: Charming Killer",
+    "overview": "A three-part docuseries that unravels how Wade Wilson — a 25-year-old Florida man arrested for the brutal murders of two women — unexpectedly became a social media fixation.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eMYeeDy7xj22JnatwxVT8wHTujI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/efnSVhQpy5f13J7FroqKPLLDW77.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gQ3aMSNwUWZZMyv9PxOOKBaSKuh.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "223530",
     "tmdbId": 223530,
     "imdbId": "tt8622160",
@@ -4186,27 +4207,6 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "8379",
-    "tmdbId": 8379,
-    "imdbId": "tt0233041",
-    "type": "tv",
-    "title": "Clifford the Big Red Dog",
-    "overview": "The adventures of a larger-than-life red dog on Bridwell Island.",
-    "year": "2000",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8HG3AvWACybWOvQfJycuQem6B3a.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4XKhVE10MOao7dieT4QP34vKk9K.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hzrDY7nk7WMK3zwt14DGgZbetst.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 15,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Kids",
     "originCountries": [
       "US"
     ],

@@ -3277,6 +3277,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "214997",
+    "tmdbId": 214997,
+    "imdbId": "tt27075857",
+    "type": "tv",
+    "title": "Doctor Cha",
+    "overview": "Twenty years after leaving her medical career, a housewife returns as a first-year resident — struggling to find her footing in a job full of surprises.",
+    "year": "2023",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qgQQeiy2zyfla5y2yiZJGGU4y1I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Asd9Mi9pC2B5UQp2pLplzhbd0bB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/v2hxn6OtPzGg8162OAVyPiFxPua.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "202783",
     "tmdbId": 202783,
     "imdbId": "tt28642796",
@@ -3628,27 +3649,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "214997",
-    "tmdbId": 214997,
-    "imdbId": "tt27075857",
-    "type": "tv",
-    "title": "Doctor Cha",
-    "overview": "Twenty years after leaving her medical career, a housewife returns as a first-year resident — struggling to find her footing in a job full of surprises.",
-    "year": "2023",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qgQQeiy2zyfla5y2yiZJGGU4y1I.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Asd9Mi9pC2B5UQp2pLplzhbd0bB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/v2hxn6OtPzGg8162OAVyPiFxPua.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4748,6 +4748,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "32226",
     "tmdbId": 32226,
     "imdbId": "tt1666217",
@@ -4826,6 +4847,27 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "236956",
+    "tmdbId": 236956,
+    "imdbId": "tt30143510",
+    "type": "tv",
+    "title": "Love In The Big City",
+    "overview": "A young gay man and his spirited roommate help each other navigate love, mortality and sexuality in the bustling city of Seoul.",
+    "year": "2024",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yvcZz6J1VyFqg8cboktxZDGdOsI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jApq3WfRvpbUtxsSlHyCANSg5c6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/79shruacC7V40g6jsuEUoNKX5I4.png",
+    "certificate": "19",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4994,27 +5036,6 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "236956",
-    "tmdbId": 236956,
-    "imdbId": "tt30143510",
-    "type": "tv",
-    "title": "Love In The Big City",
-    "overview": "A young gay man and his spirited roommate help each other navigate love, mortality and sexuality in the bustling city of Seoul.",
-    "year": "2024",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yvcZz6J1VyFqg8cboktxZDGdOsI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jApq3WfRvpbUtxsSlHyCANSg5c6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/79shruacC7V40g6jsuEUoNKX5I4.png",
-    "certificate": "19",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -5330,27 +5351,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -5798,6 +5798,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "45579",
     "tmdbId": 45579,
     "imdbId": "tt3143378",
@@ -5966,27 +5987,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "95484",
-    "tmdbId": 95484,
-    "imdbId": "tt11378124",
-    "type": "tv",
-    "title": "Stove League",
-    "overview": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
-    "year": "2019",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6C69xR1hMM66pZmlEAKeIDXpssh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3sfdTRELhR64w2eueRJagITO609.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "90706",
     "tmdbId": 90706,
     "imdbId": "tt10544464",
@@ -6029,6 +6029,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "292121",
+    "tmdbId": 292121,
+    "imdbId": "tt39245629",
+    "type": "tv",
+    "title": "The Scarecrow",
+    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "310800",
     "tmdbId": 310800,
     "imdbId": "tt39303992",
@@ -6044,6 +6086,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "95484",
+    "tmdbId": 95484,
+    "imdbId": "tt11378124",
+    "type": "tv",
+    "title": "Stove League",
+    "overview": "Se Young is the youngest head of the management team of Dreams, a cellar-dwelling baseball team. She's highly recognized for her perseverance and intense passion for the team. One day, Seung Su is appointed as a general manager. Although he's been working in the sports field, the teams he led to the championship were unpopular, and some of them were even disbanded after winning the league due to the financial difficulties of their parent companies. Would this unlucky new general manager be able to steer Dreams to the championship with passionate Se Young?",
+    "year": "2019",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6C69xR1hMM66pZmlEAKeIDXpssh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gpUlQGB8ptBKgKa2c59QTiqTy3l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3sfdTRELhR64w2eueRJagITO609.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -6155,42 +6218,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
+    "id": "89410",
+    "tmdbId": 89410,
+    "imdbId": "tt10253244",
     "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
+    "title": "Search: WWW",
+    "overview": "The stories of ambitious career women working at the top of the best portal sites in the IT industry. Paved with wins and losses, their road to success takes a new turn when love comes along the way.",
+    "year": "2019",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pJWBoZjY5kUivY47KWxiaJ08bvs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bEsFJEgOrKj4Na2YuESu7iI0CDO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/m61dQSiQYfSCk5XzvHJDxRVWct8.png",
+    "certificate": "NR",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -6386,27 +6428,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "89410",
-    "tmdbId": 89410,
-    "imdbId": "tt10253244",
-    "type": "tv",
-    "title": "Search: WWW",
-    "overview": "The stories of ambitious career women working at the top of the best portal sites in the IT industry. Paved with wins and losses, their road to success takes a new turn when love comes along the way.",
-    "year": "2019",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pJWBoZjY5kUivY47KWxiaJ08bvs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bEsFJEgOrKj4Na2YuESu7iI0CDO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/m61dQSiQYfSCk5XzvHJDxRVWct8.png",
-    "certificate": "NR",
-    "runTimeMinutes": 85,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "57647",
     "tmdbId": 57647,
     "imdbId": "tt3184708",
@@ -6422,6 +6443,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "122978",
+    "tmdbId": 122978,
+    "imdbId": "tt14518610",
+    "type": "tv",
+    "title": "So I Married an Anti-Fan",
+    "overview": "The romance between top star Hoo Joon and his anti-fan reporter Lee Geun-young who end up living together.",
+    "year": "2021",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ySGIdaRkck2TRN6gBDqe7cDX0Jl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dJJ8yPGJ9HtMReHbAz0ri9p6Kxf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vaaReU0e9jIWmx0UYpOGTOc9Eh1.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6464,6 +6506,27 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Crime",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "314784",
+    "tmdbId": 314784,
+    "imdbId": "tt41090249",
+    "type": "tv",
+    "title": "Absolute Value of Romance",
+    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jHWTQk7okdJ2hIhqlKItPwPxxv4.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 39,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -6653,48 +6716,6 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293607",
-    "tmdbId": 293607,
-    "imdbId": "tt39201866",
-    "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "year": "2026",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "314784",
-    "tmdbId": 314784,
-    "imdbId": "tt41090249",
-    "type": "tv",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jHWTQk7okdJ2hIhqlKItPwPxxv4.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -7730,6 +7751,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215000",
+    "tmdbId": 215000,
+    "imdbId": "tt32380398",
+    "type": "tv",
+    "title": "My Sweet Mobster",
+    "overview": "Once a convict, Ji-hwan is now a successful, albeit overly cautious CEO, who has yet to experience any of life’s more enjoyable pleasures: namely falling in love. But all that changes when fate brings beloved children’s content creator Eun-ha into his life. The unlikely pair find love most unexpectedly but Eun-ha’s longtime fan, Prosecutor Hyun-woo isn’t ready to let her go without a fight.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zlSvVgzBcVPx7cus93c3Amdb4py.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jLDPdyYbwjCGv54yNT3KPS3TkQk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/trNMy9YHnOpvBxBtmpBbSpZURip.png",
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "271309",
     "tmdbId": 271309,
     "imdbId": "tt33398245",
@@ -7892,27 +7934,6 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "215000",
-    "tmdbId": 215000,
-    "imdbId": "tt32380398",
-    "type": "tv",
-    "title": "My Sweet Mobster",
-    "overview": "Once a convict, Ji-hwan is now a successful, albeit overly cautious CEO, who has yet to experience any of life’s more enjoyable pleasures: namely falling in love. But all that changes when fate brings beloved children’s content creator Eun-ha into his life. The unlikely pair find love most unexpectedly but Eun-ha’s longtime fan, Prosecutor Hyun-woo isn’t ready to let her go without a fight.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zlSvVgzBcVPx7cus93c3Amdb4py.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jLDPdyYbwjCGv54yNT3KPS3TkQk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/trNMy9YHnOpvBxBtmpBbSpZURip.png",
-    "certificate": "15",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8375,27 +8396,6 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "310024",
-    "tmdbId": 310024,
-    "imdbId": "tt39306333",
-    "type": "tv",
-    "title": "Bloody Flower",
-    "overview": "A former medical school dropout claiming to be able to cure terminal illnesses is sentenced to death for the murder of 17 people. Is he a monstrous killer, or a savior holding the cure for humanity?",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bDoAdJLEAiCRj8B0QRAz2wt2xfv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5T4ij5RgI7y5UHNgI2scH8BU5J9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/b46Q9NUHdLX2Iz4Y9Anky7ZZ6F5.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
