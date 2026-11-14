@@ -738,27 +738,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1490214",
-    "tmdbId": 1490214,
-    "imdbId": "tt37818327",
-    "type": "movie",
-    "title": "The Sun Never Sets",
-    "overview": "While on an unexpected break from her older, divorced boyfriend, a woman runs into her ex-partner, plunging her into a volatile love triangle that threatens to undo her life.",
-    "year": "2026",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ckDLzhqHG40CoNUwQWrAvzCYRIe.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jEm9vSmY3pyZf2dClWIpKuNXIzR.png",
-    "certificate": "R",
-    "runTimeMinutes": 103,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1514026",
     "tmdbId": 1514026,
     "imdbId": "tt37281055",
