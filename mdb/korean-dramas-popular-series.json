@@ -441,27 +441,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "94796",
-    "tmdbId": 94796,
-    "imdbId": "tt10850932",
-    "type": "tv",
-    "title": "Crash Landing on You",
-    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
-    "year": "2019",
-    "rating": 8.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eOSHzaCE8Of4mIHsueUM9dIJXnJ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 113,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "117378",
     "tmdbId": 117378,
     "imdbId": "tt13634792",
@@ -477,6 +456,27 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "94796",
+    "tmdbId": 94796,
+    "imdbId": "tt10850932",
+    "type": "tv",
+    "title": "Crash Landing on You",
+    "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+    "year": "2019",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eOSHzaCE8Of4mIHsueUM9dIJXnJ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2016,6 +2016,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "84464",
+    "tmdbId": 84464,
+    "imdbId": "tt9165992",
+    "type": "tv",
+    "title": "My Strange Hero",
+    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
+    "certificate": "15",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "235577",
     "tmdbId": 235577,
     "imdbId": "tt33255143",
@@ -2079,6 +2100,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "296140",
+    "tmdbId": 296140,
+    "imdbId": "tt43648966",
+    "type": "tv",
+    "title": "My Bias, My Boss",
+    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xnM5yIYu7bszVLwOSJDodZyCEx9.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "68398",
     "tmdbId": 68398,
     "imdbId": "tt6157190",
@@ -2115,27 +2157,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "296140",
-    "tmdbId": 296140,
-    "imdbId": "tt43648966",
-    "type": "tv",
-    "title": "My Bias, My Boss",
-    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xnM5yIYu7bszVLwOSJDodZyCEx9.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -2415,6 +2436,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "196474",
+    "tmdbId": 196474,
+    "imdbId": "tt21627438",
+    "type": "tv",
+    "title": "A Time Called You",
+    "overview": "A grieving woman magically travels through time to 1998, where she meets a man with an uncanny resemblance to her late love.",
+    "year": "2023",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVJ1ffJnYC8bxakKJjieMlX2os.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "99489",
     "tmdbId": 99489,
     "imdbId": "tt13067118",
@@ -2472,6 +2514,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "253905",
+    "tmdbId": 253905,
+    "imdbId": "tt33503491",
+    "type": "tv",
+    "title": "When the Phone Rings",
+    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
+    "year": "2024",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -2856,27 +2919,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "253905",
-    "tmdbId": 253905,
-    "imdbId": "tt33503491",
-    "type": "tv",
-    "title": "When the Phone Rings",
-    "overview": "A rising politician and his mute wife's tense marriage begins to unravel after a call from a kidnapper turns their lives upside down.",
-    "year": "2024",
-    "rating": 6.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/glWP5Y7CVeqrOjJpLckQjuLFjQJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/goAnU5Xe770Jct6twkmS4HEG7ZM.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "212957",
     "tmdbId": 212957,
     "imdbId": "tt36808372",
@@ -2892,27 +2934,6 @@
     "runTimeMinutes": 28,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "84464",
-    "tmdbId": 84464,
-    "imdbId": "tt9165992",
-    "type": "tv",
-    "title": "My Strange Hero",
-    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
-    "year": "2018",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
-    "certificate": "15",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3423,27 +3444,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "223212",
-    "tmdbId": 223212,
-    "imdbId": "tt26693681",
-    "type": "tv",
-    "title": "The Impossible Heir",
-    "overview": "An ambitious boy grows up and joins an intense war of desires to become a star of his own.",
-    "year": "2024",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ksIQrUoJERXBnVcxAxkMQDpzx3l.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sXT9JVUznUwwVy3LsYeD4kCwGgv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/efuoQMiEsqWSL3AuxRSRVzRNfCb.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "223326",
     "tmdbId": 223326,
     "imdbId": "tt27368147",
@@ -3479,27 +3479,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/7BfJ3p5JnvwC6QA6lHtKRX437M9.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "196474",
-    "tmdbId": 196474,
-    "imdbId": "tt21627438",
-    "type": "tv",
-    "title": "A Time Called You",
-    "overview": "A grieving woman magically travels through time to 1998, where she meets a man with an uncanny resemblance to her late love.",
-    "year": "2023",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/b5Rmy2xJekCNY7raZEjpYPyhf6h.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVJ1ffJnYC8bxakKJjieMlX2os.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -3586,6 +3565,27 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "131305",
+    "tmdbId": 131305,
+    "imdbId": "tt26315488",
+    "type": "tv",
+    "title": "Celebrity",
+    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
+    "year": "2023",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a4bWzz41C0khqh60VXOmygbwPzu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kzv4cgjegGZr259zHm00jrCTEkw.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -4390,27 +4390,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "155229",
-    "tmdbId": 155229,
-    "imdbId": "tt22789182",
-    "type": "tv",
-    "title": "Cheer Up",
-    "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
-    "year": "2022",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/agyQFkNKBExKYiIealedXNDIDqn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9BAQpOmx71EWDLbuCAHBc2KSkmf.png",
-    "certificate": "12",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "97970",
     "tmdbId": 97970,
     "imdbId": "tt14518692",
@@ -4615,27 +4594,6 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "131305",
-    "tmdbId": 131305,
-    "imdbId": "tt26315488",
-    "type": "tv",
-    "title": "Celebrity",
-    "overview": "Fame. Money. Power. One young woman fights to become the next hottest celebrity in the glamorous yet scandalous world of influencers in Seoul.",
-    "year": "2023",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a4bWzz41C0khqh60VXOmygbwPzu.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ggOukDTllje9G36qKuXJtzMcRRT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kzv4cgjegGZr259zHm00jrCTEkw.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
