@@ -294,21 +294,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "257445",
-    "tmdbId": 257445,
-    "imdbId": "tt1051904",
+    "id": "771",
+    "tmdbId": 771,
+    "imdbId": "tt0099785",
     "type": "movie",
-    "title": "Goosebumps",
-    "overview": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
-    "year": "2015",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6mPe4rBHzDMal2oL6hVgOBkaHz9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3ackLzxS8qDTrmwhwyJWvM11Ahc.png",
-    "certificate": "PG",
+    "title": "Home Alone",
+    "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "year": "1990",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iBtfiGQXX1p52i2jzsYixKxZEyF.png",
+    "certificate": "U",
     "runTimeMinutes": 103,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Horror",
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -519,6 +519,27 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "118",
+    "tmdbId": 118,
+    "imdbId": "tt0367594",
+    "type": "movie",
+    "title": "Charlie and the Chocolate Factory",
+    "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "year": "2005",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9ETqOsFfQqNclxBZ6Aa4htI9eV6.png",
+    "certificate": "PG",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -772,27 +793,6 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "771",
-    "tmdbId": 771,
-    "imdbId": "tt0099785",
-    "type": "movie",
-    "title": "Home Alone",
-    "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
-    "year": "1990",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iBtfiGQXX1p52i2jzsYixKxZEyF.png",
-    "certificate": "U",
-    "runTimeMinutes": 103,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -1156,27 +1156,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "118",
-    "tmdbId": 118,
-    "imdbId": "tt0367594",
-    "type": "movie",
-    "title": "Charlie and the Chocolate Factory",
-    "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
-    "year": "2005",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9ETqOsFfQqNclxBZ6Aa4htI9eV6.png",
-    "certificate": "PG",
-    "runTimeMinutes": 115,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "34204",
     "tmdbId": 34204,
     "imdbId": "tt0816520",
@@ -1240,6 +1219,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "9806",
+    "tmdbId": 9806,
+    "imdbId": "tt0317705",
+    "type": "movie",
+    "title": "The Incredibles",
+    "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+    "year": "2004",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
+    "certificate": "PG",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "12",
     "tmdbId": 12,
     "imdbId": "tt0266543",
@@ -1275,6 +1275,27 @@
     "certificate": "PG",
     "runTimeMinutes": 95,
     "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "772",
+    "tmdbId": 772,
+    "imdbId": "tt0104431",
+    "type": "movie",
+    "title": "Home Alone 2: Lost in New York",
+    "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+    "year": "1992",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9AlbXXx5wmHdQRv6hPT1antQhy1.png",
+    "certificate": "PG",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
     "originCountries": [
       "US"
@@ -1422,27 +1443,6 @@
     "certificate": "PG",
     "runTimeMinutes": 98,
     "primaryGenre": "Fantasy",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "9806",
-    "tmdbId": 9806,
-    "imdbId": "tt0317705",
-    "type": "movie",
-    "title": "The Incredibles",
-    "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-    "year": "2004",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
-    "certificate": "PG",
-    "runTimeMinutes": 115,
-    "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
@@ -2438,6 +2438,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "967941",
+    "tmdbId": 967941,
+    "imdbId": "tt19847976",
+    "type": "movie",
+    "title": "Wicked: For Good",
+    "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba must unite one last time with honesty and empathy to fulfill their shared destiny and change the fate of Oz forever.",
+    "year": "2025",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hwzODCshSo2CrbejoK3PoeiPfk.png",
+    "certificate": "PG",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "38757",
     "tmdbId": 38757,
     "imdbId": "tt0398286",
@@ -2474,6 +2495,27 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1151039",
+    "tmdbId": 1151039,
+    "imdbId": "tt28309594",
+    "type": "movie",
+    "title": "Nonnas",
+    "overview": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas — grandmothers — as the chefs.",
+    "year": "2025",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png",
+    "certificate": "PG",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -2711,27 +2753,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "967941",
-    "tmdbId": 967941,
-    "imdbId": "tt19847976",
-    "type": "movie",
-    "title": "Wicked: For Good",
-    "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba must unite one last time with honesty and empathy to fulfill their shared destiny and change the fate of Oz forever.",
-    "year": "2025",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hwzODCshSo2CrbejoK3PoeiPfk.png",
-    "certificate": "PG",
-    "runTimeMinutes": 137,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "9016",
     "tmdbId": 9016,
     "imdbId": "tt0133240",
@@ -2795,42 +2816,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "772",
-    "tmdbId": 772,
-    "imdbId": "tt0104431",
+    "id": "1011477",
+    "tmdbId": 1011477,
+    "imdbId": "tt1674782",
     "type": "movie",
-    "title": "Home Alone 2: Lost in New York",
-    "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
-    "year": "1992",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9AlbXXx5wmHdQRv6hPT1antQhy1.png",
-    "certificate": "PG",
-    "runTimeMinutes": 120,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "33217",
-    "tmdbId": 33217,
-    "imdbId": "tt1196141",
-    "type": "movie",
-    "title": "Diary of a Wimpy Kid",
-    "overview": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
-    "year": "2010",
+    "title": "Karate Kid: Legends",
+    "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+    "year": "2025",
     "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iLAGiPnSuODt9cn332bkFElrRig.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hCjoIDVSxR2j1qEXKso385v9JgS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rvIPOWt87wJMn0WEXf5t8bWjccd.png",
-    "certificate": "PG",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Family",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vx9D7Onnt6tPs9PneVZqOHOJXBE.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -2957,27 +2957,6 @@
     "runTimeMinutes": 118,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "15512",
-    "tmdbId": 15512,
-    "imdbId": "tt0892782",
-    "type": "movie",
-    "title": "Monsters vs Aliens",
-    "overview": "When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...",
-    "year": "2009",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bFFhGw5wmUiCkz1T5PzYugnGV37.png",
-    "certificate": "PG",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -3217,27 +3196,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1151039",
-    "tmdbId": 1151039,
-    "imdbId": "tt28309594",
-    "type": "movie",
-    "title": "Nonnas",
-    "overview": "After losing his beloved mother, a man risks everything to honor her by opening an Italian restaurant with actual nonnas — grandmothers — as the chefs.",
-    "year": "2025",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5Bf1xlxLuCHdi74MpdFi2Yz3FGJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gfe8onl8FhaJg4C47Kecj7CdNvf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rN6HA9a4oUpy4HKgnOHqaO751Kd.png",
-    "certificate": "PG",
-    "runTimeMinutes": 112,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "10054",
     "tmdbId": 10054,
     "imdbId": "tt0227538",
@@ -3294,6 +3252,27 @@
     "certificate": "PG",
     "runTimeMinutes": 87,
     "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9354",
+    "tmdbId": 9354,
+    "imdbId": "tt0097523",
+    "type": "movie",
+    "title": "Honey, I Shrunk the Kids",
+    "overview": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+    "year": "1989",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jQuP23kN9iEBglGpw4AxRagoqBf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zGJ1bp0w4yLZHKi03MgvxHTrPao.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
@@ -3358,6 +3337,27 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "257445",
+    "tmdbId": 257445,
+    "imdbId": "tt1051904",
+    "type": "movie",
+    "title": "Goosebumps",
+    "overview": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
+    "year": "2015",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6mPe4rBHzDMal2oL6hVgOBkaHz9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3ackLzxS8qDTrmwhwyJWvM11Ahc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Horror",
     "originCountries": [
       "US"
     ],
@@ -3694,27 +3694,6 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "9354",
-    "tmdbId": 9354,
-    "imdbId": "tt0097523",
-    "type": "movie",
-    "title": "Honey, I Shrunk the Kids",
-    "overview": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
-    "year": "1989",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jQuP23kN9iEBglGpw4AxRagoqBf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zGJ1bp0w4yLZHKi03MgvxHTrPao.png",
-    "certificate": "PG",
-    "runTimeMinutes": 93,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -4198,6 +4177,27 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9325",
+    "tmdbId": 9325,
+    "imdbId": "tt0061852",
+    "type": "movie",
+    "title": "The Jungle Book",
+    "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+    "year": "1967",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/epbYsbU2LptWv1C5JQxO5SHeNrk.png",
+    "certificate": "NR",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],

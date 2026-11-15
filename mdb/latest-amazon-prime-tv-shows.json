@@ -1965,6 +1965,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "273419",
+    "tmdbId": 273419,
+    "imdbId": "tt26545971",
+    "type": "tv",
+    "title": "Accidentally Famous",
+    "overview": "In the late 1980s, in the small Italian town Pavia, teenager Max finds solace in comic books and American music, standing out as a non-conformist in a place there is nothing to be rebellious about. After neglecting high school to pursue friendships and punk nights, failure inevitably catches up with him. But this opens doors to a life-changing opportunity, transferring to a new high school where he crosses paths with Mauro. Music makes the pair inseparable. Thanks to Mauro’s driving force, Max embraces his musical talent and together they compose the first songs that will be produced by Claudio Cecchetto. But when success overwhelms them, the question arises: will Max and Mauro, despite their differences, manage to stick together?",
+    "year": "2024",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jG2fzeE4ubL6OWg37Z0qmbBUk3u.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
     "id": "214032",
     "tmdbId": 214032,
     "imdbId": "tt22754212",
@@ -4194,26 +4215,5 @@
       "BE"
     ],
     "originalLanguage": "fr"
-  },
-  {
-    "id": "215069",
-    "tmdbId": 215069,
-    "imdbId": "tt23569850",
-    "type": "tv",
-    "title": "The Confession",
-    "overview": "When Patricia Hall vanishes from the small Yorkshire town of Pudsey, her husband Keith becomes a suspect, caught in a storm of rumour and suspicion. Only after a year, when Keith Hall falls in love with a beautiful stranger, does the terrible truth about his wife's disappearance seem to emerge in a shocking series of twists and revelations.",
-    "year": "2022",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xeK3jIUctittNCYdYmJCAAlr3TV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wgLrT4F0NpI0sYCsSMyQIe1bGuy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wlkiyKeSxrteVLf0XCurFWDVm1E.png",
-    "certificate": "12",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
   }
 ]
