@@ -1,5 +1,26 @@
 [
   {
+    "id": "1757174",
+    "tmdbId": 1757174,
+    "imdbId": "tt39313557",
+    "type": "movie",
+    "title": "The Christmas Switch",
+    "overview": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess.",
+    "year": "2026",
+    "rating": 6.389,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
+    "certificate": "R",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "SE"
+    ],
+    "originalLanguage": "sv"
+  },
+  {
     "id": "1666787",
     "tmdbId": 1666787,
     "imdbId": "tt41593493",
@@ -19,6 +40,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1794569",
+    "tmdbId": 1794569,
+    "imdbId": "tt48500521",
+    "type": "movie",
+    "title": "Unprotected: Murder in Galicia",
+    "overview": "Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Verín. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.",
+    "year": "2026",
+    "rating": 6.75,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/15Ei7xpsEDTZXstqjFV4790811e.png",
+    "certificate": "14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "1570488",
@@ -1366,6 +1408,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1419036",
+    "tmdbId": 1419036,
+    "imdbId": "tt42721267",
+    "type": "movie",
+    "title": "Kijsada Paradise",
+    "overview": "A friend who goes missing in an abandoned amusement park sets the friendship of a group of teenagers to a challenge as they encounter conflict and secrets along the way.",
+    "year": "2026",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/flWf8cNQrlw1PXXW7uzPZPGRDHx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x54Apuuj38C3aPv82BH34TQt8Um.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
   },
   {
     "id": "1699155",
@@ -4143,71 +4206,6 @@
     "primaryGenre": "Romance",
     "secondaryGenre": "Comedy",
     "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1363282",
-    "tmdbId": 1363282,
-    "imdbId": "tt31137117",
-    "type": "movie",
-    "title": "The Carman Family Deaths",
-    "overview": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family.",
-    "year": "2025",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kWRlETiLSH8BRq9akHIQoMXgtfe.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hz7PBzariTHNUFH558yKweqaS8t.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "628847",
-    "tmdbId": 628847,
-    "imdbId": "tt10799690",
-    "type": "movie",
-    "title": "Trap House",
-    "overview": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves – their own rebellious teenagers, who have begun robbing from a dangerous cartel, using their parents' tactics and top-secret intel to do it.",
-    "year": "2025",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vczlo2pDZM3nASKzsIIy5wKtNM8.png",
-    "certificate": "R",
-    "runTimeMinutes": 103,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB",
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1069905",
-    "tmdbId": 1069905,
-    "imdbId": "tt30446847",
-    "type": "movie",
-    "title": "Jay Kelly",
-    "overview": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
-    "year": "2025",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wR9D9hQvCVBux16NauY4b7letdU.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/c30boUKrENwHp5vsvz8AkeUDWwo.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 132,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB",
       "US"
     ],
     "originalLanguage": "en"
