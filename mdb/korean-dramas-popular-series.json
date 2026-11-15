@@ -2793,27 +2793,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "66496",
-    "tmdbId": 66496,
-    "imdbId": "tt5646594",
-    "type": "tv",
-    "title": "Hwarang: The Poet Warrior Youth",
-    "overview": "An elite group of young warriors trained in morals and martial arts finds love and friendship in Silla during Korea’s ancient Three Kingdoms period.",
-    "year": "2016",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sXEiMRfG2IiSpa7gVWY401L6n21.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/col8IFqOjTZH6412I1bjum5MrL8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/w5SgfPmGPbhbCcOaU8Igjq1EbJ6.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "228689",
     "tmdbId": 228689,
     "imdbId": "tt32409807",
@@ -2829,27 +2808,6 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "220074",
-    "tmdbId": 220074,
-    "imdbId": "tt30413181",
-    "type": "tv",
-    "title": "Flex X Cop",
-    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
-    "year": "2024",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3087,6 +3045,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "153496",
+    "tmdbId": 153496,
+    "imdbId": "tt18352538",
+    "type": "tv",
+    "title": "Reborn Rich",
+    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
+    "year": "2022",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6vs7qtD5KUwijUhpthuhA6PkwxI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clGOzO82lN4gPI4Fon7wNVXS90i.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oTCBF2Dd6mHUg9Ju8qQwcaYc8qb.png",
+    "certificate": "15",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "295509",
     "tmdbId": 295509,
     "imdbId": "tt38626513",
@@ -3270,27 +3249,6 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "153496",
-    "tmdbId": 153496,
-    "imdbId": "tt18352538",
-    "type": "tv",
-    "title": "Reborn Rich",
-    "overview": "After ten years, a loyal employee is framed for embezzlement, then murdered by his employers, only to be reborn as their youngest son, with a yearn for revenge guiding his hostile takeover.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6vs7qtD5KUwijUhpthuhA6PkwxI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clGOzO82lN4gPI4Fon7wNVXS90i.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oTCBF2Dd6mHUg9Ju8qQwcaYc8qb.png",
-    "certificate": "15",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3523,6 +3481,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "220074",
+    "tmdbId": 220074,
+    "imdbId": "tt30413181",
+    "type": "tv",
+    "title": "Flex X Cop",
+    "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nOGPxfYqd0f3oeFGGinpDOP68MQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3970,27 +3949,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "232616",
-    "tmdbId": 232616,
-    "imdbId": "tt32166552",
-    "type": "tv",
-    "title": "The Atypical Family",
-    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 76,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "238458",
     "tmdbId": 238458,
     "imdbId": "tt30413044",
@@ -4327,6 +4285,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "66496",
+    "tmdbId": 66496,
+    "imdbId": "tt5646594",
+    "type": "tv",
+    "title": "Hwarang: The Poet Warrior Youth",
+    "overview": "An elite group of young warriors trained in morals and martial arts finds love and friendship in Silla during Korea’s ancient Three Kingdoms period.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sXEiMRfG2IiSpa7gVWY401L6n21.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/col8IFqOjTZH6412I1bjum5MrL8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w5SgfPmGPbhbCcOaU8Igjq1EbJ6.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "62933",
     "tmdbId": 62933,
     "imdbId": "tt4803738",
@@ -4508,27 +4487,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/tadjX73LSpvRGNAjSVu47xoVxq5.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 68,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "138251",
-    "tmdbId": 138251,
-    "imdbId": "tt20723826",
-    "type": "tv",
-    "title": "Eve",
-    "overview": "The Republic of Korea is overturned by 2 trillion-won divorce scandal of a chaebol caused by one ordinary woman. It is about getting into the truth of the scandal and the top 1% rich couple who made it. Surprisingly, Lee Ra-el, a nobody who's not rich nor famous has caused the divorce. But Ra-el is a charming and intelligent woman who's mastered art, psychology, and even economics. if she wants to, she can get any kind of man with her looks and brain.",
-    "year": "2022",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6xvIRR50lDzFRWLFCAwSzEkoEu3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/79ngeH4ryvoMOvQOTLH176hoHFs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tZDLrStruSwsPLVntrk19QKU3tg.png",
-    "certificate": "13+",
-    "runTimeMinutes": 66,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -4719,27 +4677,6 @@
     "certificate": "19",
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "218631",
-    "tmdbId": 218631,
-    "imdbId": "tt27368181",
-    "type": "tv",
-    "title": "Gangnam B-Side",
-    "overview": "When Jaehee, a top call girl at a club in Gangnam, goes missing, Detective Kang Dongwoo returns to crack the case. Prosecutor Min Seojin aims to rise in rank, while the notorious pimp, Yoon Gilho becomes a prime suspect. They unravel a web of secrets and connections behind the case.",
-    "year": "2024",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5oo7JW9BYPGOD9Tco6NobEUuRXk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wMVtQXh4gAmPnZ6QuIL2xA9xCmd.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -4972,6 +4909,27 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "232616",
+    "tmdbId": 232616,
+    "imdbId": "tt32166552",
+    "type": "tv",
+    "title": "The Atypical Family",
+    "overview": "Once blessed with unique superpowers, a family loses their abilities due to modern day problems — until a mysterious woman changes everything.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jIytLkzBl9E9b8q0NslAZNDfsCk.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
