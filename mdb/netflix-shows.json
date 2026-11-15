@@ -42,6 +42,28 @@
     "originalLanguage": "en"
   },
   {
+    "id": "314271",
+    "tmdbId": 314271,
+    "imdbId": "tt39957390",
+    "type": "tv",
+    "title": "Bass X Machina",
+    "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+    "year": "2026",
+    "rating": 7.647,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2QuNyg8OaRxhBs395xAn0UdcoEa.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "KR",
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "289517",
     "tmdbId": 289517,
     "imdbId": "tt36458668",
@@ -6297,26 +6319,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "273081",
-    "tmdbId": 273081,
-    "imdbId": "tt31158589",
-    "type": "tv",
-    "title": "Don't Come Home",
-    "overview": "A mother and her young daughter flee to their family's abandoned mansion but soon find themselves haunted by paranormal incidents that lead to the little girl's mysterious disappearance.",
-    "year": "2024",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mtIm0qbFnQ3oqqDrVpPTJDS6EZK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i92vV0MMeXZKs9zsYFOpjYYt2s2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nXaAwTmbVB6qfyIyhrjl7zHppI9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
   }
 ]
