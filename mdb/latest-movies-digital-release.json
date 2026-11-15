@@ -1,5 +1,68 @@
 [
   {
+    "id": "1543469",
+    "tmdbId": 1543469,
+    "imdbId": "tt38213251",
+    "type": "movie",
+    "title": "Heartland",
+    "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
+    "year": "2026",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1050981",
+    "tmdbId": 1050981,
+    "imdbId": "tt15095848",
+    "type": "movie",
+    "title": "Being Heumann",
+    "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/671zYXlxNOEgZfeff2zHTRe00HB.png",
+    "certificate": "A",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1518204",
+    "tmdbId": 1518204,
+    "imdbId": "tt37675123",
+    "type": "movie",
+    "title": "Allen",
+    "overview": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
+    "year": "2026",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nc5MVDGX2TOBRSYNYNhxUeULrQv.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1772726",
     "tmdbId": 1772726,
     "imdbId": "tt46082332",
@@ -2696,90 +2759,6 @@
     "runTimeMinutes": 111,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1314481",
-    "tmdbId": 1314481,
-    "imdbId": "tt33612209",
-    "type": "movie",
-    "title": "The Devil Wears Prada 2",
-    "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-    "year": "2026",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/v6TyxpV3ZXG28MXTaHCXTmXc0B.png",
-    "certificate": "A",
-    "runTimeMinutes": 119,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1339588",
-    "tmdbId": 1339588,
-    "imdbId": "tt32499466",
-    "type": "movie",
-    "title": "Finding Emily",
-    "overview": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bfEQ6C702oPsN4kzIiY7n4JsrxF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zP4C4lorBVXYWzuKMBlNRkYAy8r.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 111,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1339713",
-    "tmdbId": 1339713,
-    "imdbId": "tt37287335",
-    "type": "movie",
-    "title": "Obsession",
-    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
-    "certificate": "A",
-    "runTimeMinutes": 109,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1422138",
-    "tmdbId": 1422138,
-    "imdbId": "tt32261856",
-    "type": "movie",
-    "title": "She's the He!",
-    "overview": "To protect their reputations before graduation, two friends pretend to be trans women—only for a comedic stunt to turn into a profound journey of self-discovery when one of them realizes her truth.",
-    "year": "2026",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4pfjoDOoRfJHsK6AwfqUQ6gdauo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sJzinZsksOJpEWVOsT6p7HZYf67.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iKoTOfnkcqIrucZEwUJy6fsAV9s.png",
-    "certificate": "NR",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
