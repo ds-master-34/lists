@@ -168,6 +168,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "316702",
+    "tmdbId": 316702,
+    "imdbId": "tt49692512",
+    "type": "tv",
+    "title": "Final Table",
+    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "99966",
     "tmdbId": 99966,
     "imdbId": "tt14169960",
@@ -231,21 +252,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "316702",
-    "tmdbId": 316702,
-    "imdbId": "tt49692512",
+    "id": "307478",
+    "tmdbId": 307478,
+    "imdbId": "tt47657141",
     "type": "tv",
-    "title": "Final Table",
-    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "title": "The Perfect Lie",
+    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
     "year": "2026",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
     "certificate": "TV-14",
-    "runTimeMinutes": 67,
+    "runTimeMinutes": 65,
     "primaryGenre": "Drama",
-    "secondaryGenre": "",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -267,27 +288,6 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307478",
-    "tmdbId": 307478,
-    "imdbId": "tt47657141",
-    "type": "tv",
-    "title": "The Perfect Lie",
-    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -756,6 +756,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215720",
+    "tmdbId": 215720,
+    "imdbId": "tt27668559",
+    "type": "tv",
+    "title": "Queen of Tears",
+    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rtYUutWaNOO0IfWQWhegTUw0ERo.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "126485",
     "tmdbId": 126485,
     "imdbId": "tt24640580",
@@ -1008,27 +1029,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "215720",
-    "tmdbId": 215720,
-    "imdbId": "tt27668559",
-    "type": "tv",
-    "title": "Queen of Tears",
-    "overview": "The queen of department stores and the prince of supermarkets weather a marital crisis—until love miraculously begins to bloom again.",
-    "year": "2024",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7ZXLZ3KYL3IVvsSHBZaHjcNQzNU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rtYUutWaNOO0IfWQWhegTUw0ERo.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 110,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "305644",
     "tmdbId": 305644,
     "imdbId": "tt39368345",
@@ -1084,6 +1084,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/skYrMWvdXxxOiloSaZWP6LOvI64.png",
     "certificate": "TV-14",
     "runTimeMinutes": 88,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "112888",
+    "tmdbId": 112888,
+    "imdbId": "tt13274038",
+    "type": "tv",
+    "title": "True Beauty",
+    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+    "year": "2020",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
+    "certificate": "12",
+    "runTimeMinutes": 81,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -1428,27 +1449,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "112888",
-    "tmdbId": 112888,
-    "imdbId": "tt13274038",
-    "type": "tv",
-    "title": "True Beauty",
-    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
-    "year": "2020",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
-    "certificate": "12",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "230923",
     "tmdbId": 230923,
     "imdbId": "tt31324295",
@@ -1512,27 +1512,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "116612",
-    "tmdbId": 116612,
-    "imdbId": "tt13634872",
-    "type": "tv",
-    "title": "Beyond Evil",
-    "overview": "As a killing resembling a cold case resurfaces in a small town, the chase for the truth falls on two policemen who each harbor secrets of their own.",
-    "year": "2021",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qCKFi1v109vOEHlc02AJFpBcS79.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pQTMffzibhGIePqyZa5xSjlEpRi.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 79,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "65143",
     "tmdbId": 65143,
     "imdbId": "tt4925000",
@@ -1590,6 +1569,48 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "116612",
+    "tmdbId": 116612,
+    "imdbId": "tt13634872",
+    "type": "tv",
+    "title": "Beyond Evil",
+    "overview": "As a killing resembling a cold case resurfaces in a small town, the chase for the truth falls on two policemen who each harbor secrets of their own.",
+    "year": "2021",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qCKFi1v109vOEHlc02AJFpBcS79.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pQTMffzibhGIePqyZa5xSjlEpRi.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "241454",
+    "tmdbId": 241454,
+    "imdbId": "tt30446769",
+    "type": "tv",
+    "title": "Love Next Door",
+    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+    "year": "2024",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8DZoBQ7U0EwnFSJbAOGX3v4cOEL.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1798,27 +1819,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/gko6rf0BmhTnc9mawzWfgPUPUT1.png",
     "certificate": "TV-14",
     "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "241454",
-    "tmdbId": 241454,
-    "imdbId": "tt30446769",
-    "type": "tv",
-    "title": "Love Next Door",
-    "overview": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8DZoBQ7U0EwnFSJbAOGX3v4cOEL.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -2478,27 +2478,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "99489",
-    "tmdbId": 99489,
-    "imdbId": "tt13067118",
-    "type": "tv",
-    "title": "The Penthouse",
-    "overview": "Three women who live at Seoul's most luxurious penthouse apartment will stop at nothing to protect their status and their children's futures. But a murder at Hera leaves one mom questioning her place in this elite society and puts her on the road for revenge.",
-    "year": "2020",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/phNCvOZkzxWk24oSWvxIfCusbnt.png",
-    "certificate": "MA15+",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "194797",
     "tmdbId": 194797,
     "imdbId": "tt24245988",
@@ -2703,27 +2682,6 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "108284",
-    "tmdbId": 108284,
-    "imdbId": "tt12879418",
-    "type": "tv",
-    "title": "Tale of the Nine Tailed",
-    "overview": "A TV producer discovers a secret supernatural world as she becomes entangled with a former deity who's spent centuries searching for his lost lover.",
-    "year": "2020",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/v7VEIX1yOcFWY17eUprNhAS9xEp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oPJQvS8Xyg7chAX0jQoC2smqMxv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3CEEgSitIV4CwSuKNzVMOnPe9zP.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 80,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3234,21 +3192,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "215471",
-    "tmdbId": 215471,
-    "imdbId": "tt26228312",
+    "id": "108284",
+    "tmdbId": 108284,
+    "imdbId": "tt12879418",
     "type": "tv",
-    "title": "Call It Love",
-    "overview": "When her family becomes suddenly homeless, Woojoo decides on revenge for all the injustices she has been put through. However, her supposed foe, Dongjin, is a heart-wrenchingly lonely and gentle soul.",
-    "year": "2023",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/m7xiLb8mLyHHgThJICIPCsSq1qR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Yi0rIMX6jdst39Wk0jaUzrIxuZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lU2BqJu4sZ7bvJRnLyzultUGYHx.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
+    "title": "Tale of the Nine Tailed",
+    "overview": "A TV producer discovers a secret supernatural world as she becomes entangled with a former deity who's spent centuries searching for his lost lover.",
+    "year": "2020",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/v7VEIX1yOcFWY17eUprNhAS9xEp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oPJQvS8Xyg7chAX0jQoC2smqMxv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3CEEgSitIV4CwSuKNzVMOnPe9zP.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 80,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3353,6 +3311,27 @@
     "certificate": "U/A 16+",
     "runTimeMinutes": 66,
     "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "67018",
+    "tmdbId": 67018,
+    "imdbId": "tt5766194",
+    "type": "tv",
+    "title": "The Legend of the Blue Sea",
+    "overview": "A mermaid from the Joseon period ends up in present-day Seoul, where she crosses paths with a swindler who may have ties to someone from her past.",
+    "year": "2016",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cHrhnci45nyoqctI33lgB0iX9Zy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AndNIZzaDAcLlk11KjZy2TZS07Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l9pbHIKjKo0wzpnBMS3im3pQwjz.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -3739,27 +3718,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "224030",
-    "tmdbId": 224030,
-    "imdbId": "tt32499943",
-    "type": "tv",
-    "title": "High School Return of a Gangster",
-    "overview": "A spirit of a middle school dropout gangster who accidentally possesses an 18-year-old boy’s body who killed himself, goes back to high school to take a revenge against the bullies with his gangster skills and encounters unexpected relationship.",
-    "year": "2024",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bK5kGsWq9vGALbDgPmNiLFNFVI1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d5XO4xMMYukfDgcuAe4IBQ7MBmY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/maFcTYK9k0TugmW7b8nISFObkL4.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "274570",
     "tmdbId": 274570,
     "imdbId": "tt38221197",
@@ -4012,6 +3970,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215471",
+    "tmdbId": 215471,
+    "imdbId": "tt26228312",
+    "type": "tv",
+    "title": "Call It Love",
+    "overview": "When her family becomes suddenly homeless, Woojoo decides on revenge for all the injustices she has been put through. However, her supposed foe, Dongjin, is a heart-wrenchingly lonely and gentle soul.",
+    "year": "2023",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m7xiLb8mLyHHgThJICIPCsSq1qR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Yi0rIMX6jdst39Wk0jaUzrIxuZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lU2BqJu4sZ7bvJRnLyzultUGYHx.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "134465",
     "tmdbId": 134465,
     "imdbId": "tt15672294",
@@ -4054,21 +4033,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "137872",
-    "tmdbId": 137872,
-    "imdbId": "tt18970038",
+    "id": "99489",
+    "tmdbId": 99489,
+    "imdbId": "tt13067118",
     "type": "tv",
-    "title": "Soundtrack #1",
-    "overview": "Han Sun-woo is a rookie photographer. He doesn't talk much, but he is a kind and warm-hearted man. He is friends with Lee Eun-soo. They have been close friends for 20 years. Meanwhile, Lee Eun-soo works as a lyricist to make living. She has an honest and bright personality. Due to a reason, Han Sun-woo and Lee Eun-soo begin to live together at the same house for 2 weeks. Staying together, their relationship develops romantically.",
-    "year": "2022",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hjp9921tF0S6duKUoScLOC5ABCc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hwHfCB3fhnxxfkRmMlNSMVGKsk6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lEmk03a0bV2dnj3itvYLCvNVSml.png",
-    "certificate": "12",
-    "runTimeMinutes": 54,
+    "title": "The Penthouse",
+    "overview": "Three women who live at Seoul's most luxurious penthouse apartment will stop at nothing to protect their status and their children's futures. But a murder at Hera leaves one mom questioning her place in this elite society and puts her on the road for revenge.",
+    "year": "2020",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/phNCvOZkzxWk24oSWvxIfCusbnt.png",
+    "certificate": "MA15+",
+    "runTimeMinutes": 70,
     "primaryGenre": "Drama",
-    "secondaryGenre": "",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -4468,27 +4447,6 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "220073",
-    "tmdbId": 220073,
-    "imdbId": "tt27554366",
-    "type": "tv",
-    "title": "A Bloody Lucky Day",
-    "overview": "An ordinary taxi driver becomes entangled with a customer that turns out to be a serial killer.",
-    "year": "2023",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qUlJJzr7OyhU9j0m1jhF4bdgzak.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n5MmniUioLeJvAujEDSyAts8SiO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fFoHvvE0xAYaMQG4Qkniob5Qpg4.png",
-    "certificate": "19",
-    "runTimeMinutes": 46,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6925,27 +6883,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "67018",
-    "tmdbId": 67018,
-    "imdbId": "tt5766194",
-    "type": "tv",
-    "title": "The Legend of the Blue Sea",
-    "overview": "A mermaid from the Joseon period ends up in present-day Seoul, where she crosses paths with a swindler who may have ties to someone from her past.",
-    "year": "2016",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cHrhnci45nyoqctI33lgB0iX9Zy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AndNIZzaDAcLlk11KjZy2TZS07Y.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/l9pbHIKjKo0wzpnBMS3im3pQwjz.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
