@@ -49,7 +49,7 @@
     "title": "The Torment",
     "overview": "Kama returns to her hometown and gets entangled in an old missing case. Family secrets, passions and crime reveal that the past never falls silent.",
     "year": "2026",
-    "rating": 6.1,
+    "rating": 6.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6crqt1vLWMyfXS1oKfGBM8aFyXg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/uqlqU7IOOrJBLSdxe3VQlO6OXy0.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/sq0YtR3T9f2M8Z1SNxaVKltitBp.png",
@@ -133,7 +133,7 @@
     "title": "Captive",
     "overview": "An Argentine dramatic television miniseries co-produced by TNT and FLOW. It follows the life of a nun who, after fifteen years, manages to escape from a cloistered convent where she was a victim of psychological abuse and held against her will. Starring Carolina Kopelioff, Lorena Vega, Rita Cortese, and Julieta Zylberberg.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iQpdPJ2SSWHGdeCV7n5GGt95g4I.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/urJ3WlzmErAZJh2bXYLR8t5En78.png",
@@ -1725,27 +1725,6 @@
       "FR"
     ],
     "originalLanguage": "fr"
-  },
-  {
-    "id": "271336",
-    "tmdbId": 271336,
-    "imdbId": "tt33710504",
-    "type": "tv",
-    "title": "Light of My Lion",
-    "overview": "The appearance of a mysterious little boy interrupts the quiet, predictable life shared by an artist with autism and his caring older brother.",
-    "year": "2024",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hyB8p0kImkNhszQo4r4pS7Qrg6w.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A6k0tlv6rdavSOpvrjtQxZCYZMb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sODeAwUVWVFEqAbZGxk3CgiMDJ1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   },
   {
     "id": "231751",
@@ -4206,5 +4185,26 @@
       "FR"
     ],
     "originalLanguage": "fr"
+  },
+  {
+    "id": "122196",
+    "tmdbId": 122196,
+    "imdbId": "tt11324406",
+    "type": "tv",
+    "title": "The Staircase",
+    "overview": "An exploration of the life of Michael Peterson, his sprawling North Carolina family, and the suspicious death of his wife, Kathleen Peterson.",
+    "year": "2022",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rtDGYw9xUh4bdrIdjzUuvVHS7kb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8UgmfPBMtOfmSWU3IUfcHTXQU3r.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]
