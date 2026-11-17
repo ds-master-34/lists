@@ -2754,6 +2754,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "511869",
+    "tmdbId": 511869,
+    "imdbId": "tt0101188",
+    "type": "movie",
+    "title": "A Rugrats Vacation",
+    "overview": "The adults decide to bring the babies and Angelica to Las Vegas on vacation. Tommy convinces the babies to help him find the tigers. Angelica hopes to sing while in Las Vegas.",
+    "year": "1997",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/py4O1OIEUbFtp2DdDWMbxS62mb8.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "8326",
     "tmdbId": 8326,
     "imdbId": "tt0311289",
@@ -4156,6 +4177,27 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Animation",
     "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9325",
+    "tmdbId": 9325,
+    "imdbId": "tt0061852",
+    "type": "movie",
+    "title": "The Jungle Book",
+    "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+    "year": "1967",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/epbYsbU2LptWv1C5JQxO5SHeNrk.png",
+    "certificate": "NR",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],
