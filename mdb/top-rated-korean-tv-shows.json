@@ -1029,6 +1029,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "229891",
+    "tmdbId": 229891,
+    "imdbId": "tt30293074",
+    "type": "tv",
+    "title": "Can This Love Be Translated?",
+    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rvOcj4iGF5aMfvNVwQTtWN6rGuU.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "280945",
     "tmdbId": 280945,
     "imdbId": "tt37600136",
@@ -1359,27 +1380,6 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "229891",
-    "tmdbId": 229891,
-    "imdbId": "tt30293074",
-    "type": "tv",
-    "title": "Can This Love Be Translated?",
-    "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-    "year": "2026",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rvOcj4iGF5aMfvNVwQTtWN6rGuU.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1743,27 +1743,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "289423",
-    "tmdbId": 289423,
-    "imdbId": "tt37737331",
-    "type": "tv",
-    "title": "Take Charge of My Heart",
-    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "296206",
     "tmdbId": 296206,
     "imdbId": "tt42127457",
@@ -2016,27 +1995,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "155226",
-    "tmdbId": 155226,
-    "imdbId": "tt21195490",
-    "type": "tv",
-    "title": "Big Mouth",
-    "overview": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.",
-    "year": "2022",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vxwcPdH0JyyMjjyuJ1ApMAQ8jwr.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "134675",
     "tmdbId": 134675,
     "imdbId": "tt21828868",
@@ -2157,6 +2115,27 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "289423",
+    "tmdbId": 289423,
+    "imdbId": "tt37737331",
+    "type": "tv",
+    "title": "Take Charge of My Heart",
+    "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2478,6 +2457,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "155226",
+    "tmdbId": 155226,
+    "imdbId": "tt21195490",
+    "type": "tv",
+    "title": "Big Mouth",
+    "overview": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.",
+    "year": "2022",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vxwcPdH0JyyMjjyuJ1ApMAQ8jwr.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "135340",
     "tmdbId": 135340,
     "imdbId": "tt14979052",
@@ -2493,27 +2493,6 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "205082",
-    "tmdbId": 205082,
-    "imdbId": "tt27458539",
-    "type": "tv",
-    "title": "Vigilante",
-    "overview": "Kim Ji-yong leads a double life as a Korean National Police University student by day and the Vigilante by night, personally punishing criminals who evade the law. He is surrounded by people who all possess different ulterior motives.",
-    "year": "2023",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fVT9DouwnGPWwSlJZTFRzxmeY8W.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -2556,27 +2535,6 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "229480",
-    "tmdbId": 229480,
-    "imdbId": "tt32981987",
-    "type": "tv",
-    "title": "No Gain No Love",
-    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
-    "year": "2024",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/olqgBrhl1WvstIRpYwswltmApdm.png",
-    "certificate": "15",
-    "runTimeMinutes": 78,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3003,6 +2961,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "229480",
+    "tmdbId": 229480,
+    "imdbId": "tt32981987",
+    "type": "tv",
+    "title": "No Gain No Love",
+    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/olqgBrhl1WvstIRpYwswltmApdm.png",
+    "certificate": "15",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "241454",
     "tmdbId": 241454,
     "imdbId": "tt30446769",
@@ -3208,6 +3187,27 @@
     "runTimeMinutes": 78,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "114118",
+    "tmdbId": 114118,
+    "imdbId": "tt13777028",
+    "type": "tv",
+    "title": "My Roommate Is a Gumiho",
+    "overview": "To become a human, a 999-year-old Gumiho, Shin Woo-yeo needs to fill his fox bead with human energy before he turns 1,000 years old. One day, a college girl, Lee Dam accidentally swallows Woo-yeo's fox bead.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ep3TFArcl7jYipJymsKp2zuGv1m.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bFjiFIVl8T3giKYQTweyr5Xp0QE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9rJ61D1LMINSqTktMe5GAa9bfep.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -5252,6 +5252,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "270420",
+    "tmdbId": 270420,
+    "imdbId": "tt33429144",
+    "type": "tv",
+    "title": "No Tail to Tell",
+    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1mHyHzGP1vmXhaFJDMYatExUWEE.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "113622",
     "tmdbId": 113622,
     "imdbId": "tt13715448",
@@ -5315,21 +5357,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "270420",
-    "tmdbId": 270420,
-    "imdbId": "tt33429144",
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
     "type": "tv",
-    "title": "No Tail to Tell",
-    "overview": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1mHyHzGP1vmXhaFJDMYatExUWEE.svg",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
     "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5372,27 +5414,6 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5903,27 +5924,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293607",
-    "tmdbId": 293607,
-    "imdbId": "tt39201866",
-    "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "43152",
     "tmdbId": 43152,
     "imdbId": "tt2401162",
@@ -6050,6 +6050,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "131026",
+    "tmdbId": 131026,
+    "imdbId": "tt14730768",
+    "type": "tv",
+    "title": "Dali & Cocky Prince",
+    "overview": "Despite a rough start, love begins to blossom between an art director and the son of a family who grew their business from the ground up.",
+    "year": "2021",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r6X8JNFfgiq91MDtXBm3fzzmyGB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/l0jOSxFkHTMHaFLQAAuxlXEEUZX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/w7KuD4Yx2p9PIAL3kfaPJepVbYz.png",
+    "certificate": "15",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "201852",
     "tmdbId": 201852,
     "imdbId": "tt22248254",
@@ -6155,6 +6176,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "158811",
+    "tmdbId": 158811,
+    "imdbId": "tt23149640",
+    "type": "tv",
+    "title": "Bargain",
+    "overview": "A group of strangers gather at a remote motel with ulterior motives – seeking to bargain. After an unexpected earthquake traps them inside the building. With no one to trust, they must find a way to survive.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h7wv3OC1GbBDchfmRW2FR9YL2My.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ieHg9WQKBGiNQGFLWmvaSfzHu8r.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e00zuXH8VTZ2l1jJs8XtXaCLN3h.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "226527",
     "tmdbId": 226527,
     "imdbId": "tt27763561",
@@ -6197,20 +6239,20 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "287009",
-    "tmdbId": 287009,
-    "imdbId": "tt39184653",
+    "id": "82501",
+    "tmdbId": 82501,
+    "imdbId": "tt8696768",
     "type": "tv",
-    "title": "Doctor on the Edge",
-    "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
+    "title": "The Smile Has Left Your Eyes",
+    "overview": "A detective thinks about quitting his job. He takes on a female university student murder case that was disguised as a suicide. The detective becomes obsessed with solving the case. He has a young sister and she meets a man. The man does not remember when he was little. He is not a good person, but she has sympathy for him. The detective tries to push the man away from his younger sister. The detective suspects that the man is somehow involved in the female university student murder case. The man and the detective's younger sister fall in love.",
+    "year": "2018",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yj5KxpFh2qhB7qEJt94WpBTUKLJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rTn1gGoEtfCsjsF6OZpodr7LJO7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8RTC5oexnahjVkYgBGf04yCWzfF.png",
+    "certificate": "NR",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -6386,6 +6428,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "287009",
+    "tmdbId": 287009,
+    "imdbId": "tt39184653",
+    "type": "tv",
+    "title": "Doctor on the Edge",
+    "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "294095",
     "tmdbId": 294095,
     "imdbId": "tt43616775",
@@ -6401,27 +6464,6 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "82501",
-    "tmdbId": 82501,
-    "imdbId": "tt8696768",
-    "type": "tv",
-    "title": "The Smile Has Left Your Eyes",
-    "overview": "A detective thinks about quitting his job. He takes on a female university student murder case that was disguised as a suicide. The detective becomes obsessed with solving the case. He has a young sister and she meets a man. The man does not remember when he was little. He is not a good person, but she has sympathy for him. The detective tries to push the man away from his younger sister. The detective suspects that the man is somehow involved in the female university student murder case. The man and the detective's younger sister fall in love.",
-    "year": "2018",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yj5KxpFh2qhB7qEJt94WpBTUKLJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rTn1gGoEtfCsjsF6OZpodr7LJO7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8RTC5oexnahjVkYgBGf04yCWzfF.png",
-    "certificate": "NR",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6806,6 +6848,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "278113",
+    "tmdbId": 278113,
+    "imdbId": "tt37253311",
+    "type": "tv",
+    "title": "Gold Land",
+    "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qhbwTTeSnIGctR4CEmHc9RQBwtT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoJgqEYpxRWd58gNQKNwYlPUFeZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b6K8twKCjo0y7sNmPcvqoVnvzT3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "5279",
     "tmdbId": 5279,
     "imdbId": "tt0843195",
@@ -6926,27 +6989,6 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "278113",
-    "tmdbId": 278113,
-    "imdbId": "tt37253311",
-    "type": "tv",
-    "title": "Gold Land",
-    "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qhbwTTeSnIGctR4CEmHc9RQBwtT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoJgqEYpxRWd58gNQKNwYlPUFeZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/b6K8twKCjo0y7sNmPcvqoVnvzT3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -7289,27 +7331,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "158811",
-    "tmdbId": 158811,
-    "imdbId": "tt23149640",
-    "type": "tv",
-    "title": "Bargain",
-    "overview": "A group of strangers gather at a remote motel with ulterior motives – seeking to bargain. After an unexpected earthquake traps them inside the building. With no one to trust, they must find a way to survive.",
-    "year": "2022",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/h7wv3OC1GbBDchfmRW2FR9YL2My.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ieHg9WQKBGiNQGFLWmvaSfzHu8r.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e00zuXH8VTZ2l1jJs8XtXaCLN3h.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "220076",
     "tmdbId": 220076,
     "imdbId": "tt26679485",
@@ -7533,6 +7554,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/xpDaWIg7WlSxGoMiyK446dkMvEq.png",
     "certificate": "15",
     "runTimeMinutes": 35,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "121695",
+    "tmdbId": 121695,
+    "imdbId": "tt14223310",
+    "type": "tv",
+    "title": "Sell Your Haunted House",
+    "overview": "A real estate agent who rids haunted buildings of vengeful ghosts, partners with a con man to solve a 20-year-old case that is close to her heart.",
+    "year": "2021",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iHjLfJScdNrFWXd15nZfsqHgkNx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g6whHuSMRui7vh2xqy8ujv0NkZY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h5L7ApYE0i24OQ17gSwToOUujT3.png",
+    "certificate": "15",
+    "runTimeMinutes": 68,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -7940,6 +7982,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "79991",
+    "tmdbId": 79991,
+    "imdbId": "tt8243158",
+    "type": "tv",
+    "title": "Life",
+    "overview": "A dedicated ER doctor fights to protect patient care when a ruthless new hospital director threatens to dismantle the emergency department for profit.",
+    "year": "2018",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dqHWspaVnSbXjD9p8AetTPCPeWW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrOqBDRDknVssWMW63n64xiLAr8.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "201019",
     "tmdbId": 201019,
     "imdbId": "tt27329405",
@@ -8102,27 +8165,6 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "79991",
-    "tmdbId": 79991,
-    "imdbId": "tt8243158",
-    "type": "tv",
-    "title": "Life",
-    "overview": "A dedicated ER doctor fights to protect patient care when a ruthless new hospital director threatens to dismantle the emergency department for profit.",
-    "year": "2018",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dqHWspaVnSbXjD9p8AetTPCPeWW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xrOqBDRDknVssWMW63n64xiLAr8.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8354,48 +8396,6 @@
     "runTimeMinutes": 32,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "155229",
-    "tmdbId": 155229,
-    "imdbId": "tt22789182",
-    "type": "tv",
-    "title": "Cheer Up",
-    "overview": "A renowned college cheerleading squad is about to go under. But love and mysteries occur within the team.",
-    "year": "2022",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/agyQFkNKBExKYiIealedXNDIDqn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/43FSu75gWQfCQjyM9YB6zGOCNZ8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9BAQpOmx71EWDLbuCAHBc2KSkmf.png",
-    "certificate": "12",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "135895",
-    "tmdbId": 135895,
-    "imdbId": "tt20235634",
-    "type": "tv",
-    "title": "Kiss Sixth Sense",
-    "overview": "Hong Ye-sul, a competent account executive at an advertising company, has one secret— she can see the future when her lips come into contact with another person. When Ye-sul accidentally kisses her stern team chief Cha Min-hu, she sees the impossible: herself in bed with him some time in the future. To add to her confusion and frustration, her ex-boyfriend Lee Pil-yo is attempting to win back her heart, shaking her life up even more.",
-    "year": "2022",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xEb7SmwmEt1LlzeABbHIIYWVxoy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1CciqQoKW453lO7LQk1HeJDdauD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fV91cG61MUAtAuNNkW9eCOpy7M.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
