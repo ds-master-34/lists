@@ -336,6 +336,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "112833",
+    "tmdbId": 112833,
+    "imdbId": "tt15553922",
+    "type": "tv",
+    "title": "Juvenile Justice",
+    "overview": "A tough judge balances her aversion to minor offenders with firm beliefs on justice and punishment as she tackles complex cases inside a juvenile court.",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eMkuXy9Y9QGEXeFCMbga6AyRw1a.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "135157",
     "tmdbId": 135157,
     "imdbId": "tt20859920",
@@ -519,27 +540,6 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "112833",
-    "tmdbId": 112833,
-    "imdbId": "tt15553922",
-    "type": "tv",
-    "title": "Juvenile Justice",
-    "overview": "A tough judge balances her aversion to minor offenders with firm beliefs on justice and punishment as she tackles complex cases inside a juvenile court.",
-    "year": "2022",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eW6CqrGSRUk6xMbdCjreMQiP5W8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eMkuXy9Y9QGEXeFCMbga6AyRw1a.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -1134,6 +1134,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "92983",
+    "tmdbId": 92983,
+    "imdbId": "tt8523042",
+    "type": "tv",
+    "title": "Vagabond",
+    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
+    "year": "2019",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tlfueIFua3TWPDaK5aEYBe8rwOI.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "116612",
     "tmdbId": 116612,
     "imdbId": "tt13634872",
@@ -1212,27 +1233,6 @@
     "runTimeMinutes": 92,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "136369",
-    "tmdbId": 136369,
-    "imdbId": "tt18926162",
-    "type": "tv",
-    "title": "Tomorrow",
-    "overview": "Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
-    "year": "2022",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3SFVIdXXQ2DrAOARBdf1knqG7Pw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2lQ1PwGFZKM9EakCw1j4NShEuuj.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kpo9Ff9DYBwxQVrEmbDFGGbPX7b.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -1527,27 +1527,6 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "92983",
-    "tmdbId": 92983,
-    "imdbId": "tt8523042",
-    "type": "tv",
-    "title": "Vagabond",
-    "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
-    "year": "2019",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tlfueIFua3TWPDaK5aEYBe8rwOI.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -3067,6 +3046,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "5178",
     "tmdbId": 5178,
     "imdbId": "tt0457542",
@@ -3229,6 +3229,27 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "136369",
+    "tmdbId": 136369,
+    "imdbId": "tt18926162",
+    "type": "tv",
+    "title": "Tomorrow",
+    "overview": "Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
+    "year": "2022",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3SFVIdXXQ2DrAOARBdf1knqG7Pw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2lQ1PwGFZKM9EakCw1j4NShEuuj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kpo9Ff9DYBwxQVrEmbDFGGbPX7b.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3403,6 +3424,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "285838",
     "tmdbId": 285838,
     "imdbId": "tt36104233",
@@ -3460,27 +3502,6 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Crime",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3775,27 +3796,6 @@
     "runTimeMinutes": 39,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -4916,6 +4916,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "80737",
+    "tmdbId": 80737,
+    "imdbId": "tt8585954",
+    "type": "tv",
+    "title": "My ID is Gangnam Beauty",
+    "overview": "Bullied for her looks, Mi-rae gets plastic surgery hoping for a better kind of life but faces new challenges in college. Based on a hit Korean webtoon.",
+    "year": "2018",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/txjHlVSGwSkf6raBjL8rkVOvvbe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eNK7aolIJ75W7tNeh5I0An14rtg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o9kvG28del1rfNgzQ1dRpyZAkMf.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "61738",
     "tmdbId": 61738,
     "imdbId": "tt4119504",
@@ -4971,6 +4992,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/fDsFgLql4MBm3pebGfqB4L4fOWZ.png",
     "certificate": "19",
     "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "132925",
+    "tmdbId": 132925,
+    "imdbId": "tt14687200",
+    "type": "tv",
+    "title": "The Red Sleeve",
+    "overview": "Based on a novel of the same name, it tells the record of a royal court romance between the King of Joseon who believes his duty is to his country first above love, and a court lady who wants to protect the life she has chosen.",
+    "year": "2021",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1AZK2bnsmu5PIbkfxFkKbrjf5Oo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lZwubw2MvdeSE48U0pk5W2AK8D9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rf1LuY9kL1rCoGs1AKfSNxliZ3A.png",
+    "certificate": "15",
+    "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -5120,27 +5162,6 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "80737",
-    "tmdbId": 80737,
-    "imdbId": "tt8585954",
-    "type": "tv",
-    "title": "My ID is Gangnam Beauty",
-    "overview": "Bullied for her looks, Mi-rae gets plastic surgery hoping for a better kind of life but faces new challenges in college. Based on a hit Korean webtoon.",
-    "year": "2018",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/txjHlVSGwSkf6raBjL8rkVOvvbe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eNK7aolIJ75W7tNeh5I0An14rtg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/o9kvG28del1rfNgzQ1dRpyZAkMf.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5903,21 +5924,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "238458",
-    "tmdbId": 238458,
-    "imdbId": "tt30413044",
+    "id": "292121",
+    "tmdbId": 292121,
+    "imdbId": "tt39245629",
     "type": "tv",
-    "title": "Cashero",
-    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-    "year": "2025",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
+    "title": "The Scarecrow",
+    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -6092,21 +6113,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
+    "id": "238458",
+    "tmdbId": 238458,
+    "imdbId": "tt30413044",
     "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
+    "title": "Cashero",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "year": "2025",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7625,6 +7646,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "154523",
+    "tmdbId": 154523,
+    "imdbId": "tt19818310",
+    "type": "tv",
+    "title": "The King of Pigs",
+    "overview": "Two friends in the past were victims of serious school bullying. One could not resist his trauma, and becomes a serial killer, walking in the path of revenge. Another one tries his best to overcome the trauma and becomes a police detective. He now faces tragic fate to risk his life to capture the serial killer.",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zCyngZDHOESiY52bg4QXhtkM2S5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pMDhLfyYcuz6MMicbhkFKxMjcEE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vH8TikWlc80pFIvwtJC1kQ5Xx4J.png",
+    "certificate": "19",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "218099",
     "tmdbId": 218099,
     "imdbId": "tt26085372",
@@ -7766,27 +7808,6 @@
     "runTimeMinutes": 49,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "154523",
-    "tmdbId": 154523,
-    "imdbId": "tt19818310",
-    "type": "tv",
-    "title": "The King of Pigs",
-    "overview": "Two friends in the past were victims of serious school bullying. One could not resist his trauma, and becomes a serial killer, walking in the path of revenge. Another one tries his best to overcome the trauma and becomes a police detective. He now faces tragic fate to risk his life to capture the serial killer.",
-    "year": "2022",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zCyngZDHOESiY52bg4QXhtkM2S5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pMDhLfyYcuz6MMicbhkFKxMjcEE.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vH8TikWlc80pFIvwtJC1kQ5Xx4J.png",
-    "certificate": "19",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -8318,6 +8339,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "311648",
+    "tmdbId": 311648,
+    "imdbId": "tt47661704",
+    "type": "tv",
+    "title": "Make Me Tingle",
+    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "47179",
     "tmdbId": 47179,
     "imdbId": "tt2816734",
@@ -8354,48 +8396,6 @@
     "runTimeMinutes": 59,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "87811",
-    "tmdbId": 87811,
-    "imdbId": "tt10027990",
-    "type": "tv",
-    "title": "Persona",
-    "overview": "An exploration of different personas in an eclectic collection of four works by critically acclaimed Korean directors.",
-    "year": "2019",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hV7VMjl1vI9oHRFKLdycobzYOKB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3BZ1jjZ4x3AfOt1aaBHHK78l92K.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gFrJfMNK188DolNYHMLeNkf14MV.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 20,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "84464",
-    "tmdbId": 84464,
-    "imdbId": "tt9165992",
-    "type": "tv",
-    "title": "My Strange Hero",
-    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
-    "year": "2018",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
-    "certificate": "15",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

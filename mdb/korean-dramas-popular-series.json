@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.4,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -1519,7 +1519,7 @@
     "title": "Francesca Next Door",
     "overview": "Woo-ju, a dedicated student preparing for medical school, has his life turned upside down when Na-young, a vampire transfer student from Romania, arrives at his school. As he becomes her keeper and helps her navigate school life, their constant clashes lead to unexpected feelings that leave Na-young questioning whether it's love or simply her vampire instincts.",
     "year": "2026",
-    "rating": 6.7,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xiB4NaaTssLxFEIao3IOb9MOHHB.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oD8zIQxAkIob0XZXXdkVaQYI67S.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/5iVPOuefYp9YoHPAc8nkztPqeIO.png",
@@ -2506,7 +2506,7 @@
     "title": "MIGNON",
     "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
     "year": "2023",
-    "rating": 8.2,
+    "rating": 8.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ldhW8H3GvD3sAh4XrCqllF0Soxb.png",
@@ -2758,7 +2758,7 @@
     "title": "Tomorrow",
     "overview": "Made half-human and half-spirit by accident, a young man is employed by a company of grim reapers in the underworld to carry out special missions.",
     "year": "2022",
-    "rating": 8.363,
+    "rating": 8.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3SFVIdXXQ2DrAOARBdf1knqG7Pw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2lQ1PwGFZKM9EakCw1j4NShEuuj.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/kpo9Ff9DYBwxQVrEmbDFGGbPX7b.png",
@@ -2850,6 +2850,27 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293608",
+    "tmdbId": 293608,
+    "imdbId": "tt39219419",
+    "type": "tv",
+    "title": "Undercover Miss Hong",
+    "overview": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xlYu3wbL8DQVFqZ1QqoepdOK2AY.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3326,7 +3347,7 @@
     "title": "Summer Vacation",
     "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
     "year": "2026",
-    "rating": 8.7,
+    "rating": 8.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
@@ -3922,6 +3943,27 @@
     "runTimeMinutes": 95,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "132925",
+    "tmdbId": 132925,
+    "imdbId": "tt14687200",
+    "type": "tv",
+    "title": "The Red Sleeve",
+    "overview": "Based on a novel of the same name, it tells the record of a royal court romance between the King of Joseon who believes his duty is to his country first above love, and a court lady who wants to protect the life she has chosen.",
+    "year": "2021",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1AZK2bnsmu5PIbkfxFkKbrjf5Oo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lZwubw2MvdeSE48U0pk5W2AK8D9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rf1LuY9kL1rCoGs1AKfSNxliZ3A.png",
+    "certificate": "15",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4972,6 +5014,27 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "234590",
+    "tmdbId": 234590,
+    "imdbId": "tt30422566",
+    "type": "tv",
+    "title": "Connection",
+    "overview": "A narcotics cop is betrayed by someone he thought he could trust. Will he and a news reporter defeat the corrupt forces trying to bring him down?",
+    "year": "2024",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2dsw8j5jNOaoq0nFEKLh0PSPEcT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cdlYHuYGs5v29EFfEcBkO3kAJPO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3EcEd78pNUzgizEhZd4BwdkEyi8.png",
+    "certificate": "15",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],

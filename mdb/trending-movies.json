@@ -155,7 +155,7 @@
     "title": "The Beast",
     "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
     "year": "2026",
-    "rating": 4.7,
+    "rating": 4.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/kO6KowrneLsLdRvv4L2wuGNfT51.png",
@@ -1335,7 +1335,7 @@
     "title": "The Cycle",
     "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ziR1y1HXqb2dl7Y0HAvYicBTka8.svg",
@@ -1356,7 +1356,7 @@
     "title": "How to Rob a Bank",
     "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
     "year": "2026",
-    "rating": 6.5,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/kRnActYNrZlSHWFmd7Su0eNDZ3y.png",
@@ -2422,6 +2422,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1078605",
+    "tmdbId": 1078605,
+    "imdbId": "tt26581740",
+    "type": "movie",
+    "title": "Weapons",
+    "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ch91rpKw3JzLYToO5e73ED6kxRZ.png",
+    "certificate": "A",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "278",
     "tmdbId": 278,
     "imdbId": "tt0111161",
@@ -2584,6 +2605,27 @@
     "runTimeMinutes": 133,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1300968",
+    "tmdbId": 1300968,
+    "imdbId": "tt32558705",
+    "type": "movie",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "year": "2026",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/saubzsVS7BhgYx67CasOAl4r83t.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 159,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
@@ -2823,6 +2865,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1286656",
+    "tmdbId": 1286656,
+    "imdbId": "tt11995650",
+    "type": "movie",
+    "title": "I Play Rocky",
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hN2wGKbEOmWSduRIdgT05CGVZ8m.png",
+    "certificate": "A",
+    "runTimeMinutes": 128,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1596275",
     "tmdbId": 1596275,
     "imdbId": "tt37180686",
@@ -2842,6 +2905,27 @@
       "DE"
     ],
     "originalLanguage": "de"
+  },
+  {
+    "id": "1084409",
+    "tmdbId": 1084409,
+    "imdbId": "tt14129116",
+    "type": "movie",
+    "title": "A Talent for Murder",
+    "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5RGLn8wleUCcsmPCytyosjSUOVY.png",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "100402",
@@ -2879,6 +2963,48 @@
     "certificate": "PG-13",
     "runTimeMinutes": 161,
     "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "37724",
+    "tmdbId": 37724,
+    "imdbId": "tt1074638",
+    "type": "movie",
+    "title": "Skyfall",
+    "overview": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+    "year": "2012",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yNdqBPHleev77f0aROegyg5aak5.svg",
+    "certificate": "PG-13",
+    "runTimeMinutes": 143,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "505642",
+    "tmdbId": 505642,
+    "imdbId": "tt9114286",
+    "type": "movie",
+    "title": "Black Panther: Wakanda Forever",
+    "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/79cW38WVrj8RjT8U5FczODCYTDs.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 162,
+    "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
@@ -3012,6 +3138,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "10764",
+    "tmdbId": 10764,
+    "imdbId": "tt0830515",
+    "type": "movie",
+    "title": "Quantum of Solace",
+    "overview": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+    "year": "2008",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uGs5Z7dMguf7kxWubGFcp9EhKcy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5AtI8ZOsdPQsxwEHFqq5FYObTcJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "27205",
     "tmdbId": 27205,
     "imdbId": "tt1375666",
@@ -3034,6 +3181,111 @@
     "originalLanguage": "en"
   },
   {
+    "id": "2062",
+    "tmdbId": 2062,
+    "imdbId": "tt0382932",
+    "type": "movie",
+    "title": "Ratatouille",
+    "overview": "In one of Paris's finest restaurants, Remy, a determined young rat, dreams of becoming a renowned French chef. Torn between his family's wishes and his true calling, Remy and his pal Linguini set in motion a hilarious chain of events that turns the City of Lights upside down.",
+    "year": "2007",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5rOOsVxvoBgeFqneF65rGTog90H.png",
+    "certificate": "G",
+    "runTimeMinutes": 111,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "324857",
+    "tmdbId": 324857,
+    "imdbId": "tt4633694",
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "certificate": "U",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "109445",
+    "tmdbId": 109445,
+    "imdbId": "tt2294629",
+    "type": "movie",
+    "title": "Frozen",
+    "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+    "year": "2013",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r05nI8WQvBbdvuwVXtXuvOi0cJ9.png",
+    "certificate": "U",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1381078",
+    "tmdbId": 1381078,
+    "imdbId": "tt34384900",
+    "type": "movie",
+    "title": "Love of Your Life",
+    "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uhuoKyXfPZgzWdHhvC27VfdzUT.png",
+    "certificate": "R",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8966",
+    "tmdbId": 8966,
+    "imdbId": "tt1099212",
+    "type": "movie",
+    "title": "Twilight",
+    "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+    "year": "2008",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yYHBM5RxdmXoWivayS6CcRWJBnM.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 122,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1780407",
     "tmdbId": 1780407,
     "imdbId": "tt47791876",
@@ -3041,7 +3293,7 @@
     "title": "Snoopy Presents: 12 Days of Snoopy",
     "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3gIGgmK27lt3YK9EUnZ6iXMHg7Q.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ylmCTUHwQBVjH2RtuJpR4kTvwep.png",
