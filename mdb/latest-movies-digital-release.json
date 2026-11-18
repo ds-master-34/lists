@@ -2514,27 +2514,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1184941",
-    "tmdbId": 1184941,
-    "imdbId": "tt32252801",
-    "type": "movie",
-    "title": "Blue Heron",
-    "overview": "A family of six's fresh start on 1990s Vancouver Island unravels as their youngest child, Sasha, witnesses the increasingly dangerous behavior of her older brother, Jeremy.",
-    "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/t62n8FPCo4kJZYnsxkcLojgThJF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xSLqrgIPQhyZUzqA2hvAPtGUrK9.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1228710",
     "tmdbId": 1228710,
     "imdbId": "tt30825738",
@@ -2717,69 +2696,6 @@
     "certificate": "",
     "runTimeMinutes": 80,
     "primaryGenre": "Action",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1368314",
-    "tmdbId": 1368314,
-    "imdbId": "tt33763941",
-    "type": "movie",
-    "title": "Passenger",
-    "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-    "year": "2026",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/45tsYNRBWs9YGaieZzqy7nmbE2f.png",
-    "certificate": "A",
-    "runTimeMinutes": 94,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1397485",
-    "tmdbId": 1397485,
-    "imdbId": "tt32432654",
-    "type": "movie",
-    "title": "Girls Like Girls",
-    "overview": "After her mother's passing, 17-year-old Coley navigates new feelings of intimacy with Sonya in rural Oregon, where both girls must overcome their mutual uncertainties and self-doubt to embrace their connection.",
-    "year": "2026",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hSdK33Mjsdfb8TpoUTI3A3OE3RO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/EfTvfnkJReFY2MxquRxZxAMzCJ.png",
-    "certificate": "R",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1500890",
-    "tmdbId": 1500890,
-    "imdbId": "tt37369064",
-    "type": "movie",
-    "title": "Lockbox",
-    "overview": "A woman puts her life on the line to protect her troubled and enigmatic cousin, who has been targeted and hunted by a powerful supernatural force.",
-    "year": "2026",
-    "rating": 4.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eRLuOfJyVJBN6htK6pGoVDUxkPa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5NO5ZasDjCaRgU1Efmtiv1nwLjq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cayjo7FqJUOP2sEBU4cZMTEOKwp.png",
-    "certificate": "+16",
-    "runTimeMinutes": 105,
-    "primaryGenre": "Horror",
     "secondaryGenre": "",
     "originCountries": [
       "US"
