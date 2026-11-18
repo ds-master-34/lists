@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "335981",
+    "tmdbId": 335981,
+    "imdbId": "tt47021035",
+    "type": "tv",
+    "title": "Cunk on Cinema",
+    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+    "year": "2026",
+    "rating": 7.438,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qdMRREpBz0nTx6IxEy3U4TiHF5y.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "291507",
     "tmdbId": 291507,
     "imdbId": "tt8014982",
@@ -273,6 +294,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "334700",
+    "tmdbId": 334700,
+    "imdbId": "tt45854934",
+    "type": "tv",
+    "title": "The Gift of Deceit",
+    "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
+    "year": "2026",
+    "rating": 7.192,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pmGWwpLDvBwIevg5HDu5G3MUC96.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
   },
   {
     "id": "333533",
@@ -611,6 +653,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "304452",
+    "tmdbId": 304452,
+    "imdbId": "tt37109705",
+    "type": "tv",
+    "title": "The Lament of Autumn",
+    "overview": "In the turbulent era of the Republic of China, student Ye Pingjun takes a job at a Western Hunan meeting house to fund her mother’s medical care. However, she's unexpectedly caught in the crossfire of an assassination attempt against the powerful Yu family’s fifth son, Yu Changxuan, and ends up accused of a crime she didn’t commit. Pingjun strikes a bold bargain: if Changxuan cannot identify the true culprit within ten days, he must clear her name. What begins as a high-stakes investigation quickly evolves into a calculated courtship as Changxuan maneuvers to win her heart while hiding a complex web of secrets. Will their blossoming romance survive the encroaching shadows of war, or will the secrets of their past pull them apart?",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kH0dBgwoi2tb7YkOsPGTq18UVtc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2BqbRpQjvm0tE2Im601gxnIfPW5.png",
+    "certificate": "",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
     "id": "331693",
     "tmdbId": 331693,
     "imdbId": "tt43697602",
@@ -947,6 +1010,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "307106",
+    "tmdbId": 307106,
+    "imdbId": "tt39087958",
+    "type": "tv",
+    "title": "Between Steps",
+    "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+    "year": "2026",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/guKx4FP8QYBsyGZchJp1BaXPCJl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "334151",
@@ -2023,6 +2107,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "284825",
+    "tmdbId": 284825,
+    "imdbId": "tt35932166",
+    "type": "tv",
+    "title": "Mr. Fanboy",
+    "overview": "Cast in a BL drama with his idol, devoted fanboy Wan finds his heart pulled in a shocking new direction by the idol's protective partner, Third.",
+    "year": "2026",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7WsSSjK2wWNpw3LHYY2ZXZ0icfX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dTdzr47uUNTxGOFOs2ZBWB55RtN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8T3U0J34vgzNbGn5R0WBTQrX7u7.png",
+    "certificate": "น 18+",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
   },
   {
     "id": "306630",
@@ -4105,110 +4210,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "287009",
-    "tmdbId": 287009,
-    "imdbId": "tt39184653",
-    "type": "tv",
-    "title": "Doctor on the Edge",
-    "overview": "In South Korea, military service is mandatory for all men. But a select few—like privileged medical students—can serve as public health doctors instead. This is the story of those privileged few. Do Ji-ui, a plastic surgeon, is assigned to Pyeondong-do, an isolated island no one wants to go to. From the very first day, ominous signs begin to appear. Can he survive a full year on this hellish island and make it out alive—or will the island break him before he can hold the line?",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pgQOVZ0XelypWRHKu4rhLFkYp3y.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "321808",
-    "tmdbId": 321808,
-    "imdbId": "tt38683169",
-    "type": "tv",
-    "title": "The Trio",
-    "overview": "Middle-aged Hugo encounters his childhood loves' daughter, sending him back to when his younger self begins college. His memories offer a glimpse into a deeply entwined and emotionally complex story of yearning, as a love triangle becomes increasingly complicated. Tracing the emotional journeys of lead characters Hugo, Thora, and August.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fsDfeHhCmOTeK8e1KAdHsdAINha.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ieChPCI6QryARoRf5IYJuZ32THi.jpg",
-    "logoUrl": null,
-    "certificate": "Från 11 år",
-    "runTimeMinutes": 33,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "SE"
-    ],
-    "originalLanguage": "sv"
-  },
-  {
-    "id": "322974",
-    "tmdbId": 322974,
-    "imdbId": "tt42835175",
-    "type": "tv",
-    "title": "Bring Me the Beauties: A Model Cult",
-    "overview": "Learn how Hoyt Richards was drawn into the spiritual group Eternal Values by its enigmatic leader Frederick von Mierers.",
-    "year": "2026",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/46o93NKRzaQDPbAUXBOYxuVIL9q.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wtiipa5mucHotfxO0cr1b7roqt4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/unXKx5wqryIEEgdESNkkh9pGpa7.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "286617",
-    "tmdbId": 286617,
-    "imdbId": "tt35768911",
-    "type": "tv",
-    "title": "Tip Toe",
-    "overview": "An ordinary Manchester suburb becomes a minefield of lies and violence when Leo gives neighbour Clive his spare key.",
-    "year": "2026",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nhOm2TM9iarJmsSMBkX0hHqA58j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gcleyh5KBnoXoYj0yATtD6dwClz.png",
-    "certificate": "",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "317883",
-    "tmdbId": 317883,
-    "imdbId": "tt42764103",
-    "type": "tv",
-    "title": "Torn Apart",
-    "overview": "Aras, a fearless seventeen-year-old boy, comes to Bodrum to search for his younger sibling, the only remaining member of his family whom he lost at the age of five. His new life in Bodrum will turn into a challenging struggle when his path crosses with the Akkaya family, the most powerful family in the city.",
-    "year": "2026",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
-    "logoUrl": null,
-    "certificate": "7+",
-    "runTimeMinutes": 144,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "TR"
-    ],
-    "originalLanguage": "tr"
   }
 ]
