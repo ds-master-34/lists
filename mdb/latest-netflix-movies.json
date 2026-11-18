@@ -21,6 +21,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1823907",
+    "tmdbId": 1823907,
+    "imdbId": "tt50969289",
+    "type": "movie",
+    "title": "Russell Brand: Open Secret",
+    "overview": "From comedy stardom to a criminal trial, inside voices and archive footage charts British comedian Russell Brand's meteoric rise and steep fall following allegations of sexual offences.",
+    "year": "2026",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/78g7VIcJifXkvYP6yClFOJgrX2T.png",
+    "certificate": "NR",
+    "runTimeMinutes": 83,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1518204",
     "tmdbId": 1518204,
     "imdbId": "tt37675123",
@@ -1931,6 +1952,27 @@
     "secondaryGenre": "Crime",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1339713",
+    "tmdbId": 1339713,
+    "imdbId": "tt37287335",
+    "type": "movie",
+    "title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "year": "2026",
+    "rating": 8.16,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+    "certificate": "A",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -4163,49 +4205,6 @@
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
     "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1400383",
-    "tmdbId": 1400383,
-    "imdbId": "tt34966955",
-    "type": "movie",
-    "title": "Teenage Wasteland",
-    "overview": "Inspired by an unconventional teacher, a group of teenagers in upstate New York in the early 1990s make a student film and uncover a vast conspiracy that is poisoning their community. Thirty years later, they revisit their film and confront the legacy of this transformative experience.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vRZ9gMr02HJFn3EOKNcXzP2vD54.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fkfDGk9L7Ihj8FCjbaNt2Gqdo3Q.jpg",
-    "logoUrl": null,
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 110,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1218762",
-    "tmdbId": 1218762,
-    "imdbId": "tt24852126",
-    "type": "movie",
-    "title": "Jingle Bell Heist",
-    "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
-    "year": "2025",
-    "rating": 5.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/AvLRMTGnRNmKcvE8pfBNH4CSV9I.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 96,
-    "primaryGenre": "Romance",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB",
       "US"
     ],
     "originalLanguage": "en"
