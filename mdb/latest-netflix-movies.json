@@ -63,6 +63,27 @@
     "originalLanguage": "sv"
   },
   {
+    "id": "1664682",
+    "tmdbId": 1664682,
+    "imdbId": "tt50817930",
+    "type": "movie",
+    "title": "The Unthinkable Daughter",
+    "overview": "Decades of questions and a crime that shook Brazil. Suzane von Richthofen, convicted for the murder of her parents, tells the whole story in her own words.",
+    "year": "2026",
+    "rating": 5.056,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pJSGofOMVh4GgriIChyE8mJhKJD.png",
+    "certificate": "14",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "1666787",
     "tmdbId": 1666787,
     "imdbId": "tt41593493",
@@ -4188,26 +4209,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1386865",
-    "tmdbId": 1386865,
-    "imdbId": "tt34767956",
-    "type": "movie",
-    "title": "Up Next: Silvio Santos",
-    "overview": "This biopic follows Silvio Santos in his 1989 presidential race, as a young journalist joins his campaign to uncover his past and what drives him to run.",
-    "year": "2025",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oPPHJPKFOODJkI49Q9InSPEKmBr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kR1EnvSecgUTACYO3wy7F7VCsi.jpg",
-    "logoUrl": null,
-    "certificate": "12",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "BR"
-    ],
-    "originalLanguage": "pt"
   }
 ]
