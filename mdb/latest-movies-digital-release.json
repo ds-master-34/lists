@@ -1,5 +1,26 @@
 [
   {
+    "id": "1084409",
+    "tmdbId": 1084409,
+    "imdbId": "tt14129116",
+    "type": "movie",
+    "title": "A Talent for Murder",
+    "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5RGLn8wleUCcsmPCytyosjSUOVY.png",
+    "certificate": "R",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Thriller",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1129188",
     "tmdbId": 1129188,
     "imdbId": "tt27803347",
@@ -1198,27 +1219,6 @@
     "secondaryGenre": "Adventure",
     "originCountries": [
       "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1291366",
-    "tmdbId": 1291366,
-    "imdbId": "tt29494959",
-    "type": "movie",
-    "title": "The Deputy",
-    "overview": "A young sheriff's deputy finds himself in the crosshairs of dangerous criminals when the dead body he is assigned to keep an eye on disappears from a crime scene.",
-    "year": "2026",
-    "rating": 5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3WBGquZOd4iNl288BmWzkp0Fbdy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bCmgLJxpjsKsu4eEkWhGkuSAkw2.png",
-    "certificate": "R",
-    "runTimeMinutes": 100,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   },
