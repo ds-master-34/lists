@@ -1029,6 +1029,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "300523",
+    "tmdbId": 300523,
+    "imdbId": "tt38336631",
+    "type": "tv",
+    "title": "The Blue Road",
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "232766",
     "tmdbId": 232766,
     "imdbId": "tt29650530",
@@ -4831,6 +4852,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "256355",
+    "tmdbId": 256355,
+    "imdbId": "tt33047061",
+    "type": "tv",
+    "title": "Kian's Bizarre B&B",
+    "overview": "On a remote island, Kian84 hosts a quirky B&B escape, where BTS' Jin and Ji Ye-eun lead guests through playful exploits and delightful chaos.",
+    "year": "2025",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/MRbE4voyOTxNlrfykwXmPeSfB7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iPiacwH8UK9Jnt9U27lhwdpU2cE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mMxpNyLlpEcE5HaiZMRoRo8SNCF.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "232616",
     "tmdbId": 232616,
     "imdbId": "tt32166552",
@@ -8309,6 +8351,48 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "68426",
+    "tmdbId": 68426,
+    "imdbId": "tt6898470",
+    "type": "tv",
+    "title": "You Are a Gift",
+    "overview": "Costume designer Kong Hyun Soo fights against trials and hardships in order to succeed and find her happiness.",
+    "year": "2016",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fQClevg2uVc8FE4QtnWtQoKUyQT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fIQ19YQ0P6oZWBc9kfCEur8fr5.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "80965",
+    "tmdbId": 80965,
+    "imdbId": "tt8689936",
+    "type": "tv",
+    "title": "Witch's Love",
+    "overview": "A landlord threatens to expose three generations of witches hiding their magical world from unsuspecting eyes.",
+    "year": "2018",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2dUE6bTv4sL9khs2mBMl5qn8sno.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7w72d9776KDNvjVaEDeVSJCmJ8d.jpg",
+    "logoUrl": null,
+    "certificate": "12",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

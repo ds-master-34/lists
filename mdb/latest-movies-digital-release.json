@@ -7,7 +7,7 @@
     "title": "A Talent for Murder",
     "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 6.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/5RGLn8wleUCcsmPCytyosjSUOVY.png",
@@ -2738,6 +2738,27 @@
     "certificate": "",
     "runTimeMinutes": 80,
     "primaryGenre": "Action",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1368314",
+    "tmdbId": 1368314,
+    "imdbId": "tt33763941",
+    "type": "movie",
+    "title": "Passenger",
+    "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "year": "2026",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/45tsYNRBWs9YGaieZzqy7nmbE2f.png",
+    "certificate": "A",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Horror",
     "secondaryGenre": "",
     "originCountries": [
       "US"
