@@ -1,5 +1,47 @@
 [
   {
+    "id": "1610188",
+    "tmdbId": 1610188,
+    "imdbId": "tt39309264",
+    "type": "movie",
+    "title": "Crazy Kalyanam",
+    "overview": "The story focuses on a village girl, played by Anupama Parameswaran, who faces struggles regarding her inability to get married, which drives the comedic and family-oriented plot.",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dt6VT9GSCH6PSnTvngbF0IEnAho.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4E7AhaPeYQbJQtumREm9IDo16bm.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 144,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
+    "id": "1637705",
+    "tmdbId": 1637705,
+    "imdbId": "tt36915004",
+    "type": "movie",
+    "title": "#Cult",
+    "overview": "A group of young boys head to a party expecting a night of fun, but soon discover the reality is far darker than they imagined. What starts as excitement spirals into terror, pushing them into a brutal fight for survival.",
+    "year": "2026",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lU5R4437Dtgom9q5HVlt6ArxwcM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lFD4A4HKW2XWnZ0w97P0uQvmVHD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f1LvUFzzyvY2GTvpBKUG708Zxo7.png",
+    "certificate": "A",
+    "runTimeMinutes": 152,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
     "id": "1748499",
     "tmdbId": 1748499,
     "imdbId": "tt41740111",
