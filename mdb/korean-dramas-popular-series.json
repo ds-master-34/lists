@@ -168,27 +168,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "311648",
-    "tmdbId": 311648,
-    "imdbId": "tt47661704",
-    "type": "tv",
-    "title": "Make Me Tingle",
-    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
-    "certificate": "15",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "316702",
     "tmdbId": 316702,
     "imdbId": "tt49692512",
@@ -210,27 +189,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "99966",
-    "tmdbId": 99966,
-    "imdbId": "tt14169960",
-    "type": "tv",
-    "title": "All of Us Are Dead",
-    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
-    "year": "2022",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i3NbH6xn7Y76LV2QmPnG3t6w1Su.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "127529",
     "tmdbId": 127529,
     "imdbId": "tt26315487",
@@ -246,6 +204,27 @@
     "runTimeMinutes": 75,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "99966",
+    "tmdbId": 99966,
+    "imdbId": "tt14169960",
+    "type": "tv",
+    "title": "All of Us Are Dead",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+    "year": "2022",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i3NbH6xn7Y76LV2QmPnG3t6w1Su.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -350,27 +329,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 62,
     "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "314939",
-    "tmdbId": 314939,
-    "imdbId": "tt43736405",
-    "type": "tv",
-    "title": "A Love Other Than Yours",
-    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
-    "year": "2026",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
@@ -630,6 +588,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "311648",
+    "tmdbId": 311648,
+    "imdbId": "tt47661704",
+    "type": "tv",
+    "title": "Make Me Tingle",
+    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
+    "certificate": "15",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "307106",
     "tmdbId": 307106,
     "imdbId": "tt39087958",
@@ -756,6 +735,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "314939",
+    "tmdbId": 314939,
+    "imdbId": "tt43736405",
+    "type": "tv",
+    "title": "A Love Other Than Yours",
+    "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iKgdhgBPi1cCRRqsUgaxUDRuFP6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "278573",
     "tmdbId": 278573,
     "imdbId": "tt39333617",
@@ -813,27 +813,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
-    "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -966,27 +945,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "305644",
-    "tmdbId": 305644,
-    "imdbId": "tt39368345",
-    "type": "tv",
-    "title": "Four Hands, Two Sonatas",
-    "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
-    "year": "2026",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ioBZEKDQ390CyxwPQXxHkRD7G9K.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "112888",
     "tmdbId": 112888,
     "imdbId": "tt13274038",
@@ -1092,6 +1050,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "292121",
+    "tmdbId": 292121,
+    "imdbId": "tt39245629",
+    "type": "tv",
+    "title": "The Scarecrow",
+    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233347",
     "tmdbId": 233347,
     "imdbId": "tt35304338",
@@ -1107,6 +1086,27 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "305644",
+    "tmdbId": 305644,
+    "imdbId": "tt39368345",
+    "type": "tv",
+    "title": "Four Hands, Two Sonatas",
+    "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ioBZEKDQ390CyxwPQXxHkRD7G9K.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -2247,6 +2247,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "67391",
+    "tmdbId": 67391,
+    "imdbId": "tt5966882",
+    "type": "tv",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "year": "2016",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Boog9v42xErQhxoSxMP0pSDAu8.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "206693",
     "tmdbId": 206693,
     "imdbId": "tt26228190",
@@ -2283,27 +2304,6 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "96571",
-    "tmdbId": 96571,
-    "imdbId": "tt11052470",
-    "type": "tv",
-    "title": "Move to Heaven",
-    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
-    "year": "2021",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qXZmSOeeS0JtEUc2imQW0TjRLe9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -2415,27 +2415,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "194797",
-    "tmdbId": 194797,
-    "imdbId": "tt24245988",
-    "type": "tv",
-    "title": "Doona!",
-    "overview": "A college student navigates life and school while dealing with a unique predicament — he's living with a beautiful former K-pop sensation.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1aBYcDp9CVbwU4h6mOYkkUgMPEl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jA6yOnSocxcCpaFHGaNl09GYTRF.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "253905",
     "tmdbId": 253905,
     "imdbId": "tt33503491",
@@ -2451,27 +2430,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "67391",
-    "tmdbId": 67391,
-    "imdbId": "tt5966882",
-    "type": "tv",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "year": "2016",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1Boog9v42xErQhxoSxMP0pSDAu8.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -2934,6 +2892,27 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "194797",
+    "tmdbId": 194797,
+    "imdbId": "tt24245988",
+    "type": "tv",
+    "title": "Doona!",
+    "overview": "A college student navigates life and school while dealing with a unique predicament — he's living with a beautiful former K-pop sensation.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bQhiOkU3lCu5pwCqPdNVG5GBLlj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1aBYcDp9CVbwU4h6mOYkkUgMPEl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jA6yOnSocxcCpaFHGaNl09GYTRF.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -3613,6 +3592,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "96571",
+    "tmdbId": 96571,
+    "imdbId": "tt11052470",
+    "type": "tv",
+    "title": "Move to Heaven",
+    "overview": "Finding life in all that’s left behind, a detail-oriented trauma cleaner and his estranged uncle deliver untold stories of the departed to loved ones.",
+    "year": "2021",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qXZmSOeeS0JtEUc2imQW0TjRLe9.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233219",
     "tmdbId": 233219,
     "imdbId": "tt34622123",
@@ -3928,6 +3928,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "61148",
+    "tmdbId": 61148,
+    "imdbId": "tt3322566",
+    "type": "tv",
+    "title": "Empress Ki",
+    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
+    "year": "2013",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/om2oOFMZqTv41HkS9faNm0VWoPo.png",
+    "certificate": "NR",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "119772",
     "tmdbId": 119772,
     "imdbId": "tt14169770",
@@ -3964,27 +3985,6 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "314784",
-    "tmdbId": 314784,
-    "imdbId": "tt41090249",
-    "type": "tv",
-    "title": "Absolute Value of Romance",
-    "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
-    "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sWgf0zfmjKiwXl5ND2b9apkChkV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jHWTQk7okdJ2hIhqlKItPwPxxv4.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 39,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4306,27 +4306,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "62933",
-    "tmdbId": 62933,
-    "imdbId": "tt4803738",
-    "type": "tv",
-    "title": "Hello Monster",
-    "overview": "A top detective is reunited with a childhood friend who has since become a leading criminal profiler. Can they join forces to stop a serial killer?",
-    "year": "2015",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/t1f0EKjQGCd5ip8TLJzDFOEDDdK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2RyoO9g8UskEfl2J27Am7l8Nnjx.jpg",
-    "logoUrl": null,
-    "certificate": "16",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "93846",
     "tmdbId": 93846,
     "imdbId": "tt11228748",
@@ -4342,27 +4321,6 @@
     "runTimeMinutes": 77,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61148",
-    "tmdbId": 61148,
-    "imdbId": "tt3322566",
-    "type": "tv",
-    "title": "Empress Ki",
-    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
-    "year": "2013",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/om2oOFMZqTv41HkS9faNm0VWoPo.png",
-    "certificate": "NR",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
     "originCountries": [
       "KR"
     ],
@@ -4474,27 +4432,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "243761",
-    "tmdbId": 243761,
-    "imdbId": "tt32840498",
-    "type": "tv",
-    "title": "Good Partner",
-    "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
-    "year": "2024",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2gQTzAEFafG63vJuXMzl4Jr2pkI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lmr79Dvaa5efF5rtDqUbLWCUfa8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uVb0hTTsJDIPgxG1NAA92aRk5xy.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "210781",
     "tmdbId": 210781,
     "imdbId": "tt27203727",
@@ -4530,27 +4467,6 @@
     "certificate": "NR",
     "runTimeMinutes": 62,
     "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "63767",
-    "tmdbId": 63767,
-    "imdbId": "tt5045900",
-    "type": "tv",
-    "title": "She Was Pretty",
-    "overview": "A former ugly duckling tries to track down his childhood first love. But what will happen when a case of false identities backfires?",
-    "year": "2015",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sIsUgKIFYAASpvvV5Aaip2xa7Zd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5auQnyJ0jQfiYlg88lsW0pCLBRJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ynRugwIRAwdMLwpncJhjWol87ke.png",
-    "certificate": "NR",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
