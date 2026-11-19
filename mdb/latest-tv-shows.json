@@ -1,5 +1,26 @@
 [
   {
+    "id": "303182",
+    "tmdbId": 303182,
+    "imdbId": "tt38707741",
+    "type": "tv",
+    "title": "Murder in Galicia",
+    "overview": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lpwCHWx1d4FiHaeYCWfEv60owAC.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "249565",
     "tmdbId": 249565,
     "imdbId": "tt31842126",
@@ -82,6 +103,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "336243",
+    "tmdbId": 336243,
+    "imdbId": "tt37214564",
+    "type": "tv",
+    "title": "ChiaroScuro",
+    "overview": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qgmaTE4OyoNBdyxIzxg3rnLiPZ9.png",
+    "certificate": "M18",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
   },
   {
     "id": "303044",
@@ -4166,48 +4208,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "289271",
-    "tmdbId": 289271,
-    "imdbId": "tt37140755",
-    "type": "tv",
-    "title": "Ashes to Crown",
-    "overview": "The general's daughter, Chu Zhao, refuses to accept her fate as nothing more than a pawn to be sacrificed in Xiao Xun's rise to power. Taking matters into her own hands, she fights her way out with the help of Xie Yanlai, protecting the emperor's grandson as he makes his way to the emperor's presence. Through a tense standoff in the imperial court, she helps the young prince secure the throne, cutting off Xiao Xun's path to power. But with a new emperor comes new crises. The realm is torn by internal strife and foreign threats. Working alongside Xie Yanlai, Chu Zhao navigates the treacherous currents of the court, leads troops into battle, and ultimately rewrites her own destiny, sparing the people of the State of Chu from the ravages of war.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/avupwPQBoIp8ahCaIYIQfT1N6ps.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3z8a8eWrFXLSiSSQGSZH3ajfNDF.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CN"
-    ],
-    "originalLanguage": "zh"
-  },
-  {
-    "id": "324288",
-    "tmdbId": 324288,
-    "imdbId": "tt38783037",
-    "type": "tv",
-    "title": "The Fortune",
-    "overview": "Amanda Blakefield's life is a happy one, with her husband Jimmy and their son Luke. But when Amanda is left an enormous inheritance by a man she has neither met nor heard of before, her life starts to fall apart. Amanda becomes embroiled in the world of the Worralls, where Martin Worrall is head of a family bound in past secrets. As Amanda is drawn further and further into past events and relationships, all of their lives are turned upside down.",
-    "year": "2026",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/et1W2kn43yEniVSQY0IEB4eB1UX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/srlbEGpNG8zmLap89i7q985TJqt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5o7gHzby9TK524HKN6YLqa6WanD.png",
-    "certificate": "",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }
