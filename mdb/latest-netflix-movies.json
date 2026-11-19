@@ -567,6 +567,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1473148",
+    "tmdbId": 1473148,
+    "imdbId": "tt37020296",
+    "type": "movie",
+    "title": "Gentle Monster",
+    "overview": "After relocating with her family to the countryside, a renowned pianist uncovers a life-shattering truth that forces her to confront the complexities of love, trust, and deception.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e6JypFBgG2Mv037ZxhnxkEO8fHa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A8ZP4aE0gq9FrHydF9HU4LCmrtF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yUZDqNwWMHTeA95pMJqRLQLSxk0.png",
+    "certificate": "R",
+    "runTimeMinutes": 114,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "AT"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "1764166",
     "tmdbId": 1764166,
     "imdbId": "tt41007422",
@@ -4183,27 +4204,6 @@
     "runTimeMinutes": 125,
     "primaryGenre": "Drama",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1400383",
-    "tmdbId": 1400383,
-    "imdbId": "tt34966955",
-    "type": "movie",
-    "title": "Teenage Wasteland",
-    "overview": "Inspired by an unconventional teacher, a group of teenagers in upstate New York in the early 1990s make a student film and uncover a vast conspiracy that is poisoning their community. Thirty years later, they revisit their film and confront the legacy of this transformative experience.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vRZ9gMr02HJFn3EOKNcXzP2vD54.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fkfDGk9L7Ihj8FCjbaNt2Gqdo3Q.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xVwuwGa93XXNCp4IHXZusSa8lfF.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 110,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],

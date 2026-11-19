@@ -484,6 +484,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1814761",
+    "tmdbId": 1814761,
+    "imdbId": "tt44120119",
+    "type": "movie",
+    "title": "Last Stream",
+    "overview": "Desperate for views, a fading streamer stages a fake haunting connected to an unsolved case. The stream spirals into a real-time nightmare watched by tens of thousands and someone in the chat seems to know exactly how the night will end.",
+    "year": "2026",
+    "rating": 4.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nVeaI1TXR6ROjJJY29U61M45rY4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hNcj6fvgFpUNdH8maCn0DCar8vB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pgLI4bJI0TVoc3PP3BzdRRs9Hd1.png",
+    "certificate": "",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1727734",
     "tmdbId": 1727734,
     "imdbId": "tt43655467",
@@ -732,6 +753,27 @@
     "runTimeMinutes": 112,
     "primaryGenre": "Drama",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1513253",
+    "tmdbId": 1513253,
+    "imdbId": "tt32827454",
+    "type": "movie",
+    "title": "Tiny Fugitives",
+    "overview": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
+    "year": "2026",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dWuKeIxbWszZgnxtQYw9vH8mw6h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/prTDpWGdBEF0JWpGIWEpKG8JNFL.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],

@@ -2478,6 +2478,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "227191",
+    "tmdbId": 227191,
+    "imdbId": "tt29927351",
+    "type": "tv",
+    "title": "Nine Puzzles",
+    "overview": "Ten years after discovering her murdered uncle, Ena and Detective Hansaem must cooperate to stop a series of similar murders - each linked by strange puzzle pieces.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eQWEWCOg5LZLu2AihfMueiHGw1Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6OfitF3ifOJmlglcixB3ixnNydW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3fupCJldXkrQDEEoRdpDpIb3ZET.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "297640",
     "tmdbId": 297640,
     "imdbId": "tt39010903",
@@ -3781,6 +3802,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "322051",
+    "tmdbId": 322051,
+    "imdbId": "tt49856079",
+    "type": "tv",
+    "title": "The Sound of Sugar Cubes",
+    "overview": "A high school boy who can hear the emotions and memories of others through sound tries to hide his unusual ability from the world. His encounter with a seemingly perfect idol trainee forces him to confront feelings he has long suppressed. As love, obsession, and emotional wounds intertwine, their relationship reveals the fragile boundary between salvation and destruction.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g93FD4IwGc5ZokStoc8cYC8fu55.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bGveCIHFN2FZrn4OcXsHZiQrrgr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d5BLyhvcEeeJwN0oMWcFCFahwhW.png",
+    "certificate": "19",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "93657",
     "tmdbId": 93657,
     "imdbId": "tt10826102",
@@ -4153,6 +4195,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "137094",
+    "tmdbId": 137094,
+    "imdbId": "tt26229508",
+    "type": "tv",
+    "title": "Love to Hate You",
+    "overview": "For an attorney who despises losing to men and an A-list actor who distrusts women, love means nothing — until they're forced to date each other.",
+    "year": "2023",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ifOXQyDvpVnZvKq7pR8fujtbeQk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wApbr6dC602QMnoCMdRvfV4aMKq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wnDCW1EQI3sAqRwG22jEv5Zl9C8.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8204,6 +8267,132 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61580",
+    "tmdbId": 61580,
+    "imdbId": "tt4284134",
+    "type": "tv",
+    "title": "Naeil's Cantabile",
+    "overview": "An arrogant piano student is forced to perform a duet with an unorthodox classmate, but her unique take on music might be just what he needs.",
+    "year": "2014",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/65B1t9NJe4KEGzT6d0jXmehptn8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gGg1aSFMED2cFDf8g97SmPEd4EE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nShzW8gKU7MhyQApBlMtlt36SFu.png",
+    "certificate": "B-15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "74000",
+    "tmdbId": 74000,
+    "imdbId": "tt7208216",
+    "type": "tv",
+    "title": "20th Century Boy and Girl",
+    "overview": "The heartwarming romantic comedy is about the friendship and love lives of three single virgins born in 1983. Their romantic lives begin when the boy they liked in their youth shows up one day. They live in Oksu-dong in rundown apartments, and the warm human drama will be about neighborly affection, and the meaning of home, family, and friendship.",
+    "year": "2017",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4Wdz7OvRycgYbd9EHFYdVTcBNJ1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3Pfg0IZeb5kHP21hhYWqIc558R7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dtmX7PsfDNZvZmybq4cUZljSfMj.png",
+    "certificate": "15",
+    "runTimeMinutes": 35,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "75066",
+    "tmdbId": 75066,
+    "imdbId": "tt7608190",
+    "type": "tv",
+    "title": "Black Knight",
+    "overview": "A successful executive determined to do whatever it takes to protect the woman he loves, meets a travel agent, who may be linked to his past.",
+    "year": "2017",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dONaJyzTAG973ifDGX0StnWMrC4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h3vIGjwFmd7tA1SdbYLivoIosyB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9yz2lLJBYy169CT7B2vMliwOFv3.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "74831",
+    "tmdbId": 74831,
+    "imdbId": "tt7608128",
+    "type": "tv",
+    "title": "Judge vs. Judge",
+    "overview": "An unconventional judge sets out to prove the innocence of her brother, a convict accused of rape and murder, with the help of a fellow justice.",
+    "year": "2017",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7Bc9d4rqvTacG6r64ec1dwXpl88.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/z5fr0L3iGz93eKMtSuRztWPDO1o.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "43135",
+    "tmdbId": 43135,
+    "imdbId": "tt2362760",
+    "type": "tv",
+    "title": "A Gentleman's Dignity",
+    "overview": "Four men with complicated love lives refuse to admit they're getting older, and attempt to prove that forty is the new thirty!",
+    "year": "2012",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zdYmI1uYrHsNbw9qMHiWDnGRwXX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9GrOL5cSJ8sz3rt7zNRTK6neWL.jpg",
+    "logoUrl": null,
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "61048",
+    "tmdbId": 61048,
+    "imdbId": "tt3284102",
+    "type": "tv",
+    "title": "The Prime Minister and I",
+    "overview": "A tabloid reporter and a widowed prime minister enter a contract marriage, navigating politics, family, and unexpected romance.",
+    "year": "2013",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dTIpXvBzzbqHxkigHkovjt9zxqz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eMJFY3NpQHh4bgheStnRKKLUTgN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dMATWkgqDpRf0zSDsqEBBt9YPZE.png",
+    "certificate": "15",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],

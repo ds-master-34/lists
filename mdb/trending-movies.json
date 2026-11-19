@@ -2655,6 +2655,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1185806",
+    "tmdbId": 1185806,
+    "imdbId": "tt29356163",
+    "type": "movie",
+    "title": "PAW Patrol: The Dino Movie",
+    "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cxXSF4aY5N2cOGwaga5OnpPFHzk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dY4LyVSvjk9dN20YsxuouaMIMox.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Bw024JsfPIsxp26W4tZlUtAtU.png",
+    "certificate": "PG",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1291595",
+    "tmdbId": 1291595,
+    "imdbId": "tt32393988",
+    "type": "movie",
+    "title": "Insidious: Out of the Further",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f65DhAYFi98FsRi4RWHTKkFtChu.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "293660",
     "tmdbId": 293660,
     "imdbId": "tt1431045",
@@ -2691,6 +2733,48 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "862",
+    "tmdbId": 862,
+    "imdbId": "tt0114709",
+    "type": "movie",
+    "title": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "year": "1995",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png",
+    "certificate": "G",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49051",
+    "tmdbId": 49051,
+    "imdbId": "tt0903624",
+    "type": "movie",
+    "title": "The Hobbit: An Unexpected Journey",
+    "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+    "year": "2012",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h5DwmLJAw9xr9Sx33G0ckg7yjTB.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 169,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
     "originCountries": [
       "US"
     ],
@@ -2739,6 +2823,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "335984",
+    "tmdbId": 335984,
+    "imdbId": "tt1856101",
+    "type": "movie",
+    "title": "Blade Runner 2049",
+    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "year": "2017",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gUoDt6GggEFXVzdyDTyF8ggrEm8.png",
+    "certificate": "R",
+    "runTimeMinutes": 164,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1600653",
     "tmdbId": 1600653,
     "imdbId": "tt39219651",
@@ -2760,6 +2865,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "37165",
+    "tmdbId": 37165,
+    "imdbId": "tt0120382",
+    "type": "movie",
+    "title": "The Truman Show",
+    "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+    "year": "1998",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dD0oQGYGTm4oJqte5eCuRtjQtV7.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1084242",
+    "tmdbId": 1084242,
+    "imdbId": "tt26443597",
+    "type": "movie",
+    "title": "Zootopia 2",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/b2vTbsREFUNlUTkTsbLYGJBUlZH.png",
+    "certificate": "U/A 7+",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "245891",
     "tmdbId": 245891,
     "imdbId": "tt2911666",
@@ -2775,6 +2922,27 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "383498",
+    "tmdbId": 383498,
+    "imdbId": "tt5463162",
+    "type": "movie",
+    "title": "Deadpool 2",
+    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "year": "2018",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gyfPKfFYcVW54MoqhYlwwDDIfJR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png",
+    "certificate": "A",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -2823,6 +2991,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1124",
+    "tmdbId": 1124,
+    "imdbId": "tt0482571",
+    "type": "movie",
+    "title": "The Prestige",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "year": "2006",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/spOKEWc2HsfVJWCicr5CXCCVRil.png",
+    "certificate": "U",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "284052",
     "tmdbId": 284052,
     "imdbId": "tt1211837",
@@ -2838,6 +3027,27 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "109445",
+    "tmdbId": 109445,
+    "imdbId": "tt2294629",
+    "type": "movie",
+    "title": "Frozen",
+    "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+    "year": "2013",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r05nI8WQvBbdvuwVXtXuvOi0cJ9.png",
+    "certificate": "U",
+    "runTimeMinutes": 102,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],

@@ -4326,6 +4326,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "114395",
+    "tmdbId": 114395,
+    "imdbId": "tt13642264",
+    "type": "tv",
+    "title": "A Love So Beautiful",
+    "overview": "Love is as tough as it is sweet for a lovestruck teenager, whose relationship with her next-door neighbor transforms as they grow into adulthood.",
+    "year": "2020",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hZQsdmWWB2kKDLJyfHvk8dR5VTJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wVxcWC5j9e4i3SDq4MesjY5GAsn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/izUQkiMaxBHS3L5qmX1RT6RBgh3.png",
+    "certificate": "12",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "137520",
     "tmdbId": 137520,
     "imdbId": "tt14691616",
@@ -6344,6 +6365,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "128002",
+    "tmdbId": 128002,
+    "imdbId": "tt14837532",
+    "type": "tv",
+    "title": "Light on Me",
+    "overview": "A high school loner who has difficulty making new friends joins the school's student council to meet new people — but discovers that making friends may be harder than it seems.",
+    "year": "2021",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ApbGLPBDTtRkf3Dpaa19ngvY5vJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ppGd2gNZgISpgIdJfsMG4DzXGu3.jpg",
+    "logoUrl": null,
+    "certificate": "12",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "130789",
     "tmdbId": 130789,
     "imdbId": "tt14170016",
@@ -8276,6 +8318,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "106761",
+    "tmdbId": 106761,
+    "imdbId": "tt12867916",
+    "type": "tv",
+    "title": "Missing: The Other Side",
+    "overview": "A village holds spirits of missing, deceased people. A search to find the missing bodies and discover the truth behind their disappearance occurs.",
+    "year": "2020",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gRlEg8sjyA73pi3ZZF3WTPotmXO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6oRDn0lfZg81bO3NhWq1N23Z75S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yZ51VyceFbJon7Dy2QzgB8xd89N.png",
+    "certificate": "15",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "227190",
     "tmdbId": 227190,
     "imdbId": "tt31187621",
@@ -8333,69 +8396,6 @@
     "runTimeMinutes": 71,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "311648",
-    "tmdbId": 311648,
-    "imdbId": "tt47661704",
-    "type": "tv",
-    "title": "Make Me Tingle",
-    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
-    "certificate": "15",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "47179",
-    "tmdbId": 47179,
-    "imdbId": "tt2816734",
-    "type": "tv",
-    "title": "Kangchi, the Beginning",
-    "overview": "Choi Kang-chi, a half-human and half-mythical creature, falls in love with martial arts master Dam Yeo-wool after they meet at the Hundred Years Inn. As chaos threatens their world, Kang-chi must restore order while Yeo-wool helps him control his mythical side.",
-    "year": "2013",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dCOWi2mioPOaTVxRRx2PgRns5bN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hm7srCFwCxdZ2hHY4MeOI8iHetl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qN30XufHgH52ze4YlpixPAwhWwd.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "62301",
-    "tmdbId": 62301,
-    "imdbId": "tt4583316",
-    "type": "tv",
-    "title": "The Girl Who Sees Smells",
-    "overview": "With help from a young woman with synesthesia, a cop who lost his sense of pain tracks down the serial killer who brought tragedy to both their lives.",
-    "year": "2015",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uC95QIWiPq2ts558aki8NC5rXHN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8YO4DaxhcibKmMR4uZTf4GFEDmC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ci5fWDwMJlLY5cy084tnAIb6dtU.png",
-    "certificate": "12",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
