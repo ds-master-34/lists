@@ -28,7 +28,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -434,7 +434,7 @@
     "title": "Absolute Value of Romance",
     "overview": "High schooler Yeo Eui-ju secretly writes web novels by night. When four charming new teachers arrive, they inspire her stories and shake up her school.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/d8O1bLwn7eoqv0acBwxmkxEkhqe.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/jHWTQk7okdJ2hIhqlKItPwPxxv4.png",
@@ -687,7 +687,7 @@
     "title": "Pelayo: Más Allá Del Límite",
     "overview": "An immersive, three-episode docuseries narrated in the first person by Pelayo Gayol, revealing the darkest side of drug trafficking, not as a distant phenomenon, but as a global system that transforms violence into a business. It's a journey of no return to the heart of a silent war where looking the other way is no longer an option. Gayol leaves his role as an instructor to try to understand the roots of the conflict from the frontlines.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/fNxvkDtJKUXIPZaVHVSNacktBRV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/2VCSUWfJSE5nrMpSBquiZtpHUUP.jpg",
     "logoUrl": null,
@@ -708,7 +708,7 @@
     "title": "Spring Fever",
     "overview": "After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/u6GsP9s5EAWs1HJgaabREfxcBlR.png",
@@ -792,7 +792,7 @@
     "title": "BAT-FAM",
     "overview": "Follow Batman, Alfred, and young Damian Wayne—who has taken on the mantle of Little Batman—alongside a few newcomers to Wayne Manor, as they navigate the fun and frustrations of life as a super family",
     "year": "2025",
-    "rating": 6,
+    "rating": 6.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8C34YTylNBt4DWM1a9oAAXqmTSr.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/yZJ6ecQCRsXg3rx7hJbwYPHuzD3.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/npqbLzhrRUzGBaXRjWBS5GaRgxV.png",
@@ -1985,27 +1985,6 @@
       "US"
     ],
     "originalLanguage": "it"
-  },
-  {
-    "id": "273307",
-    "tmdbId": 273307,
-    "imdbId": "tt33143834",
-    "type": "tv",
-    "title": "Spice Up Our Love",
-    "overview": "The R-rated web novel author, Nam Ja-yeon finds herself magically swapped with the female protagonist of her own novel! An unpredictable romance fantasy unfolds between the forever-alone author and the male lead of her romance novel, Kang Ha-jun.",
-    "year": "2024",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c8l3HvnkmpLnFrhvyHOgyacvHSn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhLOAhHCneP6nyDKelySKLsBlqW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/356f8tM2WjNi1otvsNx7aJE0PnY.png",
-    "certificate": "15",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   },
   {
     "id": "241773",
@@ -4211,6 +4190,27 @@
     "runTimeMinutes": 55,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "212512",
+    "tmdbId": 212512,
+    "imdbId": "tt15040278",
+    "type": "tv",
+    "title": "Mammals",
+    "overview": "The story of Jamie, a Michelin-starred chef whose world implodes when he discovers shocking secrets about his pregnant wife, Amandine. Jamie finds himself hunting for answers with the help of his brother-in-law Jeff. Through this hunt, the cracks in Jeff’s marriage to Jamie’s sister Lue also widen.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/poSN0H5RWqQBZJxPUGyPY1JqppN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kyjQv6RtTOVWsMRR0aC8plhMMo2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4QeungJHgaY6MxPK8HjHH5jYZGm.png",
+    "certificate": "15",
+    "runTimeMinutes": 28,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "GB"
     ],

@@ -50,7 +50,7 @@
     "title": "Stick",
     "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
     "year": "2025",
-    "rating": 7.2,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xuCl12ui7dtUkp0hN0SSqn92kPi.png",
@@ -113,7 +113,7 @@
     "title": "The Body",
     "overview": "After a dance-team initiation gone wrong, a group of badly behaved Catholic school girls begin having prophetic visions that set off mass hysteria in their town.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/2TbRw0oUbhm4UjLFMNM2KcHk4rT.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/c7PCh5wDlXODksBXElQHiotV9M5.png",
@@ -617,7 +617,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3x6c9ybt0762idyzIifUZeTD5MZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -932,7 +932,7 @@
     "title": "Phony",
     "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
     "year": "2026",
-    "rating": 6.7,
+    "rating": 6.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/AdFlgN6pKI6C481z2KshrQL204w.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xqc5IeHc6TzT1uvNZ1CCNIiTeNC.png",
@@ -1439,7 +1439,7 @@
     "title": "The Secret Lives of Mormon Wives: Orange County",
     "overview": "A new group of dynamic young mothers in Orange County collide in a community where beliefs are not just their religion; they are their identity. While some defend their way of life, fighting against modernity, others embrace change, becoming a platform to disrupt the status quo. Scandals and secrets will be revealed, facades will crumble, and families and friendships will change forever on both sides of the battlefield as this group of strong, game-changing influencers comes together to build their answer to #MomTok.",
     "year": "2026",
-    "rating": 6.3,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ztlemjhfgbj6wtYosghkUjBOj8o.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hQabjplPfQFGcjRdKzxbtrqGThC.png",
@@ -1705,6 +1705,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "14808",
+    "tmdbId": 14808,
+    "imdbId": "tt1191056",
+    "type": "tv",
+    "title": "The Real Housewives of New York City",
+    "overview": "A fast-paced reality show that follows several incredibly busy and ambitious Manhattan women. Watch as they balance envious social calendars, challenging careers, and motherhood, with the hustle and bustle of the big city all around.",
+    "year": "2008",
+    "rating": 5.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t664cIE1pEVDJj0KAMefmvZNQac.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kQ7i9d8c7egG0natUkycngBV6hJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i04lsaW0a2qXWTtWFTCyzFfXbLT.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "313346",
     "tmdbId": 313346,
     "imdbId": "tt43691412",
@@ -1712,7 +1733,7 @@
     "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
     "overview": "Rein spent years enhancing his guildmates’ gear with magic, only to be expelled the moment he enchanted everything. Unfazed, Rein steals back his magic, pours it into his own sword, and makes the best of his newfound freedom as he sets off as an adventurer. Along the way, Rein gathers a band of fellow outcasts and together they fight monsters and carve out their place in an enchanted world.",
     "year": "2026",
-    "rating": 7.5,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rncb111IIBmIIO9I9ENW0Xc8mca.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/j7KrALvuZgBdwVZkOIRc9Xaeyt4.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/icq6GuO0cxICLRiL6RYlen7h3UW.png",
@@ -2125,6 +2146,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "321518",
+    "tmdbId": 321518,
+    "imdbId": "tt43691408",
+    "type": "tv",
+    "title": "The World's Strongest Witch",
+    "overview": "Cast out by her aristocratic family after manifesting a seemingly useless skill, Lorna discovers her ability, “Internet,” is an SSS-rank cheat that grants her access to the entirety of the world’s knowledge. All Lorna wants is a peaceful life, but as she collects rare gear and potent items, the “world’s weakest witch” suddenly becomes very powerful, landing in one chaotic adventure after another.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kiEzCgnCMTiYP5nhgcv2njstWTf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dJV02YybQWx1RhhEwZdTLOPy1FB.png",
+    "certificate": "12",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
+    "id": "134667",
+    "tmdbId": 134667,
+    "imdbId": "tt15483602",
+    "type": "tv",
+    "title": "Reincarnated as a Sword",
+    "overview": "Reincarnated as a sentient weapon with memories of his past life, but not his name, a magical sword saves a young beastgirl from a life of slavery. Fran, the cat-eared girl, becomes his wielder, and wants only to grow stronger, while the sword wants to know why he is here. Together, the strange duo's journey has only just begun!",
+    "year": "2022",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yZ3VZVc7iyF7KtIjERBGEedVXqA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/n7zVxzyhaB2vLdyF5XwwynrgcXO.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "226285",
     "tmdbId": 226285,
     "imdbId": "tt26591110",
@@ -2354,6 +2417,27 @@
       "FR"
     ],
     "originalLanguage": "fr"
+  },
+  {
+    "id": "230050",
+    "tmdbId": 230050,
+    "imdbId": "tt28313387",
+    "type": "tv",
+    "title": "A Returner's Magic Should Be Special",
+    "overview": "In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?",
+    "year": "2023",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/svwCvfLCUqc5tn85lijkKqTXQLF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ah6wYzvs50YeR5PpMUjWKCknako.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "8592",
@@ -2783,7 +2867,7 @@
     "title": "Treasure Island",
     "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
     "year": "2026",
-    "rating": 4.6,
+    "rating": 4.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hL0kOXZMmv3VYAb5ldP2jMK5GWr.png",
@@ -3218,6 +3302,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "97083",
+    "tmdbId": 97083,
+    "imdbId": "tt9581768",
+    "type": "tv",
+    "title": "The Circle",
+    "overview": "Status and strategy collide in this social experiment and competition show where online players flirt, befriend and catfish their way toward $100,000.",
+    "year": "2020",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bQRxhfXXsH4ccScOBHs51bgwNe4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9RvOSdK6oHbTZmGswApOziC0zc8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mgIcMlLLPJnhIOCBw9J32t3jdXk.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 50,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "138501",
     "tmdbId": 138501,
     "imdbId": "tt15571732",
@@ -3279,6 +3384,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "67997",
+    "tmdbId": 67997,
+    "imdbId": "tt0312093",
+    "type": "tv",
+    "title": "Koh-Lanta",
+    "overview": "Fourteen to eighteen contestants have to survive on an uninhabited island for 40 days (20 days in the special editions). It's up to them to find food to accompany the meagre ration of rice provided at the start of the adventure. They have to build a shelter to protect themselves from the elements (bad weather, insects, etc.) and maintain the fire that they managed to build or that they won in the first comfort test.",
+    "year": "2001",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r6hw3Q2NLWZY3TkpfePFqeGLtVJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bIEFjiI1THWenw0T1CP5tpgxHVq.jpg",
+    "logoUrl": null,
+    "certificate": "NR",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "FR"
+    ],
+    "originalLanguage": "fr"
   },
   {
     "id": "87917",
@@ -3617,6 +3743,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "206630",
+    "tmdbId": 206630,
+    "imdbId": "tt27524116",
+    "type": "tv",
+    "title": "Sasaki and Peeps",
+    "overview": "Sasaki is a middle-aged office worker living in Japan. Feeling drained by the vapid corporate world, he heads to the pet shop in search of a new companion. There he finds an adorable bird named Peeps and takes him home. But Sasaki quickly learns that Peeps isn’t your average bird…he’s a powerful mage from another world! Together, they embark on a magical adventure filled with swords and sorcery.",
+    "year": "2024",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kVp4PsyB8V839mGQjkn6kevBwKV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wtdVpvYlnwARmdJesDEk88IQh8M.png",
+    "certificate": "6+",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "18347",
     "tmdbId": 18347,
     "imdbId": "tt1439629",
@@ -3848,6 +3995,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "46268",
+    "tmdbId": 46268,
+    "imdbId": "tt1877005",
+    "type": "tv",
+    "title": "Moonshiners",
+    "overview": "Think the days of bootleggers, backwoods stills and \"white lightning\" are over? Not a chance! It's a multi-million dollar industry. But perhaps more importantly to the moonshiners, it's a tradition dating back hundreds of years, passed down to them from their forefathers. It's part of their history and culture. While this practice is surprisingly alive and well, it's not always legal. Moonshiners tells the story of those who brew their shine - often in the woods near their homes using camouflaged equipment - and the local authorities who try to keep them honest. Viewers will witness practices rarely, if ever, seen on television including the sacred rite of passage for a moonshiner - firing up the still for the first time. They will also meet legends, including notorious moonshiner Marvin \"Popcorn\" Sutton.",
+    "year": "2011",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/brgOpuQs3nhqRKQWomMv0jpHqxM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jH8BWwd1kIfY3N614o9idhW8rOJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bmVWu2sZ56uLW1DHbg5TcsuVzJF.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "71789",
     "tmdbId": 71789,
     "imdbId": "tt6473344",
@@ -4037,6 +4205,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "290115",
+    "tmdbId": 290115,
+    "imdbId": "tt36601237",
+    "type": "tv",
+    "title": "Ruído",
+    "overview": "In dystopic times, after a law that prohibits laughter was approved, people live in an environment of fear and mistrust. The freedom to express any kind of joy in public no longer exists. As part of the resistance, a group of actors and scriptwriters decide to create a clandestine movement allowing people to laugh in secret. Everything else is noise.",
+    "year": "2025",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/snqlVbVA8LYzZcyYLAYJ2ygQhLH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNWjT534QpvVmAUzUpTrvHa7SgY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4GqYavkcUrYszqah9cEVSUqmljc.png",
+    "certificate": "16",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "PT"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "243360",
     "tmdbId": 243360,
     "imdbId": "tt27846061",
@@ -4205,6 +4394,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "133174",
+    "tmdbId": 133174,
+    "imdbId": "tt14321632",
+    "type": "tv",
+    "title": "All the Queen's Men",
+    "overview": "Marilyn \"Madam\" DeVille is at the top of her game in the Atlanta nightclub industry, and she won't let anyone or anything stand her in way as she rules a crew of male exotic dancers.",
+    "year": "2021",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/99ld1qIW343tT9RTjmlQ5CJubsa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8cRV6nGfJGbqcqUwh1ZpTigqCzU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4KeqUHmW16bBVYLGQnPSh01cmRM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "246",
     "tmdbId": 246,
     "imdbId": "tt0417299",
@@ -4255,7 +4465,7 @@
     "title": "The Kardashians",
     "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
     "year": "2022",
-    "rating": 4.5,
+    "rating": 4.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oYC4X9DEhX1B0FrQZv0dEwOKxnH.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yd17TqEcvP9FcbtRNtZpcLCOhFj.png",
@@ -4284,6 +4494,27 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "85552",
+    "tmdbId": 85552,
+    "imdbId": "tt8772296",
+    "type": "tv",
+    "title": "Euphoria",
+    "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+    "year": "2019",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aJN0VtMbtYndK0M0XoaoKBoAzPu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hp9ztcz0fMyztCKeQmNQg0F5dao.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -4479,6 +4710,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "68689",
+    "tmdbId": 68689,
+    "imdbId": "tt6334758",
+    "type": "tv",
+    "title": "MasterChef Profissionais",
+    "overview": "Professional chefs do their best to please the demanding palates of three of Brazil's greatest chefs in a delicious dispute for the grand prize.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nWxNohdZy1xteqTbFkXIVUoDj1g.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eZFbfsRbHjB9IWTzfCHR7Z5MqrH.jpg",
+    "logoUrl": null,
+    "certificate": "TV-G",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "BR"
+    ],
+    "originalLanguage": "pt"
+  },
+  {
     "id": "4588",
     "tmdbId": 4588,
     "imdbId": "tt0108757",
@@ -4584,6 +4836,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "287238",
+    "tmdbId": 287238,
+    "imdbId": "tt36303968",
+    "type": "tv",
+    "title": "Furious",
+    "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+    "year": "2026",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t70Qj9WkIGVVNA0qjgwbK4elsZp.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "312850",
     "tmdbId": 312850,
     "imdbId": "tt41296544",
@@ -4620,6 +4914,27 @@
     "runTimeMinutes": 54,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3452",
+    "tmdbId": 3452,
+    "imdbId": "tt0106004",
+    "type": "tv",
+    "title": "Frasier",
+    "overview": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his policeman father gets shot in the hip on duty.",
+    "year": "1993",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qcHsx14gWcY04ETZH3SmJzvgoXW.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -4668,6 +4983,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "313137",
+    "tmdbId": 313137,
+    "imdbId": "tt39602642",
+    "type": "tv",
+    "title": "The Golden Life",
+    "overview": "Bound by decades of shared history, fallouts and friendship, this fan-favorite group of New Yorkers are starting fresh together in the Sunshine State. In this new ‘golden’ era of life, the longtime friends are thriving in and around Palm Beach with fabulous second homes and a bustling social scene. With their signature humor and non-stop hijinks, the group navigates dating, family, and career milestones. Though skies are bright in Florida, unresolved drama looms as they reconnect after years of highs and lows.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e7OGE2mfvhfDCd1jJNju5G155hX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pnWDLePHuMROfNN0a13asDpUr7I.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2nKQiCGVZ36EW0v3QB9nlI7vLzb.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "60622",
     "tmdbId": 60622,
     "imdbId": "tt2802850",
@@ -4689,6 +5025,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "46648",
+    "tmdbId": 46648,
+    "imdbId": "tt2356777",
+    "type": "tv",
+    "title": "True Detective",
+    "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+    "year": "2014",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6q4KzOcM2eEE1IbhFTadUsQkphl.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 76,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "85271",
     "tmdbId": 85271,
     "imdbId": "tt9140560",
@@ -4704,6 +5061,48 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "62649",
+    "tmdbId": 62649,
+    "imdbId": "tt4477976",
+    "type": "tv",
+    "title": "Superstore",
+    "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
+    "year": "2015",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A2ogFsUOqMPh1oUixYXJsJ2L8ji.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gDp3S0CZEFYwv2tQlLaO2UR9jRf.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 21,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "387",
+    "tmdbId": 387,
+    "imdbId": "tt0206512",
+    "type": "tv",
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "year": "1999",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/imM7dqtVl070IIKyOqzOHmHFXqq.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 11,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -4771,5 +5170,47 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "57243",
+    "tmdbId": 57243,
+    "imdbId": "tt0436992",
+    "type": "tv",
+    "title": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "year": "2005",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/r6aeDXC3UE8PfzdorYfQWpPJTho.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "234310",
+    "tmdbId": 234310,
+    "imdbId": "tt29011445",
+    "type": "tv",
+    "title": "Where's Wanda?",
+    "overview": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
+    "year": "2024",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dTGuSY5upeEVyX9taZ5SRzCmpj1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
   }
 ]

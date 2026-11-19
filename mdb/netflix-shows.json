@@ -1,5 +1,26 @@
 [
   {
+    "id": "335981",
+    "tmdbId": 335981,
+    "imdbId": "tt47021035",
+    "type": "tv",
+    "title": "Cunk on Cinema",
+    "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qdMRREpBz0nTx6IxEy3U4TiHF5y.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "291507",
     "tmdbId": 291507,
     "imdbId": "tt8014982",
@@ -7,7 +28,7 @@
     "title": "The Body",
     "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/c7PCh5wDlXODksBXElQHiotV9M5.png",
@@ -155,7 +176,7 @@
     "title": "The Trap",
     "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
     "year": "2026",
-    "rating": 6.2,
+    "rating": 6.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
@@ -1061,7 +1082,7 @@
     "title": "Mating Season",
     "overview": "A cast of bears, raccoons, deer, foxes and a host of other horny, lovable forest critters navigate love, sexual relationships and the universal need to hook up and find a partner.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5Pn7R2TtLka8OjsgtxAq4H2apjJ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/zaDTnGcq3F5LocdmHJLP3Mf0kII.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/wFHYTkN4ihbNrjV67WFzqcLQ0bB.png",
@@ -4435,7 +4456,7 @@
     "title": "The Next Prince",
     "overview": "When a reluctant heir is called to compete in a tournament to decide the next king, the royal guard sent to escort him soon becomes his forbidden desire.",
     "year": "2025",
-    "rating": 7.1,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/x1eBmHCpaOfUqTeiXr2d344WA6x.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/r1uscUpxBMMTzDwzVlbjoRBSNeE.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/6LaBBALF1DbmMQ20ejJONFuolgv.png",
@@ -6294,27 +6315,6 @@
     "runTimeMinutes": 44,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "CN"
-    ],
-    "originalLanguage": "zh"
-  },
-  {
-    "id": "243084",
-    "tmdbId": 243084,
-    "imdbId": "tt30762431",
-    "type": "tv",
-    "title": "Love Game in Eastern Fantasy",
-    "overview": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
-    "year": "2024",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mfSqsEQtTGrewyCrhwcvpFcq5n7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uTcHaMbOA1b7kBEWqQKczBGlXDH.png",
-    "certificate": "12",
-    "runTimeMinutes": 43,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "CN"
     ],

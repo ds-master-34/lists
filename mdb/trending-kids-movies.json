@@ -28,7 +28,7 @@
     "title": "A Dog's Perfect Christmas",
     "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
@@ -91,7 +91,7 @@
     "title": "The Cat in the Hat",
     "overview": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/f6uRbYmnEl4XGW2P4WGbnQcl6iT.png",
@@ -133,7 +133,7 @@
     "title": "The Gospel of Christmas",
     "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
     "year": "2026",
-    "rating": 5.3,
+    "rating": 5.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/wd4KBXujUh6LADrjuntXgw4VvM3.png",
@@ -903,27 +903,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "10588",
-    "tmdbId": 10588,
-    "imdbId": "tt0312528",
-    "type": "movie",
-    "title": "The Cat in the Hat",
-    "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
-    "year": "2003",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gN7otp6ZA6762W3QB2ScWJYJI6i.png",
-    "certificate": "PG",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "10315",
     "tmdbId": 10315,
     "imdbId": "tt0432283",
@@ -939,6 +918,27 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "10588",
+    "tmdbId": 10588,
+    "imdbId": "tt0312528",
+    "type": "movie",
+    "title": "The Cat in the Hat",
+    "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+    "year": "2003",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gN7otp6ZA6762W3QB2ScWJYJI6i.png",
+    "certificate": "PG",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -1632,6 +1632,27 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "12155",
+    "tmdbId": 12155,
+    "imdbId": "tt1014759",
+    "type": "movie",
+    "title": "Alice in Wonderland",
+    "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
+    "year": "2010",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9jX8ZA01zEuwiQzzdANfl3A6J37.png",
+    "certificate": "PG",
+    "runTimeMinutes": 108,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
     "originCountries": [
       "US"
     ],
@@ -2402,7 +2423,7 @@
     "title": "Christmas at Moose Lake",
     "overview": "",
     "year": "2026",
-    "rating": 7.7,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uFjFmStwWjMj4YEorQB5L8ZHDJA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gnS065uDJjHxFRc71bBkViiChCU.jpg",
     "logoUrl": null,
@@ -4177,27 +4198,6 @@
     "runTimeMinutes": 91,
     "primaryGenre": "Drama",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "73723",
-    "tmdbId": 73723,
-    "imdbId": "tt1482459",
-    "type": "movie",
-    "title": "The Lorax",
-    "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
-    "year": "2012",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uDnH6pbssgi03d1BvHgI630UFF2.png",
-    "certificate": "PG",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
