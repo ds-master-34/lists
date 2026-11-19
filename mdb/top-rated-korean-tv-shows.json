@@ -1491,27 +1491,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "68814",
-    "tmdbId": 68814,
-    "imdbId": "tt6263222",
-    "type": "tv",
-    "title": "Strong Girl Bong-soon",
-    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
-    "year": "2017",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vs1POisGhFqvajdUOM9rSHdH6kR.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "66330",
     "tmdbId": 66330,
     "imdbId": "tt5797194",
@@ -1821,6 +1800,27 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "68814",
+    "tmdbId": 68814,
+    "imdbId": "tt6263222",
+    "type": "tv",
+    "title": "Strong Girl Bong-soon",
+    "overview": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle with her CEO boss and cop crush.",
+    "year": "2017",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/93KsJLWcGwpFtjfzQ3gOa8GB3bP.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vs1POisGhFqvajdUOM9rSHdH6kR.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -2541,27 +2541,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "281016",
-    "tmdbId": 281016,
-    "imdbId": "tt35848827",
-    "type": "tv",
-    "title": "Boyfriend on Demand",
-    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-    "year": "2026",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pnq5WRYsqYjoBWJXxyayYWR53ay.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 68,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "295509",
     "tmdbId": 295509,
     "imdbId": "tt38626513",
@@ -2982,28 +2961,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "249054",
-    "tmdbId": 249054,
-    "imdbId": "tt32524691",
-    "type": "tv",
-    "title": "Romantics Anonymous",
-    "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
-    "year": "2025",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR",
-      "JP"
-    ],
-    "originalLanguage": "ja"
-  },
-  {
     "id": "258025",
     "tmdbId": 258025,
     "imdbId": "tt37146661",
@@ -3019,6 +2976,48 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "281016",
+    "tmdbId": 281016,
+    "imdbId": "tt35848827",
+    "type": "tv",
+    "title": "Boyfriend on Demand",
+    "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/pnq5WRYsqYjoBWJXxyayYWR53ay.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3403,6 +3402,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "256226",
+    "tmdbId": 256226,
+    "imdbId": "tt37890201",
+    "type": "tv",
+    "title": "Dear X",
+    "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/30T0Ol6Mildgii73fZUUqS9YO7Q.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "271885",
     "tmdbId": 271885,
     "imdbId": "tt33550045",
@@ -3418,27 +3438,6 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -3733,27 +3732,6 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "256226",
-    "tmdbId": 256226,
-    "imdbId": "tt37890201",
-    "type": "tv",
-    "title": "Dear X",
-    "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/30T0Ol6Mildgii73fZUUqS9YO7Q.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4369,27 +4347,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "97970",
-    "tmdbId": 97970,
-    "imdbId": "tt14518692",
-    "type": "tv",
-    "title": "Narco-Saints",
-    "overview": "An ordinary entrepreneur joins a secret government mission to capture a Korean drug lord operating in South America.",
-    "year": "2022",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8ivM3YptVuFgumcZMjCMi28k2EF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/haIqIHTTZPebqPTz3ktte1VEUDL.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cCk45zKj7k0a3VSlpEGdXWf5zgg.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "194797",
     "tmdbId": 194797,
     "imdbId": "tt24245988",
@@ -4685,6 +4642,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "97970",
+    "tmdbId": 97970,
+    "imdbId": "tt14518692",
+    "type": "tv",
+    "title": "Narco-Saints",
+    "overview": "An ordinary entrepreneur joins a secret government mission to capture a Korean drug lord operating in South America.",
+    "year": "2022",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8ivM3YptVuFgumcZMjCMi28k2EF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/haIqIHTTZPebqPTz3ktte1VEUDL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cCk45zKj7k0a3VSlpEGdXWf5zgg.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "197078",
     "tmdbId": 197078,
     "imdbId": "tt23788642",
@@ -4853,6 +4831,28 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "249054",
+    "tmdbId": 249054,
+    "imdbId": "tt32524691",
+    "type": "tv",
+    "title": "Romantics Anonymous",
+    "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR",
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "236956",
     "tmdbId": 236956,
     "imdbId": "tt30143510",
@@ -4874,6 +4874,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "300727",
     "tmdbId": 300727,
     "imdbId": "tt43357366",
@@ -4889,6 +4910,27 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5294,27 +5336,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "113622",
     "tmdbId": 113622,
     "imdbId": "tt13715448",
@@ -5371,27 +5392,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 42,
     "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293607",
-    "tmdbId": 293607,
-    "imdbId": "tt39201866",
-    "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -5580,6 +5580,48 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/7a1cJDiiETfdnRABqpXgvXjU2zy.png",
     "certificate": "U/A 13+",
     "runTimeMinutes": 84,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "281011",
+    "tmdbId": 281011,
+    "imdbId": "tt38220632",
+    "type": "tv",
+    "title": "Would You Marry Me?",
+    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
+    "year": "2025",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bjYcqd70Crs56bN46ARtVwYYHIG.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "296140",
+    "tmdbId": 296140,
+    "imdbId": "tt43648966",
+    "type": "tv",
+    "title": "My Bias, My Boss",
+    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xnM5yIYu7bszVLwOSJDodZyCEx9.png",
+    "certificate": "15",
+    "runTimeMinutes": 66,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -5819,48 +5861,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "281011",
-    "tmdbId": 281011,
-    "imdbId": "tt38220632",
-    "type": "tv",
-    "title": "Would You Marry Me?",
-    "overview": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
-    "year": "2025",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bjYcqd70Crs56bN46ARtVwYYHIG.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "296140",
-    "tmdbId": 296140,
-    "imdbId": "tt43648966",
-    "type": "tv",
-    "title": "My Bias, My Boss",
-    "overview": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xnM5yIYu7bszVLwOSJDodZyCEx9.png",
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "45579",
     "tmdbId": 45579,
     "imdbId": "tt3143378",
@@ -5876,6 +5876,27 @@
     "runTimeMinutes": 62,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "86830",
+    "tmdbId": 86830,
+    "imdbId": "tt9674954",
+    "type": "tv",
+    "title": "The Fiery Priest",
+    "overview": "People commit variety of ugly crimes these days. However, they forgive themselves by giving testimony every week. They believe that they can repent just by having faith. But the truth is that they have faith to repeat the sins again and again without remorse. These people atone for their evil deeds just to feel comfortable and carefree. It is not about the victims who are suffering because of them. They say every people are equal before the religions. But it is time to discriminate people who only uses them for their interest. Screening if they are really good people, punishing if they deserve to be punished, and defending justice is needed for modern day religion. A priest with this sense of justice teams up with a detective and a prosecutor. They try to solve the mysterious death of an elderly priest and serve justice.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5EDJlbB3S1vwOpsR3h1k0NMHiHY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dMQmCThNrnlNd4bfC8iIce76bpr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lhPUIiySNai6R8UM1HcnH28jTIM.png",
+    "certificate": "15",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -6002,27 +6023,6 @@
     "runTimeMinutes": 86,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "86830",
-    "tmdbId": 86830,
-    "imdbId": "tt9674954",
-    "type": "tv",
-    "title": "The Fiery Priest",
-    "overview": "People commit variety of ugly crimes these days. However, they forgive themselves by giving testimony every week. They believe that they can repent just by having faith. But the truth is that they have faith to repeat the sins again and again without remorse. These people atone for their evil deeds just to feel comfortable and carefree. It is not about the victims who are suffering because of them. They say every people are equal before the religions. But it is time to discriminate people who only uses them for their interest. Screening if they are really good people, punishing if they deserve to be punished, and defending justice is needed for modern day religion. A priest with this sense of justice teams up with a detective and a prosecutor. They try to solve the mysterious death of an elderly priest and serve justice.",
-    "year": "2019",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5EDJlbB3S1vwOpsR3h1k0NMHiHY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dMQmCThNrnlNd4bfC8iIce76bpr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/lhPUIiySNai6R8UM1HcnH28jTIM.png",
-    "certificate": "15",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8003,6 +8003,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "255086",
+    "tmdbId": 255086,
+    "imdbId": "tt33509073",
+    "type": "tv",
+    "title": "A Virtuous Business",
+    "overview": "In search of purpose, opportunity and independence, four rural women start an adult products business in 1992 — embarking on a journey of self-discovery.",
+    "year": "2024",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vQfZZT645qUQang5OB56hRZ6Rir.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nZEXidgnZXNUHerBK5hRw4cxtTQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/thtRPHlDs7Enbt7fdDR81M2At0f.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "79991",
     "tmdbId": 79991,
     "imdbId": "tt8243158",
@@ -8165,27 +8186,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "255086",
-    "tmdbId": 255086,
-    "imdbId": "tt33509073",
-    "type": "tv",
-    "title": "A Virtuous Business",
-    "overview": "In search of purpose, opportunity and independence, four rural women start an adult products business in 1992 — embarking on a journey of self-discovery.",
-    "year": "2024",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vQfZZT645qUQang5OB56hRZ6Rir.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nZEXidgnZXNUHerBK5hRw4cxtTQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/thtRPHlDs7Enbt7fdDR81M2At0f.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
