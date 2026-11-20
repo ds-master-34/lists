@@ -49,7 +49,7 @@
     "title": "Hope",
     "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yEEpQJENq4DLtSO06HY7TRoXeqO.png",
@@ -2076,27 +2076,6 @@
     "runTimeMinutes": 80,
     "primaryGenre": "Horror",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "987577",
-    "tmdbId": 987577,
-    "imdbId": "tt23640302",
-    "type": "movie",
-    "title": "The Fifth Thoracic Vertebra",
-    "overview": "A creature born in an abandoned mattress travels around the country feasting on its victims’ vertebrae, struggling to break free from the bed, the mold, and its past.",
-    "year": "2023",
-    "rating": 5.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gjbPQSw1Qc6PvY9WG26p0bLffS0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/y73oUPc0FCZGbGh96lKhxOJkCRm.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Horror",
     "originCountries": [
       "KR"
     ],
