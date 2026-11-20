@@ -357,27 +357,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "70593",
-    "tmdbId": 70593,
-    "imdbId": "tt6611916",
-    "type": "tv",
-    "title": "Kingdom",
-    "overview": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
-    "year": "2019",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vTO91EtVCNXl2y0jE1UxQkkMwdv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "117378",
     "tmdbId": 117378,
     "imdbId": "tt13634792",
@@ -435,6 +414,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "70593",
+    "tmdbId": 70593,
+    "imdbId": "tt6611916",
+    "type": "tv",
+    "title": "Kingdom",
+    "overview": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people.",
+    "year": "2019",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jRhJlV4inm8wAAqTeHUX5HpjZcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vTO91EtVCNXl2y0jE1UxQkkMwdv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -714,27 +714,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "197067",
-    "tmdbId": 197067,
-    "imdbId": "tt20869502",
-    "type": "tv",
-    "title": "Extraordinary Attorney Woo",
-    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
-    "year": "2022",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/39owosjolYd3gKufgM9jMdSSk9t.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/izsot0vibLhojHPTksvyVGPFgKu.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 83,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "117376",
     "tmdbId": 117376,
     "imdbId": "tt13433812",
@@ -790,6 +769,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/7Yer3qSEHoRtVuX3u6cMYGEtJfN.png",
     "certificate": "TV-14",
     "runTimeMinutes": 91,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "197067",
+    "tmdbId": 197067,
+    "imdbId": "tt20869502",
+    "type": "tv",
+    "title": "Extraordinary Attorney Woo",
+    "overview": "With a genius-level IQ, Woo Young-woo learns to embrace her extraordinary self while forming a tight-knit community of friends and allies.",
+    "year": "2022",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/39owosjolYd3gKufgM9jMdSSk9t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/izsot0vibLhojHPTksvyVGPFgKu.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 83,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -2016,27 +2016,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "235577",
-    "tmdbId": 235577,
-    "imdbId": "tt33255143",
-    "type": "tv",
-    "title": "The Judge from Hell",
-    "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
-    "year": "2024",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2X7eHabOyGU6gIEy6H5tj3wV79o.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 75,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "110534",
     "tmdbId": 110534,
     "imdbId": "tt13024974",
@@ -2052,6 +2031,27 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "222233",
+    "tmdbId": 222233,
+    "imdbId": "tt27135274",
+    "type": "tv",
+    "title": "Doctor Slump",
+    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8bF9oiu4L5jOmuob5lBxcCwaea2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yUZbp3Yk6SN4u6TwUDsQNik704W.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2205,27 +2205,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "222233",
-    "tmdbId": 222233,
-    "imdbId": "tt27135274",
-    "type": "tv",
-    "title": "Doctor Slump",
-    "overview": "Once rivals in school, two brilliant doctors reunite by chance — each facing life’s worst slump and unexpectedly finding solace in each other.",
-    "year": "2024",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iOWmbZEbhvrYyWm6O4W3oHf2S9B.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8bF9oiu4L5jOmuob5lBxcCwaea2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yUZbp3Yk6SN4u6TwUDsQNik704W.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "196474",
     "tmdbId": 196474,
     "imdbId": "tt21627438",
@@ -2346,27 +2325,6 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "232510",
-    "tmdbId": 232510,
-    "imdbId": "tt28682964",
-    "type": "tv",
-    "title": "MIGNON",
-    "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
-    "year": "2023",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ldhW8H3GvD3sAh4XrCqllF0Soxb.png",
-    "certificate": "19",
-    "runTimeMinutes": 9,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -2514,27 +2472,6 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "228689",
-    "tmdbId": 228689,
-    "imdbId": "tt32409807",
-    "type": "tv",
-    "title": "Genie, Make a Wish",
-    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
-    "year": "2025",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1dDj3NjJmmhHDb96C8Zp0j9RAyW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2724,6 +2661,27 @@
     "runTimeMinutes": 19,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "228689",
+    "tmdbId": 228689,
+    "imdbId": "tt32409807",
+    "type": "tv",
+    "title": "Genie, Make a Wish",
+    "overview": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+    "year": "2025",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1dDj3NjJmmhHDb96C8Zp0j9RAyW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3781,6 +3739,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "214999",
+    "tmdbId": 214999,
+    "imdbId": "tt27042206",
+    "type": "tv",
+    "title": "The Good Bad Mother",
+    "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
+    "year": "2023",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vtDLhvpTk1xcaBCKubSH0if575G.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vP4DNFkN1tGidCkHDuHewN5buYM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "334517",
     "tmdbId": 334517,
     "imdbId": "tt49931644",
@@ -4096,6 +4075,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "235577",
+    "tmdbId": 235577,
+    "imdbId": "tt33255143",
+    "type": "tv",
+    "title": "The Judge from Hell",
+    "overview": "A cruel and vicious judge, who wields power only for herself, meets a warm and cheerful detective who puts the victims first.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9vhLHbUiiP9HiXfJw5OUC7KoaJG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2X7eHabOyGU6gIEy6H5tj3wV79o.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "152511",
     "tmdbId": 152511,
     "imdbId": "tt15140592",
@@ -4327,27 +4327,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "214999",
-    "tmdbId": 214999,
-    "imdbId": "tt27042206",
-    "type": "tv",
-    "title": "The Good Bad Mother",
-    "overview": "A tragic accident leaves an ambitious prosecutor with the mind of a child – forcing him and his mother to embark on a journey to heal their relationship.",
-    "year": "2023",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vtDLhvpTk1xcaBCKubSH0if575G.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOZqdv7UTc2sP2Tu5Cxj8j1M2r8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vP4DNFkN1tGidCkHDuHewN5buYM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "66433",
     "tmdbId": 66433,
     "imdbId": "tt5320412",
@@ -4495,27 +4474,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "322723",
-    "tmdbId": 322723,
-    "imdbId": "tt48409707",
-    "type": "tv",
-    "title": "Boy, with Caution",
-    "overview": "A disgraced teacher finds comfort in an anonymous chat partner, unaware the troubled student behind the messages is growing closer to him.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/AonnClm8SEfKt1S5MNYrqGnKpD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AnaPwTBGbjHcqlQXB7G29GRbiL8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7ecDtHJHT2U0iM79EnwgyukIixS.png",
-    "certificate": "19",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "322055",
     "tmdbId": 322055,
     "imdbId": "tt43592244",
@@ -4531,6 +4489,27 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "232510",
+    "tmdbId": 232510,
+    "imdbId": "tt28682964",
+    "type": "tv",
+    "title": "MIGNON",
+    "overview": "In a brutal underground world, a vampire medic and a wounded young fighter form a fragile bond—one built on pain, longing, and forbidden desire.",
+    "year": "2023",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jvm1Ix9HckF4vpIkDp9tBaMbh8y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uVtezq3V55HcP51caYGOMlSGSB3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ldhW8H3GvD3sAh4XrCqllF0Soxb.png",
+    "certificate": "19",
+    "runTimeMinutes": 9,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
