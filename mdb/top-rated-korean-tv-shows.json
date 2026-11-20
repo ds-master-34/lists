@@ -8255,6 +8255,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "311648",
+    "tmdbId": 311648,
+    "imdbId": "tt47661704",
+    "type": "tv",
+    "title": "Make Me Tingle",
+    "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
+    "certificate": "15",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "47007",
     "tmdbId": 47007,
     "imdbId": "tt2191746",
@@ -8374,27 +8395,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 51,
     "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "254389",
-    "tmdbId": 254389,
-    "imdbId": "tt36455912",
-    "type": "tv",
-    "title": "Heavenly Ever After",
-    "overview": "After life's ups and downs, a loving couple separated by death reunites in heaven — only to discover he's in his thirties while she's in her eighties.",
-    "year": "2025",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pQ3fDmgQ9GbmntzPY6vOOttSi6J.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1SC2gbJA5zZ2x3YGMtlqbr3bIzk.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vh0ECVOMnE5t0s3LXgbaYSZPfRP.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"

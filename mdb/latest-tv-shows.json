@@ -168,6 +168,27 @@
     "originalLanguage": "fr"
   },
   {
+    "id": "307853",
+    "tmdbId": 307853,
+    "imdbId": "tt36982492",
+    "type": "tv",
+    "title": "Sunshine through the Rain",
+    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+    "year": "2026",
+    "rating": 9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yfBDoZ0WO4nTZM9hr9vJZcxmM9B.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
     "id": "312006",
     "tmdbId": 312006,
     "imdbId": "tt38681812",
@@ -4187,27 +4208,6 @@
     "secondaryGenre": "",
     "originCountries": [
       "AU"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "323111",
-    "tmdbId": 323111,
-    "imdbId": "tt42873612",
-    "type": "tv",
-    "title": "Michael Jackson: The Verdict",
-    "overview": "Told by key players who were inside the courtroom, this comprehensive documentary dissects the trial of Michael Jackson and his complex legacy.",
-    "year": "2026",
-    "rating": 5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3k8ZF8tJNsgNCggyrqImaTxHFsb.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }
