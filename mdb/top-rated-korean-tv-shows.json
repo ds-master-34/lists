@@ -798,27 +798,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "157208",
-    "tmdbId": 157208,
-    "imdbId": "tt17080956",
-    "type": "tv",
-    "title": "Semantic Error",
-    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
-    "year": "2022",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qlSL2UXgy1D38iD7H3Xra7NuGCo.png",
-    "certificate": "12",
-    "runTimeMinutes": 28,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "202318",
     "tmdbId": 202318,
     "imdbId": "tt24578016",
@@ -979,6 +958,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/tTjv03N60XTlKRhS6YCpQZ6njAS.png",
     "certificate": "15",
     "runTimeMinutes": 81,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "157208",
+    "tmdbId": 157208,
+    "imdbId": "tt17080956",
+    "type": "tv",
+    "title": "Semantic Error",
+    "overview": "Chu Sang U, a strict computer science student, clashes with design major Jang Jae Yeong after removing his name from a project, leading to unexpected sparks.",
+    "year": "2022",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pe3w2PnXAdGyilHNuyLHNFVASnp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n9WXAeHkkQ1f3ZaXXpneVcXRX1j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qlSL2UXgy1D38iD7H3Xra7NuGCo.png",
+    "certificate": "12",
+    "runTimeMinutes": 28,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -2541,6 +2541,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "295509",
     "tmdbId": 295509,
     "imdbId": "tt38626513",
@@ -2997,27 +3018,6 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -4410,6 +4410,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "197078",
+    "tmdbId": 197078,
+    "imdbId": "tt23788642",
+    "type": "tv",
+    "title": "Summer Strike",
+    "overview": "After getting dumped by her boyfriend and losing her mother in an accident, Yeo-reum decides to move to a small village to do nothing.",
+    "year": "2022",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ge4M0QHCfegOETAkjAKZroo82Rr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bFIXVd8oxOsFg4GkkTYTvMe7uF6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7BfJ3p5JnvwC6QA6lHtKRX437M9.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "230777",
     "tmdbId": 230777,
     "imdbId": "tt26773401",
@@ -4558,6 +4579,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "66256",
     "tmdbId": 66256,
     "imdbId": "tt5575678",
@@ -4684,27 +4726,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "197078",
-    "tmdbId": 197078,
-    "imdbId": "tt23788642",
-    "type": "tv",
-    "title": "Summer Strike",
-    "overview": "After getting dumped by her boyfriend and losing her mother in an accident, Yeo-reum decides to move to a small village to do nothing.",
-    "year": "2022",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ge4M0QHCfegOETAkjAKZroo82Rr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bFIXVd8oxOsFg4GkkTYTvMe7uF6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7BfJ3p5JnvwC6QA6lHtKRX437M9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "224819",
     "tmdbId": 224819,
     "imdbId": "tt27554348",
@@ -4783,6 +4804,27 @@
     "runTimeMinutes": 70,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "300727",
+    "tmdbId": 300727,
+    "imdbId": "tt43357366",
+    "type": "tv",
+    "title": "The Apartment Job",
+    "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 63,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4910,48 +4952,6 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "300727",
-    "tmdbId": 300727,
-    "imdbId": "tt43357366",
-    "type": "tv",
-    "title": "The Apartment Job",
-    "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
-    "year": "2026",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -5609,6 +5609,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "280946",
+    "tmdbId": 280946,
+    "imdbId": "tt36856846",
+    "type": "tv",
+    "title": "Typhoon Family",
+    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
+    "year": "2025",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/o7CPRoPXTogJuiz7UcPHYzNpXC9.png",
+    "certificate": "PG13",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "281011",
     "tmdbId": 281011,
     "imdbId": "tt38220632",
@@ -5853,27 +5874,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/DRWwaSrBhtQRCWmydmzGPjkXkc.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 84,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "280946",
-    "tmdbId": 280946,
-    "imdbId": "tt36856846",
-    "type": "tv",
-    "title": "Typhoon Family",
-    "overview": "Depicts the struggles of small and medium-sized businesses and their families who face the 1997 IMF crisis head-on.",
-    "year": "2025",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/o7CPRoPXTogJuiz7UcPHYzNpXC9.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 86,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
@@ -6911,6 +6911,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "201146",
+    "tmdbId": 201146,
+    "imdbId": "tt22189294",
+    "type": "tv",
+    "title": "Love in Contract",
+    "overview": "Contract marriage master Choi Sang-eun's alternate day romance with a long-term mystery client on Monday, Wednesday and Friday and a new superstar client on Tuesday, Thursday and Saturday.",
+    "year": "2022",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g4xiJu2P0ooLQEn8JE3CnU9w0jU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pesQeihnBGcqwfrxjRDSrFpiKtJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xufJSamE9FMLmVBXj6x9z9PUYgS.png",
+    "certificate": "15",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "278113",
     "tmdbId": 278113,
     "imdbId": "tt37253311",
@@ -7007,27 +7028,6 @@
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hGm3m4TzEsmBb9SF2mz8Uizx9uH.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/w57sTNlffhtP9iQnqnCRG0F1j07.png",
     "certificate": "TV-MA",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "201146",
-    "tmdbId": 201146,
-    "imdbId": "tt22189294",
-    "type": "tv",
-    "title": "Love in Contract",
-    "overview": "Contract marriage master Choi Sang-eun's alternate day romance with a long-term mystery client on Monday, Wednesday and Friday and a new superstar client on Tuesday, Thursday and Saturday.",
-    "year": "2022",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g4xiJu2P0ooLQEn8JE3CnU9w0jU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pesQeihnBGcqwfrxjRDSrFpiKtJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xufJSamE9FMLmVBXj6x9z9PUYgS.png",
-    "certificate": "15",
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
@@ -7310,6 +7310,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "3504",
+    "tmdbId": 3504,
+    "imdbId": "tt0464625",
+    "type": "tv",
+    "title": "Full House",
+    "overview": "In a bid to reacquire her childhood home, a free-spirited woman agrees to a sham-marriage with a selfish actor. Their daily lives are complicated by overlapping love triangles and comic misadventures.",
+    "year": "2004",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9V5lJ1z3sEsrEJXXFN8pzlMRd7D.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jlkSFD6hQ5mWjyEVIrUPLgMW4Zl.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7JdPvkLs9sYAY9RuFwciDrBvvMO.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "68945",
     "tmdbId": 68945,
     "imdbId": "tt4613520",
@@ -7499,27 +7520,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "3504",
-    "tmdbId": 3504,
-    "imdbId": "tt0464625",
-    "type": "tv",
-    "title": "Full House",
-    "overview": "In a bid to reacquire her childhood home, a free-spirited woman agrees to a sham-marriage with a selfish actor. Their daily lives are complicated by overlapping love triangles and comic misadventures.",
-    "year": "2004",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9V5lJ1z3sEsrEJXXFN8pzlMRd7D.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jlkSFD6hQ5mWjyEVIrUPLgMW4Zl.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7JdPvkLs9sYAY9RuFwciDrBvvMO.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "61700",
     "tmdbId": 61700,
     "imdbId": "tt3914520",
@@ -7661,6 +7661,27 @@
     "runTimeMinutes": 66,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "132171",
+    "tmdbId": 132171,
+    "imdbId": "tt21289712",
+    "type": "tv",
+    "title": "A Model Family",
+    "overview": "After unwittingly stealing money from a cartel, a cash-strapped professor finds the only way to save his broken family is by working as a drug courier.",
+    "year": "2022",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eRtszL5XtARh2u5JMppmtEtxJmT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fTT0jQhynTTVLAQfgEIwQAsuL8s.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/48dn1tSKLeaTOd3bSRyMfn415Dp.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -7829,27 +7850,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "132171",
-    "tmdbId": 132171,
-    "imdbId": "tt21289712",
-    "type": "tv",
-    "title": "A Model Family",
-    "overview": "After unwittingly stealing money from a cartel, a cash-strapped professor finds the only way to save his broken family is by working as a drug courier.",
-    "year": "2022",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eRtszL5XtARh2u5JMppmtEtxJmT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fTT0jQhynTTVLAQfgEIwQAsuL8s.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/48dn1tSKLeaTOd3bSRyMfn415Dp.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
