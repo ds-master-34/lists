@@ -8297,6 +8297,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "84464",
+    "tmdbId": 84464,
+    "imdbId": "tt9165992",
+    "type": "tv",
+    "title": "My Strange Hero",
+    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
+    "certificate": "15",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "39198",
     "tmdbId": 39198,
     "imdbId": "tt2623064",
@@ -8375,27 +8396,6 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "246748",
-    "tmdbId": 246748,
-    "imdbId": "tt26009468",
-    "type": "tv",
-    "title": "The Tyrant",
-    "overview": "A secret project in Korea is exposed to the US so the project gets scrapped and the sample is to be handed over when a delivery accident occurs. Director Choe tries to hide the sample as Paul searches, but they end up at the same place as Jagyeong and Lim Sang. Who will seize the sample in the end?",
-    "year": "2024",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xgAZRY9swQYRkj3waCZeBDBCkuj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/47fLewzHRpL4vbcaHqQUZhOVF5C.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xr2H4RgqCBHJd7KTko7DS6JtwQ2.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
