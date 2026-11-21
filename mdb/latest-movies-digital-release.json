@@ -1,5 +1,47 @@
 [
   {
+    "id": "1131943",
+    "tmdbId": 1131943,
+    "imdbId": "tt24818230",
+    "type": "movie",
+    "title": "Madden",
+    "overview": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis—from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
+    "year": "2026",
+    "rating": 5.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
+    "certificate": "R",
+    "runTimeMinutes": 112,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1551025",
+    "tmdbId": 1551025,
+    "imdbId": "tt6611324",
+    "type": "movie",
+    "title": "Guarding Stars",
+    "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5yB5ISzk2PaRGgE0JL2Hpt7ZgA3.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1084409",
     "tmdbId": 1084409,
     "imdbId": "tt14129116",
@@ -7,7 +49,7 @@
     "title": "A Talent for Murder",
     "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
     "year": "2026",
-    "rating": 6.5,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/5RGLn8wleUCcsmPCytyosjSUOVY.png",
@@ -57,6 +99,27 @@
     "runTimeMinutes": 99,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1336166",
+    "tmdbId": 1336166,
+    "imdbId": "tt33184695",
+    "type": "movie",
+    "title": "Rolling Loud: The Movie",
+    "overview": "Desperate to reconnect with his distant son, a father secretly takes him to the chaos of Rolling Loud, only to plunge into a wild, frantic search across the massive hip-hop festival when the 13-year-old vanishes into the crowd.",
+    "year": "2026",
+    "rating": 5.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yn2wPM0tE4r85yGPQ74KDb3vT0l.png",
+    "certificate": "R",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -197,7 +260,7 @@
     "title": "Confession",
     "overview": "In 1938, in Stalin's Moscow, a disillusioned professor, Alexei, faces brutal interrogation by his former student, Vladimir, in Lubyanka Prison. Refusing to confess, he confronts his past sins and finds redemption through faith, sacrificing himself to save others in a haunting tale of morality and resistance.",
     "year": "2026",
-    "rating": 5.5,
+    "rating": 5.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kPId5qdaCPVOSeZYHaYXFYQmEFy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kLs8iYrujY0IhTSag1wkiiAFpKl.jpg",
     "logoUrl": null,
@@ -575,7 +638,7 @@
     "title": "Ever After",
     "overview": "A group of girlfriends arrive at a forest lodge to celebrate, but things take a horrific turn as they realize that the forest is home to bloodthirsty lunatics who perceive themselves to be characters from classic fairy tales.",
     "year": "2026",
-    "rating": 4.5,
+    "rating": 4.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ghL5WDgc1dvvNSEQ0dld7k6CTnt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/zFT6pxNBYVQCMrmJpdx52VUliPJ.jpg",
     "logoUrl": null,
@@ -1778,7 +1841,7 @@
     "title": "The Runner",
     "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
     "year": "2026",
-    "rating": 4.2,
+    "rating": 4.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
@@ -2762,27 +2825,6 @@
     "secondaryGenre": "Thriller",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1729196",
-    "tmdbId": 1729196,
-    "imdbId": "tt43662509",
-    "type": "movie",
-    "title": "Dread",
-    "overview": "Terror takes many forms. In five chilling tales, the mundane becomes monstrous and no one gets out clean.",
-    "year": "2026",
-    "rating": 4.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2GtykQnr2L0fmI3zxEsaTEaunXF.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
     ],
     "originalLanguage": "en"
   }
