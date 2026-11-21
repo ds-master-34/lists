@@ -1497,28 +1497,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1477712",
-    "tmdbId": 1477712,
-    "imdbId": "tt36893729",
-    "type": "movie",
-    "title": "Ice Cream Man",
-    "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "year": "2026",
-    "rating": 4.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/w2dr5aFRtRB1ojcHbCEPlfTXkbf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dmHPwUjYNECPpcldxbXZITxYkHD.png",
-    "certificate": "NR",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US",
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1607127",
     "tmdbId": 1607127,
     "imdbId": "tt37971717",

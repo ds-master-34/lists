@@ -1,20 +1,83 @@
 [
   {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
+    "id": "300523",
+    "tmdbId": 300523,
+    "imdbId": "tt38336631",
     "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "title": "The Blue Road",
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
     "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "301354",
+    "tmdbId": 301354,
+    "imdbId": "tt42152429",
+    "type": "tv",
+    "title": "Sword & Silence",
+    "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
+    "year": "2026",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zVesES4JoBINv8umnEWucabaBno.png",
+    "certificate": "15",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "War & Politics",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "307478",
+    "tmdbId": 307478,
+    "imdbId": "tt47657141",
+    "type": "tv",
+    "title": "The Perfect Lie",
+    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
     "certificate": "TV-14",
-    "runTimeMinutes": 53,
+    "runTimeMinutes": 65,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "326991",
+    "tmdbId": 326991,
+    "imdbId": "tt44093541",
+    "type": "tv",
+    "title": "A Trap Called Desire",
+    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
+    "certificate": "15",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -36,6 +99,27 @@
     "runTimeMinutes": 0,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -78,27 +162,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "326991",
-    "tmdbId": 326991,
-    "imdbId": "tt44093541",
-    "type": "tv",
-    "title": "A Trap Called Desire",
-    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
-    "certificate": "15",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -225,48 +288,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Family",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "301354",
-    "tmdbId": 301354,
-    "imdbId": "tt42152429",
-    "type": "tv",
-    "title": "Sword & Silence",
-    "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
-    "year": "2026",
-    "rating": 8.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zVesES4JoBINv8umnEWucabaBno.png",
-    "certificate": "15",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "307478",
-    "tmdbId": 307478,
-    "imdbId": "tt47657141",
-    "type": "tv",
-    "title": "The Perfect Lie",
-    "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-    "year": "2026",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/9XaJHwaERUM5WvAfvraiRfU1Jf3.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -7178,48 +7199,6 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "230924",
-    "tmdbId": 230924,
-    "imdbId": "tt29224935",
-    "type": "tv",
-    "title": "Moon in the Day",
-    "overview": "Waking from a near-death experience, a celebrity is surprised to find he’s been possessed by the spirit of a vengeful ancient nobleman.",
-    "year": "2023",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mb6h5XVHbhhplAjtJu1RFFFXjrb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n88QwMJuyfvLmuY3h2glXUy7Z9H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2ftzkBB8CpQO2dmaujLKYtBRXDy.png",
-    "certificate": "15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "231748",
-    "tmdbId": 231748,
-    "imdbId": "tt29721069",
-    "type": "tv",
-    "title": "Secret Playlist",
-    "overview": "Hanju is your ordinary university student… except for the fact that she’s also the up-and-coming Metube cover artist, PLII. When popular boy group member Levi takes notice of PLII and requests to collaborate, Hanju will do anything to hide her secret identity. But as the two grow closer working on a class project, Hanju’s cover begins to unravel. Will Levi discover her secret?",
-    "year": "2023",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iwt7lKBi9spIjtwA3JaxWOdC36T.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pxpnh89W8HqBuWAEaLuIwJ4DIhu.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/br4Pv1t1kBJ0o5Q2oImQ5klqEdF.png",
-    "certificate": "15",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],

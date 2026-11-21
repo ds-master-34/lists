@@ -2192,6 +2192,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "253242",
+    "tmdbId": 253242,
+    "imdbId": "tt32283804",
+    "type": "tv",
+    "title": "People Magazine Investigates: Surviving a Serial Killer",
+    "overview": "There are precious few individuals who have managed to survive their encounters with serial killers. Anchored by People Magazine's in-depth reporting, these survivors share their terrifying and intensely emotional experiences with unimaginable evil.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eDChtZhrlxvEMIbQco5ocKRUB3g.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pLWMYHuCCQYbiASNFeOTazJQeff.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hZjIxIcJ7blLj3hYvZ3NVpwccUP.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "253344",
     "tmdbId": 253344,
     "imdbId": "tt32263045",
@@ -4185,26 +4206,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "127987",
-    "tmdbId": 127987,
-    "imdbId": "tt19818714",
-    "type": "tv",
-    "title": "Visitors",
-    "overview": "After a mysterious explosion rocks the town of Pointe-Claire, rookie cop Richard Garcia and his ragtag group of friends find themselves entangled in an all-out war between rival alien factions.",
-    "year": "2022",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oYTetO99XH19bEA39KjuYeujuhM.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cPdPETvloWg95sQEb7rU8Ku907J.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nMB2UboIu3BDJp9BsNwofcuH8C9.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 27,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "FR"
-    ],
-    "originalLanguage": "fr"
   }
 ]

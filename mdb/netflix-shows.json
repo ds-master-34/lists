@@ -6216,6 +6216,27 @@
     "originalLanguage": "it"
   },
   {
+    "id": "247034",
+    "tmdbId": 247034,
+    "imdbId": "tt31490551",
+    "type": "tv",
+    "title": "The Listeners",
+    "overview": "An English teacher begins to hear a low humming sound that no one else around her can hear.",
+    "year": "2024",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5rpHENE6dIigVWy0TDpXTgLtIEp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iVra0pGeGH2DyNIMPdbLujHKguA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uXRkuExh89rVvWZ0kipFWD29L31.png",
+    "certificate": "15",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "251941",
     "tmdbId": 251941,
     "imdbId": "tt21433690",
@@ -6298,26 +6319,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "240440",
-    "tmdbId": 240440,
-    "imdbId": "tt29362951",
-    "type": "tv",
-    "title": "The Story of Pearl Girl",
-    "overview": "After narrowly escaping an abusive pearl farm, a young woman with unmatched talent carves out her own fate as treachery meets the world of jewelry.",
-    "year": "2024",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6SJyjMAPsRHr4MCXiHQYT2EWwuu.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i6v6AVtvnWPRP0SYIftuJigABzj.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CN"
-    ],
-    "originalLanguage": "zh"
   }
 ]
