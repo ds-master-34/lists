@@ -169,6 +169,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1528830",
+    "tmdbId": 1528830,
+    "imdbId": "tt34798706",
+    "type": "movie",
+    "title": "Extra Geography",
+    "overview": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood—friendship, boys, studies, and growing up—and embark on their school project... falling in love.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ptLT3O7XmXOLplR8T0e9ykGcw8l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8X8qgR0bK2CZsUdCyNuuRhG5aty.png",
+    "certificate": "15",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1543469",
     "tmdbId": 1543469,
     "imdbId": "tt38213251",
@@ -438,6 +459,27 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1198654",
+    "tmdbId": 1198654,
+    "imdbId": "tt29714073",
+    "type": "movie",
+    "title": "Bad Apples",
+    "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vGUAC8EOizemwwbWk9JbFrhpVz4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2D0cjEmXPgshMO0kRlxy1Bwa9Bd.png",
+    "certificate": "R",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   },

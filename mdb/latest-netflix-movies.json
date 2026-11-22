@@ -3957,6 +3957,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1505013",
+    "tmdbId": 1505013,
+    "imdbId": "tt37440137",
+    "type": "movie",
+    "title": "Masaka Kids, A Rhythm Within",
+    "overview": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship.",
+    "year": "2025",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zgKNlcPC3pfTikPOMQC1saywQ85.jpg",
+    "logoUrl": null,
+    "certificate": "PG",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1580353",
     "tmdbId": 1580353,
     "imdbId": "tt38938597",
@@ -4187,26 +4208,5 @@
       "TW"
     ],
     "originalLanguage": "zh"
-  },
-  {
-    "id": "1418297",
-    "tmdbId": 1418297,
-    "imdbId": "tt39064608",
-    "type": "movie",
-    "title": "The Last Shot",
-    "overview": "Petch wants out of the assassin's life, but escaping the past isn't easy. Torn between love, loyalty, and revenge, he's forced into one last job. With every shot, the stakes rise—his future and freedom rest on the final bullet.",
-    "year": "2025",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3q8l68PtcEVm5KYjbljlcvzMsHH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rvWdpDn2WWvtcg30IYCvIEFtWtd.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 113,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
   }
 ]
