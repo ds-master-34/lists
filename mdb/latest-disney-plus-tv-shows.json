@@ -7,7 +7,7 @@
     "title": "The Remarried Empress",
     "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
@@ -1145,7 +1145,7 @@
     "title": "Moonlit Reunion",
     "overview": "Mei Zhuyu, a calm and reserved nobleman from a lesser branch of the Mei family, arrives in Chang'an as an official at the Bureau of Mystic Investigations. During a banquet, he meets Wu Zhen, the bold and unruly younger sister of the Empress and secret Guardian of the Demon Underworld. Both hide their true identities. Wu, a half-demon striving to keep peace, and Mei, a skilled demon slayer, seek the truth behind the fire 18 years ago. As bone demons rise and unrest grows, they fight side by side, forming a bond that deepens into love until the Changxi Palace launches a purge, forcing them to face each other's secrets and the past they share.",
     "year": "2025",
-    "rating": 7.5,
+    "rating": 7.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/16o0xknWshrIbFPvWybgnOaz46o.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/u4uUe0rnjx2UOegZFiwwKPlxDBX.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/nVa09oJuhMvGFdy6oeNwUnoVPbJ.png",
@@ -1272,7 +1272,7 @@
     "title": "Mickey Mouse Clubhouse+",
     "overview": "Mickey and pals welcome everyone back to the clubhouse for all-new adventures filled with songs, laughs, handy helping, and fun new surprises.",
     "year": "2025",
-    "rating": 6,
+    "rating": 5.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/w4vgYff7qKO8jBQgVIt7F2Buobf.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ahedBn0bqv3XZdMufCF9zmOcP9j.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/tqUIAZu5scvrqmO159Vi2ONCguw.png",
@@ -3978,27 +3978,6 @@
     "originalLanguage": "ja"
   },
   {
-    "id": "206817",
-    "tmdbId": 206817,
-    "imdbId": "tt28083302",
-    "type": "tv",
-    "title": "Demons & Saviors",
-    "overview": "This true-crime series details the fascination with Christina Boyer. Boyer became a household name for her telekinesis as a teenager and the alleged murder of her own infant daughter in Boyer’s early 20s, a crime she maintains she did not commit. The series details the unlikely band of amateur sleuths obsessed with setting her free.",
-    "year": "2023",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xDSyBlftELmo0OTDUSPZM7iB9gc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ozrQAkeaQxqEDfZKRwPiSMHj0ar.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uvXfk7y4FK9JZRwK9JazO2BGAOD.png",
-    "certificate": "NR",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "128329",
     "tmdbId": 128329,
     "imdbId": "tt15657464",
@@ -4204,6 +4183,27 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "135615",
+    "tmdbId": 135615,
+    "imdbId": "tt15552018",
+    "type": "tv",
+    "title": "American Born Chinese",
+    "overview": "Average teenager Jin Wang juggles his high school social life with his immigrant home life. When he meets a new foreign student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods.",
+    "year": "2023",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cwTYt6DKuMY6RSmQ269fpYH9ELN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n5StTpznGP2zuagcZlQ3qUWZsrX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d8J0ASaxu2kpqrofDHdp5PMFarv.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
