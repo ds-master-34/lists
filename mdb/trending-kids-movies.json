@@ -210,27 +210,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "14836",
-    "tmdbId": 14836,
-    "imdbId": "tt0327597",
-    "type": "movie",
-    "title": "Coraline",
-    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
-    "year": "2009",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/eGd2oqRsWRgET6hVo9snTRUpn9m.png",
-    "certificate": "PG",
-    "runTimeMinutes": 100,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1108427",
     "tmdbId": 1108427,
     "imdbId": "tt27419466",
@@ -455,6 +434,27 @@
     "certificate": "PG",
     "runTimeMinutes": 131,
     "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "14836",
+    "tmdbId": 14836,
+    "imdbId": "tt0327597",
+    "type": "movie",
+    "title": "Coraline",
+    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "year": "2009",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eGd2oqRsWRgET6hVo9snTRUpn9m.png",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
+    "primaryGenre": "Animation",
     "secondaryGenre": "Family",
     "originCountries": [
       "US"
@@ -924,6 +924,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1595124",
+    "tmdbId": 1595124,
+    "imdbId": "tt14413964",
+    "type": "movie",
+    "title": "Steps",
+    "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+    "year": "2026",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jvyG7hSjMWGRJ7QVKVHKXaKyKvj.png",
+    "certificate": "PG",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "335797",
     "tmdbId": 335797,
     "imdbId": "tt3470600",
@@ -1134,6 +1155,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1206617",
+    "tmdbId": 1206617,
+    "imdbId": "tt2347285",
+    "type": "movie",
+    "title": "The Best Christmas Pageant Ever",
+    "overview": "The Herdman kids are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they're taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1AIwhOIMktmgesIqNcwUsQWYLl5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d29NHm5Hu85cH6hlhBAVfqIjItZ.png",
+    "certificate": "PG",
+    "runTimeMinutes": 99,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "9806",
     "tmdbId": 9806,
     "imdbId": "tt0317705",
@@ -1239,6 +1281,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "950387",
+    "tmdbId": 950387,
+    "imdbId": "tt3566834",
+    "type": "movie",
+    "title": "A Minecraft Movie",
+    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+    "year": "2025",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5gFN6sNEuzTwx2BY2BrN795JwZl.png",
+    "certificate": "U/A 7+",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10191",
     "tmdbId": 10191,
     "imdbId": "tt0892769",
@@ -1317,27 +1380,6 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "950387",
-    "tmdbId": 950387,
-    "imdbId": "tt3566834",
-    "type": "movie",
-    "title": "A Minecraft Movie",
-    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-    "year": "2025",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5gFN6sNEuzTwx2BY2BrN795JwZl.png",
-    "certificate": "U/A 7+",
-    "runTimeMinutes": 101,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Fantasy",
     "originCountries": [
       "US"
     ],
@@ -1596,27 +1638,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1206617",
-    "tmdbId": 1206617,
-    "imdbId": "tt2347285",
-    "type": "movie",
-    "title": "The Best Christmas Pageant Ever",
-    "overview": "The Herdman kids are undeniably the worst kids in the history of the world. They lie, steal, cheat, bully and overall terrorize their small community. But this Christmas, they're taking over their local church Pageant – and they just might unwittingly teach a shocked little town the true meaning of Christmas.",
-    "year": "2024",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6XjvhydAlXbQodoWbIf77H0Dd9R.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1AIwhOIMktmgesIqNcwUsQWYLl5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/d29NHm5Hu85cH6hlhBAVfqIjItZ.png",
-    "certificate": "PG",
-    "runTimeMinutes": 99,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1265",
     "tmdbId": 1265,
     "imdbId": "tt0398808",
@@ -1869,27 +1890,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "38757",
-    "tmdbId": 38757,
-    "imdbId": "tt0398286",
-    "type": "movie",
-    "title": "Tangled",
-    "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
-    "year": "2010",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cvfhdrzcieECmif1byJ26b6cF2s.png",
-    "certificate": "PG",
-    "runTimeMinutes": 100,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "10386",
     "tmdbId": 10386,
     "imdbId": "tt0129167",
@@ -2017,27 +2017,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "228326",
-    "tmdbId": 228326,
-    "imdbId": "tt2262227",
-    "type": "movie",
-    "title": "The Book of Life",
-    "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans fantastical worlds where he must face his greatest fears.",
-    "year": "2014",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7bUYGOyVbGXxNQ292cjwYh003vW.png",
-    "certificate": "PG",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "10439",
     "tmdbId": 10439,
     "imdbId": "tt0107120",
@@ -2101,21 +2080,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "863",
-    "tmdbId": 863,
-    "imdbId": "tt0120363",
+    "id": "38757",
+    "tmdbId": 38757,
+    "imdbId": "tt0398286",
     "type": "movie",
-    "title": "Toy Story 2",
-    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
-    "year": "1999",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yYIJLn22UFH9aIg1S11xeFXMOMC.png",
-    "certificate": "G",
-    "runTimeMinutes": 92,
+    "title": "Tangled",
+    "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+    "year": "2010",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cvfhdrzcieECmif1byJ26b6cF2s.png",
+    "certificate": "PG",
+    "runTimeMinutes": 100,
     "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -2248,6 +2227,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "863",
+    "tmdbId": 863,
+    "imdbId": "tt0120363",
+    "type": "movie",
+    "title": "Toy Story 2",
+    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "year": "1999",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yYIJLn22UFH9aIg1S11xeFXMOMC.png",
+    "certificate": "G",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "399174",
     "tmdbId": 399174,
     "imdbId": "tt5104604",
@@ -2286,6 +2286,29 @@
     "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "32657",
+    "tmdbId": 32657,
+    "imdbId": "tt0814255",
+    "type": "movie",
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "overview": "Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
+    "year": "2010",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bPjSRjigOlEnz1r6H92raaqwhJx.png",
+    "certificate": "PG",
+    "runTimeMinutes": 118,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US",
+      "GB",
+      "CA"
     ],
     "originalLanguage": "en"
   },
@@ -2437,27 +2460,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "9408",
-    "tmdbId": 9408,
-    "imdbId": "tt0423294",
-    "type": "movie",
-    "title": "Surf's Up",
-    "overview": "With a documentary crew in tow, Cody Maverick—a young surfer from Antarctica—travels to the pacific for his first professional competition. Determined to earn respect and live up to his idol, Big Z, Cody pushes himself to the limit. But all that changes when an encounter with a laid-back local forces him to rethink his values.",
-    "year": "2007",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Y50RfoNVKIj9dSJavE8uBdN377.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wS3oONEfs0hIzEnw2ApX1A5rgSw.png",
-    "certificate": "PG",
-    "runTimeMinutes": 85,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "44826",
     "tmdbId": 44826,
     "imdbId": "tt0970179",
@@ -2496,29 +2498,6 @@
     "secondaryGenre": "Animation",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "32657",
-    "tmdbId": 32657,
-    "imdbId": "tt0814255",
-    "type": "movie",
-    "title": "Percy Jackson & the Olympians: The Lightning Thief",
-    "overview": "Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.",
-    "year": "2010",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ugiV9SpJburMOPeIyjBJyAnO1So.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bPjSRjigOlEnz1r6H92raaqwhJx.png",
-    "certificate": "PG",
-    "runTimeMinutes": 118,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US",
-      "GB",
-      "CA"
     ],
     "originalLanguage": "en"
   },
@@ -2622,27 +2601,6 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "170687",
-    "tmdbId": 170687,
-    "imdbId": "tt0787474",
-    "type": "movie",
-    "title": "The Boxtrolls",
-    "overview": "An orphaned boy raised by underground creatures called Boxtrolls comes up from the sewers and out of his box to save his family and the town from the evil exterminator, Archibald Snatcher.",
-    "year": "2014",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dkBx0XNzsngDDqiWiPG08eMWBm7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kf3dUZaohYujLoLLemiOBYLYvY3.png",
-    "certificate": "PG",
-    "runTimeMinutes": 97,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -2922,27 +2880,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "37135",
-    "tmdbId": 37135,
-    "imdbId": "tt0120855",
-    "type": "movie",
-    "title": "Tarzan",
-    "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
-    "year": "1999",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1ijjaZgoaEEVpdLqKw3T81LBVji.png",
-    "certificate": "G",
-    "runTimeMinutes": 88,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "839033",
     "tmdbId": 839033,
     "imdbId": "tt14824600",
@@ -3090,6 +3027,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "37135",
+    "tmdbId": 37135,
+    "imdbId": "tt0120855",
+    "type": "movie",
+    "title": "Tarzan",
+    "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
+    "year": "1999",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a0E1mbejev56Ii51hCnYUDj4tZS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1ijjaZgoaEEVpdLqKw3T81LBVji.png",
+    "certificate": "G",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10414",
     "tmdbId": 10414,
     "imdbId": "tt0104868",
@@ -3105,6 +3063,27 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "508943",
+    "tmdbId": 508943,
+    "imdbId": "tt12801262",
+    "type": "movie",
+    "title": "Luca",
+    "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+    "year": "2021",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1k0lYEyYy60L9yjnzKHHP9b5OIa.png",
+    "certificate": "PG",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -3146,27 +3125,6 @@
     "certificate": "PG",
     "runTimeMinutes": 93,
     "primaryGenre": "Adventure",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "57800",
-    "tmdbId": 57800,
-    "imdbId": "tt1667889",
-    "type": "movie",
-    "title": "Ice Age: Continental Drift",
-    "overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
-    "year": "2012",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/c8KkElskVt690h6H1Xhi05SC9I9.png",
-    "certificate": "PG",
-    "runTimeMinutes": 88,
-    "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
@@ -3336,6 +3294,27 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9408",
+    "tmdbId": 9408,
+    "imdbId": "tt0423294",
+    "type": "movie",
+    "title": "Surf's Up",
+    "overview": "With a documentary crew in tow, Cody Maverick—a young surfer from Antarctica—travels to the pacific for his first professional competition. Determined to earn respect and live up to his idol, Big Z, Cody pushes himself to the limit. But all that changes when an encounter with a laid-back local forces him to rethink his values.",
+    "year": "2007",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tTDsCVlDA8QR4Dc6t6nERfwl5z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Y50RfoNVKIj9dSJavE8uBdN377.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wS3oONEfs0hIzEnw2ApX1A5rgSw.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -3594,28 +3573,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "481084",
-    "tmdbId": 481084,
-    "imdbId": "tt1620981",
-    "type": "movie",
-    "title": "The Addams Family",
-    "overview": "The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
-    "year": "2019",
-    "rating": 5.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/grY5sfuT9YeXWlp4JYCmRZVqjk0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rAzye8dwApe0sGoUFisrvMHgG3Y.png",
-    "certificate": "PG",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Animation",
-    "originCountries": [
-      "US",
-      "CA"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "18360",
     "tmdbId": 18360,
     "imdbId": "tt1078912",
@@ -3849,6 +3806,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "57800",
+    "tmdbId": 57800,
+    "imdbId": "tt1667889",
+    "type": "movie",
+    "title": "Ice Age: Continental Drift",
+    "overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+    "year": "2012",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c8KkElskVt690h6H1Xhi05SC9I9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 88,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "9353",
     "tmdbId": 9353,
     "imdbId": "tt0457510",
@@ -3975,27 +3953,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "508943",
-    "tmdbId": 508943,
-    "imdbId": "tt12801262",
-    "type": "movie",
-    "title": "Luca",
-    "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-    "year": "2021",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1k0lYEyYy60L9yjnzKHHP9b5OIa.png",
-    "certificate": "PG",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "447277",
     "tmdbId": 447277,
     "imdbId": "tt5971474",
@@ -4095,6 +4052,48 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "38575",
+    "tmdbId": 38575,
+    "imdbId": "tt1155076",
+    "type": "movie",
+    "title": "The Karate Kid",
+    "overview": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "year": "2010",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v8DepuF6gizphLzIyNZeQiB0hij.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4chPiBqdQ74RurOpJEtvfmhuV4b.png",
+    "certificate": "PG",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "438148",
+    "tmdbId": 438148,
+    "imdbId": "tt5113044",
+    "type": "movie",
+    "title": "Minions: The Rise of Gru",
+    "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+    "year": "2022",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9BhZxOTEspLkXTPQaMuzZVEvmlL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],

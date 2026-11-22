@@ -210,6 +210,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "299764",
+    "tmdbId": 299764,
+    "imdbId": "tt50901064",
+    "type": "tv",
+    "title": "Happy Anding",
+    "overview": "The story of three unknown comedians who are running towards their dreams and a woman whose life has collapsed, getting back up and finding her dream.",
+    "year": "2026",
+    "rating": 4.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4fjhWeTNyTz0ElvDpjOthABNp3g.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uh1RVXu8o2nQ1WP5Gnl5pO8p6nF.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "326975",
+    "tmdbId": 326975,
+    "imdbId": "tt50828583",
+    "type": "tv",
+    "title": "What a Boss Wants",
+    "overview": "A struggling CEO's only hope to turn his career around lies in an indie singer – but neither of them expected to fall for each other.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1lrHuB1zHomAa4CIbfIrgkmftBA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ypJyuwEqvF60u3H1yprnrYZPtw9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c2Etry6Sci6Eqzvot53ztQzVPgR.png",
+    "certificate": "15",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "279246",
     "tmdbId": 279246,
     "imdbId": "tt39325975",

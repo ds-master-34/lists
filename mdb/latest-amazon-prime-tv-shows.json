@@ -2219,6 +2219,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "251104",
+    "tmdbId": 251104,
+    "imdbId": "tt32020629",
+    "type": "tv",
+    "title": "Ultraman Arc",
+    "overview": "A being of light hailing from a faraway galaxy unites with Yuma, the protagonist who owns tremendous “power of imagination,” and they form the gigantic new Ultra Hero: Ultraman Arc.",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t5wzvTMpoPZuTmR0qJXk32Pk9if.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a0jB2fpnZfwd5WxkLYKsP0l4QZX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qLOJacpKhT8mYd6EUOxsl8VTLVW.png",
+    "certificate": "",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "256560",
     "tmdbId": 256560,
     "imdbId": "tt21444192",
@@ -2511,27 +2532,6 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "244814",
-    "tmdbId": 244814,
-    "imdbId": "tt31100088",
-    "type": "tv",
-    "title": "The Silent Service",
-    "overview": "An MSDF submarine collides with a U.S. nuclear submarine, crushing all 76 people on board, including its CO, Shiro Kaieda. However, the crew survives. The accident is a cover story to get the MSDF submarine's crew on board the Seabat, a nuclear submarine secretly built by the Japanese and U.S. governments. However, Kaieda loads the Seabat with nuclear missiles and suddenly mutinies and flees.",
-    "year": "2024",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4TZa3muX3y0BSVmtdI4iU3vOKIl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Aj2xk03XSszpaKykfVcpxhrVbZy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/jydc9XT75ooZUQ4DyEizS7aBIr9.png",
-    "certificate": "PG13",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   },
   {
     "id": "118642",
