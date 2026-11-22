@@ -948,6 +948,27 @@
     "originalLanguage": "th"
   },
   {
+    "id": "1291595",
+    "tmdbId": 1291595,
+    "imdbId": "tt32393988",
+    "type": "movie",
+    "title": "Insidious: Out of the Further",
+    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "year": "2026",
+    "rating": 7.666,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f65DhAYFi98FsRi4RWHTKkFtChu.png",
+    "certificate": "U/A 16+",
+    "runTimeMinutes": 106,
+    "primaryGenre": "Horror",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1688804",
     "tmdbId": 1688804,
     "imdbId": "tt32889884",
@@ -4187,26 +4208,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1174334",
-    "tmdbId": 1174334,
-    "imdbId": "tt32080855",
-    "type": "movie",
-    "title": "A Foggy Tale",
-    "overview": "Yue's brother was executed by the government. Determined to bring his body back home, Yue goes to Taipei alone and finds help in Chao Kung-tao, a discharged soldier. Two people with no relations become friends in need, embarking on a journey that could cost them their lives.",
-    "year": "2025",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nj1QyqHN48Wn66U9JYXIywNX8Nj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
-    "logoUrl": null,
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 134,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "TW"
-    ],
-    "originalLanguage": "zh"
   }
 ]
