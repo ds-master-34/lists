@@ -1,5 +1,26 @@
 [
   {
+    "id": "1595124",
+    "tmdbId": 1595124,
+    "imdbId": "tt14413964",
+    "type": "movie",
+    "title": "Steps",
+    "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jvyG7hSjMWGRJ7QVKVHKXaKyKvj.png",
+    "certificate": "PG",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1551025",
     "tmdbId": 1551025,
     "imdbId": "tt6611324",
@@ -175,7 +196,7 @@
     "title": "On Behalf of My Son",
     "overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/u4Kik19IGHSEebJEs0U1JP2J4BG.png",
@@ -637,7 +658,7 @@
     "title": "Thomas & Friends: Really Helpful Engines",
     "overview": "When Gordon needs help, Thomas takes on extra work alone to prove himself. But a busy day on Sodor shows that even useful engines need their friends.",
     "year": "2026",
-    "rating": 7.3,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/L01WT5wecMjDY874MIosElgaOJ.png",
@@ -2047,7 +2068,7 @@
     "title": "Midnight Girls",
     "overview": "Set in Nagoya, Japan, four Filipina entertainers form a sisterhood while facing the emotional cost of their jobs. Together, they must decide what they are truly willing to sacrifice for their dreams in a foreign land.",
     "year": "2026",
-    "rating": 6.7,
+    "rating": 6.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/fWVve8IToTcD2mL3KHXFfMqfpm3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kDRI77Lqb5PD8ZApAgQVLHQVNj.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/dRuAX9S7iz2B8o7zonSvoruHrGU.png",
@@ -4187,26 +4208,5 @@
       "NO"
     ],
     "originalLanguage": "no"
-  },
-  {
-    "id": "1582626",
-    "tmdbId": 1582626,
-    "imdbId": "tt37480805",
-    "type": "movie",
-    "title": "My Next Guest with David Letterman and Adam Sandler",
-    "overview": "Adam Sandler invites Dave backstage on his comedy tour, then they sit down at NYU to chat about stand-up, famous roles and his beloved Stratocaster.",
-    "year": "2025",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lW6eSQQYJe8NgQgd3RSgFhi4Vp7.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6W7RcW7TUOni3t6OfCEL69GG1ZC.jpg",
-    "logoUrl": null,
-    "certificate": "R",
-    "runTimeMinutes": 48,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]

@@ -596,7 +596,7 @@
     "title": "Dragon Ball Super: Beerus",
     "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
     "year": "2026",
-    "rating": 8.9,
+    "rating": 8.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
@@ -806,7 +806,7 @@
     "title": "Stick",
     "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
     "year": "2025",
-    "rating": 7.2,
+    "rating": 7.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xuCl12ui7dtUkp0hN0SSqn92kPi.png",
@@ -1282,6 +1282,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "126437",
+    "tmdbId": 126437,
+    "imdbId": "tt15792808",
+    "type": "tv",
+    "title": "Aoashi",
+    "overview": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?",
+    "year": "2022",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uvWHFUtgD0V8Xy5lolwijRAN82O.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/87IQdOn34p1z2KTdM4IZ1N8bWaH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ebDfNsW9uCNCfEEZ6E8bWpeI63Q.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "1622",
     "tmdbId": 1622,
     "imdbId": "tt0460681",
@@ -1544,7 +1565,7 @@
     "title": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
     "overview": "In a world where magical Gifts determine your destiny, Lent’s rare ability lets him lend his magic points to others. He forms an adventuring party called the Skypiercers with his friends, helping them become powerful heroes, only to be later cast aside as dead weight. Furious, Lent awakens the true power of his Gift: Forced Collection, the power to repossess magic. His revenge starts now.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 6.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jPItUZ3PnbkGii2JS0QCeyNgLxt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/v8S7tFMqpiAYn65Xfu0kH9rCvYL.png",
@@ -1852,6 +1873,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "207347",
+    "tmdbId": 207347,
+    "imdbId": "tt32639706",
+    "type": "tv",
+    "title": "Blue Box",
+    "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+    "year": "2024",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eFKYUsGePMFLrwmvnnLfh96Yjdc.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "94997",
     "tmdbId": 94997,
     "imdbId": "tt11198330",
@@ -1922,7 +1964,7 @@
     "title": "The Altruists",
     "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
     "year": "2026",
-    "rating": 5.5,
+    "rating": 5.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hLfxcGSEPV8ktPUrxfPewtnKvEo.png",
@@ -2111,7 +2153,7 @@
     "title": "100 Days of Deception",
     "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
     "year": "2026",
-    "rating": 8.4,
+    "rating": 8.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
@@ -2447,7 +2489,7 @@
     "title": "The Kardashians",
     "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
     "year": "2022",
-    "rating": 4.4,
+    "rating": 4.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oYC4X9DEhX1B0FrQZv0dEwOKxnH.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yd17TqEcvP9FcbtRNtZpcLCOhFj.png",
@@ -2615,7 +2657,7 @@
     "title": "Dead-End Job",
     "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
     "year": "2026",
-    "rating": 7,
+    "rating": 6.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/gbIk1sF9JLQZ1P53k3OaijgiWX1.png",
@@ -2648,6 +2690,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "237150",
+    "tmdbId": 237150,
+    "imdbId": "tt31975847",
+    "type": "tv",
+    "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+    "overview": "Ars Louvent is reincarnated in another world as the young son of a minor noble who owns a small domain. Ars is not particularly strong or intelligent, but he was born with the Appraisal Skill that's able to see others' abilities and statuses. He uses his skill to find the best hidden talents in the world to make their small, weak domain into the best.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jsugIfxS7mg7G254ZOi6b4jDIgM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aQiYM1K2rIbiblU9vnZNVBrWj7I.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "338830",
@@ -2711,6 +2774,27 @@
       "JP"
     ],
     "originalLanguage": "ja"
+  },
+  {
+    "id": "223911",
+    "tmdbId": 223911,
+    "imdbId": "tt27432264",
+    "type": "tv",
+    "title": "Renegade Immortal",
+    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "year": "2023",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wbZVuX5wbliibnuzphp2EsEhqF5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
   },
   {
     "id": "273207",
@@ -2837,6 +2921,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "288588",
+    "tmdbId": 288588,
+    "imdbId": "tt43650265",
+    "type": "tv",
+    "title": "Full Clearing Another World Under a Goddess with Zero Believers",
+    "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4hKtdyTXt4O2hy4zqadlENY1qpM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gLQ8HzTLE8aTRpleiciy0RlBWnR.png",
+    "certificate": "14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "136315",
@@ -2986,6 +3091,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "283692",
+    "tmdbId": 283692,
+    "imdbId": "tt41298100",
+    "type": "tv",
+    "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+    "overview": "When office worker Takahiro Satou awakens inside his favorite sci-fi game, he finds himself commanding a powerful spaceship. He takes to the stars as Hiro the mercenary, battling enemies and gathering allies along the way. But he soon faces a big problem: he has no home and, more importantly, no carbonated drinks! There's only one thing to do…buy himself a house on a planet!",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u7ZpGNdkpqvCiMKjMiK3ghBiJxG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k5G4ALskmO8GcSOO3fN8fePa9Ny.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2n7hXr6wbzFwwJ0rWLiEkQHZByy.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
+  },
+  {
     "id": "76479",
     "tmdbId": 76479,
     "imdbId": "tt1190634",
@@ -3000,6 +3126,27 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 67,
     "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "231801",
+    "tmdbId": 231801,
+    "imdbId": "tt33406999",
+    "type": "tv",
+    "title": "GET JIRO",
+    "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qQWJIQ2nY10pabBOWBqg6siCbkZ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
     "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "US"
@@ -3140,7 +3287,7 @@
     "title": "The Vermilion Mask",
     "overview": "Apprentice mask maker Peru should have known the perils of The Masks. Possessed by the Mask of the Warrior God, he unintentionally kills his friends and his master, the legendary Gaston Roux. Wracked with guilt, Peru vows to destroy every mask his master created before tragedy strikes again. As his mission takes him around the world, Peru makes friends, battles enemies, and reckons with his sins.",
     "year": "2026",
-    "rating": 8.3,
+    "rating": 8.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/mzzv48m0o3nvgMyNpbi8J4Ri6IC.png",
@@ -3302,6 +3449,27 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "317326",
+    "tmdbId": 317326,
+    "imdbId": "tt47983833",
+    "type": "tv",
+    "title": "Fool in Love",
+    "overview": "A powerful heir uses business to pursue an aristocrat, only to become hopelessly entangled in a romantic trap of his own making.",
+    "year": "2026",
+    "rating": 9.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tE5gpl1mUEnyyGS0KpaOqs042Z9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hlspaGaavZx1iIwhWbrKU8gH2XU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f9079w2qmvWTFgsQPfqmdrxpxSe.png",
+    "certificate": "น 18+",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "4419",
     "tmdbId": 4419,
     "imdbId": "tt0350448",
@@ -3330,7 +3498,7 @@
     "title": "Magical Explorer",
     "overview": "Reborn in his favorite bishojo game, Kousuke gets the worst role possible: the forgettable sidekick. But armed with his knowledge of the game and this world’s largest mana pool, he might even surpass the hero! Now Kousuke must rewrite his fate and battle his way toward the heroines’ happy endings!",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 6.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jQ90m50ZKL3m6bdt5V3xbIV4YL6.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yjtn1dgaIsIQmLFo1Jm0fvocbBL.png",
@@ -4275,7 +4443,7 @@
     "title": "Honey",
     "overview": "East Berlin, 1982. Marta, 24, is a deep cover agent for MI6. Surrounded by enemies and constantly under threat of her cover being blown, she tries her hardest to avoid detection by Friedrich Bauman, the new Head of Counter Espionage for the Stasi. Finding herself caught between Friedrich and the reckless, arrogant (and incredibly attractive…) CIA operative Aaron Neeland, she is blind-sided by desire in this Cold War menage-a-trois.",
     "year": "2026",
-    "rating": 6.5,
+    "rating": 6.6,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wKrubUacVFYxSjYBkiZYrgiCjXh.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/aNCRT8I1LTnw8vQSqPoSPWUtLEL.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/kkLUPFqwi1qBZZg8msPgApv1LM9.png",
@@ -4308,6 +4476,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "236534",
+    "tmdbId": 236534,
+    "imdbId": "tt33501934",
+    "type": "tv",
+    "title": "Tales of Herding Gods",
+    "overview": "In a remote village, there live nine mysterious old people along with a young man they raised, Qin Mu. One day, the cow that Qin Mu was herding suddenly spoke, revealing that Da Xu, a land abandoned by the gods, was full of danger and mysterious beauty. Demons descend with darkness, bones of gods dance in ancient ruins, bone dragons guard their cubs, and giant ships pull the sun across the sky. No matter how big the danger was, Qin Mu faced it without fear, mastering the knowledge taught by the nine elders. With unmatched abilities, he is determined to make his own way in this world.",
+    "year": "2024",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k6q3k6lUvjbYdgQyqIGVaY9VlAm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3XYx3pQh2sKRnc9CI9tY7UU2SPv.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 20,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
   },
   {
     "id": "244978",
@@ -4371,6 +4560,27 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "208929",
+    "tmdbId": 208929,
+    "imdbId": "tt40002142",
+    "type": "tv",
+    "title": "Blue Planet III",
+    "overview": "The third series of this nature documentary uses the very latest in underwater filming techniques to reveal brand new and untold stories from magical underwater worlds focusing on five major underwater habitats: the tropical seas, temperate seas, polar seas, high seas and deep seas. Venture deeper beneath the waves. David Attenborough reveals ocean life more surprising, more intelligent and more precious than we ever realised.",
+    "year": "2026",
+    "rating": 9.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3K7dHJvcGy8RJNh46xZJcLmwfSJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bx0rz8YsuZtNXiv6DDzkA9cPaeY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gjgAk7DSQmad1zHbpmYahZh0ts7.png",
+    "certificate": "",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "110381",
@@ -4562,6 +4772,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1711",
+    "tmdbId": 1711,
+    "imdbId": "tt0411027",
+    "type": "tv",
+    "title": "Strictly Come Dancing",
+    "overview": "A dance competition where celebrities compete to be crowned the winner. Who is kicked out of the competition each week is decided by the judges scores and viewer votes. Are today's celebrities fleet of foot or do they have two left feet?",
+    "year": "2004",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/b9Ki18BAlZqtU28THIgUkSfnq8T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d1MtRbMampXOZ7il2dDF6fDTTNU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c2naZc1an6YUcbqke4C5dQ80TB6.png",
+    "certificate": "",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "4546",
     "tmdbId": 4546,
     "imdbId": "tt0264235",
@@ -4597,6 +4828,27 @@
     "certificate": "TV-PG",
     "runTimeMinutes": 49,
     "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "260458",
+    "tmdbId": 260458,
+    "imdbId": "tt33049767",
+    "type": "tv",
+    "title": "Adults",
+    "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h8GrwttOjjQEoQJ72W9ugkyIVaB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vlcQQkQUm66RVJgwVwdASAcgbEN.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Comedy",
     "secondaryGenre": "",
     "originCountries": [
       "US"
@@ -4752,6 +5004,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "70523",
+    "tmdbId": 70523,
+    "imdbId": "tt5753856",
+    "type": "tv",
+    "title": "Dark",
+    "overview": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+    "year": "2017",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bV2DiPOCGj3VYtxTK3qS2N6PePI.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "DE"
+    ],
+    "originalLanguage": "de"
+  },
+  {
     "id": "63639",
     "tmdbId": 63639,
     "imdbId": "tt3230854",
@@ -4767,6 +5040,27 @@
     "runTimeMinutes": 63,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "157741",
+    "tmdbId": 157741,
+    "imdbId": "tt14186672",
+    "type": "tv",
+    "title": "Landman",
+    "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/13lJnfO3oExZ2ECzAR6WDyShzlV.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
@@ -4811,6 +5105,27 @@
     "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "202555",
+    "tmdbId": 202555,
+    "imdbId": "tt18923754",
+    "type": "tv",
+    "title": "Daredevil: Born Again",
+    "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+    "year": "2025",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/23zbPU6u5TUdyrYXWs8Jxhqhiy9.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 54,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -4876,5 +5191,47 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "245927",
+    "tmdbId": 245927,
+    "imdbId": "tt27444205",
+    "type": "tv",
+    "title": "Paradise",
+    "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+    "year": "2025",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ybiNhb3KAsgOd0ou272yFEdio86.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "241539",
+    "tmdbId": 241539,
+    "imdbId": "tt31262522",
+    "type": "tv",
+    "title": "Celeste",
+    "overview": "Celeste is a huge star of the Latin music world. Her songs are a global phenomenon, and her concerts pack out stadiums. But this series is not about her. The real star of Celeste is Sara Santano, a Tax inspector who has spent her life collecting taxes. Having dedicated more than thirty years to inland revenue, and on the point of retiring, she receives the most important assignment of her career: to demonstrate that Celeste must pay tax in Spain.",
+    "year": "2024",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aI61oEgMe35nWuViOezWurdLRr3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xr4kXYVKrwUOnkJ6cKLCe5V3HSF.jpg",
+    "logoUrl": null,
+    "certificate": "16",
+    "runTimeMinutes": 34,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   }
 ]

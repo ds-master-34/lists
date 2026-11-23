@@ -28,7 +28,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 6.9,
+    "rating": 7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -2807,27 +2807,6 @@
     "originalLanguage": "es"
   },
   {
-    "id": "155040",
-    "tmdbId": 155040,
-    "imdbId": "tt30241060",
-    "type": "tv",
-    "title": "My Man Is Cupid",
-    "overview": "Star-crossed love story between a love fairy and a human girl. For humans and fairies aren’t meant to be, when he accidentally shoots himself and falls in love, their fate takes a wrong turn. The two reconnect after centuries of reincarnation. Where will this story lead?",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ij2dlIzdEJa09Am7nxEoJbEjYcN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vm1XKRtPkHmyTy9IXL1jDqROCIf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2RrrnG15wa0X6RVj2tzzfSexGpo.png",
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "112388",
     "tmdbId": 112388,
     "imdbId": "tt9174724",
@@ -3268,27 +3247,6 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "218099",
-    "tmdbId": 218099,
-    "imdbId": "tt26085372",
-    "type": "tv",
-    "title": "HeartBeat",
-    "overview": "A thrilling romance between a vampire who desires to experience heart-throbbing love, and a cold-blooded woman.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wRrvEw3OCK9aiwe6YbcpsqkEwIW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lGYw3DiXzOS9bUMaHa9DfuMNoxC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8qys71O1pHDrSMOaC2sMyGrFODu.png",
-    "certificate": "15",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
   },
   {
     "id": "105169",
@@ -4215,5 +4173,47 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "99346",
+    "tmdbId": 99346,
+    "imdbId": "tt11771270",
+    "type": "tv",
+    "title": "The English",
+    "overview": "An aristocratic Englishwoman, Lady Cornelia Locke, arrives into the new and wild landscape of the American West to wreak revenge on the man she sees as responsible for the death of her son.",
+    "year": "2022",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aAFAwxj0VzBRyX5biAHUJM73qYG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eenxjEAPwPbkjN6W5ZzTbfLA4GM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3yEeb90STOHyaD8Pkmm9NItHaCD.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "211855",
+    "tmdbId": 211855,
+    "imdbId": "tt21814948",
+    "type": "tv",
+    "title": "The End of Love",
+    "overview": "After a reunion with her past, Tamara - a Jewish ex-orthodox turned feminist rocker - separates from her boyfriend, rebelling against romantic love and monogamy to embark on a path of exploration in search of her own desire.",
+    "year": "2022",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/x9Tq1h4SI8f4BGd3f0XUNbEY1sl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mmle3isEoxAhXWwJsoQKXrMNGJq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wJ3PMIbLlXERAWt3TCY3n5NdcME.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
   }
 ]
