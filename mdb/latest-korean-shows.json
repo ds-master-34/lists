@@ -1,20 +1,83 @@
 [
   {
-    "id": "301354",
-    "tmdbId": 301354,
-    "imdbId": "tt42152429",
+    "id": "320406",
+    "tmdbId": 320406,
+    "imdbId": "tt43619121",
     "type": "tv",
-    "title": "Sword & Silence",
-    "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
+    "title": "Family Register",
+    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "326991",
+    "tmdbId": 326991,
+    "imdbId": "tt44093541",
+    "type": "tv",
+    "title": "A Trap Called Desire",
+    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
+    "certificate": "15",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "335951",
+    "tmdbId": 335951,
+    "imdbId": "tt47596978",
+    "type": "tv",
+    "title": "Summer Vacation",
+    "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
     "year": "2026",
     "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zVesES4JoBINv8umnEWucabaBno.png",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
     "certificate": "15",
-    "runTimeMinutes": 69,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "War & Politics",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "313738",
+    "tmdbId": 313738,
+    "imdbId": "tt50776122",
+    "type": "tv",
+    "title": "One of a Kind Romance",
+    "overview": "A romance driven by personal desire that unfolds when top actor Tak Mu-i and idol Ryu Min enter the ordinary daily life of job seeker Gong Yu-il.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pSsJ2qQypNVzLNYKV6ixORDW7kM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/flSN0asy52nuiG04Lo8AuwME7tU.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -57,6 +120,48 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "310326",
+    "tmdbId": 310326,
+    "imdbId": "tt43643492",
+    "type": "tv",
+    "title": "Love on the Menu",
+    "overview": "A cheerful side dish shop owner and a chef hiding a secret cross paths at a local market, but their path to romance won't be easy.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sDa74kaZNLMjnLRfBYaXBkPuPrW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "301354",
+    "tmdbId": 301354,
+    "imdbId": "tt42152429",
+    "type": "tv",
+    "title": "Sword & Silence",
+    "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
+    "year": "2026",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zVesES4JoBINv8umnEWucabaBno.png",
+    "certificate": "15",
+    "runTimeMinutes": 69,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "War & Politics",
     "originCountries": [
       "KR"
     ],
@@ -126,27 +231,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "310326",
-    "tmdbId": 310326,
-    "imdbId": "tt43643492",
-    "type": "tv",
-    "title": "Love on the Menu",
-    "overview": "A cheerful side dish shop owner and a chef hiding a secret cross paths at a local market, but their path to romance won't be easy.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6M34aDRWttbjApzgWqYr43xpJzA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sDa74kaZNLMjnLRfBYaXBkPuPrW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300523",
     "tmdbId": 300523,
     "imdbId": "tt38336631",
@@ -162,48 +246,6 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Crime",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "326991",
-    "tmdbId": 326991,
-    "imdbId": "tt44093541",
-    "type": "tv",
-    "title": "A Trap Called Desire",
-    "overview": "Falsely accused of murder, a woman loses everything overnight. Determined to reclaim her stolen life, she uncovers a far-reaching conspiracy as she exposes hidden truths and confronts the powerful figures who sacrificed innocent lives to protect their own ambitions.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/repjdxPyA19x0ghyJFmECTDwGvj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJeyb3SHzH9B8K6ozayzE6VbmA3.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mJr08mbOIJw6xVkxqbnZPAKZEzB.png",
-    "certificate": "15",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "320406",
-    "tmdbId": 320406,
-    "imdbId": "tt43619121",
-    "type": "tv",
-    "title": "Family Register",
-    "overview": "Judged as a mistress’s daughter, a young woman fights a stigma she never chose. Meanwhile, another woman’s life stands still after her husband's betrayal. Bound together by the death of the man who tore their lives apart, these two apparent enemies are forced to confront one another under one roof. As families scarred by hatred and heartbreak collide, old wounds resurface. Facing years of prejudice, they set out to reclaim their lives and transform their bitter fate into an unexpected family bond.",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1NyZYjWNfFmnXBpkdIg4iKIhHqy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wAqlwWfsYYpAbQtbUNVHmNfiIcv.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Family",
     "originCountries": [
       "KR"
     ],
@@ -307,48 +349,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "335951",
-    "tmdbId": 335951,
-    "imdbId": "tt47596978",
-    "type": "tv",
-    "title": "Summer Vacation",
-    "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
-    "certificate": "15",
-    "runTimeMinutes": 58,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "313738",
-    "tmdbId": 313738,
-    "imdbId": "tt50776122",
-    "type": "tv",
-    "title": "One of a Kind Romance",
-    "overview": "A romance driven by personal desire that unfolds when top actor Tak Mu-i and idol Ryu Min enter the ordinary daily life of job seeker Gong Yu-il.",
-    "year": "2026",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pSsJ2qQypNVzLNYKV6ixORDW7kM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/flSN0asy52nuiG04Lo8AuwME7tU.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 58,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -7220,27 +7220,6 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "215474",
-    "tmdbId": 215474,
-    "imdbId": "tt31704157",
-    "type": "tv",
-    "title": "Soundtrack #2",
-    "overview": "Su-ho and Hyeon-seo, who once dated for six years, meet again as a youthful rich CEO and a piano instructor. K works with Su-ho on a collaborative project and invites Hyeon-seo to join them. Su-ho and Hyeon-seo embark on a bumpy romantic journey full of twists and turns. Will history repeat itself?",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kMDzM6CAHAxvp1CqNTIwPCFKkHX.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sjz9jj71XnNnMtCSBuNjzap6alb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qMjeH3CizqoAqUNwTfNuOTMBSR2.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
