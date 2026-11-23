@@ -1974,27 +1974,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "89959",
-    "tmdbId": 89959,
-    "imdbId": "tt10613844",
-    "type": "tv",
-    "title": "Strangers from Hell",
-    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
-    "year": "2019",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hWa3eZ1JDpQHZHgyRjUwx49OW2x.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xH8NKKGb2GQlCMmcxJFukV9droA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zxxvFjV2VJTYxgFv6NhbKZ7YpUH.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "221851",
     "tmdbId": 221851,
     "imdbId": "tt26628595",
@@ -2220,6 +2199,27 @@
     "runTimeMinutes": 72,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "89959",
+    "tmdbId": 89959,
+    "imdbId": "tt10613844",
+    "type": "tv",
+    "title": "Strangers from Hell",
+    "overview": "Unpleasant events disturb the life of an aspiring crime fiction writer when he becomes a resident of an apartment building teeming with shady neighbors.",
+    "year": "2019",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hWa3eZ1JDpQHZHgyRjUwx49OW2x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xH8NKKGb2GQlCMmcxJFukV9droA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zxxvFjV2VJTYxgFv6NhbKZ7YpUH.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -3130,6 +3130,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "90447",
+    "tmdbId": 90447,
+    "imdbId": "tt10220588",
+    "type": "tv",
+    "title": "Hotel Del Luna",
+    "overview": "When he's invited to manage a hotel for dead souls, an elite hotelier gets to know the establishment's ancient owner and her strange world.",
+    "year": "2019",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zIc2ib9HSizcT0WaYlDmX27OqRS.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 94,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "61611",
     "tmdbId": 61611,
     "imdbId": "tt4201628",
@@ -3403,6 +3424,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "93657",
+    "tmdbId": 93657,
+    "imdbId": "tt10826102",
+    "type": "tv",
+    "title": "Extraordinary You",
+    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
+    "year": "2019",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/90j1gGBn4uQcd1xyOYgxHUyO8kB.png",
+    "certificate": "15",
+    "runTimeMinutes": 37,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "134675",
     "tmdbId": 134675,
     "imdbId": "tt21828868",
@@ -3550,27 +3592,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "239005",
-    "tmdbId": 239005,
-    "imdbId": "tt29872951",
-    "type": "tv",
-    "title": "Seoul Busters",
-    "overview": "Songwon Police Violent Crimes Unit 2 has the lowest arrest rate in the country. After their chief is demoted, the team is exiled to a closed daycare center. Enter Yubin, their new leader. Despite the team's initial distrust, Yubin and the team start to bond as they solve cases together.",
-    "year": "2024",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nYDvkvutYQNKj2lhQTavGzgUE6L.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vas44Kp1BPca4ou2cBb4orAQ53F.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dwnBXbSHsDau170MY7e5m5wEAxD.png",
-    "certificate": "SAM 16",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "276472",
     "tmdbId": 276472,
     "imdbId": "tt40108629",
@@ -3628,27 +3649,6 @@
     "runTimeMinutes": 69,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "64487",
-    "tmdbId": 64487,
-    "imdbId": "tt5260064",
-    "type": "tv",
-    "title": "Remember: War of the Son",
-    "overview": "A genius lawyer, who suffers from Hyperthymetic syndrome, bets all in to save his father.",
-    "year": "2015",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fczKc9Oy4xvGii1mTDezoecn1Yt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/47TVJRSTYk31nGcjt8AVRIzniCT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5fUXfFX7oBabv825SuQWMduy9hs.png",
-    "certificate": "15",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -3964,27 +3964,6 @@
     "runTimeMinutes": 25,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "93657",
-    "tmdbId": 93657,
-    "imdbId": "tt10826102",
-    "type": "tv",
-    "title": "Extraordinary You",
-    "overview": "When a high-school girl finds that she is merely a character from a comic book whose destiny is decided by the writer, she decides to change the plot to suit her desires and find the love of her life.",
-    "year": "2019",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i6rkuzYRCBYUSYZJItWzBVAQ2j6.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/90j1gGBn4uQcd1xyOYgxHUyO8kB.png",
-    "certificate": "15",
-    "runTimeMinutes": 37,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -4369,6 +4348,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "88463",
+    "tmdbId": 88463,
+    "imdbId": "tt8750956",
+    "type": "tv",
+    "title": "Arthdal Chronicles",
+    "overview": "In a mythical land called Arth, the inhabitants of the ancient city of Arthdal and its surrounding regions vie for power as they build a new society.",
+    "year": "2019",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k5bKj5U2Z7AgkK3Mekji8xDHOuD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uDSnb7xvPziZedUzlrz3Za0YOz7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5Y3BWhd34P09q75TjsYH8lWsEQb.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "226527",
     "tmdbId": 226527,
     "imdbId": "tt27763561",
@@ -4551,6 +4551,27 @@
     "certificate": "PG",
     "runTimeMinutes": 75,
     "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "234061",
+    "tmdbId": 234061,
+    "imdbId": "tt29311377",
+    "type": "tv",
+    "title": "Dreaming of a Freaking Fairy Tale",
+    "overview": "Shin Jae-rim dreams of becoming a modern-day Cinderella and trading her current boring life for one of luxury and leisure. But landing her Prince Cha-min isn't easy—not only is Moon Cha-min her boss, but he's also engaged to another woman. Can Jae-rim find love with the man of her dreams…or will she discover that the true path to happiness is found within herself?",
+    "year": "2024",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ngrKR7Vnb38vzLVKmc63GYnsZh9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/clkI3hotqtyRdJibuDzZc4coAyj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aMmcJjeUImsSO7CSH5yNmqT5Et5.png",
+    "certificate": "15",
+    "runTimeMinutes": 43,
+    "primaryGenre": "Comedy",
     "secondaryGenre": "",
     "originCountries": [
       "KR"
@@ -4936,27 +4957,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "54477",
-    "tmdbId": 54477,
-    "imdbId": "tt3141190",
-    "type": "tv",
-    "title": "I Hear Your Voice",
-    "overview": "Government tax lawyer Hye Sung meets Su Ha, who has the ability to read people's thoughts.",
-    "year": "2013",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cx4XebEp17f2AoZrf6Tkj7Ya2YW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tljADTR9cvZSTBDN3GRo8WgjFIH.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nQtZ2MAT8nOClQ3R1WRQrQZ8vEp.png",
-    "certificate": "15",
-    "runTimeMinutes": 63,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "234590",
     "tmdbId": 234590,
     "imdbId": "tt30422566",
@@ -4972,6 +4972,48 @@
     "runTimeMinutes": 88,
     "primaryGenre": "Drama",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "112119",
+    "tmdbId": 112119,
+    "imdbId": "tt12874950",
+    "type": "tv",
+    "title": "Kairos",
+    "overview": "Kim Seo-Jin is a man who is driven only to achieve success in his life. Thanks to his efforts, he is the youngest executive at his company. His life is perfect, with his beautiful violinist wife Kang Hyun-Chae and a daughter. His wonderful life comes to a halt when his young daughter is kidnapped. He falls deep into despair. To change the past, when his daughter was kidnapped, he contacts Han Ae-Ri approximately one month in the past.\n\nHan Ae-Ri has busy days with her studies and working a part-time job to make enough money to pay for her sick mother's operation. One day, her mother suddenly goes missing. Han Ae-Ri falls into despair, when Kim Seo-Jin from the future contacts her.",
+    "year": "2020",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cnThovHCzJ2YoKrZ0oBBZfkd26j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/80z5nrNrDsj0JKyd1nfdyt7hR9k.jpg",
+    "logoUrl": null,
+    "certificate": "TV-14",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "64487",
+    "tmdbId": 64487,
+    "imdbId": "tt5260064",
+    "type": "tv",
+    "title": "Remember: War of the Son",
+    "overview": "A genius lawyer, who suffers from Hyperthymetic syndrome, bets all in to save his father.",
+    "year": "2015",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fczKc9Oy4xvGii1mTDezoecn1Yt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/47TVJRSTYk31nGcjt8AVRIzniCT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5fUXfFX7oBabv825SuQWMduy9hs.png",
+    "certificate": "15",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -8351,48 +8393,6 @@
     "runTimeMinutes": 65,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "44551",
-    "tmdbId": 44551,
-    "imdbId": "tt3147984",
-    "type": "tv",
-    "title": "Me too, Flower!",
-    "overview": "A tough female police officer who suffers from depression falls in love with a young multimillionaire whom she initially believed was a parking attendant. Instead of counting her lucky stars, she is taken aback by how rich he is. Officer Cha Bong-sun is a peculiar woman who defies the rigid social hierarchy and rails against it. And Seo Jae-hee, the millionaire boyfriend, is a peculiar man who falls in love with this quirky police officer. They fall passionately in love with each other. A crazy sort of love. A story about people, relationships and love.",
-    "year": "2011",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yBN8XIR2YKA3DWPEbeJmuPrI4Yc.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/53uhslc2XtWomv1XhNbBpJiLspM.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "61580",
-    "tmdbId": 61580,
-    "imdbId": "tt4284134",
-    "type": "tv",
-    "title": "Naeil's Cantabile",
-    "overview": "An arrogant piano student is forced to perform a duet with an unorthodox classmate, but her unique take on music might be just what he needs.",
-    "year": "2014",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/65B1t9NJe4KEGzT6d0jXmehptn8.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gGg1aSFMED2cFDf8g97SmPEd4EE.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nShzW8gKU7MhyQApBlMtlt36SFu.png",
-    "certificate": "B-15",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],

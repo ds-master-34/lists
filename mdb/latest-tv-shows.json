@@ -1,5 +1,26 @@
 [
   {
+    "id": "308007",
+    "tmdbId": 308007,
+    "imdbId": "tt36786185",
+    "type": "tv",
+    "title": "The Altruists",
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "year": "2026",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hLfxcGSEPV8ktPUrxfPewtnKvEo.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "303182",
     "tmdbId": 303182,
     "imdbId": "tt38707741",
@@ -4187,27 +4208,6 @@
     "secondaryGenre": "Crime",
     "originCountries": [
       "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "322687",
-    "tmdbId": 322687,
-    "imdbId": "tt37403273",
-    "type": "tv",
-    "title": "Two Years Later",
-    "overview": "Daily bus flirtations between Emily and Ryan end with COVID. Two years later, they reunite and embark on eight dates to test marriage compatibility, facing personal challenges and differing views while finding true connection.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rLx8jqmTAci1pDF8br3cIThluh4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7BEB5YztpWEXpjWXf6CTHMCBQho.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/n4gy27ed3KOB9eUXyrRTHGrCTR.png",
-    "certificate": "",
-    "runTimeMinutes": 22,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "AU"
     ],
     "originalLanguage": "en"
   }
