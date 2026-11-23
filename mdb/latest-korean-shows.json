@@ -42,6 +42,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "303552",
+    "tmdbId": 303552,
+    "imdbId": "tt50164002",
+    "type": "tv",
+    "title": "The Substitute",
+    "overview": "A brilliant but low-income student uses his smarts for his own gain, but his wealthy rival might ruin both of their lives",
+    "year": "2026",
+    "rating": 0,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/syKpHtIH8xPrcpNwXOgL3dhJ4Rk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/31kyh4GXFgv0T7I2y9pwT5LFbUC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kO9scAdCAMYXJKQaP4RwIfNp7iQ.png",
+    "certificate": "M18",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "335951",
     "tmdbId": 335951,
     "imdbId": "tt47596978",

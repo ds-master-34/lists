@@ -1033,6 +1033,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1282159",
+    "tmdbId": 1282159,
+    "imdbId": "tt9174288",
+    "type": "movie",
+    "title": "Let's Have Kids!",
+    "overview": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
+    "year": "2026",
+    "rating": 5.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dtOHrO67PmcU8foXQIt3vHhNpX7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qufTSgXGkxaCA86SgPxNclnkgVB.png",
+    "certificate": "R",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1302904",
     "tmdbId": 1302904,
     "imdbId": "tt32588798",
@@ -1363,6 +1384,27 @@
     "runTimeMinutes": 97,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1320039",
+    "tmdbId": 1320039,
+    "imdbId": "tt33038782",
+    "type": "movie",
+    "title": "Stranglehold",
+    "overview": "Fed up with their lives, barely eking by in small-town Arkansas, a stripper with dreams and her Army vet husband decide to rob the strip club that employs her.",
+    "year": "2026",
+    "rating": 4.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bDZYPBjWQWSGFKL64FvNLxnojTV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bUsxndTP8zEbOzv5wyL1PFtqX1d.png",
+    "certificate": "15",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "US"
     ],

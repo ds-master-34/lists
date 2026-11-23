@@ -3539,6 +3539,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "284054",
+    "tmdbId": 284054,
+    "imdbId": "tt1825683",
+    "type": "movie",
+    "title": "Black Panther",
+    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "year": "2018",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2T3WO0ZgiICLRfirgA0L1fVEhwx.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 135,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "726209",
     "tmdbId": 726209,
     "imdbId": "tt12747748",
@@ -3808,6 +3829,27 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1124",
+    "tmdbId": 1124,
+    "imdbId": "tt0482571",
+    "type": "movie",
+    "title": "The Prestige",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "year": "2006",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/spOKEWc2HsfVJWCicr5CXCCVRil.png",
+    "certificate": "U",
+    "runTimeMinutes": 131,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "US"
     ],
@@ -4340,6 +4382,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "383498",
+    "tmdbId": 383498,
+    "imdbId": "tt5463162",
+    "type": "movie",
+    "title": "Deadpool 2",
+    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "year": "2018",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gyfPKfFYcVW54MoqhYlwwDDIfJR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ksACm6SZq32nckHOHWsgw1vRjUp.png",
+    "certificate": "A",
+    "runTimeMinutes": 120,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "558",
+    "tmdbId": 558,
+    "imdbId": "tt0316654",
+    "type": "movie",
+    "title": "Spider-Man 2",
+    "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+    "year": "2004",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mSYIoj4eNWMDdxaTIf7xzDqvYDm.png",
+    "certificate": "U",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "652",
     "tmdbId": 652,
     "imdbId": "tt0332452",
@@ -4403,6 +4487,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1930",
+    "tmdbId": 1930,
+    "imdbId": "tt0948470",
+    "type": "movie",
+    "title": "The Amazing Spider-Man",
+    "overview": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.",
+    "year": "2012",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3zbb5XD0hEA8IpAcUmv1J9Rej3B.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wpjoFEW3fl7NYJNrBW2b1NicW2V.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 136,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "363088",
+    "tmdbId": 363088,
+    "imdbId": "tt5095030",
+    "type": "movie",
+    "title": "Ant-Man and the Wasp",
+    "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+    "year": "2018",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uHaVcGYwgchi4sYIADiGyEMtVH0.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10681",
     "tmdbId": 10681,
     "imdbId": "tt0910970",
@@ -4419,6 +4545,70 @@
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
     "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "931285",
+    "tmdbId": 931285,
+    "imdbId": "tt17490712",
+    "type": "movie",
+    "title": "Mortal Kombat II",
+    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vXnxYz3yP9GOV9L9tblSeUAVLKD.png",
+    "certificate": "A",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "105",
+    "tmdbId": 105,
+    "imdbId": "tt0088763",
+    "type": "movie",
+    "title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "year": "1985",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7hXsyx9em5FhNdeEf0tehFmG06r.svg",
+    "certificate": "PG",
+    "runTimeMinutes": 116,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49026",
+    "tmdbId": 49026,
+    "imdbId": "tt1345836",
+    "type": "movie",
+    "title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "year": "2012",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "certificate": "UA",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB",
       "US"
     ],
     "originalLanguage": "en"
@@ -4487,6 +4677,27 @@
     "originalLanguage": "hi"
   },
   {
+    "id": "497698",
+    "tmdbId": 497698,
+    "imdbId": "tt3480822",
+    "type": "movie",
+    "title": "Black Widow",
+    "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+    "year": "2021",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zvA336zpabTaFKfgdQc3rmWx3KD.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1433367",
     "tmdbId": 1433367,
     "imdbId": "tt37853455",
@@ -4525,6 +4736,28 @@
     "secondaryGenre": "Thriller",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "280",
+    "tmdbId": 280,
+    "imdbId": "tt0103064",
+    "type": "movie",
+    "title": "Terminator 2: Judgment Day",
+    "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "year": "1991",
+    "rating": 8.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xlnwUwRjB5u1E4jLjV1dEVc5lqS.png",
+    "certificate": "A",
+    "runTimeMinutes": 137,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US",
+      "FR"
     ],
     "originalLanguage": "en"
   },
@@ -4676,6 +4909,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "10193",
+    "tmdbId": 10193,
+    "imdbId": "tt0435761",
+    "type": "movie",
+    "title": "Toy Story 3",
+    "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "year": "2010",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1rBoAA0H6gE978rIgdgaLCJ265l.png",
+    "certificate": "G",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "425",
     "tmdbId": 425,
     "imdbId": "tt0268380",
@@ -4691,6 +4945,27 @@
     "runTimeMinutes": 81,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "330457",
+    "tmdbId": 330457,
+    "imdbId": "tt4520988",
+    "type": "movie",
+    "title": "Frozen II",
+    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+    "year": "2019",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uVLjCFRS4cv1mFijWkzeKeI16DL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],
@@ -4733,6 +5008,111 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Horror",
     "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "569094",
+    "tmdbId": 569094,
+    "imdbId": "tt9362722",
+    "type": "movie",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "year": "2023",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
+    "certificate": "UA",
+    "runTimeMinutes": 140,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "496243",
+    "tmdbId": 496243,
+    "imdbId": "tt6751668",
+    "type": "movie",
+    "title": "Parasite",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "year": "2019",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/eEGZWCv0OYbMLCaNsDl1cgrvnWR.png",
+    "certificate": "A",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "13",
+    "tmdbId": 13,
+    "imdbId": "tt0109830",
+    "type": "movie",
+    "title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "year": "1994",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/as10mpHSWebQVXwMbwQfWYfR27F.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 142,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "614945",
+    "tmdbId": 614945,
+    "imdbId": "tt10375624",
+    "type": "movie",
+    "title": "Voicemails for Isabelle",
+    "overview": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/AgKNByf6tc8e4dB6Sd9puLS2rAd.png",
+    "certificate": "A",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "127585",
+    "tmdbId": 127585,
+    "imdbId": "tt1877832",
+    "type": "movie",
+    "title": "X-Men: Days of Future Past",
+    "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+    "year": "2014",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3czpqXzFy5UcNuD1AubecRLWkwD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/d3vdGM4NBUTnzyjWn5h1qfJNczj.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 132,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -4782,6 +5162,48 @@
     "originalLanguage": "zh"
   },
   {
+    "id": "299537",
+    "tmdbId": 299537,
+    "imdbId": "tt4154664",
+    "type": "movie",
+    "title": "Captain Marvel",
+    "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "year": "2019",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/93xWYZfgqcFE1svEgSlBBXS5Zlm.png",
+    "certificate": "UA",
+    "runTimeMinutes": 124,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "467905",
+    "tmdbId": 467905,
+    "imdbId": "tt4357198",
+    "type": "movie",
+    "title": "How to Make a Killing",
+    "overview": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many relatives stand in his way.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/39qu7nY1DgTfFLmpDPVB6hkDcTV.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1228834",
     "tmdbId": 1228834,
     "imdbId": "tt9601292",
@@ -4797,6 +5219,48 @@
     "runTimeMinutes": 142,
     "primaryGenre": "Action",
     "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "640146",
+    "tmdbId": 640146,
+    "imdbId": "tt10954600",
+    "type": "movie",
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+    "year": "2023",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nkXPX8AY0furnokMkpD0R0TdVR5.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 125,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "68718",
+    "tmdbId": 68718,
+    "imdbId": "tt1853728",
+    "type": "movie",
+    "title": "Django Unchained",
+    "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "year": "2012",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
+    "certificate": "A",
+    "runTimeMinutes": 165,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Western",
     "originCountries": [
       "US"
     ],

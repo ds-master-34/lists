@@ -3970,6 +3970,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "158258",
+    "tmdbId": 158258,
+    "imdbId": "tt26672563",
+    "type": "tv",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "year": "2023",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vtokuvfqLbfJaSCW6EWhWtrmz2s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/szkhyUvGBiTpdPCpkGQa6SUoBLw.png",
+    "certificate": "19",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "129478",
     "tmdbId": 129478,
     "imdbId": "tt14609428",
@@ -4852,6 +4873,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "209502",
+    "tmdbId": 209502,
+    "imdbId": "tt29006388",
+    "type": "tv",
+    "title": "A Good Day to be a Dog",
+    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "99048",
     "tmdbId": 99048,
     "imdbId": "tt12867810",
@@ -4909,6 +4951,27 @@
     "runTimeMinutes": 51,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "214528",
+    "tmdbId": 214528,
+    "imdbId": "tt28197611",
+    "type": "tv",
+    "title": "Jeongnyeon: The Star is Born",
+    "overview": "The 1950s were an era filled with desire and aspiration, despite the aftermath of the Korean War. Jeongnyeon, a girl with a gifted voice, embarks on a journey to become the best actor of gukgeuk, or Korean female classical opera, where she encounters competition, solidarity, and growth.",
+    "year": "2024",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6Iyr6TCx477b8HSgG0fXF4hSuIa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eQTBKvOqxaO4PBxs7rMj5MRw7Eb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9zKdVGS5UFkWTUZ48ZfOWfH5jWJ.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 75,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -8329,27 +8392,6 @@
     "certificate": "12",
     "runTimeMinutes": 53,
     "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "44399",
-    "tmdbId": 44399,
-    "imdbId": "tt2474948",
-    "type": "tv",
-    "title": "Golden Time",
-    "overview": "Golden Time is a 2012 South Korean medical drama starring Lee Sun-kyun, Hwang Jung-eum, Lee Sung-min and Song Seon-mi. It aired on MBC from July 9 to September 25, 2012 on Mondays and Tuesdays at 21:55 for 23 episodes.\n\nIn emergency medicine, \"golden time\" or \"golden hour\" refers to the crucial time period right after a patient suffers a traumatic injury, during which timely medical treatment could determine life or death.",
-    "year": "2012",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yi0mygzNKH3FjdkiVLkg209NIYo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/icU2zLmoBL3wWf5P7MHaqSkMIvn.jpg",
-    "logoUrl": null,
-    "certificate": "TV-Y7",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"

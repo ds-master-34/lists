@@ -2125,6 +2125,27 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "14929",
+    "tmdbId": 14929,
+    "imdbId": "tt1094229",
+    "type": "tv",
+    "title": "Heartland",
+    "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+    "year": "2007",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1bVQuM21SMsCAIkSe61HvBdKlfi.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "231801",
     "tmdbId": 231801,
     "imdbId": "tt33406999",
@@ -3428,6 +3449,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "90046",
+    "tmdbId": 90046,
+    "imdbId": "tt9170070",
+    "type": "tv",
+    "title": "90 Day Fiancé: The Other Way",
+    "overview": "Americans move to a foreign country all in the name of love. Will uprooting their lives in the United States pay off, or will they be packing up and moving back to America brokenhearted?",
+    "year": "2019",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jw4KDjNmpBnMd7fEjbz9qTUmKJS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9jmxvWOt5xTjrJ03FNmViZCuZ5f.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hL4QYq289eNRwMgRhNmkjhJrEmY.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1400",
     "tmdbId": 1400,
     "imdbId": "tt0098904",
@@ -3827,6 +3869,27 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "261507",
+    "tmdbId": 261507,
+    "imdbId": "tt33096993",
+    "type": "tv",
+    "title": "Have I Got News for You",
+    "overview": "Host Roy Wood Jr. and team captains Amber Ruffin and Michael Ian Black serve up a smart take on the news of the week and guide guests through comic games and panels that test their knowledge of current events.",
+    "year": "2024",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xfcbX281YbHtr7mGB101LPoO2Sv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/v3sTpyD46PKBI90vsO6nY5JhPh8.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mQE2ATlogiboxNbo0olPXaDvnod.png",
+    "certificate": "",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "News",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "2004",
     "tmdbId": 2004,
     "imdbId": "tt0212671",
@@ -3846,6 +3909,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "303060",
+    "tmdbId": 303060,
+    "imdbId": "tt43691418",
+    "type": "tv",
+    "title": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé",
+    "overview": "Pia Rockwell is a minor villainess in the game Caroline and the Rainbow Magic Sweets. At the end of the game, she's destined to be judged at her graduation party, see her engagement broken off, and be banished from the kingdom. Realizing she's doomed, Pia offers to end her engagement with Rufus Stan…but this only inspires the proud chancellor’s son to make a bet with her about their future!",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/deFPIrhtwbVp1juu0b5Vi94DVLN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6tdkrWkbHlNZ8ZGn5blye4KTm57.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vuetBPAN3TGi4XsRSsgiM6GV2F8.png",
+    "certificate": "12",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "1911",
@@ -3951,6 +4035,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "124045",
+    "tmdbId": 124045,
+    "imdbId": "tt13606528",
+    "type": "tv",
+    "title": "Drag Race España",
+    "overview": "On the Spanish version of RuPaul's Drag Race, Supremme de Luxe presides as Spain's most talented queens compete to be crowned Spain's Next Drag Superstar.",
+    "year": "2021",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dbkZ73dWB0bF9o8o9GtatzmkmJE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bHjlnAV7uzCKGUsf02hr0BGRLCX.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/9RHifgdtgcEacPwsHLJvOZ7NW1E.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "253941",
@@ -4290,6 +4395,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "271051",
+    "tmdbId": 271051,
+    "imdbId": "tt33359676",
+    "type": "tv",
+    "title": "Maigret",
+    "overview": "Jules Maigret is a rising star in the Police Judiciaire, relentless in his investigations, with an uncanny ability to get under the skin of the criminals he is chasing and a matchless knowledge of Paris and its inhabitants.",
+    "year": "2025",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j4Ns1AoYHkMJfFhH0wqYnipu3uI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9uigyTXv7OZKeyEm0ZNMxTc6IW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7EhOXk9hc1guvvwwniZoz5a3Ehj.png",
+    "certificate": "16+",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "226637",
     "tmdbId": 226637,
     "imdbId": "tt22091076",
@@ -4500,6 +4626,27 @@
     "originalLanguage": "it"
   },
   {
+    "id": "202224",
+    "tmdbId": 202224,
+    "imdbId": "tt15791752",
+    "type": "tv",
+    "title": "Grimsburg",
+    "overview": "Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there’s one mystery he still can’t crack — his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he’s got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.",
+    "year": "2024",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j5UcgY1u00HTizz0Rf2WpVojK7N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vuHpCqV8f08NNw6yu4Nyb0sDQOm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ovqmxPekAxzKI2lttRhw5f7fhKG.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 23,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "287296",
     "tmdbId": 287296,
     "imdbId": "tt36329495",
@@ -4584,6 +4731,48 @@
     "originalLanguage": "en"
   },
   {
+    "id": "62560",
+    "tmdbId": 62560,
+    "imdbId": "tt4158110",
+    "type": "tv",
+    "title": "Mr. Robot",
+    "overview": "A young programmer, Elliot, suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot finds himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+    "year": "2015",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uJUe985oIuRiD3hmHQYskIMc2WU.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/svmF6unZyV9tjzACsnGe5cQeK69.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "65300",
+    "tmdbId": 65300,
+    "imdbId": "tt5327970",
+    "type": "tv",
+    "title": "The Real Housewives of Potomac",
+    "overview": "Just up the river from our nation’s capital lies a hidden gem—Potomac, Maryland. Its rolling hills, gated mansions, sophisticated prep schools, and exclusive country clubs all serve to keep the area invitation-only. Sprinkled throughout this community are a handful of old-line, wealthy African-American families who have historically broken racial barriers to provide a life of privilege for their children. In a town where entry is granted only through class, pedigree, and lineage, how far will the ladies go to secure their spot at the top of this prestigious circle?",
+    "year": "2016",
+    "rating": 5.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bkUgqsXnWlzqJCaWMwR1DGqPiAq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8PkQKCE8rTFTUmGrP47FgaXLTNQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ou0EEKgRjWjjkEgpUK5LNWXCH3o.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 42,
+    "primaryGenre": "Reality",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "262352",
     "tmdbId": 262352,
     "imdbId": "tt33246591",
@@ -4626,6 +4815,27 @@
     "originalLanguage": "pl"
   },
   {
+    "id": "290826",
+    "tmdbId": 290826,
+    "imdbId": "tt36843594",
+    "type": "tv",
+    "title": "Dig",
+    "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+    "year": "2026",
+    "rating": 4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cPJRtFeXHUae8hrTzfpj2AId2m7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/voT8stLPjCtJxZzytBlhcNezE5J.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "291431",
     "tmdbId": 291431,
     "imdbId": "tt33248156",
@@ -4666,6 +4876,48 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "107113",
+    "tmdbId": 107113,
+    "imdbId": "tt11691774",
+    "type": "tv",
+    "title": "Only Murders in the Building",
+    "overview": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+    "year": "2021",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tvdmO28R440JQVdThrNPrOl5vBm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/WCnEPf4ZNPjszndmrFlDxZ5Uvd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yEa3q1MtRbd27Ui64LVaH1f4FSQ.svg",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 41,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "35338",
+    "tmdbId": 35338,
+    "imdbId": "tt0922037",
+    "type": "tv",
+    "title": "La que se avecina",
+    "overview": "La que se avecina is a Spanish television comedy created by Alberto Caballero, Laura Caballero and Daniel Deorador. The TV-series focusing around the inhabitants of Mirador de Montepinar, a fictional building located on the outskirts of a big city. Both its storylines and cast are heavily based on Aquí no hay quien viva, which ended when Telecinco bought Miramón Mendi, the series production company.\n\nThe episodes debuted on the Telecinco network, and were later rerun by the same network as well as cable/satellite channels FactoríaDeFicción and Paramount Comedy. The series debuted in 22 April 2007 and became popular thanks to its funny characters, witty script, use of catchphrases and capacity to integrate and poke fun at contemporary issues; the program presents a caustic satire of many of the 'types' found in Spanish society.\n\nThe name of the show involves wordplay, as \"vecina\" is the Spanish word for neighbour.",
+    "year": "2007",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ceoJyZgsHBaenUxhobHUA6mXXf0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cFqNqC40XlssRmReUnaqDey9EgW.jpg",
+    "logoUrl": null,
+    "certificate": "TV-PG",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "ES"
+    ],
+    "originalLanguage": "es"
   },
   {
     "id": "283938",
@@ -4731,6 +4983,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "246",
+    "tmdbId": 246,
+    "imdbId": "tt0417299",
+    "type": "tv",
+    "title": "Avatar: The Last Airbender",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "year": "2005",
+    "rating": 9.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/l0zXgxqmIgaHNp1xFAJ6XzCcdD3.png",
+    "certificate": "TV-Y7",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "245927",
     "tmdbId": 245927,
     "imdbId": "tt27444205",
@@ -4746,6 +5019,69 @@
     "runTimeMinutes": 53,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2122",
+    "tmdbId": 2122,
+    "imdbId": "tt0118375",
+    "type": "tv",
+    "title": "King of the Hill",
+    "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+    "year": "1997",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lvf0q6kX0NCjFp7VxEuC6ArBa42.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7vRr20jKrykPlOa8cEeqi12Zyp0.svg",
+    "certificate": "TV-14",
+    "runTimeMinutes": 24,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "60622",
+    "tmdbId": 60622,
+    "imdbId": "tt2802850",
+    "type": "tv",
+    "title": "Fargo",
+    "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
+    "year": "2014",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/e5HUXN7l8WUApAcnhGg80Nc5JKa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gdFFKKCDfubJVbj88JnaCHRJDGZ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "15260",
+    "tmdbId": 15260,
+    "imdbId": "tt1305826",
+    "type": "tv",
+    "title": "Adventure Time",
+    "overview": "Young Finn and his shape-shifting dog buddy, Jake, go on a series of surreal adventures as they journey through the postapocalyptic Land of Ooo.",
+    "year": "2010",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d8rse1RgMzXwmZvBpDvcG1VUO2Y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rIi0lY2UftYuKDJ4OlIefDdijve.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -4771,6 +5107,27 @@
       "US"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "316702",
+    "tmdbId": 316702,
+    "imdbId": "tt49692512",
+    "type": "tv",
+    "title": "Final Table",
+    "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   },
   {
     "id": "4546",
@@ -4834,6 +5191,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "83631",
+    "tmdbId": 83631,
+    "imdbId": "tt7908628",
+    "type": "tv",
+    "title": "What We Do in the Shadows",
+    "overview": "A documentary-style look into the daily (or rather, nightly) lives of a group of vampires in Staten Island who have “lived” together for hundreds and hundreds of years.",
+    "year": "2019",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wa3ZQE9kLnqwN3vQ0NNjg1NPsCa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mKikck71CvVISUSTLk29fwRbH4y.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kNWLGuWeu7p9l0Mb2u9TCVqXRg1.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 33,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   },
   {
     "id": "60572",
