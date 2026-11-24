@@ -1932,6 +1932,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "112888",
+    "tmdbId": 112888,
+    "imdbId": "tt13274038",
+    "type": "tv",
+    "title": "True Beauty",
+    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
+    "year": "2020",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
+    "certificate": "12",
+    "runTimeMinutes": 81,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "113268",
     "tmdbId": 113268,
     "imdbId": "tt13273826",
@@ -1966,6 +1987,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/vVemgq7WpJ48Ui3SoDMEtmAohsQ.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 95,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "155226",
+    "tmdbId": 155226,
+    "imdbId": "tt21195490",
+    "type": "tv",
+    "title": "Big Mouth",
+    "overview": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.",
+    "year": "2022",
+    "rating": 7.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vxwcPdH0JyyMjjyuJ1ApMAQ8jwr.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 71,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -2157,6 +2199,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "293610",
+    "tmdbId": 293610,
+    "imdbId": "tt39328047",
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -2373,27 +2436,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "112888",
-    "tmdbId": 112888,
-    "imdbId": "tt13274038",
-    "type": "tv",
-    "title": "True Beauty",
-    "overview": "After being bullied and discriminated because of her ugly looks, a high school girl transforms herself into a gorgeous \"goddess\" and quickly rises to fame after mastering the art of makeup via online tutorial videos.",
-    "year": "2020",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/I9WCyKUbKAiu95tAitaHOx8EVO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3E1GroTJCRdIYHa5n62GqjmqxQR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sAFwvBPiU53yjGyC91MFMezOLNI.png",
-    "certificate": "12",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "119773",
     "tmdbId": 119773,
     "imdbId": "tt13885336",
@@ -2478,27 +2520,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "155226",
-    "tmdbId": 155226,
-    "imdbId": "tt21195490",
-    "type": "tv",
-    "title": "Big Mouth",
-    "overview": "A lawyer with a ten-percent winning rate is caught up in a murder case and becomes the notorious and genius con artist, Big Mouse, overnight. In order to survive and protect his family, he tries to reveal the true colors of the privileged people involved in a huge conspiracy.",
-    "year": "2022",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vxwcPdH0JyyMjjyuJ1ApMAQ8jwr.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 71,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "135340",
     "tmdbId": 135340,
     "imdbId": "tt14979052",
@@ -2556,6 +2577,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "229480",
+    "tmdbId": 229480,
+    "imdbId": "tt32981987",
+    "type": "tv",
+    "title": "No Gain No Love",
+    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/olqgBrhl1WvstIRpYwswltmApdm.png",
+    "certificate": "15",
+    "runTimeMinutes": 78,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -3003,27 +3045,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "229480",
-    "tmdbId": 229480,
-    "imdbId": "tt32981987",
-    "type": "tv",
-    "title": "No Gain No Love",
-    "overview": "Son Hae-yeong seeks out a fake wedding with her neighbourhood convenience store employee, Kim Ji-uk, to avoid missing out on a promotion.",
-    "year": "2024",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6q52MB16qAXVqr3EkPcsHAXUAdg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/olqgBrhl1WvstIRpYwswltmApdm.png",
-    "certificate": "15",
-    "runTimeMinutes": 78,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "241454",
     "tmdbId": 241454,
     "imdbId": "tt30446769",
@@ -3081,27 +3102,6 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "293610",
-    "tmdbId": 293610,
-    "imdbId": "tt39328047",
-    "type": "tv",
-    "title": "Doctor X: Mafia in White",
-    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Mystery",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3738,27 +3738,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "215001",
-    "tmdbId": 215001,
-    "imdbId": "tt27974068",
-    "type": "tv",
-    "title": "Destined with You",
-    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
-    "year": "2023",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8zBQfIPFZOnJdxgTmeXkeJCPehK.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "230524",
     "tmdbId": 230524,
     "imdbId": "tt29657033",
@@ -4095,6 +4074,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "215001",
+    "tmdbId": 215001,
+    "imdbId": "tt27974068",
+    "type": "tv",
+    "title": "Destined with You",
+    "overview": "A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance.",
+    "year": "2023",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/e21UFBbQStpqSkU4iyWwVJsb8DZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jJMfTkvU2exHwCFoBHsIqwaHImh.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8zBQfIPFZOnJdxgTmeXkeJCPehK.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 65,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "229915",
     "tmdbId": 229915,
     "imdbId": "tt29899652",
@@ -4158,6 +4158,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "290193",
+    "tmdbId": 290193,
+    "imdbId": "tt36996011",
+    "type": "tv",
+    "title": "Mousetrap",
+    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+    "year": "2026",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "297640",
     "tmdbId": 297640,
     "imdbId": "tt39010903",
@@ -4171,6 +4192,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/6sxEYsm7ciMZYLjE8vABffSwKkj.png",
     "certificate": "TV-14",
     "runTimeMinutes": 70,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -4579,48 +4621,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "290193",
-    "tmdbId": 290193,
-    "imdbId": "tt36996011",
-    "type": "tv",
-    "title": "Mousetrap",
-    "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
-    "year": "2026",
-    "rating": 6.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uJfYt0J9X3QGdcqwIVqcLSrN1c3.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "31417",
     "tmdbId": 31417,
     "imdbId": "tt2074131",
@@ -4957,6 +4957,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "158258",
+    "tmdbId": 158258,
+    "imdbId": "tt26672563",
+    "type": "tv",
+    "title": "Duty After School",
+    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
+    "year": "2023",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vtokuvfqLbfJaSCW6EWhWtrmz2s.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/szkhyUvGBiTpdPCpkGQa6SUoBLw.png",
+    "certificate": "19",
+    "runTimeMinutes": 92,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "220074",
     "tmdbId": 220074,
     "imdbId": "tt30413181",
@@ -5141,27 +5162,6 @@
     "runTimeMinutes": 100,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "158258",
-    "tmdbId": 158258,
-    "imdbId": "tt26672563",
-    "type": "tv",
-    "title": "Duty After School",
-    "overview": "When mysterious alien spheres start invading the world, high school students are called upon to join the world's first war against extraterrestrial forces.",
-    "year": "2023",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vtokuvfqLbfJaSCW6EWhWtrmz2s.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kMIZHO8OYOC08urACEFFqmFA4p.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/szkhyUvGBiTpdPCpkGQa6SUoBLw.png",
-    "certificate": "19",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -5924,6 +5924,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "292121",
+    "tmdbId": 292121,
+    "imdbId": "tt39245629",
+    "type": "tv",
+    "title": "The Scarecrow",
+    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
+    "year": "2026",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 66,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "45579",
     "tmdbId": 45579,
     "imdbId": "tt3143378",
@@ -6002,27 +6023,6 @@
     "runTimeMinutes": 68,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "292121",
-    "tmdbId": 292121,
-    "imdbId": "tt39245629",
-    "type": "tv",
-    "title": "The Scarecrow",
-    "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-    "year": "2026",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/f5yf5CWLiZTFLF09ciliDjrmk39.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -6281,6 +6281,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "209502",
+    "tmdbId": 209502,
+    "imdbId": "tt29006388",
+    "type": "tv",
+    "title": "A Good Day to be a Dog",
+    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "226527",
     "tmdbId": 226527,
     "imdbId": "tt27763561",
@@ -6512,27 +6533,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "209502",
-    "tmdbId": 209502,
-    "imdbId": "tt29006388",
-    "type": "tv",
-    "title": "A Good Day to be a Dog",
-    "overview": "Hae-na who is bound to inherit her family curse which is turning into a dog after getting her first kiss. The only way to break the curse is to get a second kiss. The problem is the guy who gave Hae-na her first kiss is afraid of dogs.",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7YVAIqiZP7Fn6b0CQDc3OkRJf3I.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "240591",
     "tmdbId": 240591,
     "imdbId": "tt31067227",
@@ -6632,6 +6632,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "232402",
+    "tmdbId": 232402,
+    "imdbId": "tt36056620",
+    "type": "tv",
+    "title": "S Line",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "year": "2025",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nqDGidN6ENZuLiW8p8R3UqdafyZ.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -6821,27 +6842,6 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "232402",
-    "tmdbId": 232402,
-    "imdbId": "tt36056620",
-    "type": "tv",
-    "title": "S Line",
-    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
-    "year": "2025",
-    "rating": 6.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/buA9gM0cEcBmIcQX79o6QpTYUPT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nqDGidN6ENZuLiW8p8R3UqdafyZ.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 51,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -7394,6 +7394,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "68890",
+    "tmdbId": 68890,
+    "imdbId": "tt6256692",
+    "type": "tv",
+    "title": "Defendant",
+    "overview": "Park Jung-Woo is a prosecutor at Seoul Central District Prosecutors' Office. One day, he wakes up and finds himself in locked up at the police station. He has temporary amnesia. Park Jung-Woo is falsely accused and is sentenced to death. He must struggle to prove his innocence.",
+    "year": "2017",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qoFTJi6b5Q5eNOArLOTe1Hi1fui.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3spBT6tCcEJCBMDFEsFp83ueArg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/mPmJp4vwaYch5eroEnazEIhgRH2.png",
+    "certificate": "15",
+    "runTimeMinutes": 59,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "68945",
     "tmdbId": 68945,
     "imdbId": "tt4613520",
@@ -7583,27 +7604,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "68890",
-    "tmdbId": 68890,
-    "imdbId": "tt6256692",
-    "type": "tv",
-    "title": "Defendant",
-    "overview": "Park Jung-Woo is a prosecutor at Seoul Central District Prosecutors' Office. One day, he wakes up and finds himself in locked up at the police station. He has temporary amnesia. Park Jung-Woo is falsely accused and is sentenced to death. He must struggle to prove his innocence.",
-    "year": "2017",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qoFTJi6b5Q5eNOArLOTe1Hi1fui.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3spBT6tCcEJCBMDFEsFp83ueArg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/mPmJp4vwaYch5eroEnazEIhgRH2.png",
-    "certificate": "15",
-    "runTimeMinutes": 59,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "79407",
     "tmdbId": 79407,
     "imdbId": "tt8236544",
@@ -7766,27 +7766,6 @@
     "runTimeMinutes": 64,
     "primaryGenre": "Drama",
     "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "218099",
-    "tmdbId": 218099,
-    "imdbId": "tt26085372",
-    "type": "tv",
-    "title": "HeartBeat",
-    "overview": "A thrilling romance between a vampire who desires to experience heart-throbbing love, and a cold-blooded woman.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wRrvEw3OCK9aiwe6YbcpsqkEwIW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lGYw3DiXzOS9bUMaHa9DfuMNoxC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8qys71O1pHDrSMOaC2sMyGrFODu.png",
-    "certificate": "15",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -8171,6 +8150,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "233219",
+    "tmdbId": 233219,
+    "imdbId": "tt34622123",
+    "type": "tv",
+    "title": "ONE: High School Heroes",
+    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yuXuRIReuqyM3iY6qpB13dKWqpl.png",
+    "certificate": "15",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "201019",
     "tmdbId": 201019,
     "imdbId": "tt27329405",
@@ -8297,27 +8297,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "233219",
-    "tmdbId": 233219,
-    "imdbId": "tt34622123",
-    "type": "tv",
-    "title": "ONE: High School Heroes",
-    "overview": "A former model student, pushed by domestic abuse and bullying, joins a group that stands up to school violence and defends its victims.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uWK4QcYrLGITRNDvhLelm66j4Er.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6Ohfk6UG6BstEQbwqJ0JHSjHl3O.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yuXuRIReuqyM3iY6qpB13dKWqpl.png",
-    "certificate": "15",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "47007",
     "tmdbId": 47007,
     "imdbId": "tt2191746",
@@ -8400,5 +8379,26 @@
       "KR"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "106761",
+    "tmdbId": 106761,
+    "imdbId": "tt12867916",
+    "type": "tv",
+    "title": "Missing: The Other Side",
+    "overview": "A village holds spirits of missing, deceased people. A search to find the missing bodies and discover the truth behind their disappearance occurs.",
+    "year": "2020",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gRlEg8sjyA73pi3ZZF3WTPotmXO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6oRDn0lfZg81bO3NhWq1N23Z75S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yZ51VyceFbJon7Dy2QzgB8xd89N.png",
+    "certificate": "15",
+    "runTimeMinutes": 71,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
   }
 ]

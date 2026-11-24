@@ -1,5 +1,26 @@
 [
   {
+    "id": "300523",
+    "tmdbId": 300523,
+    "imdbId": "tt38336631",
+    "type": "tv",
+    "title": "The Blue Road",
+    "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "308007",
     "tmdbId": 308007,
     "imdbId": "tt36786185",
@@ -1199,6 +1220,27 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "279185",
+    "tmdbId": 279185,
+    "imdbId": "tt47816221",
+    "type": "tv",
+    "title": "The Torment",
+    "overview": "Kama returns to her hometown and gets entangled in an old missing case. Family secrets, passions and crime reveal that the past never falls silent.",
+    "year": "2026",
+    "rating": 6.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6crqt1vLWMyfXS1oKfGBM8aFyXg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uqlqU7IOOrJBLSdxe3VQlO6OXy0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sq0YtR3T9f2M8Z1SNxaVKltitBp.png",
+    "certificate": "16",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": "pl"
   },
   {
     "id": "284558",
@@ -3771,6 +3813,27 @@
     "originalLanguage": "zh"
   },
   {
+    "id": "314936",
+    "tmdbId": 314936,
+    "imdbId": "tt40164372",
+    "type": "tv",
+    "title": "Don't Be Too Emotional",
+    "overview": "A football player befriends a mysterious wish-granter whose dangerous gifts hide secrets that draw them closer together.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lS4NcIAFf3qCebxQUzFCIQyFgSY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qvsaEJjl3DwBFy7K6lZaicCHL7R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tCILtCxiPEg8W91yUBRoRIvl7jc.png",
+    "certificate": "18+",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "TH"
+    ],
+    "originalLanguage": "th"
+  },
+  {
     "id": "301284",
     "tmdbId": 301284,
     "imdbId": "tt38448408",
@@ -4145,69 +4208,6 @@
     "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "276161",
-    "tmdbId": 276161,
-    "imdbId": "tt34809853",
-    "type": "tv",
-    "title": "Teach You a Lesson",
-    "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-    "year": "2026",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "277439",
-    "tmdbId": 277439,
-    "imdbId": "tt34675596",
-    "type": "tv",
-    "title": "Cape Fear",
-    "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-    "year": "2026",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/maOzDEEudq82nN9lRTumrGo9MvJ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yQGUvjjyuAhNxaW1Y8lVKjQcLi0.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 49,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "280511",
-    "tmdbId": 280511,
-    "imdbId": "tt31631015",
-    "type": "tv",
-    "title": "The Witness",
-    "overview": "With their 2-year-old as the sole witness to her murder, Rachel Nickell's partner fights to protect him amid a flawed investigation.",
-    "year": "2026",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6vW1V7qejXv4QI2TvWvYuowfTrU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/kRN0mkAF9UK8jqIiBsffVrx8hu1.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 47,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "GB"
     ],
     "originalLanguage": "en"
   }

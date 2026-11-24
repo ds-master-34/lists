@@ -294,6 +294,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "301284",
+    "tmdbId": 301284,
+    "imdbId": "tt38448408",
+    "type": "tv",
+    "title": "The Killings at Parrish Station",
+    "overview": "A cosmic mystery intertwines with horror as a gruesome massacre at a remote research station plunges a detective into an inexplicable, decades-long mystery.",
+    "year": "2026",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9XfUjpDmFKLG9EYLzSTX2jj5JR8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vf3hKPv3HKcaqIo3VsxM6ztT31L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ku0jMzerwXbXP2mmsXSau7aQNRn.png",
+    "certificate": "16",
+    "runTimeMinutes": 47,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "318203",
     "tmdbId": 318203,
     "imdbId": "tt35728748",
@@ -967,27 +988,6 @@
       "FR"
     ],
     "originalLanguage": "fr"
-  },
-  {
-    "id": "295755",
-    "tmdbId": 295755,
-    "imdbId": "tt37542748",
-    "type": "tv",
-    "title": "Death in Apartment 603: What Happened to Ellen Greenberg?",
-    "overview": "Ellen Greenberg was found dead with 20 stab wounds. Philadelphia ruled it suicide. This three-part series follows her family's quest to find the truth.",
-    "year": "2025",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/l8WXZDUihRDJuEMUCue6VUEx2gt.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d5LyRISUqoQODlaXDtHBLVdBew4.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pm44jqM3fZARNOkHGcGI25zEVw5.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 42,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   },
   {
     "id": "230926",
