@@ -29,7 +29,7 @@
     "title": "The Hunger Games: Sunrise on the Reaping",
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/saubzsVS7BhgYx67CasOAl4r83t.png",
@@ -358,6 +358,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1611767",
+    "tmdbId": 1611767,
+    "imdbId": "tt39316936",
+    "type": "movie",
+    "title": "Clashing Through the Snow",
+    "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+    "year": "2026",
+    "rating": 5.633,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/59Pp7g2RCyIIM9nIK4doGQMnOCr.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1185344",
     "tmdbId": 1185344,
     "imdbId": "tt29256561",
@@ -618,7 +639,7 @@
     "title": "A Talent for Murder",
     "overview": "A young man travels from New York to Switzerland to try to persuade acclaimed thriller writer Patricia Highsmith to write one final installment of her Tom Ripley series, with his efforts gradually turning more sinister.",
     "year": "2026",
-    "rating": 6.4,
+    "rating": 6.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/5RGLn8wleUCcsmPCytyosjSUOVY.png",
@@ -723,7 +744,7 @@
     "title": "Perfect Liars",
     "overview": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face. Based on the novel by Alex Mirez.",
     "year": "2026",
-    "rating": 5.4,
+    "rating": 5.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vC5W3g74Iq9DqtgfxEhfKuM2yBF.png",
@@ -1220,6 +1241,27 @@
     "originCountries": [
       "US",
       "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1281331",
+    "tmdbId": 1281331,
+    "imdbId": "tt37510326",
+    "type": "movie",
+    "title": "The Social Reckoning",
+    "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cYJulf2GTqqzsnPE1Zy6TmirzOO.png",
+    "certificate": "A",
+    "runTimeMinutes": 113,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "US"
     ],
     "originalLanguage": "en"
   },
@@ -2030,7 +2072,7 @@
     "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
     "overview": "",
     "year": "2026",
-    "rating": 10,
+    "rating": 9.7,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
     "logoUrl": null,
@@ -3076,6 +3118,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "489",
+    "tmdbId": 489,
+    "imdbId": "tt0119217",
+    "type": "movie",
+    "title": "Good Will Hunting",
+    "overview": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+    "year": "1997",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3rY7Kng9sjgoWodYRYB7EBQYq4E.svg",
+    "certificate": "R",
+    "runTimeMinutes": 127,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "37724",
     "tmdbId": 37724,
     "imdbId": "tt1074638",
@@ -3196,6 +3259,27 @@
     "runTimeMinutes": 131,
     "primaryGenre": "Action",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "37165",
+    "tmdbId": 37165,
+    "imdbId": "tt0120382",
+    "type": "movie",
+    "title": "The Truman Show",
+    "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+    "year": "1998",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dD0oQGYGTm4oJqte5eCuRtjQtV7.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
@@ -3939,6 +4023,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "616037",
+    "tmdbId": 616037,
+    "imdbId": "tt10648342",
+    "type": "movie",
+    "title": "Thor: Love and Thunder",
+    "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "year": "2022",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/y0UqCw8KfQrhKiZ5Ys84qyzCpWN.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "278",
     "tmdbId": 278,
     "imdbId": "tt0111161",
@@ -4108,6 +4213,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "269149",
+    "tmdbId": 269149,
+    "imdbId": "tt2948356",
+    "type": "movie",
+    "title": "Zootopia",
+    "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "year": "2016",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bHIwMS8fSIM6kYfXdS7bD0mNYsq.png",
+    "certificate": "PG",
+    "runTimeMinutes": 109,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "558",
     "tmdbId": 558,
     "imdbId": "tt0316654",
@@ -4190,5 +4316,26 @@
       "GB"
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1829270",
+    "tmdbId": 1829270,
+    "imdbId": "tt51547822",
+    "type": "movie",
+    "title": "Chiara Ferragni: Front Facing",
+    "overview": "Influencer Chiara Ferragni opens up for the first time on the charity scandal that rocked her career and sparked the end of her high-profile marriage.",
+    "year": "2026",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9RBmF9jjnnB33m2znLfYaAM6Qwc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jLBmW2x2AFxtg7wtBO29hSBmwZa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fCIH9fQnxDRRCxKXuyGbSVjKSyI.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 0,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
   }
 ]

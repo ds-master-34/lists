@@ -252,6 +252,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "271880",
+    "tmdbId": 271880,
+    "imdbId": "tt33400507",
+    "type": "tv",
+    "title": "Ghosts Australia",
+    "overview": "New lovebirds Kate and Sean are about to jump into the hellscape that is the inner-city rental market, until Kate inherits a huge mansion in the country. Moving in together for the first time the young couple are attempting domestic bliss, but unbeknown to them, the house is haunted by a collection of needy spirits who carked it in Ramshead Manor over the past 200 years.",
+    "year": "2025",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2LQNn3kRU9xkgLbD6IfeQKkX4K7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zqNCRVrKf6Y0MNHz5vIEJ95URZM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qmUGx0PSCHoeDor0KQWX82PLhsL.png",
+    "certificate": "PG",
+    "runTimeMinutes": 25,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "AU"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "289567",
     "tmdbId": 289567,
     "imdbId": "tt33078075",
@@ -4186,27 +4207,6 @@
     "runTimeMinutes": 43,
     "primaryGenre": "Crime",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "8379",
-    "tmdbId": 8379,
-    "imdbId": "tt0233041",
-    "type": "tv",
-    "title": "Clifford the Big Red Dog",
-    "overview": "The adventures of a larger-than-life red dog on Bridwell Island.",
-    "year": "2000",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8HG3AvWACybWOvQfJycuQem6B3a.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4XKhVE10MOao7dieT4QP34vKk9K.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hzrDY7nk7WMK3zwt14DGgZbetst.png",
-    "certificate": "TV-Y",
-    "runTimeMinutes": 15,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Kids",
     "originCountries": [
       "US"
     ],

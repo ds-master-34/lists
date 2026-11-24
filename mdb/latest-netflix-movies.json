@@ -42,6 +42,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1791730",
+    "tmdbId": 1791730,
+    "imdbId": "tt48434154",
+    "type": "movie",
+    "title": "Primetime Preacher$",
+    "overview": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
+    "year": "2026",
+    "rating": 6.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rJ8Kaed58FCDte68xkcTFQd8oMq.png",
+    "certificate": "14",
+    "runTimeMinutes": 115,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1543469",
     "tmdbId": 1543469,
     "imdbId": "tt38213251",
@@ -196,7 +217,7 @@
     "title": "On Behalf of My Son",
     "overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
     "year": "2026",
-    "rating": 6.5,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/u4Kik19IGHSEebJEs0U1JP2J4BG.png",
@@ -4187,26 +4208,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "1180831",
-    "tmdbId": 1180831,
-    "imdbId": "tt29232158",
-    "type": "movie",
-    "title": "Troll 2",
-    "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
-    "year": "2025",
-    "rating": 5.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4KqM8LVdcstHEekNS48deb4mTPu.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 102,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "NO"
-    ],
-    "originalLanguage": "no"
   }
 ]

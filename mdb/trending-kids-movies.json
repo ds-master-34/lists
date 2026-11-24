@@ -651,27 +651,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "324857",
-    "tmdbId": 324857,
-    "imdbId": "tt4633694",
-    "type": "movie",
-    "title": "Spider-Man: Into the Spider-Verse",
-    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
-    "year": "2018",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
-    "certificate": "U",
-    "runTimeMinutes": 117,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "354912",
     "tmdbId": 354912,
     "imdbId": "tt2380307",
@@ -771,6 +750,27 @@
     "runTimeMinutes": 110,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "324857",
+    "tmdbId": 324857,
+    "imdbId": "tt4633694",
+    "type": "movie",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "year": "2018",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "certificate": "U",
+    "runTimeMinutes": 117,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
@@ -897,27 +897,6 @@
     "runTimeMinutes": 96,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Music",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "10588",
-    "tmdbId": 10588,
-    "imdbId": "tt0312528",
-    "type": "movie",
-    "title": "The Cat in the Hat",
-    "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
-    "year": "2003",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gN7otp6ZA6762W3QB2ScWJYJI6i.png",
-    "certificate": "PG",
-    "runTimeMinutes": 82,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -1764,6 +1743,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "10588",
+    "tmdbId": 10588,
+    "imdbId": "tt0312528",
+    "type": "movie",
+    "title": "The Cat in the Hat",
+    "overview": "During a rainy day, and while their mother is out, Conrad and Sally, and their pet fish, are visited by the mischievous Cat in the Hat. Fun soon turns to mayhem, and the siblings must figure out how to rid themselves of the maniacal Cat.",
+    "year": "2003",
+    "rating": 4.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihOd5W6qOgrBSLj0uDTnGs8k1aa.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gN7otp6ZA6762W3QB2ScWJYJI6i.png",
+    "certificate": "PG",
+    "runTimeMinutes": 82,
+    "primaryGenre": "Fantasy",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "9502",
     "tmdbId": 9502,
     "imdbId": "tt0441773",
@@ -1884,27 +1884,6 @@
     "runTimeMinutes": 108,
     "primaryGenre": "Family",
     "secondaryGenre": "Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "10386",
-    "tmdbId": 10386,
-    "imdbId": "tt0129167",
-    "type": "movie",
-    "title": "The Iron Giant",
-    "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
-    "year": "1999",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aRDVgsUm92eSqq0ANujZFo7hkvr.png",
-    "certificate": "PG",
-    "runTimeMinutes": 86,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
@@ -2248,27 +2227,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1022789",
-    "tmdbId": 1022789,
-    "imdbId": "tt22022452",
-    "type": "movie",
-    "title": "Inside Out 2",
-    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-    "year": "2024",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/h40hblm8J1if7T2CBMjCD85HwuD.png",
-    "certificate": "U",
-    "runTimeMinutes": 97,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "32657",
     "tmdbId": 32657,
     "imdbId": "tt0814255",
@@ -2404,7 +2362,7 @@
     "title": "Christmas at Moose Lake",
     "overview": "",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.4,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uFjFmStwWjMj4YEorQB5L8ZHDJA.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/gnS065uDJjHxFRc71bBkViiChCU.jpg",
     "logoUrl": null,
@@ -2565,21 +2523,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "9016",
-    "tmdbId": 9016,
-    "imdbId": "tt0133240",
+    "id": "10386",
+    "tmdbId": 10386,
+    "imdbId": "tt0129167",
     "type": "movie",
-    "title": "Treasure Planet",
-    "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
-    "year": "2002",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gq5U32W6ohl1j3hhwzDzOwIMz6K.png",
+    "title": "The Iron Giant",
+    "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+    "year": "1999",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/aRDVgsUm92eSqq0ANujZFo7hkvr.png",
     "certificate": "PG",
-    "runTimeMinutes": 96,
-    "primaryGenre": "Science Fiction",
-    "secondaryGenre": "Adventure",
+    "runTimeMinutes": 86,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "US"
     ],
@@ -2775,42 +2733,21 @@
     "originalLanguage": "en"
   },
   {
-    "id": "9487",
-    "tmdbId": 9487,
-    "imdbId": "tt0120623",
+    "id": "9016",
+    "tmdbId": 9016,
+    "imdbId": "tt0133240",
     "type": "movie",
-    "title": "A Bug's Life",
-    "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
-    "year": "1998",
+    "title": "Treasure Planet",
+    "overview": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \"loot of a thousand worlds,\" a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.",
+    "year": "2002",
     "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/bkJYEFNaG9i2IC3XisreW5DFUqy.png",
-    "certificate": "G",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "511869",
-    "tmdbId": 511869,
-    "imdbId": "tt0101188",
-    "type": "movie",
-    "title": "A Rugrats Vacation",
-    "overview": "The adults decide to bring the babies and Angelica to Las Vegas on vacation. Tommy convinces the babies to help him find the tigers. Angelica hopes to sing while in Las Vegas.",
-    "year": "1997",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/py4O1OIEUbFtp2DdDWMbxS62mb8.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Animation",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gq5U32W6ohl1j3hhwzDzOwIMz6K.png",
+    "certificate": "PG",
+    "runTimeMinutes": 96,
+    "primaryGenre": "Science Fiction",
+    "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
     ],
@@ -2874,27 +2811,6 @@
     "runTimeMinutes": 101,
     "primaryGenre": "Family",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "839033",
-    "tmdbId": 839033,
-    "imdbId": "tt14824600",
-    "type": "movie",
-    "title": "The Lord of the Rings: The War of the Rohirrim",
-    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
-    "year": "2024",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/dP5SyBPleX9ieesbHPy2oeZMRZY.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 134,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Fantasy",
     "originCountries": [
       "US"
     ],
@@ -2999,6 +2915,48 @@
     "certificate": "U/A 13+",
     "runTimeMinutes": 94,
     "primaryGenre": "Action",
+    "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "839033",
+    "tmdbId": 839033,
+    "imdbId": "tt14824600",
+    "type": "movie",
+    "title": "The Lord of the Rings: The War of the Rohirrim",
+    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+    "year": "2024",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dP5SyBPleX9ieesbHPy2oeZMRZY.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 134,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1022789",
+    "tmdbId": 1022789,
+    "imdbId": "tt22022452",
+    "type": "movie",
+    "title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h40hblm8J1if7T2CBMjCD85HwuD.png",
+    "certificate": "U",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
     "originCountries": [
       "US"
@@ -3168,6 +3126,48 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "511869",
+    "tmdbId": 511869,
+    "imdbId": "tt0101188",
+    "type": "movie",
+    "title": "A Rugrats Vacation",
+    "overview": "The adults decide to bring the babies and Angelica to Las Vegas on vacation. Tommy convinces the babies to help him find the tigers. Angelica hopes to sing while in Las Vegas.",
+    "year": "1997",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/py4O1OIEUbFtp2DdDWMbxS62mb8.jpg",
+    "backdropUrl": null,
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 30,
+    "primaryGenre": "Family",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "939243",
+    "tmdbId": 939243,
+    "imdbId": "tt18259086",
+    "type": "movie",
+    "title": "Sonic the Hedgehog 3",
+    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+    "year": "2024",
+    "rating": 6.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6eq5WtD9e4Oh2KzCu14x9hQaFc9.png",
+    "certificate": "PG",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Science Fiction",
     "originCountries": [
       "US"
     ],
@@ -3426,27 +3426,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "211672",
-    "tmdbId": 211672,
-    "imdbId": "tt2293640",
-    "type": "movie",
-    "title": "Minions",
-    "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
-    "year": "2015",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gKFonD8ImIFYHykBCyvNBYPcMKH.png",
-    "certificate": "PG",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "4523",
     "tmdbId": 4523,
     "imdbId": "tt0461770",
@@ -3461,6 +3440,27 @@
     "certificate": "PG",
     "runTimeMinutes": 107,
     "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "950",
+    "tmdbId": 950,
+    "imdbId": "tt0438097",
+    "type": "movie",
+    "title": "Ice Age: The Meltdown",
+    "overview": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+    "year": "2006",
+    "rating": 6.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/uUrf35PJ25ySkkfc2PwpIxkutbc.png",
+    "certificate": "PG",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Animation",
     "secondaryGenre": "Family",
     "originCountries": [
       "US"
@@ -3594,6 +3594,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "9487",
+    "tmdbId": 9487,
+    "imdbId": "tt0120623",
+    "type": "movie",
+    "title": "A Bug's Life",
+    "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+    "year": "1998",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/bkJYEFNaG9i2IC3XisreW5DFUqy.png",
+    "certificate": "G",
+    "runTimeMinutes": 95,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1129104",
     "tmdbId": 1129104,
     "imdbId": "tt11662534",
@@ -3673,48 +3694,6 @@
     "runTimeMinutes": 83,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "522518",
-    "tmdbId": 522518,
-    "imdbId": "tt8385474",
-    "type": "movie",
-    "title": "A Dog's Journey",
-    "overview": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
-    "year": "2019",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8mmprIGRvj4Bfqvrn3kXjKy8cql.png",
-    "certificate": "PG",
-    "runTimeMinutes": 109,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "939243",
-    "tmdbId": 939243,
-    "imdbId": "tt18259086",
-    "type": "movie",
-    "title": "Sonic the Hedgehog 3",
-    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "year": "2024",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6eq5WtD9e4Oh2KzCu14x9hQaFc9.png",
-    "certificate": "PG",
-    "runTimeMinutes": 110,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Science Fiction",
     "originCountries": [
       "US"
     ],
@@ -3848,27 +3827,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "7443",
-    "tmdbId": 7443,
-    "imdbId": "tt0120630",
-    "type": "movie",
-    "title": "Chicken Run",
-    "overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
-    "year": "2000",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2QGUE6u4M7sddXKpttgS4AP2GBC.png",
-    "certificate": "G",
-    "runTimeMinutes": 84,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "519182",
     "tmdbId": 519182,
     "imdbId": "tt7510222",
@@ -3882,6 +3840,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/89h1vVNsvFejMxhbrxPO9raMnbl.png",
     "certificate": "PG",
     "runTimeMinutes": 94,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7443",
+    "tmdbId": 7443,
+    "imdbId": "tt0120630",
+    "type": "movie",
+    "title": "Chicken Run",
+    "overview": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+    "year": "2000",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2QGUE6u4M7sddXKpttgS4AP2GBC.png",
+    "certificate": "G",
+    "runTimeMinutes": 84,
     "primaryGenre": "Animation",
     "secondaryGenre": "Comedy",
     "originCountries": [
@@ -4199,6 +4178,27 @@
     "runTimeMinutes": 102,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "10555",
+    "tmdbId": 10555,
+    "imdbId": "tt0307453",
+    "type": "movie",
+    "title": "Shark Tale",
+    "overview": "Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.",
+    "year": "2004",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ZmZxar3bYORcl0TPA4oceyxcaE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ktpElNu4lHM4H3aO2EpB0TUgkgi.svg",
+    "certificate": "PG",
+    "runTimeMinutes": 90,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Action",
     "originCountries": [
       "US"
     ],
