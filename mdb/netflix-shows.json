@@ -4575,27 +4575,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "280885",
-    "tmdbId": 280885,
-    "imdbId": "tt31724374",
-    "type": "tv",
-    "title": "Carlos Alcaraz: My Way",
-    "overview": "This documentary series follows Carlos Alcaraz as he balances the pressures of a phenomenal tennis career with a 20-year-old's desire to let loose.",
-    "year": "2025",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c2o2TdSz9Y8mOtg1l1E24Iimbmy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yGrheURbBu5MevRBZ8GrK1L7WqG.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/efRDxAwQSkmGtUffOvRkyq6mUyv.png",
-    "certificate": "NC16",
-    "runTimeMinutes": 33,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": "es"
-  },
-  {
     "id": "287420",
     "tmdbId": 287420,
     "imdbId": "tt36351172",
@@ -6319,5 +6298,26 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "274023",
+    "tmdbId": 274023,
+    "imdbId": "tt33840297",
+    "type": "tv",
+    "title": "Investigation Alien",
+    "overview": "In this gripping docuseries, legendary reporter George Knapp travels the globe to uncover new evidence about UFOs and investigate their presence on Earth.",
+    "year": "2024",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t2dShYTM1heqVXv4Pjk3mbBqFy2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ea7DLoGRwqQ3W2WKgDxnyPqMhAM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tNXvQCU7syfuNeclVUHrmW5xoLS.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 34,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -2400,6 +2400,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1401459",
+    "tmdbId": 1401459,
+    "imdbId": "tt35410859",
+    "type": "movie",
+    "title": "Fjord",
+    "overview": "Following the deaths of Mihai's parents, Mihai and Lisbet Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbet's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/3PPPIeSdeivjUn3O9RahGiaJ9b8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/lCcYOtoUakm2ykpmv0fisfM3cQ9.png",
+    "certificate": "R",
+    "runTimeMinutes": 147,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "RO"
+    ],
+    "originalLanguage": "ro"
+  },
+  {
     "id": "1329016",
     "tmdbId": 1329016,
     "imdbId": "tt33095251",
@@ -2457,6 +2478,27 @@
     "runTimeMinutes": 235,
     "primaryGenre": "Documentary",
     "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1615596",
+    "tmdbId": 1615596,
+    "imdbId": "tt38258118",
+    "type": "movie",
+    "title": "Best Pancakes in the County",
+    "overview": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
+    "year": "2026",
+    "rating": 4.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zpR8JisFyRjCCtva7hjYyxfELpz.png",
+    "certificate": "",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
     "originCountries": [
       "US"
     ],
@@ -3097,6 +3139,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "370172",
+    "tmdbId": 370172,
+    "imdbId": "tt2382320",
+    "type": "movie",
+    "title": "No Time to Die",
+    "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "year": "2021",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x9td0NQha0t44K2qgcMipLOGjVi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h02wT4F1aPBkQ94NlSx3ypOI5xl.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 163,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "109445",
     "tmdbId": 109445,
     "imdbId": "tt2294629",
@@ -3244,6 +3307,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1195803",
+    "tmdbId": 1195803,
+    "imdbId": "tt29611136",
+    "type": "movie",
+    "title": "Wicker",
+    "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+    "year": "2026",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/edYXpYo4TgEirZuMeKTSkOkF96p.png",
+    "certificate": "R",
+    "runTimeMinutes": 105,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Fantasy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "284052",
     "tmdbId": 284052,
     "imdbId": "tt1211837",
@@ -3259,6 +3343,48 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Fantasy",
     "secondaryGenre": "Adventure",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "36658",
+    "tmdbId": 36658,
+    "imdbId": "tt0290334",
+    "type": "movie",
+    "title": "X2",
+    "overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join Magneto and Mystique to unhinge Stryker's scheme to exterminate all mutants.",
+    "year": "2003",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s8ftvFvafWWEhApISamHx32bx6h.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/Ab2M8vN5oaos3K7uE7B5vLmTzbJ.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 133,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Action",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "11324",
+    "tmdbId": 11324,
+    "imdbId": "tt1130884",
+    "type": "movie",
+    "title": "Shutter Island",
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "year": "2010",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hRtb8ju7S4xNP3s6RtDqyR1wn8j.png",
+    "certificate": "R",
+    "runTimeMinutes": 138,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Thriller",
     "originCountries": [
       "US"
     ],
