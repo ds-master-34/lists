@@ -1454,6 +1454,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "241569",
+    "tmdbId": 241569,
+    "imdbId": "tt30443317",
+    "type": "tv",
+    "title": "Tucci in Italy",
+    "overview": "Follow Stanley Tucci as he returns to Italy for more food-based adventures, seeking out the essence of each region and its people through the food they eat.",
+    "year": "2025",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/24oqvcTiK41NsAONpl0fhKT5fLE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yk2HxQvgIMjGUfxxbpnYnbqgdR3.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zEZPuL2fPang04NmF2HR2aonWW5.png",
+    "certificate": "TV-PG",
+    "runTimeMinutes": 45,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "229236",
     "tmdbId": 229236,
     "imdbId": "tt28197237",
@@ -4183,27 +4204,6 @@
     "runTimeMinutes": 42,
     "primaryGenre": "Crime",
     "secondaryGenre": "Documentary",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "135615",
-    "tmdbId": 135615,
-    "imdbId": "tt15552018",
-    "type": "tv",
-    "title": "American Born Chinese",
-    "overview": "Average teenager Jin Wang juggles his high school social life with his immigrant home life. When he meets a new foreign student on the first day of the school year, even more worlds collide as Jin is unwittingly entangled in a battle of Chinese mythological gods.",
-    "year": "2023",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cwTYt6DKuMY6RSmQ269fpYH9ELN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/n5StTpznGP2zuagcZlQ3qUWZsrX.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/d8J0ASaxu2kpqrofDHdp5PMFarv.png",
-    "certificate": "TV-PG",
-    "runTimeMinutes": 36,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "US"
     ],
