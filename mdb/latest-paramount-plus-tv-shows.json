@@ -210,27 +210,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "275557",
-    "tmdbId": 275557,
-    "imdbId": "tt34376827",
-    "type": "tv",
-    "title": "Wild Cherry",
-    "overview": "Two pampered teenage daughters. Two very different mothers. The rich life is easy – until a shocking scandal reveals toxic secrets and the ugly side of glamour.",
-    "year": "2025",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oxn4ylDZSnQq83H0jXAmueBFV8A.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c54arxwmTXMv4bPJo3RxbASW2s2.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/pNWmz383cJWJzwnJrPj7quDfLyg.png",
-    "certificate": "14",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "253750",
     "tmdbId": 253750,
     "imdbId": "tt32305967",
@@ -1730,7 +1709,7 @@
     "title": "The Casagrandes",
     "overview": "The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.",
     "year": "2019",
-    "rating": 5.8,
+    "rating": 5.9,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AarlHgaDolXnWQCFqiFLlpCKuwk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/8Nl0mYdmLlzFbHR9i9mvoDL6GVh.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/wspliHRtIKwAKoKkF217mLAG8Oa.png",
@@ -3635,6 +3614,27 @@
     "certificate": "",
     "runTimeMinutes": 22,
     "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4278",
+    "tmdbId": 4278,
+    "imdbId": "tt0758745",
+    "type": "tv",
+    "title": "Friday Night Lights",
+    "overview": "The trials and triumphs of life in the small town of Dillon, Texas, where high school football is everything.",
+    "year": "2006",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Eu7MzZY1DldJ683z7vLkILHNRD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dzHSMD1IY6RriYxkS3T2ysFdvdp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
       "US"

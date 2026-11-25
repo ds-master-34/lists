@@ -7,7 +7,7 @@
     "title": "The Blue Road",
     "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
@@ -38,6 +38,48 @@
     "secondaryGenre": "Drama",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "332839",
+    "tmdbId": 332839,
+    "imdbId": "tt44079238",
+    "type": "tv",
+    "title": "The Law of Beasts",
+    "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+    "year": "2026",
+    "rating": 6.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/tyHxcXqXV8qCFRwMFoKSL1yxjN7.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "PL"
+    ],
+    "originalLanguage": "pl"
+  },
+  {
+    "id": "287296",
+    "tmdbId": 287296,
+    "imdbId": "tt36329495",
+    "type": "tv",
+    "title": "Honey",
+    "overview": "East Berlin, 1982. Marta, 24, is a deep cover agent for MI6. Surrounded by enemies and constantly under threat of her cover being blown, she tries her hardest to avoid detection by Friedrich Bauman, the new Head of Counter Espionage for the Stasi. Finding herself caught between Friedrich and the reckless, arrogant (and incredibly attractive…) CIA operative Aaron Neeland, she is blind-sided by desire in this Cold War menage-a-trois.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wKrubUacVFYxSjYBkiZYrgiCjXh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aNCRT8I1LTnw8vQSqPoSPWUtLEL.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/kkLUPFqwi1qBZZg8msPgApv1LM9.png",
+    "certificate": "",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
     ],
     "originalLanguage": "en"
   },
@@ -154,7 +196,7 @@
     "title": "ChiaroScuro",
     "overview": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/qgmaTE4OyoNBdyxIzxg3rnLiPZ9.png",
@@ -217,7 +259,7 @@
     "title": "Sunshine through the Rain",
     "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
     "year": "2026",
-    "rating": 8.9,
+    "rating": 8.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yfBDoZ0WO4nTZM9hr9vJZcxmM9B.png",
@@ -548,6 +590,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "328674",
+    "tmdbId": 328674,
+    "imdbId": "tt41266040",
+    "type": "tv",
+    "title": "The Northumbria Mysteries",
+    "overview": "Set on Northumberland's coast, the series follows unlikely partners Joe Ruby, a jack-of-all-trades marked by regrets, and Oxford-educated DI Rose O'Connell, a brilliant intellectual, as they solve crimes together.",
+    "year": "2026",
+    "rating": 6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eAlM5vJwQs18crVjMyRt3jHmce9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4i43wR5Pabh99fQIs6oYwzjSGRp.jpg",
+    "logoUrl": null,
+    "certificate": "",
+    "runTimeMinutes": 44,
+    "primaryGenre": "Mystery",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "GB"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "335535",
     "tmdbId": 335535,
     "imdbId": "tt39387986",
@@ -618,7 +681,7 @@
     "title": "Phony",
     "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
     "year": "2026",
-    "rating": 6.6,
+    "rating": 6.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/g2r69hj61xfhMxnrYm8QyMs0gs1.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xqc5IeHc6TzT1uvNZ1CCNIiTeNC.png",
@@ -765,7 +828,7 @@
     "title": "The Trap",
     "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
     "year": "2026",
-    "rating": 6.2,
+    "rating": 6.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
@@ -849,7 +912,7 @@
     "title": "Treasure Island",
     "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
     "year": "2026",
-    "rating": 4.7,
+    "rating": 4.8,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hL0kOXZMmv3VYAb5ldP2jMK5GWr.png",
@@ -1387,6 +1450,28 @@
     "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "293116",
+    "tmdbId": 293116,
+    "imdbId": "tt37187505",
+    "type": "tv",
+    "title": "Tall Tales & Murder",
+    "overview": "A Dublin gangster wakes from a coma to reveal he has a buried hoard of Celtic gold, sending nurse Bridget and ex-con Paul off on a deadly treasure hunt. Based on the eight book Dublin Trilogy series by Caimh McDonnell.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1fgKe9YOxRIkAicES7RVAscmgus.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yOFS1LPU3j1qEy9uGUZy6BiAuMk.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/6T8UklLcXFrjj1Xoh8zodRPGqZ6.png",
+    "certificate": "",
+    "runTimeMinutes": 49,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "IE",
+      "GB"
     ],
     "originalLanguage": "en"
   },
@@ -2052,7 +2137,7 @@
     "title": "The Ordinary Jackpot",
     "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
@@ -3398,7 +3483,7 @@
     "title": "The Apartment Job",
     "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
@@ -4122,90 +4207,6 @@
     "runTimeMinutes": 50,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "204135",
-    "tmdbId": 204135,
-    "imdbId": "tt21056976",
-    "type": "tv",
-    "title": "Dragon Striker",
-    "overview": "In a world where sports and magic combine, farm boy Key discovers his ultrapowerful natural talent and learns he could be the legendary Dragon Striker.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hUlANqWyQyIvEUARxeAyP9vzaYU.png",
-    "certificate": "TV-Y7",
-    "runTimeMinutes": 21,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "318203",
-    "tmdbId": 318203,
-    "imdbId": "tt35728748",
-    "type": "tv",
-    "title": "Alice and Steve",
-    "overview": "Alice is devastated when her best friend Steve starts dating her 26-year-old daughter Izzy. She's going to lose her best friend and her daughter in one fell swoop. Alice tries everything she can to end the relationship. Unfortunately for her, Steve's more than ready for the attack, and what begins as a perfect friendship, devolves into an all-out feud.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1mN5cydNUFqd7MHfOwhcHZzLnvT.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7EAfC9znlSDXlrdgsUiHQT7oR0m.png",
-    "certificate": "M18",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "323411",
-    "tmdbId": 323411,
-    "imdbId": "tt43717420",
-    "type": "tv",
-    "title": "The Vampire Lestat",
-    "overview": "The Vampire Lestat goes on tour while being haunted by \"muses\" from his past. As the band's popularity grows, so does Lestat's influence over vampires & humans alike, leaving others to contend with Lestat's power in the face of the Great Conversion.",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gZcmNUcDDR1nR7lmroOJTCrhrhK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iw1knpC8Jg5davMn2MPxNVxBF8N.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uGoPc2Oy5acujB0GZv3KIuc3DvW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "229544",
-    "tmdbId": 229544,
-    "imdbId": "tt28230655",
-    "type": "tv",
-    "title": "Among Us",
-    "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
-    "year": "2026",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ourBbG4B1dAjfFUCzuUYEZpR101.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xolhstrPkFi6fvHk34YbASuRuaY.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 15,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],

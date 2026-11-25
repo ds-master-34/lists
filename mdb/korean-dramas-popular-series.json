@@ -7,7 +7,7 @@
     "title": "The Blue Road",
     "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
     "year": "2026",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
@@ -175,7 +175,7 @@
     "title": "Final Table",
     "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vq16te42JYLeIsvuA6rfQVy9cJt.png",
@@ -210,27 +210,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "99966",
-    "tmdbId": 99966,
-    "imdbId": "tt14169960",
-    "type": "tv",
-    "title": "All of Us Are Dead",
-    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
-    "year": "2022",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i3NbH6xn7Y76LV2QmPnG3t6w1Su.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "276161",
     "tmdbId": 276161,
     "imdbId": "tt34809853",
@@ -244,6 +223,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/vWwzp7VAGikY94f9KlEQtNrcIzS.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "99966",
+    "tmdbId": 99966,
+    "imdbId": "tt14169960",
+    "type": "tv",
+    "title": "All of Us Are Dead",
+    "overview": "A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.",
+    "year": "2022",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/i3NbH6xn7Y76LV2QmPnG3t6w1Su.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 53,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -777,6 +777,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "67915",
+    "tmdbId": 67915,
+    "imdbId": "tt5994364",
+    "type": "tv",
+    "title": "Guardian: The Lonely and Great God",
+    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+    "year": "2016",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/vq3jtNuFkeVW3dYZGOjvsgTKyPa.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 73,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "233742",
     "tmdbId": 233742,
     "imdbId": "tt32199328",
@@ -868,7 +889,7 @@
     "title": "Sword & Silence",
     "overview": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
     "year": "2026",
-    "rating": 8.4,
+    "rating": 8.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jlHH1OGMrupWfVSeiGkxPabmSYN.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/zVesES4JoBINv8umnEWucabaBno.png",
@@ -1029,27 +1050,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "67915",
-    "tmdbId": 67915,
-    "imdbId": "tt5994364",
-    "type": "tv",
-    "title": "Guardian: The Lonely and Great God",
-    "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
-    "year": "2016",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vq3jtNuFkeVW3dYZGOjvsgTKyPa.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 73,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "229891",
     "tmdbId": 229891,
     "imdbId": "tt30293074",
@@ -1086,6 +1086,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "67391",
+    "tmdbId": 67391,
+    "imdbId": "tt5966882",
+    "type": "tv",
+    "title": "The K2",
+    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
+    "year": "2016",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1Boog9v42xErQhxoSxMP0pSDAu8.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -1218,6 +1239,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "113268",
+    "tmdbId": 113268,
+    "imdbId": "tt13273826",
+    "type": "tv",
+    "title": "The Uncanny Counter",
+    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
+    "year": "2020",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/xF6Bl12zpDQ144NxCTPaYs6fwll.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 72,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "202783",
     "tmdbId": 202783,
     "imdbId": "tt28642796",
@@ -1323,6 +1365,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "230923",
+    "tmdbId": 230923,
+    "imdbId": "tt31324295",
+    "type": "tv",
+    "title": "Lovely Runner",
+    "overview": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
+    "year": "2024",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yqzvNd51lbn08jYZ61OypGH7p6e.png",
+    "certificate": "15",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "238084",
     "tmdbId": 238084,
     "imdbId": "tt27898511",
@@ -1338,27 +1401,6 @@
     "runTimeMinutes": 41,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "99494",
-    "tmdbId": 99494,
-    "imdbId": "tt11691684",
-    "type": "tv",
-    "title": "Flower of Evil",
-    "overview": "Hiding a twisted past, a man maintains his facade as the perfect husband to his detective wife — until she begins investigating a series of murders.",
-    "year": "2020",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7kMOHCoDjQeZSJkTJzba2Xm6V5T.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 79,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -1407,6 +1449,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "65143",
+    "tmdbId": 65143,
+    "imdbId": "tt4925000",
+    "type": "tv",
+    "title": "Descendants of the Sun",
+    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
+    "year": "2016",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c3EVMcfTRwrXVl4GUm2ficTVKi1.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 60,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "155226",
     "tmdbId": 155226,
     "imdbId": "tt21195490",
@@ -1449,27 +1512,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "230923",
-    "tmdbId": 230923,
-    "imdbId": "tt31324295",
-    "type": "tv",
-    "title": "Lovely Runner",
-    "overview": "Right after Ryu Sun-jae, a top star, ends his life, Im Sol, his top fan, somehow ends up at a time when they were in high school and tries to protect him. A fantasy romance unfolds where people who missed each other in time finally meet.",
-    "year": "2024",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yqzvNd51lbn08jYZ61OypGH7p6e.png",
-    "certificate": "15",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "198004",
     "tmdbId": 198004,
     "imdbId": "tt26693803",
@@ -1485,6 +1527,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "106651",
+    "tmdbId": 106651,
+    "imdbId": "tt12235718",
+    "type": "tv",
+    "title": "Hellbound",
+    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+    "year": "2021",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4FBaYwKFfHoUXDwzUVivL0XDoDX.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -1869,48 +1932,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "113268",
-    "tmdbId": 113268,
-    "imdbId": "tt13273826",
-    "type": "tv",
-    "title": "The Uncanny Counter",
-    "overview": "A group of supernatural demon hunters known as \"Counters,\" each with unique abilities, disguise themselves as employees of a noodle restaurant, while tracking down evil spirits that terrorize the mortal world.",
-    "year": "2020",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tKU34QiJUfVipcuhAs5S3TdCpAF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jNyK0FF7t7oaU4wMpRkEnEIOVlW.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/xF6Bl12zpDQ144NxCTPaYs6fwll.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "108261",
-    "tmdbId": 108261,
-    "imdbId": "tt13400006",
-    "type": "tv",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "year": "2020",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gko6rf0BmhTnc9mawzWfgPUPUT1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "70649",
     "tmdbId": 70649,
     "imdbId": "tt6256484",
@@ -1926,27 +1947,6 @@
     "runTimeMinutes": 29,
     "primaryGenre": "Sci-Fi & Fantasy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "65143",
-    "tmdbId": 65143,
-    "imdbId": "tt4925000",
-    "type": "tv",
-    "title": "Descendants of the Sun",
-    "overview": "After a chance meeting in a hospital, an ardent soldier falls for a gifted surgeon. Opposing philosophies tear them apart, but fate has other plans.",
-    "year": "2016",
-    "rating": 8.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xxGomfml0x9iyPBS4StBjbRRu65.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4ODaZrnKT7iM6sfgDB8ud8FdrVr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/c3EVMcfTRwrXVl4GUm2ficTVKi1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
@@ -1974,21 +1974,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "106651",
-    "tmdbId": 106651,
-    "imdbId": "tt12235718",
+    "id": "96162",
+    "tmdbId": 96162,
+    "imdbId": "tt11239552",
     "type": "tv",
-    "title": "Hellbound",
-    "overview": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
-    "year": "2021",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5NYdSAnDVIXePrSG2dznHdiibMk.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ikN8ABD9pXHuW4JFqTEHr3ae8rd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/4FBaYwKFfHoUXDwzUVivL0XDoDX.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 57,
+    "title": "Itaewon Class",
+    "overview": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
+    "year": "2020",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ymBkaDMh7gbXMjmRAgGdpUBH4S2.png",
+    "certificate": "15",
+    "runTimeMinutes": 88,
     "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -2052,6 +2052,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "230448",
+    "tmdbId": 230448,
+    "imdbId": "tt27539317",
+    "type": "tv",
+    "title": "Mr. Plankton",
+    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
+    "year": "2024",
+    "rating": 8.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ugWl7rqoJsJSOC410tzctQf2cYN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/iFparapxy2524J5wLlmrv7IXsbW.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 77,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -2184,21 +2205,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "67391",
-    "tmdbId": 67391,
-    "imdbId": "tt5966882",
+    "id": "99494",
+    "tmdbId": 99494,
+    "imdbId": "tt11691684",
     "type": "tv",
-    "title": "The K2",
-    "overview": "A patriotic bodyguard who was abandoned by his country and colleagues, a hidden daughter of leading Presidential candidate who regards love as a tool for revenge, and the First Lady contender who hides her ambition and charisma behind a kind and friendly personality.",
-    "year": "2016",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jagS23izp1oU48fbKxJFI8KGVv5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1Boog9v42xErQhxoSxMP0pSDAu8.png",
+    "title": "Flower of Evil",
+    "overview": "Hiding a twisted past, a man maintains his facade as the perfect husband to his detective wife — until she begins investigating a series of murders.",
+    "year": "2020",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7kMOHCoDjQeZSJkTJzba2Xm6V5T.png",
     "certificate": "TV-14",
-    "runTimeMinutes": 72,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
+    "runTimeMinutes": 79,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
     "originCountries": [
       "KR"
     ],
@@ -2268,27 +2289,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "96162",
-    "tmdbId": 96162,
-    "imdbId": "tt11239552",
-    "type": "tv",
-    "title": "Itaewon Class",
-    "overview": "In a colorful Seoul neighborhood, an ex-con and his friends fight a mighty foe to make their ambitious dreams for their street bar a reality.",
-    "year": "2020",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qg7q0piY0fTt2enlIRHwKKRwNjS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rtYQCa2NzX8RspbOmwfAla6BemO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ymBkaDMh7gbXMjmRAgGdpUBH4S2.png",
-    "certificate": "15",
-    "runTimeMinutes": 88,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "196474",
     "tmdbId": 196474,
     "imdbId": "tt21627438",
@@ -2304,6 +2304,27 @@
     "runTimeMinutes": 76,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "326975",
+    "tmdbId": 326975,
+    "imdbId": "tt50828583",
+    "type": "tv",
+    "title": "What a Boss Wants",
+    "overview": "A struggling CEO's only hope to turn his career around lies in an indie singer – but neither of them expected to fall for each other.",
+    "year": "2026",
+    "rating": 6.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1lrHuB1zHomAa4CIbfIrgkmftBA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ypJyuwEqvF60u3H1yprnrYZPtw9.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/c2Etry6Sci6Eqzvot53ztQzVPgR.png",
+    "certificate": "15",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -2359,7 +2380,7 @@
     "title": "The Ordinary Jackpot",
     "overview": "An ordinary office worker wins the lottery – the amount isn't enough for him to quit his job, but it's enough to give him a new outlook on life.",
     "year": "2026",
-    "rating": 7.6,
+    "rating": 7.5,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3jLoiPorNssIfLlEuw8Om7ujca6.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/oxJIuxIWiBEcIBRDdu48vTwQcJZ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/yWZRNPyrQyN7ErctpmsL1NM3IiF.png",
@@ -2632,7 +2653,7 @@
     "title": "The Apartment Job",
     "overview": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
     "year": "2026",
-    "rating": 7,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/vlEMhUDt4y47jch2fKgzBJJMC0q.png",
@@ -2681,27 +2702,6 @@
     "certificate": "TV-MA",
     "runTimeMinutes": 68,
     "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "230448",
-    "tmdbId": 230448,
-    "imdbId": "tt27539317",
-    "type": "tv",
-    "title": "Mr. Plankton",
-    "overview": "A man plagued by misfortune and his ex, the unluckiest bride-to-be, are forced to accompany one another on the final journey of his life.",
-    "year": "2024",
-    "rating": 8.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ugWl7rqoJsJSOC410tzctQf2cYN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7LmwKWqnd0sYLQvz0VvjdW5J8sN.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/iFparapxy2524J5wLlmrv7IXsbW.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 77,
-    "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -2800,7 +2800,7 @@
     "title": "Summer Vacation",
     "overview": "An ordinary teen girl longs for something new – will meeting a handsome boy in a countryside village change her life?",
     "year": "2026",
-    "rating": 8.4,
+    "rating": 8.3,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hVh5KTD2zlaDRYgHIlsM3K2qPQb.png",
@@ -3781,27 +3781,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "238458",
-    "tmdbId": 238458,
-    "imdbId": "tt30413044",
-    "type": "tv",
-    "title": "Cashero",
-    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-    "year": "2025",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "239077",
     "tmdbId": 239077,
     "imdbId": "tt33578048",
@@ -4040,7 +4019,7 @@
     "title": "Oh! My Guard",
     "overview": "A wildly unpredictable romance begins when a flawed “master of melodrama” actor encounters a mysterious woman who believes she is the female lead of a TV drama.",
     "year": "2026",
-    "rating": 7.1,
+    "rating": 7.2,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/jFpUscK4vAj2F6pZH1ZT20cO6sw.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/8INHzI2A4Pa23UnlScY7N1ZWXgT.png",
@@ -4159,6 +4138,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "133678",
+    "tmdbId": 133678,
+    "imdbId": "tt21875462",
+    "type": "tv",
+    "title": "Once Upon a Small Town",
+    "overview": "Against his wishes a veterinarian from the big city relocates to the countryside, where he meets a policewoman, a town insider with a friendly secret.",
+    "year": "2022",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9DNkebzIQNAzr5YSi96RCZ0D3Q6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bdkfBz4waYCe3DsgLMMHsgQGw8R.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/t2mExGcLAUSPHKrJj8VeLFdnv7A.png",
+    "certificate": "12",
+    "runTimeMinutes": 36,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "224414",
     "tmdbId": 224414,
     "imdbId": "tt31014107",
@@ -4216,27 +4216,6 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Drama",
     "secondaryGenre": "War & Politics",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "132925",
-    "tmdbId": 132925,
-    "imdbId": "tt14687200",
-    "type": "tv",
-    "title": "The Red Sleeve",
-    "overview": "Based on a novel of the same name, it tells the record of a royal court romance between the King of Joseon who believes his duty is to his country first above love, and a court lady who wants to protect the life she has chosen.",
-    "year": "2021",
-    "rating": 8.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1AZK2bnsmu5PIbkfxFkKbrjf5Oo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lZwubw2MvdeSE48U0pk5W2AK8D9.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rf1LuY9kL1rCoGs1AKfSNxliZ3A.png",
-    "certificate": "15",
-    "runTimeMinutes": 100,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -4516,6 +4495,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "238458",
+    "tmdbId": 238458,
+    "imdbId": "tt30413044",
+    "type": "tv",
+    "title": "Cashero",
+    "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+    "year": "2025",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/u3zgyPfVD0H514OQKihBLnezyXY.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "82501",
     "tmdbId": 82501,
     "imdbId": "tt8696768",
@@ -4768,6 +4768,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "116377",
+    "tmdbId": 116377,
+    "imdbId": "tt13760386",
+    "type": "tv",
+    "title": "Dear.M",
+    "overview": "Campus life at Seoyeon University has always been relatively peaceful, but when an anonymous post pops up on the school’s online community, the entire campus is flipped upside down.",
+    "year": "2022",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ikfRBUtlq5Zf38Qseyk4VxkLNsg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hlhgZ9Ro906X8rlt4tfFEzMJozK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4JARfSlYkBZZEjCgwDSH2K4Xv1O.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 67,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "234061",
     "tmdbId": 234061,
     "imdbId": "tt29311377",
@@ -4825,6 +4846,27 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Crime",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "226102",
+    "tmdbId": 226102,
+    "imdbId": "tt32117300",
+    "type": "tv",
+    "title": "Crash",
+    "overview": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
+    "year": "2024",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2W3ltEEgCLecn8hxtxGLxS5G5I5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -5027,7 +5069,7 @@
     "title": "The First Responders",
     "overview": "A police station and a fire station adjoining each other cooperate in combating crime and fire in the most brutal and tragic cases.",
     "year": "2022",
-    "rating": 8.2,
+    "rating": 8.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ccEYx9NoZvDJRw8Ji2E7yJYLXwt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/bnEDaINpzWGBsE8IjA3TsU4FWeJ.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/hUnzgjLKWgqJvgI8sj7qHLlTpWx.png",
@@ -7190,7 +7232,7 @@
     "title": "Discovery of Love",
     "overview": "Han Yeo-reum is a furniture designer who owns a workshop space that she shares with other designers. For the past three years, she's been dating Nam Ha-jin, a plastic surgeon with a sweet and gentle personality. But Yeo-reum's peaceful existence is shaken when her ex-boyfriend Kang Tae-ha suddenly reappears in her life. The CEO of an interior design company, Tae-ha is a smart, confident man with a strong competitive edge who always gets what he wants. Meanwhile, Ha-jin's childhood friend Ahn Ah-rim has secretly been carrying a torch for him all these years. As she begins working with Tae-ha, Yeo-reum is forced to reevaluate her romantic history, which sets her off on a search for true love.",
     "year": "2014",
-    "rating": 7.2,
+    "rating": 7.1,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qtVi9OHMsAoJkZlW1uk2EcONeNt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/w1280/Aae09HMVoIEMp6NP4k6bKiZbFTp.jpg",
     "logoUrl": "https://image.tmdb.org/t/p/w500/t2vJ5tLhQfZlB77t5NxVjlsBzDr.png",
@@ -8351,48 +8393,6 @@
     "runTimeMinutes": 35,
     "primaryGenre": "Drama",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "46594",
-    "tmdbId": 46594,
-    "imdbId": "tt2856882",
-    "type": "tv",
-    "title": "Queen of Ambition",
-    "overview": "When you grow up in extreme poverty, the experience can instill a steely resolve to succeed at all costs. Joo Da Hae is determined to leave her life of poverty behind and will stop at nothing until she achieves the wealth and lifestyle she so desires. Ha Ryu, who loved Da Hae and would have done anything for her, is used and betrayed by her in her greedy quest. He later becomes a public prosecutor who must bring her down. But the heartless Da Hae, who rises to become First Lady, has plenty of others who will sacrifice themselves at her whim, including the smitten Baek Do Hoon. Can the ruthless Da Hae be stopped before she goes too far?",
-    "year": "2013",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/o9H70FsxH4XoighY70YzWrXjq3o.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yjVhWDeK7A9yW9JhrfNhyJSS5Sd.jpg",
-    "logoUrl": null,
-    "certificate": "15",
-    "runTimeMinutes": 66,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "18398",
-    "tmdbId": 18398,
-    "imdbId": "tt6385912",
-    "type": "tv",
-    "title": "Conspiracy in the Court",
-    "overview": "Conspiracy in the Court, is a 2007 Korean historical drama broadcast on KBS2. The mystery thriller revolves around a murder case set in Hansung, the capital of Korea during the latter years of the Joseon dynasty when the nation was experiencing a rapid influx of western influences. Featuring a band of newcomers in the leading roles, Conspiracy in the Court entails a story of four young visionary idealists and King Jeongjo, Joseon's popular 22nd monarch who fought for commoners' rights and bureaucratic reformation. Despite low ratings averaging 6.00%, it was lauded for its high standard of content and art direction.",
-    "year": "2007",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/23Ers4SwC7FYUYHOlUYLu9Fkcn1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nLtwXSm4NZ15Q0Fr9b2xsyQxjcs.jpg",
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 65,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
     "originCountries": [
       "KR"
     ],
