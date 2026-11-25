@@ -63,6 +63,27 @@
     "originalLanguage": "pl"
   },
   {
+    "id": "340280",
+    "tmdbId": 340280,
+    "imdbId": "tt41559886",
+    "type": "tv",
+    "title": "Gordon",
+    "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+    "year": "2026",
+    "rating": 7.1,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/3H0qNU2GN1OqE5zbn84fUvUqVhC.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 40,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "AR"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "287296",
     "tmdbId": 287296,
     "imdbId": "tt36329495",
@@ -2909,6 +2930,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "316657",
+    "tmdbId": 316657,
+    "imdbId": "tt42344158",
+    "type": "tv",
+    "title": "Paris Is Always a Good Idea",
+    "overview": "Career-driven nonprofit executive Chelsea Martin travels to Paris with her confident rival-turned-ally, Jason Knightly to secure a major donation but a heartfelt message from her late mother – and a loving push from her sister Annabelle – sends her on an unexpected journey to reconnect with the three great loves she once left behind. From the rolling hills of Ireland to the magic of Paris and the sun-kissed vineyards of Spain, Chelsea retraces old footsteps and discovers that sometimes moving forward means first looking back.",
+    "year": "2026",
+    "rating": 7.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7ojPrmpoUUdD8XotcKwEWdb9rJv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vsevYkSAXBvlSue8N8fQ3btjcsn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/h2Tqcw7P3WLVmUIMGr5yN60dfck.png",
+    "certificate": "",
+    "runTimeMinutes": 46,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "328804",
     "tmdbId": 328804,
     "imdbId": "tt38683025",
@@ -4169,47 +4211,5 @@
       "JP"
     ],
     "originalLanguage": "ja"
-  },
-  {
-    "id": "324115",
-    "tmdbId": 324115,
-    "imdbId": "tt39749708",
-    "type": "tv",
-    "title": "The Evil Lawyer",
-    "overview": "When a young attorney is accused of murdering a police officer's son, he teams up with the \"Evil Lawyer\" to exploit loopholes and prove his innocence.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gC6NyZkkyxwzip33k6XJ5ngP0dy.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/boFWJTWGQLmQPvqxA5sNWw91O0E.png",
-    "certificate": "A",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "TH"
-    ],
-    "originalLanguage": "th"
-  },
-  {
-    "id": "260592",
-    "tmdbId": 260592,
-    "imdbId": "tt33055254",
-    "type": "tv",
-    "title": "Every Year After",
-    "overview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
-    "year": "2026",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fGAYIk2korXRooUzha3oKN1jMJ.png",
-    "certificate": "A",
-    "runTimeMinutes": 50,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]

@@ -236,6 +236,27 @@
     "originalLanguage": "es"
   },
   {
+    "id": "332507",
+    "tmdbId": 332507,
+    "imdbId": "tt45051577",
+    "type": "tv",
+    "title": "The Last Oath",
+    "overview": "Immune to a deadly zombie virus, a student forms a forbidden bond with the agent sent to hunt him as they battle corrupt pharmaceutical giants.",
+    "year": "2026",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6Gt3rbhwfniiZoeORGcuDai5Nar.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zDFiTPF1ox2LLIAjS2qdnUwk7go.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oZoqBCecPfy9b5TRpjtm1xAlcV6.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 27,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Action & Adventure",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
     "id": "283297",
     "tmdbId": 283297,
     "imdbId": "tt35618070",
@@ -2471,6 +2492,27 @@
     "originalLanguage": "ja"
   },
   {
+    "id": "207668",
+    "tmdbId": 207668,
+    "imdbId": "tt27531070",
+    "type": "tv",
+    "title": "The Legend of ShenLi",
+    "overview": "The ancient gods died, and there is only one last god in the world - Xingzhi. Rumor has it that this God of Action has lived alone in the heavens for tens of thousands of years, ruthless and lustless. In the battle of the immortals and demons, he turned the tide by himself, and since then, Du Men has been swept away, and his traces are hard to find.\n\nHundreds of years are just a click away. As the queen who was born with a pearl in the devil world, Shen Li's life was bright and dazzling. But on the occasion of her thousand-year-old birthday, the claws of political marriage were scratching their heads. On the way to escape from the marriage, Shen Li was beaten back to the original form of a phoenix and fell to the world with injuries. When she was seriously injured and comatose, the mortal hawker treated her as a fat chicken, plucked all the hair from her body, and locked her in a cage for sale.\n\nThe fate of the two is tightly linked by a seemingly casual transaction.",
+    "year": "2024",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kyvbMIw7K2k6AxXpvRG1JqXqG1P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hBSaqZ02z2e00qwrplN5fUoa20V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/4LX5ceJz6U30GXRjQpxIZII1ZFF.png",
+    "certificate": "15",
+    "runTimeMinutes": 48,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "CN"
+    ],
+    "originalLanguage": "zh"
+  },
+  {
     "id": "155533",
     "tmdbId": 155533,
     "imdbId": "tt16912512",
@@ -4173,47 +4215,5 @@
       "GB"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "99346",
-    "tmdbId": 99346,
-    "imdbId": "tt11771270",
-    "type": "tv",
-    "title": "The English",
-    "overview": "An aristocratic Englishwoman, Lady Cornelia Locke, arrives into the new and wild landscape of the American West to wreak revenge on the man she sees as responsible for the death of her son.",
-    "year": "2022",
-    "rating": 7.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aAFAwxj0VzBRyX5biAHUJM73qYG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eenxjEAPwPbkjN6W5ZzTbfLA4GM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3yEeb90STOHyaD8Pkmm9NItHaCD.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Western",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "211855",
-    "tmdbId": 211855,
-    "imdbId": "tt21814948",
-    "type": "tv",
-    "title": "The End of Love",
-    "overview": "After a reunion with her past, Tamara - a Jewish ex-orthodox turned feminist rocker - separates from her boyfriend, rebelling against romantic love and monogamy to embark on a path of exploration in search of her own desire.",
-    "year": "2022",
-    "rating": 6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/x9Tq1h4SI8f4BGd3f0XUNbEY1sl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mmle3isEoxAhXWwJsoQKXrMNGJq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wJ3PMIbLlXERAWt3TCY3n5NdcME.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 30,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "AR"
-    ],
-    "originalLanguage": "es"
   }
 ]
