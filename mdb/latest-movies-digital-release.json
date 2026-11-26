@@ -526,27 +526,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1600653",
-    "tmdbId": 1600653,
-    "imdbId": "tt39219651",
-    "type": "movie",
-    "title": "The 12 Dates of Christmas",
-    "overview": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
-    "year": "2026",
-    "rating": 5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/1K1mVHef4LIiuDQ3VdPcNS8Tk6G.png",
-    "certificate": "0",
-    "runTimeMinutes": 0,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1294189",
     "tmdbId": 1294189,
     "imdbId": "tt13611778",
@@ -2314,28 +2293,6 @@
     "secondaryGenre": "Action",
     "originCountries": [
       "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1243006",
-    "tmdbId": 1243006,
-    "imdbId": "tt10329560",
-    "type": "movie",
-    "title": "H Is for Hawk",
-    "overview": "After losing her beloved father, Helen finds herself saved by an unlikely friendship with a stubborn hawk named Mabel. Through the bond, Helen rediscovers the beauty of being alive.",
-    "year": "2025",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eg301AEGyYX4gtc0A8DEXQ0VMhK.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2nMCDgLekQA2mumJLXJvGY4RUx0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fzSKcUMwL8tIaAPGfFYGJwbIFsA.png",
-    "certificate": "PG-13",
-    "runTimeMinutes": 120,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US",
-      "GB"
     ],
     "originalLanguage": "en"
   },
