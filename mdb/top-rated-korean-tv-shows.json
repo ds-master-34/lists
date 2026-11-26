@@ -3192,6 +3192,48 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "85404",
+    "tmdbId": 85404,
+    "imdbId": "tt9466990",
+    "type": "tv",
+    "title": "Touch Your Heart",
+    "overview": "Hoping to make a comeback after a bad scandal, an actress agrees to research a new role by taking a job as a secretary for a prickly attorney.",
+    "year": "2019",
+    "rating": 8.254,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kVFflfTOFqFBh34jcVRI1QCWSre.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5kOKNntEPrnq8LRtjC9vXAUueut.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/soOjSdcf1tT1xGqdyisjdaBCe5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 68,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "88974",
+    "tmdbId": 88974,
+    "imdbId": "tt10160592",
+    "type": "tv",
+    "title": "Angel's Last Mission: Love",
+    "overview": "To regain his place in Heaven, a mischievous angel must find love for a cold-hearted ballerina – but he ends up falling for her.",
+    "year": "2019",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ltoY1cMTdh5ovUe6JhEsuU5Twd3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dgYUF4FoKF2UdGMP7Mhd6eFDGdy.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gFsqzQz2LpkqyhkINa3jlgfOgRT.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 32,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "71349",
     "tmdbId": 71349,
     "imdbId": "tt6720154",
@@ -5777,6 +5819,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "96977",
+    "tmdbId": 96977,
+    "imdbId": "tt11535086",
+    "type": "tv",
+    "title": "When the Weather Is Fine",
+    "overview": "Drained from her life in the city, a young cellist moves to a quiet small town, where she encounters an old friend who helps her heal and remake herself.",
+    "year": "2020",
+    "rating": 7.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h3FeWqdslmfD3d2wffFELjMcjQZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6duvyxTYkDRGCzvTvXMwnojlXot.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gpJ362R1eMheQM3QVABo9ibMiMW.png",
+    "certificate": "15",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "66082",
     "tmdbId": 66082,
     "imdbId": "tt5679572",
@@ -6840,6 +6903,27 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/npC8ErjU584ER43OuyVA24NdBGb.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 76,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "90720",
+    "tmdbId": 90720,
+    "imdbId": "tt10559276",
+    "type": "tv",
+    "title": "Be Melodramatic",
+    "overview": "Three 30-something friends chase dreams in Korea's competitive entertainment scene, balancing love, career, and personal growth.",
+    "year": "2019",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1JulSsxfpad3DtEACRjoGSNbx2f.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wUDUibcYuox8Xf0QDiK46YzZM1N.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hX9VgnxQECXMHiRoDmy2aTkBM7i.png",
+    "certificate": "12",
+    "runTimeMinutes": 73,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
@@ -8316,68 +8400,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "84464",
-    "tmdbId": 84464,
-    "imdbId": "tt9165992",
-    "type": "tv",
-    "title": "My Strange Hero",
-    "overview": "When Kang Bok-Soo was a high school student, he was falsely accused of committing violence and kicked out of school. This was caused by his first love Son Soo-Jung and a male student Oh Se-Ho. Kang Bok-Soo is a now an adult, but his life has not gone smoothly. To get revenge on Son Soo-Jung and Oh Se-Ho, he returns to the same high school as a student. The environment at the school has changed and Kang Bok-Soo gets involved in unexpected cases.",
-    "year": "2018",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ld6bkaFwnYsm7emwZnhsjPXYbo4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mjMkTMbWxma8A2Z9OFhTbvetOLO.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rYp3ZS8VQ7xR6ivY63tzn8LZ9F9.png",
-    "certificate": "15",
-    "runTimeMinutes": 32,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "39198",
-    "tmdbId": 39198,
-    "imdbId": "tt2623064",
-    "type": "tv",
-    "title": "Heartstrings",
-    "overview": "Lee Gyu Won is the daughter of one of the top three maestros of pansori and is also a gayageum protégé herself. Following her grandfather’s wishes for her to study the gayageum, she enrolls as a major of gugak, or traditional Korean music. Lee Shin is unfriendly, yet a clever student in the Applied Music Department who also is the famed vocalist and talented guitarist of the handsome band named The Stupid. With charming looks equal to those of a handsome character in a romance comic and a cold, taciturn personality, he thinks gugak is boring and belittles it. As the vocalist Lee Shin and Gayageum Protégé Lee Gyu Won passionately confront each other to champion their respective music, they soon fall in love.",
-    "year": "2011",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rXYUM93FtvfpS0gnQDgj4xivJYI.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1AxL5ep3XlXgNnVGxT3TRzz1lL0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3xIqyhAE5I2B2wCdG3arYBkSW4f.png",
-    "certificate": "NR",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "78741",
-    "tmdbId": 78741,
-    "imdbId": "tt8139230",
-    "type": "tv",
-    "title": "BTS: Burn the Stage",
-    "overview": "Follow the 300-day journey of BTS's sold-out world tour, BTS Live Trilogy Episode III: The Wings Tour. Celebrate the triumph of their friendship as they overcome shared hardships, and witness the growth and hard work as BTS continues on the path to grow into fully-fledged artists.",
-    "year": "2018",
-    "rating": 9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/atc0gJa863BVZUxRigGC0MaK6EB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/45IZqaMrmAoIVyXSPYzUYM2VHSY.jpg",
-    "logoUrl": null,
-    "certificate": "12",
-    "runTimeMinutes": 27,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "en"
   }
 ]
