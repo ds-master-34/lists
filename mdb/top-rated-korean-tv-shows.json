@@ -672,27 +672,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "108261",
-    "tmdbId": 108261,
-    "imdbId": "tt13400006",
-    "type": "tv",
-    "title": "Mr. Queen",
-    "overview": "A modern chef suddenly becomes trapped inside the body of a queen from the Joseon era, which causes chaos for everyone involved.",
-    "year": "2020",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gko6rf0BmhTnc9mawzWfgPUPUT1.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 67,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "117376",
     "tmdbId": 117376,
     "imdbId": "tt13433812",
@@ -1659,6 +1638,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "279246",
+    "tmdbId": 279246,
+    "imdbId": "tt39325975",
+    "type": "tv",
+    "title": "The Remarried Empress",
+    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+    "year": "2026",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "279323",
     "tmdbId": 279323,
     "imdbId": "tt35051401",
@@ -2136,27 +2136,6 @@
     "runTimeMinutes": 30,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "279246",
-    "tmdbId": 279246,
-    "imdbId": "tt39325975",
-    "type": "tv",
-    "title": "The Remarried Empress",
-    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-    "year": "2026",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Sci-Fi & Fantasy",
     "originCountries": [
       "KR"
     ],
@@ -2682,6 +2661,27 @@
     "runTimeMinutes": 67,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "303745",
+    "tmdbId": 303745,
+    "imdbId": "tt45246384",
+    "type": "tv",
+    "title": "Love in Disguise",
+    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 64,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -3696,6 +3696,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "83634",
+    "tmdbId": 83634,
+    "imdbId": "tt8236556",
+    "type": "tv",
+    "title": "Memories of the Alhambra",
+    "overview": "While looking for the cryptic creator of an innovative augmented-reality game, an investment firm executive meets a woman who runs a hostel in Spain.",
+    "year": "2018",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/18UuytTxcPSrhptyW7hHDenN70C.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lPnWhpVe81isngx5Dmrq3itjuF0.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fH9EpKYo9WhTggKfK3YM3c1iuj4.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Mystery",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "113240",
     "tmdbId": 113240,
     "imdbId": "tt13271834",
@@ -4200,27 +4221,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "303745",
-    "tmdbId": 303745,
-    "imdbId": "tt45246384",
-    "type": "tv",
-    "title": "Love in Disguise",
-    "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-    "year": "2026",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 64,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "70440",
     "tmdbId": 70440,
     "imdbId": "tt6356086",
@@ -4278,27 +4278,6 @@
     "runTimeMinutes": 58,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "83634",
-    "tmdbId": 83634,
-    "imdbId": "tt8236556",
-    "type": "tv",
-    "title": "Memories of the Alhambra",
-    "overview": "While looking for the cryptic creator of an innovative augmented-reality game, an investment firm executive meets a woman who runs a hostel in Spain.",
-    "year": "2018",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/18UuytTxcPSrhptyW7hHDenN70C.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lPnWhpVe81isngx5Dmrq3itjuF0.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/fH9EpKYo9WhTggKfK3YM3c1iuj4.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 61,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -4488,6 +4467,27 @@
     "runTimeMinutes": 52,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "224819",
+    "tmdbId": 224819,
+    "imdbId": "tt27554348",
+    "type": "tv",
+    "title": "Dear Hongrang",
+    "overview": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/ymApSy7nyGtRQlPqtJuCyGGqz1c.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Mystery",
     "originCountries": [
       "KR"
     ],
@@ -4768,27 +4768,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "224819",
-    "tmdbId": 224819,
-    "imdbId": "tt27554348",
-    "type": "tv",
-    "title": "Dear Hongrang",
-    "overview": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mWGil4jL1jaCoZkZuaNThh0aoVC.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mrofWp3zypeH2Et5YuvwfMFe0ZK.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ymApSy7nyGtRQlPqtJuCyGGqz1c.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 62,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Mystery",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "259015",
     "tmdbId": 259015,
     "imdbId": "tt33320428",
@@ -4999,28 +4978,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "249054",
-    "tmdbId": 249054,
-    "imdbId": "tt32524691",
-    "type": "tv",
-    "title": "Romantics Anonymous",
-    "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
-    "year": "2025",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 57,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR",
-      "JP"
-    ],
-    "originalLanguage": "ja"
-  },
-  {
     "id": "236956",
     "tmdbId": 236956,
     "imdbId": "tt30143510",
@@ -5166,6 +5123,28 @@
       "KR"
     ],
     "originalLanguage": "ko"
+  },
+  {
+    "id": "249054",
+    "tmdbId": 249054,
+    "imdbId": "tt32524691",
+    "type": "tv",
+    "title": "Romantics Anonymous",
+    "overview": "A brilliant chocolatier who's afraid of making eye contact meets an heir who can't touch others — but somehow, they're immune to each other.",
+    "year": "2025",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/nVZbpomFQM0HIqkTMy57mcFzvx5.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR",
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "78796",
@@ -5504,6 +5483,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "136368",
+    "tmdbId": 136368,
+    "imdbId": "tt21627436",
+    "type": "tv",
+    "title": "Song of the Bandits",
+    "overview": "In the lawless land of Gando, fierce bandits will stop at nothing to fight for their precious homeland and loved ones — even if it means life or death.",
+    "year": "2023",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4lls2JCt9g1YiusX3xLVSdSZ6cO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/swdlL4gCeRsYU5pC2wh9fzzQt2V.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/8C7HkyU14do2lDjRtjIQh1m7EAF.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "64548",
     "tmdbId": 64548,
     "imdbId": "tt4741110",
@@ -5560,27 +5560,6 @@
     "certificate": "15",
     "runTimeMinutes": 85,
     "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "136368",
-    "tmdbId": 136368,
-    "imdbId": "tt21627436",
-    "type": "tv",
-    "title": "Song of the Bandits",
-    "overview": "In the lawless land of Gando, fierce bandits will stop at nothing to fight for their precious homeland and loved ones — even if it means life or death.",
-    "year": "2023",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/4lls2JCt9g1YiusX3xLVSdSZ6cO.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/swdlL4gCeRsYU5pC2wh9fzzQt2V.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8C7HkyU14do2lDjRtjIQh1m7EAF.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -7730,6 +7709,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "135154",
+    "tmdbId": 135154,
+    "imdbId": "tt20600078",
+    "type": "tv",
+    "title": "If You Wish Upon Me",
+    "overview": "A convict who finds himself staring into the abyss is ordered to work at a facility for the terminally ill. Will the experience help reverse his unhappy destiny?",
+    "year": "2022",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xvX2CZKc6rdOVd51ytqpOc3bT4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ai4N9wUbz0UTIRT8JE64lP6F26b.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2zwCdOOie95IuvPDbPanTHwk6bi.png",
+    "certificate": "15",
+    "runTimeMinutes": 61,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "132171",
     "tmdbId": 132171,
     "imdbId": "tt21289712",
@@ -7890,27 +7890,6 @@
     "logoUrl": "https://image.tmdb.org/t/p/w500/josxZg4XfUSslABSLSfP0yhHGBU.png",
     "certificate": "TV-MA",
     "runTimeMinutes": 64,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "135154",
-    "tmdbId": 135154,
-    "imdbId": "tt20600078",
-    "type": "tv",
-    "title": "If You Wish Upon Me",
-    "overview": "A convict who finds himself staring into the abyss is ordered to work at a facility for the terminally ill. Will the experience help reverse his unhappy destiny?",
-    "year": "2022",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/xvX2CZKc6rdOVd51ytqpOc3bT4.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ai4N9wUbz0UTIRT8JE64lP6F26b.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/2zwCdOOie95IuvPDbPanTHwk6bi.png",
-    "certificate": "15",
-    "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
     "originCountries": [
