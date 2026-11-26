@@ -1,5 +1,26 @@
 [
   {
+    "id": "1555847",
+    "tmdbId": 1555847,
+    "imdbId": "tt37645628",
+    "type": "movie",
+    "title": "Garividi Lakshmi",
+    "overview": "A gifted folk singer from North Andhra rises to fame through her captivating voice and Burra Katha performances, only to mysteriously disappear at the height of her popularity. Years later, a man sets out to unravel the mystery. What happened to Garividi Lakshmi?",
+    "year": "2026",
+    "rating": 5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qhZ01fVnKZ39zSboOgHWZ648wxa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lqE6OluU5yliQRH6bnEsXZT94O7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/1snxkN96bcKyku0jRrCAv3nrN5h.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 141,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "IN"
+    ],
+    "originalLanguage": "te"
+  },
+  {
     "id": "1542674",
     "tmdbId": 1542674,
     "imdbId": "tt39000001",
