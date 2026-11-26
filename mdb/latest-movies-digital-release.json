@@ -84,6 +84,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1611767",
+    "tmdbId": 1611767,
+    "imdbId": "tt39316936",
+    "type": "movie",
+    "title": "Clashing Through the Snow",
+    "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+    "year": "2026",
+    "rating": 6.745,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/59Pp7g2RCyIIM9nIK4doGQMnOCr.png",
+    "certificate": "PG-13",
+    "runTimeMinutes": 110,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1595124",
     "tmdbId": 1595124,
     "imdbId": "tt14413964",
@@ -99,6 +120,27 @@
     "runTimeMinutes": 107,
     "primaryGenre": "Animation",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1615596",
+    "tmdbId": 1615596,
+    "imdbId": "tt38258118",
+    "type": "movie",
+    "title": "Best Pancakes in the County",
+    "overview": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
+    "year": "2026",
+    "rating": 6.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/zpR8JisFyRjCCtva7hjYyxfELpz.png",
+    "certificate": "",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Action",
+    "secondaryGenre": "Thriller",
     "originCountries": [
       "US"
     ],
@@ -906,48 +948,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "1477104",
-    "tmdbId": 1477104,
-    "imdbId": "tt36841161",
-    "type": "movie",
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "overview": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-    "year": "2026",
-    "rating": 7.1,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/95vrh8aJrRLo2991GgkZQeDYMr3.png",
-    "certificate": "PG",
-    "runTimeMinutes": 81,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Science Fiction",
-    "originCountries": [
-      "GB"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1380417",
-    "tmdbId": 1380417,
-    "imdbId": "tt34379051",
-    "type": "movie",
-    "title": "By Any Means",
-    "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-    "year": "2026",
-    "rating": 6.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/ojaPgOho748TTZJWMMid28fjhkx.png",
-    "certificate": "R",
-    "runTimeMinutes": 107,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "1433583",
     "tmdbId": 1433583,
     "imdbId": "tt10794054",
@@ -1363,27 +1363,6 @@
     "runTimeMinutes": 145,
     "primaryGenre": "Science Fiction",
     "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1284046",
-    "tmdbId": 1284046,
-    "imdbId": "tt32268691",
-    "type": "movie",
-    "title": "Onslaught",
-    "overview": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-    "year": "2026",
-    "rating": 5.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/qaX9myLKzPirNCUKD6KDkcoo1pM.png",
-    "certificate": "R",
-    "runTimeMinutes": 92,
-    "primaryGenre": "Action",
-    "secondaryGenre": "Horror",
     "originCountries": [
       "US"
     ],
@@ -2122,27 +2101,6 @@
     "runTimeMinutes": 117,
     "primaryGenre": "Drama",
     "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1545484",
-    "tmdbId": 1545484,
-    "imdbId": "tt30247172",
-    "type": "movie",
-    "title": "Deathwoods",
-    "overview": "A weekend of camping intended to break Scott out of his post breakup depression, quickly turns  into a weekend of bloodshed, as his friends are picked off one by one by the urban legend that haunts the  woods surrounding the small town of Old Hickory, Tennessee.",
-    "year": "2026",
-    "rating": 4.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3MUGLE5YkmkUuKYgQFHExM3c8dg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/CDNG41GshX6Ifv7mXriG6ixScL.jpg",
-    "logoUrl": null,
-    "certificate": "NR",
-    "runTimeMinutes": 83,
-    "primaryGenre": "Horror",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
