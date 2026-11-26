@@ -1,5 +1,26 @@
 [
   {
+    "id": "308007",
+    "tmdbId": 308007,
+    "imdbId": "tt36786185",
+    "type": "tv",
+    "title": "The Altruists",
+    "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hLfxcGSEPV8ktPUrxfPewtnKvEo.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 58,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "335981",
     "tmdbId": 335981,
     "imdbId": "tt47021035",
@@ -6298,26 +6319,5 @@
       "ES"
     ],
     "originalLanguage": "es"
-  },
-  {
-    "id": "274023",
-    "tmdbId": 274023,
-    "imdbId": "tt33840297",
-    "type": "tv",
-    "title": "Investigation Alien",
-    "overview": "In this gripping docuseries, legendary reporter George Knapp travels the globe to uncover new evidence about UFOs and investigate their presence on Earth.",
-    "year": "2024",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/t2dShYTM1heqVXv4Pjk3mbBqFy2.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ea7DLoGRwqQ3W2WKgDxnyPqMhAM.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/tNXvQCU7syfuNeclVUHrmW5xoLS.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 34,
-    "primaryGenre": "Documentary",
-    "secondaryGenre": "",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
   }
 ]
