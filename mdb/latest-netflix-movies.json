@@ -315,6 +315,27 @@
     "originalLanguage": "de"
   },
   {
+    "id": "1458300",
+    "tmdbId": 1458300,
+    "imdbId": "tt36413910",
+    "type": "movie",
+    "title": "The Mosquito Bowl",
+    "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+    "year": "2026",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dgzKCgjJECvZpclowYlRDgPKFPN.png",
+    "certificate": "R",
+    "runTimeMinutes": 128,
+    "primaryGenre": "War",
+    "secondaryGenre": "History",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1541477",
     "tmdbId": 1541477,
     "imdbId": "tt38504402",
@@ -4183,27 +4204,6 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Romance",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1594337",
-    "tmdbId": 1594337,
-    "imdbId": "tt39075270",
-    "type": "movie",
-    "title": "Stranger Things: Fireplace",
-    "overview": "Gather 'round the fireplace in Hawkins, where the flames crackle, the alphabet glows — and the holidays get turned Upside Down.",
-    "year": "2025",
-    "rating": 5.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9RSXHEEqakGcZHeXjvf2rTsknWV.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dGwtj57MH1zOLLzaIiT11zHKYXB.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/t7F0baNBKfyMIprfstSHKmLsVS6.png",
-    "certificate": "U",
-    "runTimeMinutes": 60,
-    "primaryGenre": "Science Fiction",
-    "secondaryGenre": "",
     "originCountries": [
       "US"
     ],
