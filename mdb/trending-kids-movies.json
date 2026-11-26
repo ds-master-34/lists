@@ -105,6 +105,28 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1538497",
+    "tmdbId": 1538497,
+    "imdbId": "tt38077943",
+    "type": "movie",
+    "title": "Hexed",
+    "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+    "year": "2026",
+    "rating": 5.711,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rtVvK5xBw6aLKmwzanozsUujVwA.png",
+    "certificate": "PG",
+    "runTimeMinutes": 103,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US",
+      "CA"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1117898",
     "tmdbId": 1117898,
     "imdbId": "tt2321555",
@@ -294,6 +316,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "360920",
+    "tmdbId": 360920,
+    "imdbId": "tt2709692",
+    "type": "movie",
+    "title": "The Grinch",
+    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
+    "year": "2018",
+    "rating": 6.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/5R0uZzsm7wyYJqGTN9gpN25kg0X.png",
+    "certificate": "PG",
+    "runTimeMinutes": 85,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1315772",
     "tmdbId": 1315772,
     "imdbId": "tt32890033",
@@ -309,27 +352,6 @@
     "runTimeMinutes": 90,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Animation",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "940009",
-    "tmdbId": 940009,
-    "imdbId": "tt18270542",
-    "type": "movie",
-    "title": "Ray Gunn",
-    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/yzDKOxdMbb7eioRYtuQKSnH1GKT.png",
-    "certificate": "PG",
-    "runTimeMinutes": 119,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Science Fiction",
     "originCountries": [
       "US"
     ],
@@ -441,27 +463,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "360920",
-    "tmdbId": 360920,
-    "imdbId": "tt2709692",
-    "type": "movie",
-    "title": "The Grinch",
-    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
-    "year": "2018",
-    "rating": 6.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/5R0uZzsm7wyYJqGTN9gpN25kg0X.png",
-    "certificate": "PG",
-    "runTimeMinutes": 85,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "14836",
     "tmdbId": 14836,
     "imdbId": "tt0327597",
@@ -540,6 +541,27 @@
     "runTimeMinutes": 115,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "940009",
+    "tmdbId": 940009,
+    "imdbId": "tt18270542",
+    "type": "movie",
+    "title": "Ray Gunn",
+    "overview": "In Metropia, a gigantic city in an alternate future as seen from 1939, private eye Raymond Gunn is drawn into a case involving aliens, murder and a multimedia star named Venus Nova.",
+    "year": "2026",
+    "rating": 7.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hhBoWDKmq9u8V2qi0Rtm3XGiydn.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yzDKOxdMbb7eioRYtuQKSnH1GKT.png",
+    "certificate": "PG",
+    "runTimeMinutes": 119,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Science Fiction",
     "originCountries": [
       "US"
     ],
@@ -798,6 +820,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "850",
+    "tmdbId": 850,
+    "imdbId": "tt0085334",
+    "type": "movie",
+    "title": "A Christmas Story",
+    "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+    "year": "1983",
+    "rating": 7.23,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yjSKLm1V4EX1IVkXlAqUCGrJA6p.png",
+    "certificate": "PG",
+    "runTimeMinutes": 93,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1184918",
     "tmdbId": 1184918,
     "imdbId": "tt29623480",
@@ -876,27 +919,6 @@
     "runTimeMinutes": 87,
     "primaryGenre": "Mystery",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "10315",
-    "tmdbId": 10315,
-    "imdbId": "tt0432283",
-    "type": "movie",
-    "title": "Fantastic Mr. Fox",
-    "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
-    "year": "2009",
-    "rating": 7.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rEji5POc62GE9NsC3TjLYc8Q09v.png",
-    "certificate": "PG",
-    "runTimeMinutes": 87,
-    "primaryGenre": "Adventure",
-    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],
@@ -1344,6 +1366,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "10315",
+    "tmdbId": 10315,
+    "imdbId": "tt0432283",
+    "type": "movie",
+    "title": "Fantastic Mr. Fox",
+    "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+    "year": "2009",
+    "rating": 7.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rEji5POc62GE9NsC3TjLYc8Q09v.png",
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Adventure",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "1007757",
     "tmdbId": 1007757,
     "imdbId": "tt29552248",
@@ -1659,6 +1702,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "51052",
+    "tmdbId": 51052,
+    "imdbId": "tt1430607",
+    "type": "movie",
+    "title": "Arthur Christmas",
+    "overview": "For hundreds of years, the Claus family has delegated the title \"Santa\" to a chosen few of its members, which can be passed down upon retirement. Each Christmas, Santa and his vast army of highly trained elves produce gifts and distribute them around the world in a one-night high-tech operation. However, when one of 600 million children to receive a gift from Santa on Christmas Eve is missed, it is deemed ‘acceptable’ to all but one—Arthur Claus, the current Santa’s misfit son deemed ineligible for the title, who executes an unauthorised rookie mission to get the last present halfway around the globe before dawn on Christmas morning.",
+    "year": "2011",
+    "rating": 6.786,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gwSzBwjeWU4y75bReq6BbtYqfJD.png",
+    "certificate": "PG",
+    "runTimeMinutes": 97,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Animation",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "438695",
     "tmdbId": 438695,
     "imdbId": "tt6467266",
@@ -1863,27 +1927,6 @@
     "runTimeMinutes": 103,
     "primaryGenre": "Animation",
     "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "508442",
-    "tmdbId": 508442,
-    "imdbId": "tt2948372",
-    "type": "movie",
-    "title": "Soul",
-    "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
-    "year": "2020",
-    "rating": 8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/x0zdKfh6qqud6BZAITgP6zhmE1g.png",
-    "certificate": "PG",
-    "runTimeMinutes": 101,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
     "originCountries": [
       "US"
     ],
@@ -2122,6 +2165,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "508442",
+    "tmdbId": 508442,
+    "imdbId": "tt2948372",
+    "type": "movie",
+    "title": "Soul",
+    "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+    "year": "2020",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/x0zdKfh6qqud6BZAITgP6zhmE1g.png",
+    "certificate": "PG",
+    "runTimeMinutes": 101,
+    "primaryGenre": "Animation",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "32657",
     "tmdbId": 32657,
     "imdbId": "tt0814255",
@@ -2244,6 +2308,27 @@
     "runTimeMinutes": 93,
     "primaryGenre": "Family",
     "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1773329",
+    "tmdbId": 1773329,
+    "imdbId": "tt46064711",
+    "type": "movie",
+    "title": "Double Booked for the Holidays",
+    "overview": "Identical twins Abigail and Charlie spend their first Christmas without their mother running a bookshop in Wales, where mistaken identities lead to unexpected romance and festive mix-ups.",
+    "year": "2026",
+    "rating": 8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wbPUMupk9mmFcjDsdbFR4dszY6J.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cDlT9y8yKuN9n2csHcxxA7vvDWE.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/dXhn6VsCCjA6KpCIrZDzUeA5vRB.png",
+    "certificate": "",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "TV Movie",
     "originCountries": [
       "US"
     ],
@@ -2580,6 +2665,27 @@
     "runTimeMinutes": 150,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1599329",
+    "tmdbId": 1599329,
+    "imdbId": "tt39201392",
+    "type": "movie",
+    "title": "All for Christmas",
+    "overview": "Podcaster Winona is forced to test love online by a holiday dating-app partnership, connecting with a mystery man who feels like everything she’s been missing. What she doesn’t know is that he’s Luke, the rugged renovator transforming her grandmother’s Christmas Eve venue — and the last guy she’d ever expect to fall for in real life.",
+    "year": "2026",
+    "rating": 5.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/umIrgCdfDgZXXlzMCkLk38CURs.jpg",
+    "logoUrl": null,
+    "certificate": "PG",
+    "runTimeMinutes": 87,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "US"
     ],
@@ -3364,6 +3470,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "1537084",
+    "tmdbId": 1537084,
+    "imdbId": "tt38353919",
+    "type": "movie",
+    "title": "Three Wisest Men",
+    "overview": "Luke is expecting twins, Taylor is debating a life-changing job, and Stephan is planning a wedding — all while their mom is planning to put the family home up for sale.",
+    "year": "2025",
+    "rating": 7.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yTMNjavrgr6BrYSb3BN7gRXPBcV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/elepOKWDoaHMKJPuOL0LAl1XXpp.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/rXrgwaFez8upnDJtG72yFkmmhmu.png",
+    "certificate": "",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Romance",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "10865",
     "tmdbId": 10865,
     "imdbId": "tt0230011",
@@ -3911,27 +4038,6 @@
     "originalLanguage": "en"
   },
   {
-    "id": "527774",
-    "tmdbId": 527774,
-    "imdbId": "tt5109280",
-    "type": "movie",
-    "title": "Raya and the Last Dragon",
-    "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
-    "year": "2021",
-    "rating": 7.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/etfk9zR84irhwoCSf9PJrhT1cmP.png",
-    "certificate": "U",
-    "runTimeMinutes": 107,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Action",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
     "id": "508439",
     "tmdbId": 508439,
     "imdbId": "tt7146812",
@@ -4094,111 +4200,6 @@
     "runTimeMinutes": 135,
     "primaryGenre": "Adventure",
     "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "228326",
-    "tmdbId": 228326,
-    "imdbId": "tt2262227",
-    "type": "movie",
-    "title": "The Book of Life",
-    "overview": "The journey of Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart. Before choosing which path to follow, he embarks on an incredible adventure that spans fantastical worlds where he must face his greatest fears.",
-    "year": "2014",
-    "rating": 7.2,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7bUYGOyVbGXxNQ292cjwYh003vW.png",
-    "certificate": "PG",
-    "runTimeMinutes": 95,
-    "primaryGenre": "Animation",
-    "secondaryGenre": "Family",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1175942",
-    "tmdbId": 1175942,
-    "imdbId": "tt30017619",
-    "type": "movie",
-    "title": "The Bad Guys 2",
-    "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
-    "year": "2025",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/83GkJm2rUc0BL2n0ZTHl8RLRE47.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 104,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "277217",
-    "tmdbId": 277217,
-    "imdbId": "tt3440298",
-    "type": "movie",
-    "title": "Descendants",
-    "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
-    "year": "2015",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/20ncMtoy9Cxy6OQxgXZemHoFymz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/aYVlCylTch0ykHM5CknbnltRqI7.png",
-    "certificate": "G",
-    "runTimeMinutes": 112,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Adventure",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "6844",
-    "tmdbId": 6844,
-    "imdbId": "tt0049833",
-    "type": "movie",
-    "title": "The Ten Commandments",
-    "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
-    "year": "1956",
-    "rating": 7.796,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3mPnZMhHei1phhfnh5XKyhGxDsT.png",
-    "certificate": "G",
-    "runTimeMinutes": 220,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "History",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "330457",
-    "tmdbId": 330457,
-    "imdbId": "tt4520988",
-    "type": "movie",
-    "title": "Frozen II",
-    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
-    "year": "2019",
-    "rating": 7.216,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/uVLjCFRS4cv1mFijWkzeKeI16DL.png",
-    "certificate": "PG",
-    "runTimeMinutes": 103,
-    "primaryGenre": "Family",
-    "secondaryGenre": "Animation",
     "originCountries": [
       "US"
     ],
