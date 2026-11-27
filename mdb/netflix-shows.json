@@ -63,6 +63,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "336243",
+    "tmdbId": 336243,
+    "imdbId": "tt37214564",
+    "type": "tv",
+    "title": "ChiaroScuro",
+    "overview": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
+    "year": "2026",
+    "rating": 7.783,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/qgmaTE4OyoNBdyxIzxg3rnLiPZ9.png",
+    "certificate": "M18",
+    "runTimeMinutes": 53,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Crime",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
     "id": "312006",
     "tmdbId": 312006,
     "imdbId": "tt38681812",
@@ -6298,26 +6319,5 @@
       "KR"
     ],
     "originalLanguage": "ko"
-  },
-  {
-    "id": "236449",
-    "tmdbId": 236449,
-    "imdbId": "tt29386497",
-    "type": "tv",
-    "title": "Bank Under Siege",
-    "overview": "Spain, 1981: When armed men hold up a bank and take hundreds hostage, a reporter races against the authorities to uncover the true motive for the heist.",
-    "year": "2024",
-    "rating": 6.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6QeR0OoO8lqsLG2c6hzVPSu9bVF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bodPktpIZRsMbM2FBhdHBQqedZC.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8QzEqstpElHv3AF9X9d2g9xIzCh.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 54,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "ES"
-    ],
-    "originalLanguage": "es"
   }
 ]
