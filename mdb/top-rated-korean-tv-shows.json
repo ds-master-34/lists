@@ -105,6 +105,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "212204",
+    "tmdbId": 212204,
+    "imdbId": "tt27446493",
+    "type": "tv",
+    "title": "Twinkling Watermelon",
+    "overview": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
+    "year": "2023",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/gWK5b7RDbpdjFqM2XFFAsO4ByT0.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 74,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "276161",
     "tmdbId": 276161,
     "imdbId": "tt34809853",
@@ -120,27 +141,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Action & Adventure",
     "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "76662",
-    "tmdbId": 76662,
-    "imdbId": "tt7923710",
-    "type": "tv",
-    "title": "My Mister",
-    "overview": "In a world that is less than kind, a young woman and a middle-aged man develop a sense of kinship as they find warmth and comfort in one another.",
-    "year": "2018",
-    "rating": 8.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/gE9tZDycsA31wvtzUcDWVk6Nf7t.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i7prwa7UwOAUcpTmWnUd75J2PWe.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7Yer3qSEHoRtVuX3u6cMYGEtJfN.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 91,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -189,21 +189,21 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "212204",
-    "tmdbId": 212204,
-    "imdbId": "tt27446493",
+    "id": "217553",
+    "tmdbId": 217553,
+    "imdbId": "tt28106730",
     "type": "tv",
-    "title": "Twinkling Watermelon",
-    "overview": "A CODA (child of deaf adult) student born with a gift for music crash lands at an unfamiliar place after time traveling through a suspicious music shop. There, he forms the band Watermelon Sugar with other mysterious youths.",
-    "year": "2023",
-    "rating": 8.8,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/gWK5b7RDbpdjFqM2XFFAsO4ByT0.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
+    "title": "The Trauma Code: Heroes on Call",
+    "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
+    "year": "2025",
+    "rating": 8.3,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oIv4k70HpwFuRf2vD2L1GZZqWpe.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 55,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -246,6 +246,27 @@
     "runTimeMinutes": 73,
     "primaryGenre": "Drama",
     "secondaryGenre": "Sci-Fi & Fantasy",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "76662",
+    "tmdbId": 76662,
+    "imdbId": "tt7923710",
+    "type": "tv",
+    "title": "My Mister",
+    "overview": "In a world that is less than kind, a young woman and a middle-aged man develop a sense of kinship as they find warmth and comfort in one another.",
+    "year": "2018",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gE9tZDycsA31wvtzUcDWVk6Nf7t.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/i7prwa7UwOAUcpTmWnUd75J2PWe.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7Yer3qSEHoRtVuX3u6cMYGEtJfN.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 91,
+    "primaryGenre": "Drama",
+    "secondaryGenre": "",
     "originCountries": [
       "KR"
     ],
@@ -393,27 +414,6 @@
     "runTimeMinutes": 61,
     "primaryGenre": "Drama",
     "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "217553",
-    "tmdbId": 217553,
-    "imdbId": "tt28106730",
-    "type": "tv",
-    "title": "The Trauma Code: Heroes on Call",
-    "overview": "To create a top-tier trauma center, a war-seasoned doctor arrives — bringing his blunt but skilled ways to transform his team into life-saving mavericks.",
-    "year": "2025",
-    "rating": 8.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/58XBnfKhP569SuZuXks3fNYpLBm.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oIv4k70HpwFuRf2vD2L1GZZqWpe.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 55,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
     "originCountries": [
       "KR"
     ],
@@ -1722,27 +1722,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "303143",
-    "tmdbId": 303143,
-    "imdbId": "tt38828946",
-    "type": "tv",
-    "title": "My Royal Nemesis",
-    "overview": "A Joseon-era villain doomed to die opens her eyes in modern-day Seoul — where a ruthless chaebol heir may be her last chance to rewrite her fate.",
-    "year": "2026",
-    "rating": 7.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/3SDlj2zgdRDZx48Il4wJog9wprZ.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 74,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Comedy",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "84327",
     "tmdbId": 84327,
     "imdbId": "tt9151274",
@@ -2625,6 +2604,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "293607",
+    "tmdbId": 293607,
+    "imdbId": "tt39201866",
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+    "year": "2026",
+    "rating": 8.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 70,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "295509",
     "tmdbId": 295509,
     "imdbId": "tt38626513",
@@ -3486,27 +3486,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "256226",
-    "tmdbId": 256226,
-    "imdbId": "tt37890201",
-    "type": "tv",
-    "title": "Dear X",
-    "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
-    "year": "2025",
-    "rating": 7.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/30T0Ol6Mildgii73fZUUqS9YO7Q.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 56,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "271885",
     "tmdbId": 271885,
     "imdbId": "tt33550045",
@@ -3816,6 +3795,27 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "256226",
+    "tmdbId": 256226,
+    "imdbId": "tt37890201",
+    "type": "tv",
+    "title": "Dear X",
+    "overview": "Behind a beautiful face hides a cruel nature—Baek Ah-jin, who sees through and manipulates others' hearts. After stepping on the sacrifices of many to reach the top, everything begins to change the moment she arrives there. A woman wearing a mask to escape hell and climb to the highest place. And the story of the Xs being brutally crushed by her.",
+    "year": "2025",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j2w2PZ5JHEv0HUXwrhsToYiTP4r.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/30T0Ol6Mildgii73fZUUqS9YO7Q.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 56,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
     ],
@@ -4852,27 +4852,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "293607",
-    "tmdbId": 293607,
-    "imdbId": "tt39201866",
-    "type": "tv",
-    "title": "100 Days of Deception",
-    "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
-    "year": "2026",
-    "rating": 8.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/oyoK0ZPwsKf1pBrZZD1mEwQ4aau.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 70,
-    "primaryGenre": "Action & Adventure",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "300727",
     "tmdbId": 300727,
     "imdbId": "tt43357366",
@@ -5546,6 +5525,27 @@
     "originalLanguage": "ko"
   },
   {
+    "id": "254391",
+    "tmdbId": 254391,
+    "imdbId": "tt35665377",
+    "type": "tv",
+    "title": "The Potato Lab",
+    "overview": "A potato researcher with 12 years of experience who is working on a secret project and a newly appointed eccentric director go head to head before falling for each other in a sweet office romance.",
+    "year": "2025",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/c20CqgsCKKEFBKNOknL6GFSgL35.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1CLVjeGaa0E54BKSZERDKifCd03.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/7a1cJDiiETfdnRABqpXgvXjU2zy.png",
+    "certificate": "U/A 13+",
+    "runTimeMinutes": 84,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
     "id": "64548",
     "tmdbId": 64548,
     "imdbId": "tt4741110",
@@ -5665,27 +5665,6 @@
     "certificate": "15",
     "runTimeMinutes": 66,
     "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
-    "id": "254391",
-    "tmdbId": 254391,
-    "imdbId": "tt35665377",
-    "type": "tv",
-    "title": "The Potato Lab",
-    "overview": "A potato researcher with 12 years of experience who is working on a secret project and a newly appointed eccentric director go head to head before falling for each other in a sweet office romance.",
-    "year": "2025",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/c20CqgsCKKEFBKNOknL6GFSgL35.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1CLVjeGaa0E54BKSZERDKifCd03.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/7a1cJDiiETfdnRABqpXgvXjU2zy.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 84,
-    "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
     "originCountries": [
       "KR"
@@ -6659,27 +6638,6 @@
     "originalLanguage": "ko"
   },
   {
-    "id": "211747",
-    "tmdbId": 211747,
-    "imdbId": "tt14166656",
-    "type": "tv",
-    "title": "Island",
-    "overview": "Evil took its first step to destroy the world. On the mysterious island of Jeju Island, the gateway to this, \"Van,\" a mix of human and monster, \"Won Mi-ho,\" the one in the center of fate, and \"Johan,\" the one who exercises God’s power, come together. A strange, yet captivating, action-packed exorcism fantasy in which they fight evil, share the fate of saving the world, and defy their own...",
-    "year": "2022",
-    "rating": 7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bpoDjjcj6vE7k9xH14wb13UMYqi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vtdpgm0QR4RDB3tQFIdpYG4QE16.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/wloyOUb4x6IkR9XoVd5fIbE0MfX.png",
-    "certificate": "TV-14",
-    "runTimeMinutes": 52,
-    "primaryGenre": "Sci-Fi & Fantasy",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "KR"
-    ],
-    "originalLanguage": "ko"
-  },
-  {
     "id": "232402",
     "tmdbId": 232402,
     "imdbId": "tt36056620",
@@ -6821,6 +6779,27 @@
     "runTimeMinutes": 60,
     "primaryGenre": "Comedy",
     "secondaryGenre": "Drama",
+    "originCountries": [
+      "KR"
+    ],
+    "originalLanguage": "ko"
+  },
+  {
+    "id": "211747",
+    "tmdbId": 211747,
+    "imdbId": "tt14166656",
+    "type": "tv",
+    "title": "Island",
+    "overview": "Evil took its first step to destroy the world. On the mysterious island of Jeju Island, the gateway to this, \"Van,\" a mix of human and monster, \"Won Mi-ho,\" the one in the center of fate, and \"Johan,\" the one who exercises God’s power, come together. A strange, yet captivating, action-packed exorcism fantasy in which they fight evil, share the fate of saving the world, and defy their own...",
+    "year": "2022",
+    "rating": 7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bpoDjjcj6vE7k9xH14wb13UMYqi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vtdpgm0QR4RDB3tQFIdpYG4QE16.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/wloyOUb4x6IkR9XoVd5fIbE0MfX.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 52,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Action & Adventure",
     "originCountries": [
       "KR"
     ],
