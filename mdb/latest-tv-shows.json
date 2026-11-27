@@ -1,5 +1,68 @@
 [
   {
+    "id": "171802",
+    "tmdbId": 171802,
+    "imdbId": "tt18224594",
+    "type": "tv",
+    "title": "Blade Runner 2099",
+    "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
+    "year": "2026",
+    "rating": 5.223,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/hfkr3vG6vMVr95FZ3TgG6ClhAsm.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 62,
+    "primaryGenre": "Sci-Fi & Fantasy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "290826",
+    "tmdbId": 290826,
+    "imdbId": "tt36843594",
+    "type": "tv",
+    "title": "DIG",
+    "overview": "Follow four women who work at an archeological dig in Greece. When the team uncovers a long-buried secret with the potential to rewrite history, they find themselves at the center of a high-stakes international conspiracy.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/voT8stLPjCtJxZzytBlhcNezE5J.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "340615",
+    "tmdbId": 340615,
+    "imdbId": "tt33004920",
+    "type": "tv",
+    "title": "The Trials of Karen Read",
+    "overview": "An accident, a deadly fight or an elaborate cover-up? This true-crime series digs into the murder trials of Karen Read that sparked viral conspiracies.",
+    "year": "2026",
+    "rating": 6.5,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/yHXSFo0IIJh75JMFNoZwCwIHrIK.png",
+    "certificate": "NC16",
+    "runTimeMinutes": 51,
+    "primaryGenre": "Crime",
+    "secondaryGenre": "Documentary",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "300523",
     "tmdbId": 300523,
     "imdbId": "tt38336631",
@@ -651,6 +714,27 @@
       "ES"
     ],
     "originalLanguage": "es"
+  },
+  {
+    "id": "300527",
+    "tmdbId": 300527,
+    "imdbId": "tt38337376",
+    "type": "tv",
+    "title": "Did Someone Happen to Mention Me?",
+    "overview": "Once Japan's most renowned actor, Gen is suddenly forgotten. Fueled by a need for recognition, he claws his way back from zero in this comedy.",
+    "year": "2026",
+    "rating": 7.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wC91d4hwTv4fqeUzXy8RzE9nGQD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/2FBXwa7AFEkCwxhLpnuBxKCNM5u.png",
+    "certificate": "TV-14",
+    "runTimeMinutes": 57,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Drama",
+    "originCountries": [
+      "JP"
+    ],
+    "originalLanguage": "ja"
   },
   {
     "id": "334470",
@@ -4127,89 +4211,5 @@
       "TR"
     ],
     "originalLanguage": "tr"
-  },
-  {
-    "id": "288603",
-    "tmdbId": 288603,
-    "imdbId": "tt36982964",
-    "type": "tv",
-    "title": "Never-Ending Summer",
-    "overview": "To save her gravely ill grandmother, top student Zhou Wan approaches her mother's stepson, Lu Xixiao, for funds. They fall for each other over the summer after graduation but are torn apart by misunderstandings in reality. Ten years later, they reunite at work. Though Lu Xixiao harbors resentment, his love for Zhou Wan remains. As they uncover the truth behind a \"factory accident,\" they resolve their differences and reunite.",
-    "year": "2026",
-    "rating": 7.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9bB4tJbjViEsQCMJ0qth7wuzpNA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h1bGO8w5hyn22DGNv0MOZKTog1X.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/vzsklaNKa6HbG6s9By17NiHUAcE.png",
-    "certificate": "",
-    "runTimeMinutes": 45,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "CN"
-    ],
-    "originalLanguage": "zh"
-  },
-  {
-    "id": "321928",
-    "tmdbId": 321928,
-    "imdbId": "tt43583640",
-    "type": "tv",
-    "title": "Different Lives",
-    "overview": "For Emir and his friends—Hasan, Sadık, and Mert—who grew up in Ziyankâr, a working-class neighborhood on the outskirts of Istanbul, life feels like a game they’ve lost before it even began. Trapped between poverty, violence, and despair, these four young men see soccer as their only chance to change their fate. They try to break free from this darkness through their friendship and their dreams.",
-    "year": "2026",
-    "rating": 6.3,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8GzocJ1oEslGCO2uPlQzW6kH5NG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gArW7wThMe09R5WV7NRZTTjgd8C.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/i7LGgfYuRHAwNZj9MTkaMjteHhT.png",
-    "certificate": "",
-    "runTimeMinutes": 140,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "TR"
-    ],
-    "originalLanguage": "tr"
-  },
-  {
-    "id": "315610",
-    "tmdbId": 315610,
-    "imdbId": "tt41050785",
-    "type": "tv",
-    "title": "Proud",
-    "overview": "When his carefree life is upended by an unexpected family tragedy, Filip is forced to grow up or risk losing all that he has left.",
-    "year": "2026",
-    "rating": 7.4,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xVdm4eAmypUH7gwGYqPARLKSaSb.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/z3MvPoFmZFRecujPA5GzStvtvsI.png",
-    "certificate": "16",
-    "runTimeMinutes": 38,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "PL"
-    ],
-    "originalLanguage": "pl"
-  },
-  {
-    "id": "312493",
-    "tmdbId": 312493,
-    "imdbId": "tt39400589",
-    "type": "tv",
-    "title": "Viral Hit",
-    "overview": "A bullied high schooler becomes an overnight sensation after a viral video. But when his newfound fame turns sour, he must learn to fight for himself.",
-    "year": "2026",
-    "rating": 6.9,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kllmJ1DdzuRszNNwFFu0M7V55Fg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/8wzqXKlgCl8v9x2oV1c7scvuYPi.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 53,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Action & Adventure",
-    "originCountries": [
-      "JP"
-    ],
-    "originalLanguage": "ja"
   }
 ]
