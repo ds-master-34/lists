@@ -1370,6 +1370,27 @@
     "originalLanguage": "en"
   },
   {
+    "id": "275724",
+    "tmdbId": 275724,
+    "imdbId": "tt32252675",
+    "type": "tv",
+    "title": "Electric Bloom",
+    "overview": "Follow the three members of a mega-famous pop group, Electric Bloom, as they look back and tell the story of their band and friendship, starting with the day they all met in middle school. The girls go on a journey to becoming the biggest band in the world and the best friends in the universe.",
+    "year": "2025",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/2QZAkwZZ1SI72YD2IygwVMDSP4k.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yJNopTE4y4kOvdC0uPCdxLaGB6j.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/sTAxfWZN1RkuMoIaA68EwRBcXnh.png",
+    "certificate": "TV-G",
+    "runTimeMinutes": 26,
+    "primaryGenre": "Comedy",
+    "secondaryGenre": "Family",
+    "originCountries": [
+      "US"
+    ],
+    "originalLanguage": "en"
+  },
+  {
     "id": "114471",
     "tmdbId": 114471,
     "imdbId": "tt13623126",
@@ -4183,27 +4204,6 @@
     "runTimeMinutes": 57,
     "primaryGenre": "Drama",
     "secondaryGenre": "",
-    "originCountries": [
-      "TR"
-    ],
-    "originalLanguage": "tr"
-  },
-  {
-    "id": "224773",
-    "tmdbId": 224773,
-    "imdbId": "tt14107656",
-    "type": "tv",
-    "title": "The Actress",
-    "overview": "Yasemin Derin, a famous actress in Turkey, has been living a double life for many years. Hiding behind her fame, this unexpected second life of Yasemin drags her into the middle of an adventure full of secrets.",
-    "year": "2023",
-    "rating": 5.5,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/whJkC6iQP51Af38zpz3a3nT4zvU.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vxwluiLo7MlARgI8NIon1kDt8Z7.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/zF1K5plX4rjWs27zNaoK7zTwsl.png",
-    "certificate": "TV-MA",
-    "runTimeMinutes": 44,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "Crime",
     "originCountries": [
       "TR"
     ],
