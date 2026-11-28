@@ -1,5 +1,26 @@
 [
   {
+    "id": "1829270",
+    "tmdbId": 1829270,
+    "imdbId": "tt51547822",
+    "type": "movie",
+    "title": "Chiara Ferragni: Front Facing",
+    "overview": "Influencer Chiara Ferragni opens up for the first time on the charity scandal that rocked her career and sparked the end of her high-profile marriage.",
+    "year": "2026",
+    "rating": 5.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/fCIH9fQnxDRRCxKXuyGbSVjKSyI.png",
+    "certificate": "12",
+    "runTimeMinutes": 107,
+    "primaryGenre": "Documentary",
+    "secondaryGenre": "",
+    "originCountries": [
+      "IT"
+    ],
+    "originalLanguage": "it"
+  },
+  {
     "id": "1595124",
     "tmdbId": 1595124,
     "imdbId": "tt14413964",
@@ -4183,27 +4204,6 @@
     "runTimeMinutes": 104,
     "primaryGenre": "Horror",
     "secondaryGenre": "Thriller",
-    "originCountries": [
-      "US"
-    ],
-    "originalLanguage": "en"
-  },
-  {
-    "id": "1441563",
-    "tmdbId": 1441563,
-    "imdbId": "tt35219851",
-    "type": "movie",
-    "title": "My Secret Santa",
-    "overview": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
-    "year": "2025",
-    "rating": 5.7,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bXZcSDQoyXlzzUw9qxjZjiUSYov.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/nAuHvhT6coHl45ajXAuAvXDg6Hx.png",
-    "certificate": "U/A 13+",
-    "runTimeMinutes": 93,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "Romance",
     "originCountries": [
       "US"
     ],
