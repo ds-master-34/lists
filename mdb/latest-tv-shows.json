@@ -1454,6 +1454,28 @@
     "originalLanguage": "en"
   },
   {
+    "id": "335227",
+    "tmdbId": 335227,
+    "imdbId": "tt31841438",
+    "type": "tv",
+    "title": "I Would Rather Die",
+    "overview": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
+    "year": "2026",
+    "rating": 8.078,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+    "logoUrl": "https://image.tmdb.org/t/p/w500/92f71ElE3HIJFrIDoCGYI5RGshD.png",
+    "certificate": "TV-MA",
+    "runTimeMinutes": 31,
+    "primaryGenre": "Action & Adventure",
+    "secondaryGenre": "Comedy",
+    "originCountries": [
+      "MX",
+      "US"
+    ],
+    "originalLanguage": "es"
+  },
+  {
     "id": "258165",
     "tmdbId": 258165,
     "imdbId": "tt21097264",
@@ -4190,26 +4212,5 @@
       "US"
     ],
     "originalLanguage": "en"
-  },
-  {
-    "id": "322499",
-    "tmdbId": 322499,
-    "imdbId": "tt43351313",
-    "type": "tv",
-    "title": "Possible Love",
-    "overview": "Defne, a woman in her thirties, is strong and composed, having built her career through hard work. One day, she realizes just how exhausted and isolated she has become; perhaps the time has come for love. However, two men who enter her life turn everything upside down. Caught between Kadir’s unsettling demeanor and Tolga’s games that shift the balance, Defne finds that nothing will ever be the same again.",
-    "year": "2026",
-    "rating": 6.6,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/kGZ6DDHe7XrZiys3dwEAwSmHU7f.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/yfeJIkjZz6gbXOwUIZ7Wy5pOFRn.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/hovZpUBD0A4agsLYH90tSnODSfm.png",
-    "certificate": "",
-    "runTimeMinutes": 155,
-    "primaryGenre": "Comedy",
-    "secondaryGenre": "",
-    "originCountries": [
-      "TR"
-    ],
-    "originalLanguage": "tr"
   }
 ]
